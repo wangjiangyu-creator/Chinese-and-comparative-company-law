@@ -2,7 +2,7 @@
 import LawDirectoryEntry from "@/components/LawDirectoryEntry.astro";
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import { getChinaLawDirectory } from "@/lib/law-directory";
-import { pickLocalized, type Locale } from "@/lib/i18n";
+import { pickLocalized, toLocalePath, type Locale } from "@/lib/i18n";
 import { getPortalSnapshot } from "@/lib/portal-data";
 
 type Props = {
@@ -101,7 +101,7 @@ const sections = [
         : "This page now focuses on the China law corpus only. Every record keeps an on-site entry and a prominent official full-text link."}
     </p>
     <div class="hero-actions">
-      <a class="action-link action-link-secondary" href={locale === "zh" ? "/laws/coverage/" : "/en/laws/coverage/"}>
+      <a class="action-link action-link-secondary" href={toLocalePath(locale, "/laws/coverage/")}>
         {locale === "zh" ? "主库覆盖清单" : "Coverage checklist"}
       </a>
     </div>
