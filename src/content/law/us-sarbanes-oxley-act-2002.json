@@ -1,0 +1,40 @@
+{
+  "titleZh": "美国《萨班斯-奥克斯利法》",
+  "titleEn": "Sarbanes-Oxley Act of 2002",
+  "shortTitle": "美国萨班斯-奥克斯利法",
+  "aliases": ["SOX", "Public Law 107-204"],
+  "jurisdiction": "us",
+  "documentType": "statute",
+  "authorityLevel": "comparative-statute",
+  "issuingBodyZh": "美国国会 / 美国政府出版局",
+  "issuingBodyEn": "United States Congress / U.S. Government Publishing Office",
+  "promulgationDate": "2002-07-30",
+  "effectiveDate": "2002-07-30",
+  "status": "reference",
+  "languageStatus": "official-en",
+  "languages": ["en"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "disclosure", "corporate-governance", "directors-officer-loyalty-and-duties"],
+  "summaryZh": "SOX 在安然等事件后重塑了美国上市公司治理与内部控制框架，尤其涉及审计委员会、管理层认证、信息披露与财务舞弊责任，是比较上市公司治理的重要联邦法源。",
+  "summaryEn": "SOX reshaped the governance and internal-control architecture of U.S. public companies after the Enron-era scandals, especially on audit committees, management certifications, disclosure, and accounting-fraud liability.",
+  "versionGroup": "us-sarbanes-oxley",
+  "versionLabel": "current act",
+  "relatedCaseIds": [],
+  "relatedArticleIds": ["article-pbook-comparative-company-law", "article-oup-anatomy-of-corporate-law"],
+  "sources": [
+    {
+      "label": "Official English",
+      "url": "https://www.govinfo.gov/app/details/COMPS-1883",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Official release",
+      "url": "https://www.govinfo.gov/content/pkg/COMPS-1883/pdf/COMPS-1883.pdf",
+      "official": true,
+      "lastVerified": "2026-05-16",
+      "noteZh": "GovInfo 提供的现行整编 PDF。",
+      "noteEn": "Current compiled PDF hosted by GovInfo."
+    }
+  ]
+}

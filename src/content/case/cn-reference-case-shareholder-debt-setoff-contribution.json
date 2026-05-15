@@ -1,0 +1,31 @@
+{
+  "titleZh": "北京某建材公司诉北京某科技公司、马某等买卖合同纠纷案",
+  "titleEn": "Reference Case: Beijing Building Materials Company v. Beijing Technology Company and Ma et al.",
+  "forumZh": "人民法院案例库（最高人民法院审核入库）",
+  "forumEn": "People's Court Case Database (reviewed by the Supreme People's Court)",
+  "citation": "入库编号2023-08-2-084-028",
+  "year": 2025,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股东出资纠纷",
+  "issuesZh": ["债权抵销出资义务", "资本充实", "章程备案"],
+  "issuesEn": ["set-off of shareholder debt against contribution obligations", "capital maintenance", "articles filing"],
+  "holdingZh": "未履行或者未全面履行出资义务的股东以其对公司的到期债权抵销出资义务，应同时满足章程变更、公司具有充足清偿能力以及向登记机关备案等条件；否则不得对抗公司债权人。",
+  "holdingEn": "A shareholder may set off a due debt owed by the company against contribution obligations only if the articles are duly amended, the company has sufficient solvency, and the change is properly filed; otherwise the set-off cannot defeat the claims of company creditors.",
+  "topics": ["registered-capital", "shareholder-rights"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-3-2021",
+    "cn-spc-enterprise-bankruptcy-interpretation-2-2013",
+    "cn-national-bankruptcy-trial-minutes-2018"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/452821.html",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

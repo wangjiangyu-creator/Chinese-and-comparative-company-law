@@ -1,0 +1,41 @@
+{
+  "titleZh": "域外法查明入库案例6：福建某环保公司诉某科技集团公司股东出资纠纷案",
+  "titleEn": "Database Case 6 on Foreign-Law Ascertainment: Fujian Environmental Company v. Technology Group Shareholder Contribution Dispute",
+  "forumZh": "最高人民法院国际商事法庭",
+  "forumEn": "Supreme People's Court International Commercial Court",
+  "citation": "域外法查明入库案例6",
+  "year": 2026,
+  "jurisdiction": "cn",
+  "caseType": "database-case",
+  "decisionType": "股东出资纠纷",
+  "issuesZh": ["域外法查明", "法定代表人任命", "内部任免与登记公示冲突", "公司真实意思表示"],
+  "issuesEn": [
+    "foreign-law ascertainment",
+    "appointment of the legal representative",
+    "conflict between internal appointment and public registration",
+    "true corporate intent in litigation"
+  ],
+  "holdingZh": "最高人民法院在该案中区分了法定代表人任免的内外效力：对公司以外第三人的外部争议，工商登记的法定代表人具有公示效力；对公司与唯一股东之间因任免产生的内部争议，则应以有效的股东任免决议为准，并在公司内部发生法定代表人变更的法律效果。由于唯一股东已依法更换法定代表人且新任法定代表人明确反对起诉，原起诉不代表公司真实意思，应予驳回。",
+  "holdingEn": "The Supreme People's Court distinguished the internal and external effects of changing the legal representative. In disputes involving third parties outside the company, the registered legal representative has public-notice effect. In internal disputes between the company and its sole shareholder over appointment and removal, however, a valid shareholder appointment decision controls and changes the legal representative's status within the company. Because the sole shareholder had effectively replaced the legal representative and the newly appointed representative clearly opposed the suit, the original filing did not reflect the company's true intent and had to be dismissed.",
+  "topics": [
+    "registered-capital",
+    "comparative-governance",
+    "corporate-governance",
+    "legal-representative-and-seal-control"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2005",
+    "cn-civil-code-2020-legal-person",
+    "cn-spc-foreign-invested-enterprise-disputes-1-2021",
+    "sg-companies-act-1967"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://cicc.court.gov.cn/html/1/218/347/329/333/12650.html",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

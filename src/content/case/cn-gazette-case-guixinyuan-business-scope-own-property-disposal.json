@@ -1,0 +1,32 @@
+{
+  "titleZh": "桂馨源公司诉全威公司等土地使用权转让合同纠纷案",
+  "titleEn": "Gazette Case: Guixinyuan Co. v. Quanwei Co. and Others",
+  "forumZh": "最高人民法院公报 / 最高人民法院二审判决",
+  "forumEn": "Supreme People's Court Gazette / Supreme People's Court second-instance judgment",
+  "citation": "（2004）民一终字第46号；载《最高人民法院公报》2005年第7期",
+  "year": 2004,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "超越经营范围与土地使用权转让合同效力",
+  "issuesZh": ["超越经营范围", "营业期限届满", "土地使用权转让", "合同效力"],
+  "issuesEn": [
+    "business scope exceeded",
+    "expiration of business term",
+    "land-use-right transfer",
+    "contract validity"
+  ],
+  "holdingZh": "公司营业期限届满但未被注销、吊销的，并不当然丧失法人资格。公司订立的合同虽超出其登记经营范围，但如果实质上系对自身财产的处分，且不违反法律、行政法规的效力性强制规定，不得仅以超越经营范围为由否认合同效力。",
+  "holdingEn": "A company does not automatically lose its legal-person status merely because its registered business term has expired, so long as it has not been deregistered or revoked. Even if a contract falls outside the company's registered business scope, it should not be denied effect solely on that basis where it is, in substance, a disposition of the company's own property and does not violate mandatory rules on validity in laws or administrative regulations.",
+  "topics": ["corporate-governance", "business-environment"],
+  "relatedLawIds": ["cn-company-law-1999", "cn-company-law-2023", "cn-civil-code-2020-legal-person"],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/details/2eb6ce8d443c4963517190ade0cc86.html",
+      "official": true,
+      "lastVerified": "2026-05-16",
+      "noteZh": "最高人民法院公报案例。公开摘要明确载有“合同亦不属其营业执照所确定的营业范围之内……故本案合同为有效合同”的裁判要点。",
+      "noteEn": "Supreme People's Court Gazette case whose public summary expressly states that the contract was outside the business scope shown on the business license yet remained effective."
+    }
+  ]
+}

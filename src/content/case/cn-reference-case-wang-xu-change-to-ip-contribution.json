@@ -1,0 +1,35 @@
+{
+  "titleZh": "王某诉许某甲、许某乙追加、变更被执行人异议之诉案",
+  "titleEn": "Reference Case: Wang Mou v. Xu Moujia and Xu Mouyi",
+  "forumZh": "北京市高级人民法院",
+  "forumEn": "Beijing High People's Court",
+  "citation": "北京高院案例：货币出资改知识产权出资不得对抗债权人",
+  "year": 2024,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "追加被执行人执行异议之诉",
+  "issuesZh": ["货币出资改为知识产权出资", "执行终本后变更出资方式", "债权人信赖利益保护"],
+  "issuesEn": [
+    "changing cash contributions into intellectual-property contributions",
+    "post-enforcement change of contribution method",
+    "protection of creditor reliance interests"
+  ],
+  "holdingZh": "公司成立后，股东原则上可以依法变更出资方式；但在公司已经不能清偿到期债务、执行程序终本后，股东再将原公示的货币出资改为不易变现的知识产权出资，且评估作价明显缺乏可靠性的，该变更属于滥用股东权利损害债权人利益，对在先债权人不发生效力。股东仍应在原认缴货币出资未履行范围内，对公司不能清偿的债务承担补充赔偿责任。",
+  "holdingEn": "Shareholders may in principle change contribution methods after incorporation. But where the company cannot pay due debts and enforcement has already been terminated for lack of assets, a later switch from publicly disclosed cash contributions to illiquid intellectual-property contributions, supported by an unreliable valuation, is ineffective against prior creditors. The shareholders remain supplementarily liable within the scope of the original unpaid cash contribution.",
+  "topics": ["registered-capital", "shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-3-2021",
+    "cn-national-civil-commercial-trial-minutes-2019",
+    "cn-spc-company-law-time-effect-2024"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://sdcourt.gov.cn/dyzy/372897/372899/28073582/index.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

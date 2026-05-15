@@ -1,0 +1,35 @@
+{
+  "titleZh": "陆某刚、曹某与沈某、潘某利、杨某琼执行异议之诉案",
+  "titleEn": "Database Case: Lu Mougang and Cao Mou v. Shen Mou, Pan Mouli, and Yang Mouqiong",
+  "forumZh": "人民法院案例库（最高人民法院审核入库）",
+  "forumEn": "People's Court Case Database (reviewed by the Supreme People's Court)",
+  "citation": "入库编号2024-08-2-527-002",
+  "year": 2025,
+  "jurisdiction": "cn",
+  "caseType": "database-case",
+  "decisionType": "执行程序中的异议之诉",
+  "issuesZh": ["未届出资期限股权转让", "明显不合理低价", "逃避出资义务"],
+  "issuesEn": [
+    "transfer of shares before contribution deadlines mature",
+    "manifestly unreasonable low price",
+    "evasion of contribution obligations"
+  ],
+  "holdingZh": "未届出资期限的股东原则上可以转让股权，但在公司已不能清偿到期债务、转让人明知债务风险且以明显不合理的低价将股权转让给明显不具备出资能力的受让人时，该转让构成恶意逃避出资义务。转让股东仍应在认缴出资范围内对公司债务承担补充赔偿责任。",
+  "holdingEn": "Shareholders may in principle transfer shares before their contribution deadlines mature. But where the company cannot pay due debts and the transferor knowingly transfers the shares at a manifestly unreasonable low price to a transferee obviously lacking the ability to contribute, the transfer is treated as a bad-faith evasion of contribution duties, and the transferor remains supplementarily liable within the scope of the subscribed contribution.",
+  "topics": ["registered-capital", "shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-3-2021",
+    "cn-national-civil-commercial-trial-minutes-2019",
+    "cn-spc-company-law-time-effect-2024"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.sdcourt.gov.cn/dyzy/resource/cms/article/372898/40803460/2025061608375517012.pdf",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

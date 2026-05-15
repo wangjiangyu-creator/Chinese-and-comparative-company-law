@@ -1,0 +1,55 @@
+{
+  "nameZh": "实际控制人和利益输送",
+  "nameEn": "Actual Controllers and Tunneling",
+  "descriptionZh": "围绕实际控制人滥用控制关系、关联交易、资产转移和高利借贷等导致公司受损的情形，整理相关法规、典型裁判思路与诉讼路径，便于查明控制权滥用的证据链与责任承担边界。",
+  "descriptionEn": "Collects statutory framework, representative case law, and practical enforcement pathways for disputes involving actual-controller abuse, self-dealing related-party transactions, asset diversion, and unlawful financing behavior that harms corporate interests.",
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-company-law-2013",
+    "cn-civil-code-2020-legal-person",
+    "cn-spc-company-law-interpretation-2-2020",
+    "cn-spc-company-law-interpretation-5-2019",
+    "cn-spc-company-law-interpretation-5-2021",
+    "cn-spc-company-law-interpretation-1-2014"
+  ],
+  "relatedCaseIds": [
+    "cn-reference-case-actual-controller-overinterest-loan",
+    "cn-reference-case-opportunity-steering-fluid-equipment",
+    "cn-reference-case-shanxi-property-and-monitor-zhuyue",
+    "cn-reference-case-zhou-changchun-hanzhuo-company-liability",
+    "cn-reference-case-lin-cheng-en-director-loyalty-foreign-complexity",
+    "cn-reference-case-taiyi-thermal-li-shiun-profit-distribution",
+    "cn-reference-case-fang-siwei-related-transaction-monitor",
+    "cn-reference-case-hongshida-zhangchen-company-harm",
+    "cn-reference-case-st-moden-fund-occupation-derivative",
+    "cn-reference-case-taian-ret-fund-occupation-derivative",
+    "cn-reference-case-st-lutong-fund-occupation-derivative",
+    "cn-reference-case-zhengzhou-cable-overpriced-supplies",
+    "cn-reference-case-cai-mei-fang-company-resolution-validity-foreign-invested-case",
+    "cn-database-case-related-transaction-gao-cheng",
+    "cn-reference-case-dazhihui-derivative-recovery",
+    "cn-typical-case-related-transaction-shandong-yue"
+  ],
+  "relatedArticleIds": [
+    "article-cms-company-law-2024",
+    "article-china-briefing-revised-company-law",
+    "article-skadden-broad-reforms"
+  ],
+  "comparisonRows": [
+    {
+      "labelZh": "中国法下控制人责任标准",
+      "labelEn": "Liability standard for controllers in China",
+      "cn": "中国法实践中通常将“控制关系+损害后果+主观过错/过失”结合判断，重点看控制人是否利用股权、章程或委托关系实现不当输送，并以公司损害程度及可归责性分层承担责任。",
+      "hk": "香港公司法更强调董事义务框架下是否发生严重违反合理商业判断及忠实义务，通常通过上市规则与公司实务安排检验披露与程序是否充分。",
+      "sg": "新加坡框架强调公司法上的授权边界与忠实义务（duty of loyalty), 同时通过可追索性与董事会决策程序审查来判断控制影响与可赔范围。"
+    },
+    {
+      "labelZh": "执行与追偿路径",
+      "labelEn": "Enforcement and recovery routes",
+      "cn": "诉讼路径可包括代表诉讼、股东权利确认、担保/融资交易效力审查与损害赔偿主张；关键证据多聚焦于董事会决议、关联交易链条、资金流向和企业会计账实。",
+      "hk": "香港实践下，除实体责任确认外，通常更强调会计证据与程序性合规，并通过监事、董事会报告及救济性救助程序推进追责。",
+      "sg": "新加坡案件亦常将审计报告、董事会记录与资金流模型并用，强调证据可执行性与损害估算方法对最终赔偿判定的实务影响。"
+    }
+  ]
+}

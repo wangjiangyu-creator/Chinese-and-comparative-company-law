@@ -1,0 +1,31 @@
+{
+  "titleZh": "Sinclair Oil 诉 Levien",
+  "titleEn": "Sinclair Oil Corp. v. Levien",
+  "forumZh": "特拉华州最高法院",
+  "forumEn": "Supreme Court of Delaware",
+  "citation": "280 A.2d 717 (Del. 1971)",
+  "year": 1971,
+  "jurisdiction": "us",
+  "caseType": "comparative-case",
+  "decisionType": "控制股东自我交易审查",
+  "issuesZh": ["控制股东支配", "关联交易与自我交易", "商业判断规则与完全公平"],
+  "issuesEn": ["controller domination", "related-party self-dealing", "business judgment rule and intrinsic fairness"],
+  "holdingZh": "Sinclair Oil 区分了控制股东的一般经营主导与真正自我交易：只有当控制股东从属公司取得排他性利益并使少数股东受损时，法院才适用更严格的内在公平审查；未证明自我交易的经营决策仍受商业判断规则保护。",
+  "holdingEn": "Sinclair Oil distinguished ordinary controller domination from true self-dealing: intrinsic-fairness review applies only when the controller extracts a benefit from the subsidiary to the exclusion and detriment of the minority, while non-self-dealing business decisions remain protected by the business judgment rule.",
+  "topics": [
+    "corporate-governance",
+    "shareholder-rights",
+    "related-transaction-harm",
+    "comparative-governance",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": ["us-delaware-general-corporation-law"],
+  "sources": [
+    {
+      "label": "Research platform",
+      "url": "https://law.justia.com/cases/delaware/supreme-court/1971/280-a-2d-717-3.html",
+      "official": false,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

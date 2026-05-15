@@ -1,0 +1,32 @@
+{
+  "titleZh": "上市公司董事、监事和高级管理人员所持本公司股份及其变动管理规则",
+  "titleEn": "Rules on the Shares Held by Directors, Supervisors, and Senior Management of Listed Companies and Changes Therein",
+  "shortTitle": "董监高持股变动规则",
+  "aliases": ["证监会公告〔2024〕9号"],
+  "jurisdiction": "cn",
+  "documentType": "regulatory-code",
+  "authorityLevel": "regulatory-code",
+  "issuingBodyZh": "中国证券监督管理委员会",
+  "issuingBodyEn": "China Securities Regulatory Commission",
+  "promulgationDate": "2024-05-24",
+  "effectiveDate": "2024-05-24",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "shareholder-rights", "corporate-governance"],
+  "summaryZh": "规定上市公司董事、监事和高级管理人员持股锁定、窗口期、申报和变动披露等核心要求，是董监高股份合规管理的基础规则。",
+  "summaryEn": "Sets the core requirements on lock-up, trading windows, reporting, and disclosure for shares held by directors, supervisors, and senior management of listed companies.",
+  "versionGroup": "cn-management-shareholding-rules",
+  "versionLabel": "Announcement No. 9",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://www.csrc.gov.cn/csrc/c101954/c7483152/content.shtml",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

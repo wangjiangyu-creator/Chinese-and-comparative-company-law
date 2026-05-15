@@ -1,0 +1,33 @@
+{
+  "titleZh": "葛某某诉北京赛都广告有限责任公司等公司决议纠纷案",
+  "titleEn": "Reference Case: Ge Moumou v. Beijing Saidu Advertising Co. et al.",
+  "forumZh": "北京市东城区人民法院 / 北京市第二中级人民法院",
+  "forumEn": "Dongcheng District People's Court, Beijing / Beijing Second Intermediate People's Court",
+  "citation": "北京公司审判案例：赛都广告决议追认",
+  "year": 2021,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司决议纠纷",
+  "issuesZh": ["股东会决议签字真实性", "事后追认", "决议成立与稳定性"],
+  "issuesEn": [
+    "authenticity of shareholder signatures",
+    "subsequent ratification",
+    "formation and stability of resolutions"
+  ],
+  "holdingZh": "股东会决议上的签字虽非股东本人书写，但如该股东在决议作出后明知公司继续依决议经营，仍签署后续相关股东会决议、接受执行结果且长期未提出异议，其行为可构成对代签行为的追认。此种情况下，股东不能仅以签字不真实为由请求确认决议不成立、无效或撤销。",
+  "holdingEn": "Even if a shareholder's signature on a resolution was not personally written, later conduct can amount to ratification. Where the shareholder knew the company continued operating under the earlier resolution, signed later related resolutions, accepted implementation, and raised no objection for a long period, the shareholder cannot rely solely on the false signature to seek non-establishment, invalidity, or rescission of the earlier resolution.",
+  "topics": ["shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://sdcourt.gov.cn/wfgxqfy/442891/1442703/4055514/8608310/index.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

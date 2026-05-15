@@ -1,0 +1,35 @@
+{
+  "titleZh": "王某某诉梅河口市某热电有限责任公司健康权纠纷案",
+  "titleEn": "Reference Case: Wang Moumou v. Meihekou Heating Power Company",
+  "forumZh": "吉林省梅河口市人民法院（地方法院公开案例）",
+  "forumEn": "Meihekou People's Court of Jilin (local-court published case)",
+  "citation": "地方参考案例：热电作业救助损害",
+  "year": 2023,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "健康权纠纷",
+  "issuesZh": ["安全生产责任事故", "见义勇为救助受损", "作业环境安全保障义务"],
+  "issuesEn": [
+    "work-safety accident",
+    "harm suffered during rescue",
+    "duty to maintain a safe operational environment"
+  ],
+  "holdingZh": "企业作业环境存在严重危险因素并导致员工及救助第三人受到损害的，危险作业环境本身可以构成侵权原因。第三人在无法定义务的情况下实施救助，即使救助未成功，也不影响其向负有安全保障义务的企业请求损害赔偿。",
+  "holdingEn": "Where a dangerous operational environment maintained by an enterprise causes harm to both an employee and a third-party rescuer, the hazardous work setting itself can amount to the infringing cause. A third party who undertakes a rescue without a preexisting duty may recover from the enterprise even if the rescue ultimately fails.",
+  "topics": ["corporate-social-responsibility"],
+  "relatedLawIds": ["cn-company-law-2023", "cn-civil-code-2020-legal-person"],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.sdcourt.gov.cn/dyzy/372897/372898/12321736/index.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/408162.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

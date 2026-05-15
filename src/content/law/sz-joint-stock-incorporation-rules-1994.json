@@ -1,0 +1,34 @@
+{
+  "titleZh": "深圳经济特区股份有限公司设立条件和设立程序规定",
+  "titleEn": "Rules of Shenzhen Special Economic Zone on Requirements and Procedures for Incorporation of Joint-Stock Limited Companies",
+  "shortTitle": "深圳股份公司设立程序规定（1994）",
+  "aliases": ["深圳市人民政府令第39号", "1994 Shenzhen Joint Stock Incorporation Rules"],
+  "jurisdiction": "cn",
+  "documentType": "departmental-rule",
+  "authorityLevel": "local-regulation",
+  "issuingBodyZh": "深圳市人民政府",
+  "issuingBodyEn": "Shenzhen Municipal People's Government",
+  "promulgationDate": "1994-11-24",
+  "effectiveDate": "1994-11-24",
+  "status": "historical",
+  "languageStatus": "official-en",
+  "languages": ["en"],
+  "textStatus": "metadata-only",
+  "topics": ["corporate-formation", "registered-capital"],
+  "summaryZh": "这份1994年深圳政府规章细化了股份有限公司以发起设立、募集设立方式成立时的资本门槛、发起人条件和登记程序，是理解深圳早期公司设立制度的重要补充资料。",
+  "summaryEn": "This 1994 Shenzhen government rule elaborated the capital thresholds, promoter requirements, and registration procedures for sponsor and public-share incorporation of joint-stock limited companies, making it an important supplement for understanding early Shenzhen incorporation law.",
+  "versionGroup": "sz-joint-stock-incorporation-rules",
+  "versionLabel": "1994 text",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official English",
+      "url": "https://sf.sz.gov.cn/fggzywyb/content/post_2975782.html",
+      "noteZh": "深圳市司法局法规规章英文译本归档页，收录1994年股份公司设立程序规定。",
+      "noteEn": "Archived English page in the Shenzhen Municipal Bureau of Justice database containing the 1994 joint-stock incorporation rules.",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "titleZh": "指导案例163号：江苏省纺织工业（集团）进出口有限公司及其五家子公司实质合并破产重整案",
+  "titleEn": "Guiding Case No. 163: Jiangsu Textile Industry (Group) Import & Export Co., Ltd. and Five Subsidiaries Substantive Consolidation Reorganization",
+  "forumZh": "最高人民法院",
+  "forumEn": "Supreme People's Court",
+  "citation": "指导案例163号",
+  "year": 2021,
+  "jurisdiction": "cn",
+  "caseType": "guiding-case",
+  "decisionType": "破产重整",
+  "issuesZh": ["关联企业实质合并", "集团重整", "法人人格高度混同", "债权债务统合处理"],
+  "issuesEn": [
+    "substantive consolidation of affiliated companies",
+    "group reorganization",
+    "serious commingling of corporate personality",
+    "pooled treatment of claims and liabilities"
+  ],
+  "holdingZh": "在关联企业成员之间出现法人人格高度混同、区分财产成本过高且严重损害债权人公平受偿利益时，人民法院可以依申请对关联企业适用实质合并破产重整。实质合并后，成员之间的债权债务归于消灭，相关财产统一纳入破产财产，由全体债权人在同一程序中按统一规则受偿。",
+  "holdingEn": "Where affiliated companies display a high degree of commingling, separation of assets would be excessively costly, and separate proceedings would materially prejudice fair creditor recovery, courts may order substantive consolidation reorganization on application. After consolidation, inter-company claims are extinguished and assets are pooled for distribution in a single proceeding.",
+  "topics": ["corporate-reorganization", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-civil-code-2020-legal-person",
+    "cn-spc-enterprise-bankruptcy-interpretation-1-2011",
+    "cn-national-bankruptcy-trial-minutes-2018",
+    "sh-high-court-bankruptcy-guideline-2018"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/shenpan/xiangqing/325571.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

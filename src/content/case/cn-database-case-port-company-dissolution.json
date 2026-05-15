@@ -1,0 +1,30 @@
+{
+  "titleZh": "珠江某货运码头有限公司诉佛山某港码头有限公司解散纠纷案",
+  "titleEn": "Database Case: Pearl River Freight Wharf Company v. Foshan Port Wharf Company",
+  "forumZh": "人民法院案例库（最高人民法院审核入库）",
+  "forumEn": "People's Court Case Database (reviewed by the Supreme People's Court)",
+  "citation": "入库编号2024-10-2-283-002",
+  "year": 2025,
+  "jurisdiction": "cn",
+  "caseType": "database-case",
+  "decisionType": "公司解散纠纷",
+  "issuesZh": ["公司经营严重困难", "股东重大损失", "其他途径不能解决"],
+  "issuesEn": ["severe operational difficulty", "material shareholder loss", "no workable alternative remedy"],
+  "holdingZh": "公司解散应审查经营管理是否发生严重困难、继续存续是否将使股东利益遭受重大损失，以及其他途径是否已经穷尽仍无法解决。公司长期停业、经营目的不能实现且股权转让亦无出路时，可以支持司法解散请求。",
+  "holdingEn": "Judicial dissolution requires severe operational difficulty, material loss to shareholder interests, and the failure of alternative remedies. A company that has long ceased operations, cannot realize its business purpose, and offers no realistic exit through share transfer may be dissolved by court order.",
+  "topics": ["dissolution-liquidation", "shareholder-rights"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-2-2020",
+    "cn-national-civil-commercial-trial-minutes-2019"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.sdcourt.gov.cn/dyzy/resource/cms/article/372898/40559799/2025061008394367117.pdf",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

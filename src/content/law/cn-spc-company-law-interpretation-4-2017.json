@@ -1,0 +1,58 @@
+{
+  "titleZh": "最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（四）",
+  "titleEn": "SPC Interpretation (IV) on Several Issues Concerning the Application of the Company Law",
+  "shortTitle": "公司法司法解释（四）",
+  "aliases": ["公司法司法解释四"],
+  "jurisdiction": "cn",
+  "documentType": "judicial-interpretation",
+  "authorityLevel": "judicial-interpretation",
+  "issuingBodyZh": "最高人民法院",
+  "issuingBodyEn": "Supreme People's Court",
+  "promulgationDate": "2017-08-28",
+  "effectiveDate": "2017-09-01",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["shareholder-rights", "corporate-governance", "dissolution-liquidation"],
+  "summaryZh": "重点处理公司决议效力、股东知情权、利润分配权、优先购买权和股东代表诉讼，是公司治理诉讼的关键司法解释。",
+  "summaryEn": "Addresses corporate resolution validity, shareholder inspection rights, dividend rights, pre-emption rights, and derivative litigation, making it a key governance interpretation.",
+  "versionGroup": "cn-spc-company-law-interpretation-4",
+  "versionLabel": "2017 interpretation",
+  "relatedCaseIds": [
+    "cn-guiding-case-10-board-resolution-review",
+    "cn-guiding-case-8-company-dissolution",
+    "cn-guiding-case-148-shareholder-standing",
+    "cn-gazette-case-shareholder-inspection-jiade",
+    "cn-typical-case-shareholder-inspection-korea-t",
+    "cn-database-case-transfer-agreement-shareholder-inspection",
+    "cn-database-case-destroyed-books-inspection",
+    "cn-database-case-former-shareholder-inspection-profit",
+    "cn-database-case-employee-supervisor-resolution-invalid",
+    "cn-database-case-board-resolution-charter-overreach",
+    "cn-database-case-profit-distribution-zhao-wang",
+    "cn-database-case-equity-security-nominee-vote",
+    "cn-database-case-fie-transition-governance",
+    "cn-gazette-case-forced-profit-distribution",
+    "cn-gazette-case-preemption-zhongjing",
+    "cn-gazette-case-contribution-deadline-resolution",
+    "cn-gazette-case-shareholder-expulsion-liu-meifang",
+    "cn-gazette-case-fie-board-record-xu-minghong",
+    "cn-gazette-case-fabricated-shareholder-meeting-zhang-yanjuan"
+  ],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/2b7af709142a3eb2e8034d0f2b877a.html",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    },
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/57552.html",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

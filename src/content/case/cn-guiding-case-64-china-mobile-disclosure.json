@@ -1,0 +1,25 @@
+{
+  "titleZh": "指导案例64号：刘超捷诉中国移动通信集团江苏有限公司徐州分公司电信服务合同纠纷案",
+  "titleEn": "Guiding Case No. 64: Liu Chaojie v. China Mobile Communications Group Jiangsu Co., Ltd., Xuzhou Branch",
+  "forumZh": "最高人民法院",
+  "forumEn": "Supreme People's Court",
+  "citation": "指导案例64号",
+  "year": 2016,
+  "jurisdiction": "cn",
+  "caseType": "guiding-case",
+  "decisionType": "电信服务合同纠纷",
+  "issuesZh": ["格式条款告知义务", "服务有效期限制", "消费者知情权"],
+  "issuesEn": ["disclosure duty for standard terms", "service-expiry restrictions", "consumer right to know"],
+  "holdingZh": "经营者未在订立合同时明确告知商品或服务的限制条件，也不能证明消费者已知悉并同意的，该限制条件不对消费者生效；电信企业以未告知的有效期限制停止服务的，构成违约。",
+  "holdingEn": "A restriction in standard-form service terms is ineffective unless the operator clearly disclosed it and obtained the consumer's assent. A telecom operator that halts service based on an undisclosed expiry condition commits breach.",
+  "topics": ["corporate-social-responsibility"],
+  "relatedLawIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/shenpan/xiangqing/27571.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

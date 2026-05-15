@@ -1,0 +1,29 @@
+{
+  "titleZh": "江某与某房地产公司股东知情权纠纷案",
+  "titleEn": "Reference Case: Jiang Mou v. a Real Estate Company",
+  "forumZh": "南通市中级人民法院",
+  "forumEn": "Nantong Intermediate People's Court",
+  "citation": "南通法院案例：江某委托专业人员查阅会计凭证",
+  "year": 2012,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股东知情权纠纷",
+  "issuesZh": ["会计凭证查阅", "委托专业人员辅助查阅", "商业秘密抗辩"],
+  "issuesEn": ["inspection of accounting vouchers", "inspection assisted by professionals", "commercial-secrecy defense"],
+  "holdingZh": "在公司不能证明股东查阅账簿和会计凭证具有不正当目的或者会危及公司商业秘密、安全的前提下，法院可以支持股东及其委派的专业财会人员查阅会计账簿和会计凭证。否则，股东知情权将因专业能力不足而流于形式。",
+  "holdingEn": "Where the company cannot prove that inspection of books and accounting vouchers serves an improper purpose or threatens commercial secrecy or security, the court may permit the shareholder and professionally retained accounting personnel to inspect both the books and the vouchers. Otherwise, inspection rights would become ineffective in practice for shareholders lacking technical expertise.",
+  "topics": ["shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.jsfy.gov.cn/article/91532.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

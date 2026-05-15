@@ -1,0 +1,34 @@
+{
+  "titleZh": "李某某追加被执行人异议之诉案",
+  "titleEn": "Reference Case: Li Moumou v. Additional Judgment Debtors in Enforcement",
+  "forumZh": "浙江省高级人民法院",
+  "forumEn": "Zhejiang High People's Court",
+  "citation": "浙江高院案例：未届期减资不宜直接追加被执行人",
+  "year": 2021,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "追加被执行人执行异议之诉",
+  "issuesZh": ["未届出资期限的减资", "违法减资与抽逃出资区分", "执行程序直接追加股东"],
+  "issuesEn": [
+    "capital reduction before the contribution deadline",
+    "distinguishing unlawful reduction from capital withdrawal",
+    "direct addition of shareholders in enforcement"
+  ],
+  "holdingZh": "公司减资时仅公告而未通知已知债权人的，程序上存在不当；但在减资时股东认缴期限尚未届满、且并未实际抽回出资的情况下，该减资行为与抽逃出资并不相同。现行执行追加规则对减资股东并无明确规定时，不宜在执行程序中径行将减资股东追加为被执行人，应区分实体责任追究与执行程序法定追加。",
+  "holdingEn": "A capital reduction conducted by publication alone without notice to known creditors is procedurally improper. But where the contribution deadline had not yet matured and the shareholders did not actually withdraw capital, the reduction is not the same as capital withdrawal. In the absence of an express rule authorizing direct addition of reducing shareholders, they should not simply be added as judgment debtors in enforcement; substantive liability and statutory enforcement joinder must be kept distinct.",
+  "topics": ["registered-capital", "shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-3-2021",
+    "cn-national-civil-commercial-trial-minutes-2019"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.sdcourt.gov.cn/wfhtqfy/443063/443232/8315758/index.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

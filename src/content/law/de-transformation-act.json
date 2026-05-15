@@ -1,0 +1,42 @@
+{
+  "titleZh": "德国《企业组织变更法》",
+  "titleEn": "German Transformation Act (UmwG)",
+  "shortTitle": "德国组织变更法",
+  "aliases": ["UmwG", "Umwandlungsgesetz"],
+  "jurisdiction": "de",
+  "documentType": "statute",
+  "authorityLevel": "comparative-statute",
+  "issuingBodyZh": "德国联邦司法部 / 联邦法律信息平台",
+  "issuingBodyEn": "Federal Ministry of Justice / Gesetze im Internet",
+  "promulgationDate": "1994-10-28",
+  "effectiveDate": "1995-01-01",
+  "status": "reference",
+  "languageStatus": "official-en",
+  "languages": ["en"],
+  "textStatus": "metadata-only",
+  "topics": ["corporate-reorganization", "shareholder-rights", "comparative-governance"],
+  "summaryZh": "UmwG 统摄德国公司合并、分立、资产转移和变更组织形式的主要程序，是比较重组与形态变动制度的重要法源。",
+  "summaryEn": "The UmwG governs mergers, demergers, transfers of assets, and changes of legal form in Germany, making it a principal source for comparative work on corporate restructuring.",
+  "versionGroup": "de-umwg",
+  "versionLabel": "current act",
+  "relatedCaseIds": ["de-case-holzmuller", "de-case-gelatine"],
+  "relatedArticleIds": ["article-cambridge-comparative-company-law"],
+  "sources": [
+    {
+      "label": "Official English (reference)",
+      "url": "https://www.gesetze-im-internet.de/englisch_umwg/",
+      "official": true,
+      "lastVerified": "2026-05-16",
+      "noteZh": "联邦司法部英文译本入口。",
+      "noteEn": "Federal Ministry of Justice English translation entry."
+    },
+    {
+      "label": "Official release",
+      "url": "https://www.gesetze-im-internet.de/umwg/index.html",
+      "official": true,
+      "lastVerified": "2026-05-16",
+      "noteZh": "德文现行文本。",
+      "noteEn": "Current German text."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "titleZh": "上市公司收购管理办法（2006年修订）",
+  "titleEn": "Measures for the Administration of the Takeover of Listed Companies (2006 Revision)",
+  "shortTitle": "收购管理办法（2006）",
+  "aliases": ["证监会令第35号"],
+  "jurisdiction": "cn",
+  "documentType": "departmental-rule",
+  "authorityLevel": "departmental-rule",
+  "issuingBodyZh": "中国证券监督管理委员会",
+  "issuingBodyEn": "China Securities Regulatory Commission",
+  "promulgationDate": "2006-07-31",
+  "effectiveDate": "2006-09-01",
+  "status": "historical",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "shareholder-rights", "disclosure"],
+  "summaryZh": "上市公司收购监管规则的重要奠基文本，系统规定权益变动披露、要约收购、协议收购和管理层收购制度。",
+  "summaryEn": "A foundational takeover-rule text governing disclosure of shareholding changes, tender offers, negotiated acquisitions, and management buyouts of listed companies.",
+  "versionGroup": "cn-takeover-measures",
+  "versionLabel": "2006 revision",
+  "nextVersionId": "cn-takeover-measures-2014",
+  "applicablePeriodZh": "2006年9月1日起施行，后经多轮修正并演进为 2020 年现行文本。",
+  "applicablePeriodEn": "Effective from September 1, 2006, and later revised multiple times before evolving into the 2020 current text.",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official Chinese",
+      "url": "https://www.csrc.gov.cn/csrc/c101864/c1024607/content.shtml",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Official release",
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c1002940/content.shtml",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

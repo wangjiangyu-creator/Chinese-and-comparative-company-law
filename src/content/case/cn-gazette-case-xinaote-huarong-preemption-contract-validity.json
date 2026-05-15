@@ -1,0 +1,33 @@
+{
+  "titleZh": "北京新奥特集团有限公司诉中国华融资产管理公司股权转让纠纷案",
+  "titleEn": "Gazette Case: Beijing Xin'ate Group Co., Ltd. v. China Huarong Asset Management Co.",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "公报案例：优先购买权行使阻却履行但不影响合同效力",
+  "year": 2005,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股权转让纠纷",
+  "issuesZh": ["股东优先购买权", "股权转让合同效力", "履行不能后的损害赔偿"],
+  "issuesEn": [
+    "shareholder pre-emption rights",
+    "validity of the share transfer contract",
+    "damages after supervening impossibility of performance"
+  ],
+  "holdingZh": "有限责任公司其他股东依法行使优先购买权，并不当然导致转让股东与受让第三人之间的股权转让合同无效。对于受优先购买权阻却而无法继续履行的案件，应区分合同效力与股权变动效果；合同本身有效的，受让人仍可依法就履行不能主张损害赔偿。",
+  "holdingEn": "The lawful exercise of another shareholder's pre-emption right in a limited liability company does not automatically invalidate the share transfer contract between the transferor and the outside transferee. Courts should distinguish the validity of the contract from the effectiveness of the share transfer itself, and where the contract remains valid, the transferee may still claim damages for non-performance.",
+  "topics": ["shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/42f0e688cd0fbdecd3a1922f795ddc.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

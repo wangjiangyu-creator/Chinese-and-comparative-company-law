@@ -1,0 +1,33 @@
+{
+  "titleZh": "赵某、王某等诉北京某有限责任公司、刘某等公司盈余分配纠纷案",
+  "titleEn": "Database Case: Zhao Mou, Wang Mou et al. v. Beijing Company and Liu Mou et al.",
+  "forumZh": "人民法院案例库（最高人民法院审核入库）",
+  "forumEn": "People's Court Case Database (reviewed by the Supreme People's Court)",
+  "citation": "入库编号2023-08-2-274-003",
+  "year": 2024,
+  "jurisdiction": "cn",
+  "caseType": "database-case",
+  "decisionType": "公司盈余分配纠纷",
+  "issuesZh": ["抽象利润分配请求权", "可分配利润证明", "控股股东滥用权利"],
+  "issuesEn": ["abstract profit-distribution claim", "proof of distributable profits", "abuse by controlling shareholders"],
+  "holdingZh": "在公司未作出利润分配决议的情况下，中小股东请求法院直接救济抽象利润分配请求权，至少应证明公司在弥补亏损、缴税并提取公积金后存在可供分配的实际利润，并且控股股东存在滥用股东权利致使公司长期不分配利润的情形。两项条件不能同时满足的，诉请不应支持。",
+  "holdingEn": "Where no profit-distribution resolution exists, minority shareholders seeking direct judicial relief on an abstract profit-distribution claim must at least show actual distributable profits after losses, tax, and reserve requirements, and also show abuse by controlling shareholders that caused the company not to distribute profits. Without both conditions, the claim should fail.",
+  "topics": [
+    "shareholder-rights",
+    "corporate-governance",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://rmfyalk.court.gov.cn/dist/view/content.html?id=bVdSPOe1CqxQDcIL95hFkZAnxQgd0iDgZ6Y4dUVZk50%253D&lib=ck",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "titleZh": "兰州神骏物流有限公司与兰州民百（集团）股份有限公司侵权纠纷案",
+  "titleEn": "Gazette Case: Lanzhou Shenjun Logistics Co., Ltd. v. Lanzhou Minbai (Group) Co., Ltd.",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "（2011）民提字第210号",
+  "year": 2011,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "侵权纠纷",
+  "issuesZh": [
+    "股权分置改革中的资本公积金定向转增",
+    "资本公积金转增股份是否属于发行新股",
+    "非流通股股东是否可按持股比例主张新增股份"
+  ],
+  "issuesEn": [
+    "targeted capitalization of capital reserves in split-share reform",
+    "whether capitalization of capital reserves amounts to a new share issuance",
+    "whether non-tradable shareholders may claim newly added shares pro rata"
+  ],
+  "holdingZh": "上市公司股权分置改革中，由控股股东无偿注入权益性资产形成资本公积金，并经股东大会决议定向转增给流通股股东的，不属于证券法意义上的非公开发行新股。由此形成的资本公积金属于公司资产，非流通股股东不能以“同股同权”为由请求按持股比例分得相应新增股份；股改中的定向转增安排应与证券发行活动相区分。",
+  "holdingEn": "In a listed company's split-share reform, where the controlling shareholder contributes equity assets without consideration, causing the company to form capital reserves that are then capitalized and allocated to tradable shareholders under a shareholders' resolution, the arrangement does not amount to a non-public issuance of new shares under the Securities Law. The resulting capital reserves belong to the company, and non-tradable shareholders cannot invoke equal-share principles to demand a proportional allotment of the added shares; targeted capitalization in split-share reform must be distinguished from securities issuance.",
+  "topics": ["listed-companies", "shareholder-rights", "corporate-governance", "disclosure"],
+  "relatedLawIds": [
+    "cn-company-law-2005",
+    "cn-securities-law-2005",
+    "cn-listed-company-disclosure-measures-2007"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/68969dd593d46b0bc2b9bb5932bd92.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

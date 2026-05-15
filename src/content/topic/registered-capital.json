@@ -1,0 +1,108 @@
+{
+  "nameZh": "注册资本和出资纠纷专题",
+  "nameEn": "Registered Capital and Contribution Disputes Topic",
+  "descriptionZh": "本专题集中整理中国公司法上围绕注册资本、股东出资与资本维持的核心裁判材料，重点覆盖认缴期限与加速到期、恶意延长出资期限、恶意转让股权逃避出资、抽逃出资、债权抵销出资、未履行出资义务的补充赔偿责任，以及增资、减资、出资方式变更和资本结构调整等问题。页面按研究用途组织材料，优先放入最高人民法院公报、人民法院案例库和法院官方发布的典型案例，便于从债权人保护和公司自治两个方向快速比较裁判规则。",
+  "descriptionEn": "This topic collects core Chinese authorities on registered capital, shareholder contributions, and capital maintenance, focusing on contribution deadlines and acceleration, bad-faith extensions, share transfers used to evade contribution duties, capital withdrawal, debt set-off against contribution, supplementary creditor recovery, and capital-structure adjustments.",
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-state-council-registered-capital-rules-2024",
+    "cn-samr-company-registration-implementation-measures-2024",
+    "cn-spc-company-law-interpretation-3-2021",
+    "cn-national-civil-commercial-trial-minutes-2019",
+    "cn-spc-company-law-time-effect-2024"
+  ],
+  "relatedCaseIds": [
+    "cn-gazette-case-wang-qinjie-contribution-extension-creditor-protection",
+    "cn-reference-case-linzi-malicious-extension-acceleration",
+    "cn-gazette-case-contribution-deadline-resolution",
+    "cn-reference-case-jia-haidian-contribution-deadline-majority",
+    "cn-reference-case-jimo-unpaid-contribution-liability",
+    "cn-reference-case-zhao-liangchen-capital-withdrawal-offset",
+    "cn-gazette-case-shareholder-expulsion-liu-meifang",
+    "cn-reference-case-shareholder-debt-setoff-contribution",
+    "cn-database-case-lu-cao-low-price-transfer-contribution",
+    "cn-database-case-wen-sichuan-subscription-limitations",
+    "cn-reference-case-shanghai-unpaid-contribution-no-dividend-freeze",
+    "cn-reference-case-today-seeds-zero-price-transfer-reduction",
+    "cn-gazette-case-dilutive-capital-increase",
+    "cn-gazette-case-hongri-kechuang-capital-increase-voting",
+    "cn-reference-case-chen-shandong-a-beijing-b-resolution",
+    "cn-reference-case-wang-xu-change-to-ip-contribution",
+    "cn-reference-case-yuehua-defective-capital-reduction",
+    "cn-reference-case-zhejiang-reduction-not-direct-execution"
+  ],
+  "relatedArticleIds": [
+    "article-cms-company-law-2024",
+    "article-skadden-broad-reforms",
+    "article-ssrn-legal-capital"
+  ],
+  "caseGroups": [
+    {
+      "titleZh": "出资期限、加速到期与恶意延期",
+      "titleEn": "Contribution timing, acceleration, and bad-faith extensions",
+      "descriptionZh": "整理股东原始认缴安排、公司章程修改和股东会决议变更出资期限后，法院如何区分正当期限利益与恶意利用期限利益逃避债务。",
+      "descriptionEn": "Collects cases on original contribution timing, later extensions, and the line between legitimate timing interests and bad-faith delay against creditors.",
+      "caseIds": [
+        "cn-gazette-case-wang-qinjie-contribution-extension-creditor-protection",
+        "cn-reference-case-linzi-malicious-extension-acceleration",
+        "cn-gazette-case-contribution-deadline-resolution",
+        "cn-reference-case-jia-haidian-contribution-deadline-majority"
+      ]
+    },
+    {
+      "titleZh": "未履行出资、抽逃出资与补充赔偿责任",
+      "titleEn": "Non-contribution, capital withdrawal, and supplementary liability",
+      "descriptionZh": "聚焦认缴期限届满仍未实缴、抽逃出资、事后以内部决议补救等情形下，股东对公司债务和公司内部关系分别承担何种责任。",
+      "descriptionEn": "Focuses on matured but unpaid contributions, capital withdrawal, and attempted post hoc cures through internal resolutions, and the liabilities that follow.",
+      "caseIds": [
+        "cn-reference-case-jimo-unpaid-contribution-liability",
+        "cn-reference-case-zhao-liangchen-capital-withdrawal-offset",
+        "cn-gazette-case-shareholder-expulsion-liu-meifang",
+        "cn-reference-case-shareholder-debt-setoff-contribution"
+      ]
+    },
+    {
+      "titleZh": "恶意转让股权、程序抗辩与责任边界",
+      "titleEn": "Bad-faith share transfers, procedural defenses, and liability boundaries",
+      "descriptionZh": "围绕未届出资期限的股权转让、对明显无出资能力受让人的低价转让，以及债权人起诉时股东可否援用程序性抗辩等问题，呈现责任边界。",
+      "descriptionEn": "Tracks bad-faith transfers before the contribution deadline, low-price transfers to transferees lacking contribution capacity, and procedural defenses available to shareholders.",
+      "caseIds": [
+        "cn-database-case-lu-cao-low-price-transfer-contribution",
+        "cn-database-case-wen-sichuan-subscription-limitations",
+        "cn-reference-case-shanghai-unpaid-contribution-no-dividend-freeze",
+        "cn-reference-case-today-seeds-zero-price-transfer-reduction"
+      ]
+    },
+    {
+      "titleZh": "增资、减资、出资方式变更与资本结构调整",
+      "titleEn": "Capital increases, reductions, contribution-method changes, and capital-structure adjustments",
+      "descriptionZh": "聚焦新增资本认购、稀释性增资、瑕疵减资、未届期减资的责任边界，以及债务风险出现后将货币出资改为非货币出资等资本结构调整问题。",
+      "descriptionEn": "Collects cases on subscriptions for new capital, dilutive increases, defective reductions, the limits of enforcement against reducing shareholders, and post-debt changes from cash to non-cash contributions.",
+      "caseIds": [
+        "cn-gazette-case-dilutive-capital-increase",
+        "cn-gazette-case-hongri-kechuang-capital-increase-voting",
+        "cn-reference-case-chen-shandong-a-beijing-b-resolution",
+        "cn-reference-case-wang-xu-change-to-ip-contribution",
+        "cn-reference-case-yuehua-defective-capital-reduction",
+        "cn-reference-case-zhejiang-reduction-not-direct-execution"
+      ]
+    }
+  ],
+  "comparisonRows": [
+    {
+      "labelZh": "出资期限与加速到期",
+      "labelEn": "Contribution timing and acceleration",
+      "cn": "2023 年修订公司法与 2024 年注册资本登记规则重塑有限责任公司认缴期限，并与催缴、失权和加速到期制度衔接。",
+      "hk": "香港公司条例不采用中国式统一重置认缴期限的框架，更多通过资本维持、欺诈和清盘规则处理风险。",
+      "sg": "新加坡公司法也不以统一五年认缴期限为核心，而更强调董事义务、偿债能力和一般资本维持规则。"
+    },
+    {
+      "labelZh": "资本调整与债权人保护",
+      "labelEn": "Capital adjustments and creditor protection",
+      "cn": "中国法同时通过公司法、司法解释、九民纪要与登记规则处理延长出资期限、抽逃出资、增资稀释和异常减资等问题，突出债权人保护。",
+      "hk": "香港更依赖法定减资、清盘和一般欺诈原则来约束资本调整对债权人的损害。",
+      "sg": "新加坡则通过减资、股份回购、偿债能力声明与董事责任等工具维持资本结构和债权人保护。"
+    }
+  ]
+}

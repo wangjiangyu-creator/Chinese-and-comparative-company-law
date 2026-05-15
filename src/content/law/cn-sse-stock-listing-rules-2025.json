@@ -1,0 +1,32 @@
+{
+  "titleZh": "上海证券交易所股票上市规则（2025年4月修订）",
+  "titleEn": "Shanghai Stock Exchange Stock Listing Rules (April 2025 Revision)",
+  "shortTitle": "上交所股票上市规则",
+  "aliases": ["SSE Listing Rules 2025"],
+  "jurisdiction": "cn",
+  "documentType": "exchange-rule",
+  "authorityLevel": "exchange-rule",
+  "issuingBodyZh": "上海证券交易所",
+  "issuingBodyEn": "Shanghai Stock Exchange",
+  "promulgationDate": "2025-04-25",
+  "effectiveDate": "2025-04-25",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "disclosure", "corporate-governance"],
+  "summaryZh": "上交所 2025 年修订后的主板上市规则，是上市治理和持续信息披露的重要交易所层规则。",
+  "summaryEn": "The SSE's April 2025 listing rules are a key exchange-layer source for listed-company governance and disclosure.",
+  "versionGroup": "cn-sse-stock-listing-rules",
+  "versionLabel": "2025 revision",
+  "relatedCaseIds": ["cn-guiding-case-10-board-resolution-review"],
+  "relatedArticleIds": ["article-skadden-broad-reforms"],
+  "sources": [
+    {
+      "label": "Official exchange rule",
+      "url": "https://www.sse.com.cn/lawandrules/sselawsrules2025/stocks/mainipo/c/c_20250515_10779023.shtml",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

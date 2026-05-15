@@ -1,0 +1,37 @@
+{
+  "titleZh": "上海兰某贸易有限公司与江某等损害公司利益责任纠纷案",
+  "titleEn": "Typical Case: Shanghai Lan Trading Co., Ltd. v. Jiang et al.",
+  "forumZh": "最高人民法院依法保护外商投资权益典型案例",
+  "forumEn": "Supreme People's Court Typical Cases on Protecting Foreign Investment Rights",
+  "citation": "最高法典型案例：高管自我交易",
+  "year": 2025,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "损害公司利益责任纠纷",
+  "issuesZh": ["高管忠实义务", "自我交易", "近亲属控制公司的关联交易"],
+  "issuesEn": ["duty of loyalty of senior management", "self-dealing", "related-party transactions through companies controlled by close relatives"],
+  "holdingZh": "高级管理人员与其近亲属持股或者控制的公司进行交易而未向股东会披露并取得同意的，构成公司法意义上的自我交易。公司可以请求返还超出市场公允价值的交易所得，以恢复公司利益。",
+  "holdingEn": "A senior manager who causes the company to transact with a company held or controlled by a close relative, without disclosure to and approval from the shareholders, engages in company-law self-dealing. The company may recover the portion of the transaction gain exceeding fair market value to restore the company's interests.",
+  "topics": [
+    "corporate-governance",
+    "director-abuse",
+    "director-liability-litigation",
+    "related-transaction-harm",
+    "shareholder-rights",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-5-2021",
+    "cn-spc-foreign-invested-enterprise-disputes-1-2021"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/451771.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

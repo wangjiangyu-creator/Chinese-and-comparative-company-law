@@ -1,0 +1,34 @@
+{
+  "titleZh": "美国《示范商业公司法》",
+  "titleEn": "Model Business Corporation Act",
+  "shortTitle": "美国示范公司法",
+  "aliases": ["MBCA", "Model Act"],
+  "jurisdiction": "us",
+  "documentType": "statute",
+  "authorityLevel": "comparative-statute",
+  "issuingBodyZh": "美国律师协会商法部公司法委员会",
+  "issuingBodyEn": "ABA Business Law Section, Corporate Laws Committee",
+  "promulgationDate": "2016-01-01",
+  "effectiveDate": "2016-01-01",
+  "status": "reference",
+  "languageStatus": "official-en",
+  "languages": ["en"],
+  "textStatus": "metadata-only",
+  "topics": ["corporate-formation", "corporate-governance", "shareholder-rights", "comparative-governance"],
+  "summaryZh": "MBCA 是美国多数州公司制定法的重要模板，适合与中国公司法在公司设立、董事权限、股东会议和派生诉讼方面进行结构性对照。",
+  "summaryEn": "The MBCA is the leading template for state corporation statutes in the United States and a useful baseline for comparing formation, board powers, shareholder meetings, and derivative enforcement.",
+  "versionGroup": "us-mbca",
+  "versionLabel": "current model act",
+  "relatedCaseIds": ["us-case-smith-v-van-gorkom", "us-case-in-re-caremark", "us-case-unocal-v-mesa"],
+  "relatedArticleIds": ["article-aba-mbca-at-75", "article-pbook-folk-delaware-general-corporation-law"],
+  "sources": [
+    {
+      "label": "Official English",
+      "url": "https://www.americanbar.org/groups/business_law/resources/model-business-corporation-act/",
+      "official": true,
+      "lastVerified": "2026-05-16",
+      "noteZh": "ABA MBCA Resource Center 提供现行 Official Text with Official Comment 的公开入口。",
+      "noteEn": "The ABA MBCA Resource Center provides public access to the current Official Text with Official Comment."
+    }
+  ]
+}

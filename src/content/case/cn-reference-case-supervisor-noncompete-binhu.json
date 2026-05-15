@@ -1,0 +1,40 @@
+{
+  "titleZh": "某健康管理公司诉胡某监事竞业禁止与损害公司利益案",
+  "titleEn": "Health Management Company v. Hu: Supervisor Non-Compete and Harm to Corporate Interests",
+  "forumZh": "无锡市滨湖区人民法院（公司治理典型案例）",
+  "forumEn": "Wuxi Binhu District People's Court (corporate-governance typical case)",
+  "citation": "2024年滨湖法院公司治理典型案例；监事竞业禁止案",
+  "year": 2024,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "损害公司利益责任纠纷（监事竞业禁止）",
+  "issuesZh": ["监事竞业禁止义务", "监事忠实勤勉义务", "客户引流与同业经营", "新公司法第一百八十四条适用"],
+  "issuesEn": [
+    "supervisor's non-compete duty",
+    "supervisor's duties of loyalty and diligence",
+    "diversion of customers and competing business",
+    "application of Article 184 of the new Company Law"
+  ],
+  "holdingZh": "无锡滨湖法院发布的公司治理典型案例指出，监事负有忠实勤勉义务，其监督职能决定了其不得自营或者为他人经营与公司同类的业务，否则将不可避免地与公司利益发生冲突。该案中，监事在未办理离任手续的情况下接手附近同类工作室并转移公司学员，法院依新公司法第一百八十四条释明其行为已构成损害公司利益，最终促成其赔偿损失、关闭工作室并承诺不在特定区域继续经营同类业务。",
+  "holdingEn": "In a corporate-governance typical case, the Wuxi Binhu court explained that a supervisor owes duties of loyalty and diligence, and that the supervisory function means the supervisor may not operate or help operate a competing business because that would inevitably create a conflict with the company's interests. In this case, the supervisor took over a nearby competing studio without completing resignation procedures and diverted the company's trainees there; relying on Article 184 of the new Company Law, the court treated the conduct as harmful to the company and ultimately induced compensation, closure of the studio, and a commitment not to continue the same business within a specified area.",
+  "topics": [
+    "corporate-governance",
+    "director-abuse",
+    "director-liability-litigation",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-civil-code-2020-legal-person"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://bh.wxfy.gov.cn/article/detail/2024/02/id/7818574.shtml",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "无锡市滨湖区法院公司治理典型案例，载明案情、法院释法和适用新公司法第一百八十四条的要点。",
+      "noteEn": "Binhu court corporate-governance typical case summarizing the facts, reasoning, and use of Article 184 of the new Company Law."
+    }
+  ]
+}

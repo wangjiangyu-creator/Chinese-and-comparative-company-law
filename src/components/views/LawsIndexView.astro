@@ -1,0 +1,204 @@
+---
+import LawDirectoryEntry from "@/components/LawDirectoryEntry.astro";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { getChinaLawDirectory } from "@/lib/law-directory";
+import { pickLocalized, type Locale } from "@/lib/i18n";
+import { getPortalSnapshot } from "@/lib/portal-data";
+
+type Props = {
+  locale: Locale;
+  path: string;
+};
+
+const { locale, path } = Astro.props;
+const snapshot = await getPortalSnapshot();
+const directory = getChinaLawDirectory(snapshot.laws);
+const countLabel = locale === "zh" ? "条中国法律法规" : "China-law records";
+
+const sections = [
+  {
+    number: "1",
+    titleZh: "国家级法律",
+    titleEn: "National Laws",
+    noteZh: "包括《公司法》《证券法》《民法典》等全国人大及其常委会制定的国家法律。",
+    noteEn: "Includes the Company Law, Securities Law, Civil Code, and other national legislation adopted by the NPC or its Standing Committee.",
+    groups: [
+      { titleZh: "核心国家法律", titleEn: "Core statutes", laws: directory.nationalLaws }
+    ]
+  },
+  {
+    number: "2",
+    titleZh: "国务院行政法规",
+    titleEn: "State Council Administrative Regulations",
+    noteZh: "包括公司、法人和注册资本登记管理等由国务院发布的行政法规。",
+    noteEn: "Includes State Council administrative regulations on company, legal-person, and capital-registration governance.",
+    groups: [{ titleZh: "行政法规目录", titleEn: "Administrative regulations", laws: directory.administrativeRegulations }]
+  },
+  {
+    number: "3",
+    titleZh: "司法解释",
+    titleEn: "Judicial Interpretations",
+    noteZh: "以最高人民法院司法解释为主，并把最高法规则材料与地方高院公司审判指引分开展示，便于集中检索。",
+    noteEn: "Centered on Supreme People's Court judicial interpretations, with SPC rule materials and local high court company-guidance materials shown separately.",
+    groups: [
+      { titleZh: "司法解释", titleEn: "Judicial interpretations", laws: directory.judicialInterpretations },
+      { titleZh: "最高法院会议纪要与规则材料", titleEn: "SPC policy and conference materials", laws: directory.spcJudicialPolicies },
+      {
+        titleZh: "地方高院审判指引",
+        titleEn: "Local high court guidance",
+        laws: directory.localHighCourtGuidance
+      },
+      { titleZh: "地方高院白皮书与审判通报", titleEn: "Local high court reports", laws: directory.localHighCourtReports }
+    ]
+  },
+  {
+    number: "4",
+    titleZh: "部门规章",
+    titleEn: "Departmental Rules",
+    noteZh: "包括证监会、市场监管总局等中央部门规则，并单列交易所上市规则。",
+    noteEn: "Includes central-regulator rules such as those from the CSRC and SAMR, with exchange listing rules shown separately.",
+    groups: [
+      { titleZh: "中央部门与监管规则", titleEn: "Central-department and regulatory rules", laws: directory.departmentalRules },
+      { titleZh: "交易所业务规则", titleEn: "Exchange rules", laws: directory.exchangeRules }
+    ]
+  },
+  {
+    number: "5",
+    titleZh: "地方法规",
+    titleEn: "Local Regulations",
+    noteZh: "收录地方层面与公司登记、营商环境和特区公司组织相关的高价值规范，先从北京、上海、深圳和早期深圳特区公司条例开始。",
+    noteEn: "Collects high-value local materials on business environment, company registration, and special-zone company organization, starting with Beijing, Shanghai, Shenzhen, and early Shenzhen company ordinances.",
+    groups: [
+      {
+        titleZh: "现行地方营商环境与登记规则",
+        titleEn: "Current local business-environment and registration rules",
+        laws: directory.localCurrentRegulations
+      },
+      {
+        titleZh: "历史地方公司与商事法规资料",
+        titleEn: "Historical local company and commercial materials",
+        laws: directory.localHistoricalRegulations
+      }
+    ]
+  }
+] as const;
+---
+
+<BaseLayout
+  locale={locale}
+  path={path}
+  titleZh="中国法律法规目录"
+  titleEn="Law and Rule Directory"
+  descriptionZh="按法源位阶重新整理中国公司与商事组织法主库，并为每条规范提供明确的官方全文入口。"
+  descriptionEn="Reorganized China company-law corpus by authority hierarchy, with a clear official full-text gateway for every record."
+>
+  <section class="hero">
+    <span class="eyebrow">{locale === "zh" ? "中国法律法规主库" : "China Law Corpus"}</span>
+    <h1 class="page-title">{locale === "zh" ? "按法源位阶整理的法律法规目录" : "Law Directory by Authority Layer"}</h1>
+    <p class="lede">
+      {locale === "zh"
+        ? "这一页只展示中国法律法规主库，不再把比较法材料混排。每一条规范都保留站内条目，并提供醒目的官方全文入口。"
+        : "This page now focuses on the China law corpus only. Every record keeps an on-site entry and a prominent official full-text link."}
+    </p>
+    <div class="hero-actions">
+      <a class="action-link action-link-secondary" href={locale === "zh" ? "/laws/coverage/" : "/en/laws/coverage/"}>
+        {locale === "zh" ? "主库覆盖清单" : "Coverage checklist"}
+      </a>
+    </div>
+  </section>
+
+  <section class="priority-strip">
+    <div class="section-head">
+      <div>
+        <span class="eyebrow">{locale === "zh" ? "核心入口" : "Key entry points"}</span>
+        <h2>{locale === "zh" ? "先看这三部核心法律" : "Start with these three core statutes"}</h2>
+        <p>
+          {locale === "zh"
+            ? "《公司法（2023年修订）》固定置顶，并与《证券法》《民法典（法人部分）》并列显示。"
+            : "The 2023 Company Law is pinned first, alongside the Securities Law and the Civil Code legal-person materials."}
+        </p>
+      </div>
+    </div>
+    <div class="priority-grid">
+      {directory.coreNationalLaws.map((law) => <LawDirectoryEntry law={law} locale={locale} searchable={false} />)}
+    </div>
+  </section>
+
+  <section class="panel filters" data-count-label={countLabel}>
+    <div class="filters-grid filters-grid-compact">
+      <label>
+        {locale === "zh" ? "搜索法律标题或摘要" : "Search law titles or summaries"}
+        <input
+          id="law-search"
+          type="search"
+          placeholder={locale === "zh" ? "如：公司法、登记、独立董事、清算" : "e.g. company law, registration, liquidation"}
+        />
+      </label>
+    </div>
+    <div class="directory-count" id="law-count"></div>
+  </section>
+
+  <section class="directory-shell">
+    {sections.map((section) => (
+      <section class="tier-section" data-law-section>
+        <div class="tier-section-head">
+          <div class="tier-index">{section.number}</div>
+          <div>
+            <h2>{pickLocalized(locale, section.titleZh, section.titleEn)}</h2>
+            <p>{pickLocalized(locale, section.noteZh, section.noteEn)}</p>
+          </div>
+        </div>
+
+        {section.groups.map((group) => (
+          <div class="tier-group">
+            <h3>{pickLocalized(locale, group.titleZh, group.titleEn)}</h3>
+            {group.laws.length > 0 ? (
+              <div class="tier-list">
+                {group.laws.map((law) => <LawDirectoryEntry law={law} locale={locale} />)}
+              </div>
+            ) : (
+              <div class="directory-empty">
+                {locale === "zh"
+                  ? "这一层级目前尚未补入具体条目。"
+                  : "No records have been added to this layer yet."}
+              </div>
+            )}
+          </div>
+        ))}
+      </section>
+    ))}
+  </section>
+
+  <script is:inline>
+    const filtersPanel = document.querySelector(".filters");
+    const countLabel = filtersPanel?.dataset.countLabel ?? "records";
+    const search = document.getElementById("law-search");
+    const entries = [...document.querySelectorAll('[data-law-entry="true"]')];
+    const sections = [...document.querySelectorAll("[data-law-section]")];
+    const count = document.getElementById("law-count");
+
+    const applyFilters = () => {
+      let visible = 0;
+      const searchValue = search.value.trim().toLowerCase();
+
+      entries.forEach((entry) => {
+        const matchesSearch =
+          !searchValue || entry.dataset.search.toLowerCase().includes(searchValue);
+        entry.style.display = matchesSearch ? "" : "none";
+        if (matchesSearch) visible += 1;
+      });
+
+      sections.forEach((section) => {
+        const liveEntries = [...section.querySelectorAll('[data-law-entry="true"]')];
+        const hasVisibleEntries = liveEntries.some((entry) => entry.style.display !== "none");
+        const hasEmptyPlaceholder = Boolean(section.querySelector(".directory-empty"));
+        section.style.display = hasVisibleEntries || hasEmptyPlaceholder ? "" : "none";
+      });
+
+      count.textContent = `${visible} ${countLabel}`;
+    };
+
+    search.addEventListener("input", applyFilters);
+    applyFilters();
+  </script>
+</BaseLayout>

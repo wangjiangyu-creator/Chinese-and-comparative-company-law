@@ -1,0 +1,40 @@
+{
+  "titleZh": "美国《1934年证券交易法》",
+  "titleEn": "Securities Exchange Act of 1934",
+  "shortTitle": "美国1934年证券交易法",
+  "aliases": ["Exchange Act", "15 U.S.C. 78a et seq."],
+  "jurisdiction": "us",
+  "documentType": "statute",
+  "authorityLevel": "comparative-statute",
+  "issuingBodyZh": "美国国会 / 美国政府出版局",
+  "issuingBodyEn": "United States Congress / U.S. Government Publishing Office",
+  "promulgationDate": "1934-06-06",
+  "effectiveDate": "1934-06-06",
+  "status": "reference",
+  "languageStatus": "official-en",
+  "languages": ["en"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "disclosure", "corporate-governance", "comparative-governance"],
+  "summaryZh": "《1934年证券交易法》是美国上市公司持续信息披露、代理权征集、收购要约、内幕交易与证券市场监管的核心联邦法源，是理解公司法与资本市场法交叉问题的基础文本。",
+  "summaryEn": "The Securities Exchange Act of 1934 is the core federal statute for continuous disclosure, proxy regulation, tender offers, insider trading, and securities-market oversight, and is a foundation for U.S. public-company law.",
+  "versionGroup": "us-securities-exchange-act",
+  "versionLabel": "current act",
+  "relatedCaseIds": [],
+  "relatedArticleIds": ["article-pbook-comparative-company-law", "article-oup-anatomy-of-corporate-law"],
+  "sources": [
+    {
+      "label": "Official English",
+      "url": "https://www.govinfo.gov/app/details/COMPS-1885",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Official release",
+      "url": "https://www.govinfo.gov/content/pkg/COMPS-1885/pdf/COMPS-1885.pdf",
+      "official": true,
+      "lastVerified": "2026-05-16",
+      "noteZh": "GovInfo 提供的现行整编 PDF。",
+      "noteEn": "Current compiled PDF hosted by GovInfo."
+    }
+  ]
+}

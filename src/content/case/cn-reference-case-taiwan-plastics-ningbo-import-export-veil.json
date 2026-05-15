@@ -1,0 +1,33 @@
+{
+  "titleZh": "某台资塑胶公司诉浙江某进出口公司及其股东宁波某塑胶公司买卖合同纠纷案",
+  "titleEn": "Reference Case: Taiwanese Plastics Company v. Zhejiang Import-Export Company and its Shareholder Ningbo Plastics Company",
+  "forumZh": "最高人民法院（台胞权益保障十大典型案例）",
+  "forumEn": "Supreme People's Court (Ten Typical Cases on Protection of Taiwan Compatriots' Rights)",
+  "citation": "台胞权益保障十大典型案例（三）",
+  "year": 2021,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "买卖合同纠纷",
+  "issuesZh": ["新设公司承接交易", "股东与公司财务混同", "合同相对方更替与逃债"],
+  "issuesEn": ["new company inserted into the transaction", "financial commingling between shareholder and company", "switching contract counterparties to evade debt"],
+  "holdingZh": "在交易磋商期间设立新公司并由其出面签约，如果新设公司与其股东在经营范围、场所、高管和财务人员方面明显混同，并且在无真实交易的情况下迅速将货款转入股东账户，足以认定股东滥用公司法人独立地位和有限责任，股东应对新设公司的返还货款责任承担连带责任。",
+  "holdingEn": "When a shareholder sets up a new company during negotiations and has that company sign the contract, and the new company is plainly commingled with the shareholder in business scope, premises, management, and finance staff while promptly transferring the purchase price to the shareholder without real transactions, the shareholder may be found to have abused separate corporate personality and limited liability and therefore be jointly liable for restitution of the price.",
+  "topics": [
+    "corporate-veil-piercing",
+    "corporate-governance",
+    "shareholder-rights"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-civil-code-2020-legal-person"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/337111.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

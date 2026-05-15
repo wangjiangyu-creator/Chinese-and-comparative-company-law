@@ -1,0 +1,33 @@
+{
+  "titleZh": "中国信达资产管理公司成都办事处与四川泰来装饰工程有限公司、四川泰来房屋开发有限公司、四川泰来娱乐有限责任公司借款担保合同纠纷案",
+  "titleEn": "Gazette Case: China Cinda Asset Management Chengdu Office v. Sichuan Tailai Decoration Engineering Co., Ltd. et al.",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "公报案例：泰来关联公司人格混同",
+  "year": 2008,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "借款担保合同纠纷",
+  "issuesZh": ["关联公司人格混同", "同一控制人", "债权债务与财产混同"],
+  "issuesEn": ["commingling among affiliated companies", "single controller", "mixing of assets and liabilities"],
+  "holdingZh": "存在交叉持股、由同一出资主体设立并受同一自然人实际控制的关联公司，如果该控制人无视各公司独立人格，随意处置并混淆公司财产、债权债务关系，导致人员和财产边界无法区分并损害债权人利益的，可以认定构成人格混同，相关公司应承担连带清偿责任。",
+  "holdingEn": "Where affiliated companies with overlapping ownership are established by the same investor and controlled by the same natural person, and that controller disregards their separate personalities by freely confusing assets and creditor-debtor relationships so that personnel and property boundaries cannot be distinguished, the companies may be treated as commingled and held jointly liable.",
+  "topics": [
+    "corporate-veil-piercing",
+    "corporate-governance",
+    "shareholder-rights"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-civil-code-2020-legal-person"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/1d1f3b1d378a6fe6869d62387f94e4.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

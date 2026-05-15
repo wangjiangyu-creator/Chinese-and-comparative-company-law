@@ -1,0 +1,55 @@
+{
+  "titleZh": "中证投服中心代ST摩登公司诉广州瑞丰集团及董监高损害公司利益纠纷案",
+  "titleEn": "China Securities Investor Services Center on Behalf of ST Modern v. Guangzhou Ruifeng Group and Responsible Directors and Executives",
+  "forumZh": "广州市中级人民法院 / 广东省高级人民法院（中国投资者网整理）",
+  "forumEn": "Guangzhou Intermediate People's Court / Guangdong Higher People's Court (officially summarized on China Investor Network)",
+  "citation": "2024年广东高院二审维持一审胜诉；ST摩登资金占用代位追偿案",
+  "year": 2024,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "损害公司利益责任纠纷",
+  "issuesZh": ["上市公司资金占用追偿", "投保机构股东代位诉讼", "控股股东与董监高连带赔偿", "信息披露与内部治理失灵"],
+  "issuesEn": [
+    "recovery for misappropriation of listed-company funds",
+    "derivative action by an investor-protection institution",
+    "joint and several liability of the controlling shareholder and responsible directors/executives",
+    "disclosure failures and governance breakdown"
+  ],
+  "holdingZh": "中国投资者网公开材料显示，ST摩登控股股东长期非经营性占用上市公司资金约2.4亿元，投保机构在多轮质询无果后代公司起诉。广州中院一审支持返还占用资金及利息，并按责任程度判令原董事长、原总经理、原财务总监分别承担不同范围的连带赔偿责任；广东高院二审维持原判，形成上市公司资金占用民事追责的重要判例。",
+  "holdingEn": "Official materials on China Investor Network state that ST Modern's controlling shareholder non-operationally occupied about RMB 240 million of listed-company funds over an extended period, after which the investor-protection institution sued on the company's behalf when repeated internal demands failed. The Guangzhou court ordered repayment of the occupied funds and interest and imposed layered joint and several liability on the former chairman, former general manager, and former finance director according to their levels of fault; the Guangdong Higher People's Court affirmed, making the case a significant precedent for civil recovery in listed-company fund-occupation disputes.",
+  "topics": [
+    "corporate-governance",
+    "director-abuse",
+    "director-liability-litigation",
+    "listed-companies",
+    "disclosure",
+    "actual-controller-tunneling",
+    "shareholder-rights",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-securities-law-2019",
+    "cn-listed-company-disclosure-measures-2021",
+    "cn-csrc-listed-company-governance-code-2018"
+  ],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://www.investor.org.cn/zczx/gzjl/202507/t20250714_810367.shtml",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "中国投资者网转载上海证券报稿件，概述一、二审结果和责任比例。",
+      "noteEn": "China Investor Network repost summarizing the first and second instance outcomes and the liability allocation."
+    },
+    {
+      "label": "Research platform",
+      "url": "https://www.investor.org.cn/xxzx/yjycb/cbw/tzz/tzzd27j/202506/P020250617514688646055.pdf",
+      "official": false,
+      "lastVerified": "2026-05-15",
+      "noteZh": "中国投资者网刊载的专题评析，进一步解释起诉资格、破产程序交错和责任结构。",
+      "noteEn": "Analytical PDF hosted on China Investor Network explaining standing, bankruptcy overlap, and the liability structure."
+    }
+  ]
+}

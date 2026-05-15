@@ -1,0 +1,29 @@
+{
+  "titleZh": "指导案例148号：高光诉三亚天通国际酒店有限公司、海南博超房地产开发有限公司等第三人撤销之诉案",
+  "titleEn": "Guiding Case No. 148: Gao Guang v. Sanya Tiantong International Hotel Co., Ltd. et al.",
+  "forumZh": "最高人民法院",
+  "forumEn": "Supreme People's Court",
+  "citation": "指导案例148号",
+  "year": 2021,
+  "jurisdiction": "cn",
+  "caseType": "guiding-case",
+  "decisionType": "股东诉讼主体资格",
+  "issuesZh": ["第三人撤销之诉", "股东主体资格", "公司与股东区分"],
+  "issuesEn": ["third-party revocation action", "shareholder standing", "separation between company and shareholder"],
+  "holdingZh": "公司股东对公司与他人之间生效裁判通常仅具有间接利益关系，不因股东身份当然取得第三人撤销之诉的原告资格。",
+  "holdingEn": "A company shareholder ordinarily has only an indirect interest in an effective judgment between the company and a third party, and shareholder status alone does not confer standing to bring a third-party revocation action.",
+  "topics": ["shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/shenpan/xiangqing/288591.html",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

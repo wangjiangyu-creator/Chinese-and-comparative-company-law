@@ -1,0 +1,37 @@
+{
+  "titleZh": "北京市高级人民法院关于加快破产案件审理的意见",
+  "titleEn": "Beijing High Court Opinion on Accelerating the Hearing of Bankruptcy Cases",
+  "shortTitle": "北京高院加快破产审理意见",
+  "aliases": ["关于加快破产案件审理的意见", "快速审理破产意见"],
+  "jurisdiction": "cn",
+  "documentType": "judicial-policy",
+  "authorityLevel": "judicial-policy",
+  "issuingBodyZh": "北京市高级人民法院",
+  "issuingBodyEn": "Beijing High People's Court",
+  "promulgationDate": "2018-04-04",
+  "effectiveDate": "2018-04-04",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["dissolution-liquidation", "business-environment"],
+  "summaryZh": "明确破产案件繁简分流、快速审理、财产统查和强制清算参照适用等机制，是北京地区公司破产与强制清算审理的重要审判政策文件。",
+  "summaryEn": "A Beijing High Court policy opinion that sets out fast-track bankruptcy mechanisms, simplified procedure, unified asset search, and reference use in compulsory liquidation matters.",
+  "versionGroup": "bj-high-court-bankruptcy-fast-track-opinion",
+  "versionLabel": "2018 text",
+  "judicialMaterialClass": "local-high-court-guidance",
+  "relatedCaseIds": [
+    "cn-guiding-case-8-company-dissolution",
+    "cn-guiding-case-9-liquidation-liability",
+    "cn-reference-case-closure-operator-liquidation-liability"
+  ],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://www.beijing.gov.cn/zhengce/gfxwj/201905/t20190522_61041.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

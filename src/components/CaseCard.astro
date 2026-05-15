@@ -1,0 +1,31 @@
+---
+import { pickLocalized, toLocalePath, type Locale } from "@/lib/i18n";
+import {
+  formatCaseClassificationLabel,
+  formatCaseTypeLabel,
+  formatCaseCitationLabel
+} from "@/lib/labels";
+import type { ResolvedCase } from "@/lib/portal-data";
+
+type Props = {
+  record: ResolvedCase;
+  locale: Locale;
+};
+
+const { record, locale } = Astro.props;
+const href = toLocalePath(locale, `/cases/${record.id}/`);
+---
+
+<article class="card">
+  <div class="badge-row">
+    <span class="badge">{formatCaseClassificationLabel(locale, record.classificationId)}</span>
+    <span class="badge">{formatCaseTypeLabel(locale, record.caseType)}</span>
+    <span class="badge">{formatCaseCitationLabel(locale, record.citation)}</span>
+  </div>
+  <h3 class="record-card-title"><a href={href}>{pickLocalized(locale, record.titleZh, record.titleEn)}</a></h3>
+  <p>{pickLocalized(locale, record.holdingZh, record.holdingEn)}</p>
+  <div class="record-card-footer">
+    <span>{pickLocalized(locale, record.forumZh, record.forumEn)}</span>
+    <span>{record.year}</span>
+  </div>
+</article>

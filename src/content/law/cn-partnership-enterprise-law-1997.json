@@ -1,0 +1,41 @@
+{
+  "titleZh": "中华人民共和国合伙企业法（1997年制定）",
+  "titleEn": "Partnership Enterprise Law of the People's Republic of China (1997 Original Enactment)",
+  "shortTitle": "合伙企业法（1997）",
+  "aliases": ["1997 Partnership Enterprise Law"],
+  "jurisdiction": "cn",
+  "documentType": "law",
+  "authorityLevel": "national-law",
+  "issuingBodyZh": "全国人民代表大会常务委员会",
+  "issuingBodyEn": "Standing Committee of the National People's Congress",
+  "promulgationDate": "1997-02-23",
+  "effectiveDate": "1997-08-01",
+  "status": "historical",
+  "languageStatus": "official-bilingual",
+  "languages": ["zh", "en"],
+  "textStatus": "metadata-only",
+  "topics": ["partnership-enterprises", "dissolution-liquidation"],
+  "summaryZh": "1997年通过、1997年8月1日施行的首部《合伙企业法》，主要规范普通合伙企业，为2006年引入有限合伙和特殊普通合伙之前的基础文本。",
+  "summaryEn": "The original 1997 Partnership Enterprise Law, effective on 1 August 1997, focused on general partnerships and predates the 2006 introduction of limited and special general partnerships.",
+  "versionGroup": "cn-partnership-enterprise-law",
+  "versionLabel": "1997 original enactment",
+  "nextVersionId": "cn-partnership-enterprise-law-2006",
+  "relatedCaseIds": [
+    "cn-gazette-case-partnership-external-liability-nantong-shuangying"
+  ],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official Chinese",
+      "url": "https://www.gov.cn/banshi/2005-08/31/content_69790.htm",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Official English",
+      "url": "https://www.npc.gov.cn/zgrdw/englishnpc/Law/2007-12/11/content_1383548.htm",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

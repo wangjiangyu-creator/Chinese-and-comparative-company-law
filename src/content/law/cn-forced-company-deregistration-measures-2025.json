@@ -1,0 +1,35 @@
+{
+  "titleZh": "强制注销公司登记制度实施办法",
+  "titleEn": "Measures for the Implementation of the Mandatory Deregistration of Companies",
+  "shortTitle": "强制注销公司登记制度实施办法",
+  "aliases": ["市场监管总局令第105号"],
+  "jurisdiction": "cn",
+  "documentType": "departmental-rule",
+  "authorityLevel": "departmental-rule",
+  "issuingBodyZh": "国家市场监督管理总局",
+  "issuingBodyEn": "State Administration for Market Regulation",
+  "promulgationDate": "2025-09-05",
+  "effectiveDate": "2025-10-10",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["business-environment", "dissolution-liquidation"],
+  "summaryZh": "围绕公司法第二百四十一条建立强制注销程序，针对被吊销、责令关闭或者撤销后长期未申请注销的公司，细化公告、异议和注销流程。",
+  "summaryEn": "The SAMR rule implementing Company Law Article 241 by detailing notice, objection, and deregistration procedures for companies long inactive after revocation, closure, or license cancellation.",
+  "versionGroup": "cn-forced-company-deregistration-measures",
+  "versionLabel": "Order No. 105",
+  "relatedCaseIds": [
+    "cn-database-case-port-company-dissolution",
+    "cn-reference-case-closure-operator-liquidation-liability"
+  ],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://www.gov.cn/zhengce/202509/content_7041382.htm",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

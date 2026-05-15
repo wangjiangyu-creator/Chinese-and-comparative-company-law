@@ -1,0 +1,269 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import CaseCard from "@/components/CaseCard.astro";
+import { pickLocalized, type Locale } from "@/lib/i18n";
+import {
+  formatCaseClassificationLabel,
+  formatCaseTypeLabel,
+  formatJurisdictionLabel
+} from "@/lib/labels";
+import { getPortalSnapshot } from "@/lib/portal-data";
+
+type Props = {
+  locale: Locale;
+  path: string;
+};
+
+const { locale, path } = Astro.props;
+const snapshot = await getPortalSnapshot();
+const isZh = locale === "zh";
+
+const orderedCaseTypes = ["guiding-case", "reference-case", "database-case", "comparative-case"] as const;
+const orderedCaseTypeLabels = orderedCaseTypes.map((caseType) => ({
+  id: caseType,
+  label: formatCaseTypeLabel(locale, caseType)
+}));
+const orderedCaseClassifications = [
+  "fiduciary-loyalty",
+  "representative-action",
+  "related-party-misappropriation",
+  "board-governance-resolution",
+  "legal-representative-and-seal-control",
+  "profit-distribution-remedies",
+  "inspection-books-evidence",
+  "shareholder-status-equity-ownership",
+  "registration-legal-representative",
+  "capital-contribution-maintenance",
+  "corporate-reorganization-form-change",
+  "vam-disputes",
+  "corporate-veil-piercing",
+  "dissolution-liquidation",
+  "listed-company-governance",
+  "partnership-governance",
+  "comparative-corporate",
+  "general-corporate-governance"
+].filter((classificationId) =>
+  snapshot.cases.some((record) => record.classificationId === classificationId)
+);
+
+const casesByType = orderedCaseTypes.map((caseType) => ({
+  caseType,
+  label: formatCaseTypeLabel(locale, caseType),
+  records: snapshot.cases
+    .filter((record) => record.caseType === caseType)
+    .sort((a, b) => b.year - a.year)
+}));
+
+const jurisdictions = [...new Set(snapshot.cases.map((record) => record.jurisdiction))];
+const jurisdictionOrder = ["cn", "us", "uk", "de", "hk", "sg"];
+const orderedJurisdictions = jurisdictions.sort(
+  (a, b) => jurisdictionOrder.indexOf(a) - jurisdictionOrder.indexOf(b)
+);
+const topicLabels = new Map(
+  snapshot.topics.map((topic) => [topic.id, pickLocalized(locale, topic.nameZh, topic.nameEn)])
+);
+const orderedTopics = [...new Set(snapshot.cases.flatMap((record) => record.topics))].sort((left, right) => {
+  const leftLabel = topicLabels.get(left) ?? left;
+  const rightLabel = topicLabels.get(right) ?? right;
+
+  return isZh
+    ? leftLabel.localeCompare(rightLabel, "zh-CN")
+    : leftLabel.localeCompare(rightLabel, "en");
+});
+---
+
+<BaseLayout
+  locale={locale}
+  path={path}
+  titleZh="案例库"
+  titleEn="Case Library"
+  descriptionZh="以裁判要旨、官方来源和关联法条为核心的中国与比较公司法案例入口。"
+  descriptionEn="A case library centered on holdings, official sources, and linked statutes."
+>
+  <section class="hero">
+    <span class="eyebrow">{isZh ? "案例 / Holdings / Linkage" : "Cases / Holdings / Linkage"}</span>
+    <h1 class="page-title">{isZh ? "案例库" : "Case Library"}</h1>
+    <p class="lede">
+      {isZh
+        ? "中国案例优先，比较法案例作为轻量补充；现已支持按案例类型、法域、争点分类和专题交叉筛选。"
+        : "China cases come first, with lighter comparative additions and filters by case type, jurisdiction, issue category, and topic."}
+    </p>
+  </section>
+
+  <section
+    class="filters case-filters"
+    data-count-label={isZh ? "条" : "cases"}
+    data-match-label={isZh ? "匹配" : "matched"}
+    data-no-match-zh="未找到匹配的案例"
+    data-no-match-en="No matching cases found"
+    data-locale={locale}
+  >
+    <div class="filters-grid filters-grid-compact">
+      <label>
+        {isZh ? "关键词搜索（标题/要旨）" : "Search (title/holding summary)"}
+        <input
+          id="case-search"
+          type="search"
+          placeholder={isZh ? "如：关联交易、股东知情权、董监高" : "e.g. related transaction, shareholder inspection, directors"}
+        />
+      </label>
+      <label>
+        {isZh ? "案例类型" : "Case type"}
+        <select id="case-type-filter">
+          <option value="all">{isZh ? "全部" : "All"}</option>
+          {orderedCaseTypeLabels.map((type) => (
+            <option value={type.id}>{type.label}</option>
+          ))}
+        </select>
+      </label>
+      <label>
+        {isZh ? "法域" : "Jurisdiction"}
+        <select id="case-jurisdiction-filter">
+          <option value="all">{isZh ? "全部" : "All"}</option>
+          {orderedJurisdictions.map((jurisdiction) => (
+            <option value={jurisdiction}>{formatJurisdictionLabel(locale, jurisdiction)}</option>
+          ))}
+        </select>
+      </label>
+      <label>
+        {isZh ? "争点分类" : "Issue category"}
+        <select id="case-classification-filter">
+          <option value="all">{isZh ? "全部" : "All"}</option>
+          {orderedCaseClassifications.map((classificationId) => (
+            <option value={classificationId}>
+              {formatCaseClassificationLabel(locale, classificationId)}
+            </option>
+          ))}
+        </select>
+      </label>
+      <label>
+        {isZh ? "专题" : "Topic"}
+        <select id="case-topic-filter">
+          <option value="all">{isZh ? "全部" : "All"}</option>
+          {orderedTopics.map((topic) => (
+            <option value={topic}>
+              {pickLocalized(locale, topicLabels.get(topic) ?? topic, topicLabels.get(topic) ?? topic)}
+            </option>
+          ))}
+        </select>
+      </label>
+    </div>
+    <div class="filters-note" id="case-filter-note"></div>
+  </section>
+
+  <section class="case-groups">
+    {casesByType.map((group) => (
+      <section class="case-group" data-case-group={group.caseType}>
+        <div class="case-group-head">
+          <h2>{group.label}</h2>
+          <span class="case-group-count" data-case-group-count={`count-${group.caseType}`}>0</span>
+        </div>
+        {group.records.length > 0 ? (
+          <div class="record-grid">
+            {group.records.map((record) => {
+              const searchableText = `${pickLocalized(locale, record.titleZh, record.titleEn)} ${pickLocalized(
+                locale,
+                record.holdingZh,
+                record.holdingEn
+              )} ${record.citation}`.toLowerCase();
+              return (
+                <div
+                  class="case-card-shell"
+                  data-case-entry="true"
+                  data-case-type={record.caseType}
+                  data-case-jurisdiction={record.jurisdiction}
+                  data-case-classification={record.classificationId}
+                  data-case-topics={record.topics.join("|")}
+                  data-case-search={searchableText}
+                >
+                  <CaseCard record={record} locale={locale} />
+                </div>
+              );
+            })}
+          </div>
+        ) : (
+          <div class="directory-empty">
+            {isZh ? "该类型暂未录入案例。" : "No cases have been added to this category yet."}
+          </div>
+        )}
+      </section>
+    ))}
+  </section>
+
+  <script is:inline>
+    const searchInput = document.getElementById("case-search");
+    const typeFilter = document.getElementById("case-type-filter");
+    const jurisdictionFilter = document.getElementById("case-jurisdiction-filter");
+    const classificationFilter = document.getElementById("case-classification-filter");
+    const topicFilter = document.getElementById("case-topic-filter");
+    const caseGroups = [...document.querySelectorAll("[data-case-group]")];
+    const note = document.getElementById("case-filter-note");
+    const filtersPanel = document.querySelector(".case-filters");
+    const countLabel = filtersPanel?.dataset.countLabel ?? "entries";
+    const matchLabel = filtersPanel?.dataset.matchLabel ?? "matched";
+    const noMatchZh = filtersPanel?.dataset.noMatchZh ?? "未找到匹配的案例";
+    const noMatchEn = filtersPanel?.dataset.noMatchEn ?? "No matching cases found";
+    const locale = filtersPanel?.dataset.locale || "zh";
+
+    const applyCaseFilters = () => {
+      const searchValue = (searchInput?.value ?? "").trim().toLowerCase();
+      const selectedType = typeFilter?.value ?? "all";
+      const selectedJurisdiction = jurisdictionFilter?.value ?? "all";
+      const selectedClassification = classificationFilter?.value ?? "all";
+      const selectedTopic = topicFilter?.value ?? "all";
+      let totalVisible = 0;
+
+      caseGroups.forEach((group) => {
+        const countNode = group.querySelector("[data-case-group-count]");
+        let visibleCount = 0;
+        const cards = [...group.querySelectorAll("[data-case-entry='true']")];
+
+        cards.forEach((card) => {
+          const searchText = (card.getAttribute("data-case-search") ?? "").toLowerCase();
+          const recordType = card.getAttribute("data-case-type");
+          const jurisdiction = card.getAttribute("data-case-jurisdiction");
+          const classification = card.getAttribute("data-case-classification");
+          const topics = (card.getAttribute("data-case-topics") ?? "").split("|");
+          const matchesSearch = !searchValue || searchText.includes(searchValue);
+          const matchesType = selectedType === "all" || recordType === selectedType;
+          const matchesJurisdiction = selectedJurisdiction === "all" || jurisdiction === selectedJurisdiction;
+          const matchesClassification =
+            selectedClassification === "all" || classification === selectedClassification;
+          const matchesTopic = selectedTopic === "all" || topics.includes(selectedTopic);
+          const shouldShow =
+            matchesSearch &&
+            matchesType &&
+            matchesJurisdiction &&
+            matchesClassification &&
+            matchesTopic;
+
+          card.style.display = shouldShow ? "" : "none";
+          if (shouldShow) {
+            visibleCount += 1;
+            totalVisible += 1;
+          }
+        });
+
+        if (countNode) {
+          countNode.textContent = `${visibleCount}`;
+        }
+        group.style.display = visibleCount > 0 ? "grid" : "none";
+      });
+
+      if (note) {
+        if (totalVisible === 0) {
+          note.textContent = locale === "zh" ? noMatchZh : noMatchEn;
+        } else {
+          note.textContent = `${totalVisible} ${countLabel} ${matchLabel}`;
+        }
+      }
+    };
+
+    searchInput?.addEventListener("input", applyCaseFilters);
+    typeFilter?.addEventListener("change", applyCaseFilters);
+    jurisdictionFilter?.addEventListener("change", applyCaseFilters);
+    classificationFilter?.addEventListener("change", applyCaseFilters);
+    topicFilter?.addEventListener("change", applyCaseFilters);
+    applyCaseFilters();
+  </script>
+</BaseLayout>

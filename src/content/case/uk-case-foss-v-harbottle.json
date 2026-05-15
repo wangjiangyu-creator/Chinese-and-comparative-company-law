@@ -1,0 +1,25 @@
+{
+  "titleZh": "Foss 诉 Harbottle",
+  "titleEn": "Foss v Harbottle",
+  "forumZh": "英国衡平法院",
+  "forumEn": "Court of Chancery",
+  "citation": "(1843) 2 Hare 461",
+  "year": 1843,
+  "jurisdiction": "uk",
+  "caseType": "comparative-case",
+  "decisionType": "派生诉讼与不公平损害",
+  "issuesZh": ["多数决规则", "派生诉讼", "少数股东救济"],
+  "issuesEn": ["majority rule", "derivative actions", "minority shareholder remedies"],
+  "holdingZh": "Foss v Harbottle 提出“公司自身受损应由公司起诉”和多数决优先的经典规则，是理解后续派生诉讼与少数股东例外救济的基础。",
+  "holdingEn": "Foss v Harbottle articulated the classic rule that wrongs to the company should generally be pursued by the company itself and that majority rule prevails, providing the foundation for later derivative and minority-protection exceptions.",
+  "topics": ["shareholder-rights", "corporate-governance", "comparative-governance"],
+  "relatedLawIds": ["uk-companies-act-2006"],
+  "sources": [
+    {
+      "label": "Research platform",
+      "url": "https://uklawreference.com/cases/foss-v-harbottle",
+      "official": false,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "titleZh": "Weinberger 诉 UOP",
+  "titleEn": "Weinberger v. UOP, Inc.",
+  "forumZh": "特拉华州最高法院",
+  "forumEn": "Supreme Court of Delaware",
+  "citation": "457 A.2d 701 (Del. 1983)",
+  "year": 1983,
+  "jurisdiction": "us",
+  "caseType": "comparative-case",
+  "decisionType": "全体公平审查",
+  "issuesZh": ["控制股东现金并购", "少数股东保护", "信息披露与利益冲突"],
+  "issuesEn": ["controller cash-out merger", "minority-shareholder protection", "disclosure and conflicts of interest"],
+  "holdingZh": "Weinberger 重构了特拉华州对控制股东挤出式并购的审查路径，强调“全体公平”同时包含公平交易和公平价格，并弱化僵化的旧式估值与诉因框架。",
+  "holdingEn": "Weinberger reshaped Delaware review of controller squeeze-outs by emphasizing that entire fairness encompasses both fair dealing and fair price, while relaxing older, rigid valuation and cause-of-action limits.",
+  "topics": ["listed-companies", "corporate-governance", "shareholder-rights", "comparative-governance", "directors-officer-loyalty-and-duties"],
+  "relatedLawIds": ["us-delaware-general-corporation-law"],
+  "sources": [
+    {
+      "label": "Research platform",
+      "url": "https://law.justia.com/cases/delaware/supreme-court/1983/457-a-2d-701-4.html",
+      "official": false,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "titleZh": "罗某和诉维康公司、尼克公司民间借贷纠纷案",
+  "titleEn": "Reference Case: Luo Mouhe v. Weikang Company and Nike Company",
+  "forumZh": "佛山市中级人民法院（广东法院第三批粤港澳大湾区跨境纠纷典型案例）",
+  "forumEn": "Foshan Intermediate People's Court (Guangdong Courts Third Batch of Greater Bay Area Cross-Border Dispute Model Cases)",
+  "citation": "广东法院典型案例：维康/尼克关联公司人格混同",
+  "year": 2021,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "民间借贷纠纷",
+  "issuesZh": [
+    "关联公司人格混同",
+    "统一对外挂牌与共同财务负责人",
+    "跨公司收款与代偿债务"
+  ],
+  "issuesEn": [
+    "commingling among affiliated companies",
+    "shared branding and common financial control",
+    "cross-company receipt of funds and assumption of debts"
+  ],
+  "holdingZh": "佛山市中级人民法院在广东高院发布的跨境纠纷典型案例中认定，维康公司、尼克公司等关联公司由同一实际控制人和财务负责人统一支配，在同一地点办公并对外统一以“环球卓越集团”名义开展业务，且相互收取对方款项、承担对方债务，致使财产边界不清并丧失独立人格。法院据此判令维康公司返还借款本息，尼克公司承担连带清偿责任。",
+  "holdingEn": "In a Greater Bay Area model case released by the Guangdong High Court, the Foshan Intermediate People's Court found veil-piercing appropriate because affiliated companies under the same actual controller and finance head operated from the same location, used a unified external brand, and repeatedly collected one another's funds or assumed one another's debts. The court held that the companies had lost separate personality and imposed joint liability on Nike Company for Weikang Company's loan debt.",
+  "topics": [
+    "corporate-veil-piercing",
+    "corporate-governance"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-civil-code-2020-legal-person",
+    "cn-national-civil-commercial-trial-minutes-2019"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.gdcourts.gov.cn/gsxx/quanweifabu/anlihuicui/content/post_1046945.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

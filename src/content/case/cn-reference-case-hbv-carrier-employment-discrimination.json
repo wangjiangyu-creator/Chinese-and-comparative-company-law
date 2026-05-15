@@ -1,0 +1,29 @@
+{
+  "titleZh": "李某诉重庆某商务公司平等就业权纠纷案",
+  "titleEn": "Reference Case: Li Mou v. Chongqing Business Company on Equal Employment Rights",
+  "forumZh": "重庆市第五中级人民法院（二审，官方公开案例）",
+  "forumEn": "Chongqing Fifth Intermediate People's Court (second instance, officially published case)",
+  "citation": "地方参考案例：乙肝携带求职歧视",
+  "year": 2025,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "平等就业权纠纷",
+  "issuesZh": ["乙肝病原携带者就业歧视", "招聘体检边界", "举证责任分配"],
+  "issuesEn": [
+    "employment discrimination against an HBV carrier",
+    "limits of pre-employment health screening",
+    "allocation of the burden of proof"
+  ],
+  "holdingZh": "求职者已经初步证明其符合岗位要求，却在乙肝检测结果披露后被拒绝录用且用人单位继续招聘同一岗位的，举证责任应转移至用人单位。用人单位以与工作内在要求没有必然联系的健康因素区别对待劳动者的，构成就业歧视，应承担赔礼道歉和精神损害赔偿等民事责任。",
+  "holdingEn": "Once an applicant makes a prima facie showing that they met the job requirements and was rejected only after an HBV-related screening while the employer continued recruiting for the same post, the burden shifts to the employer. Distinguishing against workers on health grounds unrelated to the intrinsic requirements of the job constitutes employment discrimination and gives rise to civil remedies including apology and emotional-distress damages.",
+  "topics": ["corporate-social-responsibility"],
+  "relatedLawIds": ["cn-company-law-2023", "cn-civil-code-2020-legal-person"],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.sdcourt.gov.cn/wfwcqfy/443527/443501/41934968/index.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

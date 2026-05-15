@@ -1,0 +1,36 @@
+{
+  "titleZh": "中华人民共和国公司登记管理条例（2014年修订）",
+  "titleEn": "Regulations of the People's Republic of China on the Administration of Company Registration (2014 Revision)",
+  "shortTitle": "公司登记管理条例（2014）",
+  "aliases": ["国务院令第648号"],
+  "jurisdiction": "cn",
+  "documentType": "administrative-regulation",
+  "authorityLevel": "administrative-regulation",
+  "issuingBodyZh": "国务院",
+  "issuingBodyEn": "State Council",
+  "promulgationDate": "2014-02-19",
+  "effectiveDate": "2014-03-01",
+  "status": "historical",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["business-environment", "corporate-formation", "registered-capital"],
+  "summaryZh": "围绕注册资本登记制度改革完成的重要整理文本，取消最低注册资本和验资等旧制度，是新公司法实施后公司登记规则的关键版本。",
+  "summaryEn": "A key consolidated text after capital-registration reform, removing former minimum-capital and capital-verification requirements and serving as the pivotal post-new-Company-Law registration regime.",
+  "versionGroup": "cn-company-registration-regulations",
+  "versionLabel": "2014 amendment",
+  "previousVersionId": "cn-company-registration-regulations-1994",
+  "nextVersionId": "cn-company-registration-regulations-2016",
+  "applicablePeriodZh": "2014年3月1日起适用，是注册资本登记制度改革后的重要整理文本，至 2016 年再次修订前持续适用。",
+  "applicablePeriodEn": "Applied from March 1, 2014, as a key post-capital-reform consolidated text until the 2016 revision.",
+  "relatedCaseIds": ["cn-database-case-change-registration-chen-moufei"],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official Chinese",
+      "url": "https://www.gov.cn/gongbao/content/2014/content_2695351.htm",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

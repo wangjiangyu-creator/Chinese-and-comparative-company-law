@@ -1,0 +1,48 @@
+{
+  "titleZh": "中华人民共和国公司登记管理条例（2016年修订）",
+  "titleEn": "Regulations of the People's Republic of China on the Administration of Company Registration (2016 Revision)",
+  "shortTitle": "公司登记管理条例（2016）",
+  "aliases": ["国务院令第666号"],
+  "jurisdiction": "cn",
+  "documentType": "administrative-regulation",
+  "authorityLevel": "administrative-regulation",
+  "issuingBodyZh": "国务院",
+  "issuingBodyEn": "State Council",
+  "promulgationDate": "2016-02-06",
+  "effectiveDate": "2016-02-06",
+  "status": "historical",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["business-environment", "corporate-formation", "registered-capital"],
+  "summaryZh": "市场主体登记制度全面统一前，公司登记管理条例的末次国务院修订文本，也是《市场主体登记管理条例》施行前的最后一版公司登记行政法规。",
+  "summaryEn": "The final State Council revision of the Company Registration Regulation before the unified market-entity registration regime, and the last dedicated administrative regulation on company registration before the 2022 shift.",
+  "versionGroup": "cn-company-registration-regulations",
+  "versionLabel": "2016 amendment",
+  "previousVersionId": "cn-company-registration-regulations-2014",
+  "applicablePeriodZh": "2016年2月6日起适用，至 2022年3月1日《市场主体登记管理条例》施行后由统一的市场主体登记制度取代。",
+  "applicablePeriodEn": "Applied from February 6, 2016, until March 1, 2022, when the unified Market Entity Registration Regulations took effect.",
+  "repealBasisZh": "2022年3月1日起，《中华人民共和国市场主体登记管理条例》施行，公司登记管理条例不再作为独立公司登记行政法规继续适用。",
+  "repealBasisEn": "As of March 1, 2022, the unified Market Entity Registration Regulations took effect, displacing the separate Company Registration Regulation as an independent company-registration regime.",
+  "relatedCaseIds": [
+    "cn-database-case-change-registration-chen-moufei",
+    "cn-reference-case-spring-auto-establishment-registration"
+  ],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official Chinese",
+      "url": "https://www.samr.gov.cn/djzcj/zcfg/fg/art/2023/art_67239ccccdb94ba4b9e23c953efff600.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Official release",
+      "url": "https://www.gov.cn/zhengce/2023-03/24/content_5748299.htm",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "国务院规章数据库中的整理文本页面，可作为国家市场监管总局页面之外的官方备链。",
+      "noteEn": "The State Council regulations database provides a second official access path in addition to the SAMR page."
+    }
+  ]
+}

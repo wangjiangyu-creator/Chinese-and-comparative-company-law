@@ -1,0 +1,32 @@
+{
+  "titleZh": "英国《收购与合并守则》",
+  "titleEn": "City Code on Takeovers and Mergers",
+  "shortTitle": "英国收购守则",
+  "aliases": ["The Takeover Code"],
+  "jurisdiction": "uk",
+  "documentType": "regulatory-code",
+  "authorityLevel": "regulatory-code",
+  "issuingBodyZh": "英国收购与合并委员会",
+  "issuingBodyEn": "The Panel on Takeovers and Mergers",
+  "promulgationDate": "2023-12-31",
+  "effectiveDate": "2023-12-31",
+  "status": "reference",
+  "languageStatus": "official-en",
+  "languages": ["en"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "corporate-reorganization", "shareholder-rights", "comparative-governance"],
+  "summaryZh": "英国《收购与合并守则》是上市公司控制权变动的核心规则，集中体现平等待遇、程序公开和控制权交易中的董事会边界。",
+  "summaryEn": "The Takeover Code is the central UK rulebook for changes of control in public companies, emphasizing equal treatment, procedural fairness, and board neutrality in takeover settings.",
+  "versionGroup": "uk-takeover-code",
+  "versionLabel": "current code",
+  "relatedCaseIds": ["uk-case-howard-smith-v-ampol"],
+  "relatedArticleIds": ["article-pbook-gower-davies-principles"],
+  "sources": [
+    {
+      "label": "Official English",
+      "url": "https://code.thetakeoverpanel.org.uk/code.pdf",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

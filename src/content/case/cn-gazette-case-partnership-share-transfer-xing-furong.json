@@ -1,0 +1,25 @@
+{
+  "titleZh": "邢福荣与北京鼎典泰富投资管理有限公司、丁世国等合伙企业财产份额转让纠纷案",
+  "titleEn": "Gazette Case: Xing Furong v. Beijing Dingdian Taifu Investment Management Co., Ltd., Ding Shiguo et al.",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "公报案例：合伙份额转让",
+  "year": 2020,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "合伙企业财产份额转让纠纷",
+  "issuesZh": ["合伙协议中的份额转让限制", "普通合伙人与有限合伙人之间的角色变化", "全体合伙人一致同意要求"],
+  "issuesEn": ["transfer restrictions in the partnership agreement", "role change between general and limited partners", "requirement of unanimous partner consent"],
+  "holdingZh": "最高人民法院公报案例确认：对合伙人之间转让财产份额，如果合伙协议对受让主体、同意程序和角色转换作出特别约定，且该约定不违反强制性规定，就应当有效并受法院支持。有限合伙人向普通合伙人转让份额并引致身份转换时，人民法院可以严格依照协议审查是否取得全体合伙人一致同意。",
+  "holdingEn": "The Gazette case confirms that special transfer restrictions in a partnership agreement remain enforceable if they do not violate mandatory law. Where a transfer of a limited-partner interest to a general partner would alter partner status, the court may strictly require compliance with unanimous-consent provisions in the partnership agreement.",
+  "topics": ["partnership-enterprises"],
+  "relatedLawIds": ["cn-partnership-enterprise-law-2006"],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/17c4a10887eb61346f7e9c255b710a.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "titleZh": "梁某某诉广东惠食佳经济发展有限公司、广州市越秀区名豪轩鱼翅海鲜大酒楼人格权纠纷案",
+  "titleEn": "Reference Case: Liang Moumou v. Guangdong Huishijia Economic Development Co., Ltd. and Guangzhou Yuexiu Minghaoxuan Seafood Restaurant",
+  "forumZh": "广东省广州市海珠区人民法院、广州市中级人民法院（官方公开案例）",
+  "forumEn": "Haizhu District People's Court and Guangzhou Intermediate People's Court (officially published case)",
+  "citation": "地方参考案例：厨房学徒性别歧视",
+  "year": 2016,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "人格权纠纷",
+  "issuesZh": ["招聘性别歧视", "平等就业权", "人格权保护", "公开赔礼道歉"],
+  "issuesEn": [
+    "sex discrimination in hiring",
+    "equal employment rights",
+    "protection of personality rights",
+    "public written apology"
+  ],
+  "holdingZh": "招聘岗位并非法律规定不适合女性从事的工种时，用人单位仅以性别为由对女性应聘者作出区别、限制和排斥，构成就业性别歧视并侵害平等就业权。人民法院可以判令经营者承担书面赔礼道歉和精神损害赔偿责任。",
+  "holdingEn": "When the post is not one legally unsuitable for women, an employer's decision to exclude or restrict applicants solely because of sex constitutes employment discrimination and infringes equal employment rights. Courts may order a written apology and compensation for emotional harm.",
+  "topics": ["corporate-social-responsibility"],
+  "relatedLawIds": ["cn-company-law-2023", "cn-civil-code-2020-legal-person"],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.sdcourt.gov.cn/jningwensfy/385597/385598/9043560/index.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/e9b78db005caaa180faa14da58b33d.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

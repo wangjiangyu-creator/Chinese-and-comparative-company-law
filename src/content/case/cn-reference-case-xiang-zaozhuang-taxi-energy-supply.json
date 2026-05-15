@@ -1,0 +1,40 @@
+{
+  "titleZh": "项某某与枣庄市某出租汽车有限公司、第三人枣庄市某能源供应有限公司公司关联交易损害责任纠纷案",
+  "titleEn": "Xiang v. Zaozhuang Taxi Co., Ltd. and Zaozhuang Energy Supply Co., Ltd.",
+  "forumZh": "枣庄市中级人民法院（营商环境与中小投资者保护案例）",
+  "forumEn": "Zaozhuang Intermediate People's Court (business-environment and investor-protection case note)",
+  "citation": "枣庄中院案例：股东借贷型关联交易与公司利益保护",
+  "year": 2022,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司关联交易损害责任纠纷",
+  "issuesZh": ["股东借贷型关联交易", "关联交易公允性审查", "利息标准与公司损失计算"],
+  "issuesEn": [
+    "shareholder-loan related-party transactions",
+    "fairness review of related-party transactions",
+    "interest-rate benchmark and calculation of company loss"
+  ],
+  "holdingZh": "法院认为，公司法并不当然禁止关联交易，但控股股东及其关联方不得借交易安排转移公司利益。本案中，控股股东长期占用公司资金且未就利息形成明确约定，事后以远高于银行同期贷款利率的标准统一结算，属于借贷型关联交易中的明显不公允安排。法院据此按照更合理利率区间核减并判令返还由此给公司造成的差额损失。",
+  "holdingEn": "The court held that Company Law does not prohibit related-party transactions as such, but controlling shareholders and their affiliates may not use such arrangements to divert corporate value. Here, the controller occupied company funds for a long period without a clear interest agreement and later settled on an interest rate far above ordinary bank lending rates. The court treated that as an unfair shareholder-loan related-party transaction and ordered recovery of the resulting excess loss to the company.",
+  "topics": [
+    "corporate-governance",
+    "actual-controller-tunneling",
+    "related-transaction-harm",
+    "shareholder-rights"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-5-2021"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.sdcourt.gov.cn/zzzy/yhyshj74/8293933/index.html",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "法院官网发布的营商环境与中小投资者保护案例。",
+      "noteEn": "Official court case note published as part of a business-environment and investor-protection series."
+    }
+  ]
+}

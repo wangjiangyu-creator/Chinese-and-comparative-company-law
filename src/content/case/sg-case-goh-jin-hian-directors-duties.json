@@ -1,0 +1,25 @@
+{
+  "titleZh": "Goh Jin Hian 诉 Inter-Pacific Petroleum Pte Ltd",
+  "titleEn": "Goh Jin Hian v Inter-Pacific Petroleum Pte Ltd",
+  "forumZh": "新加坡司法机关案例简报",
+  "forumEn": "Singapore Judiciary Case Brief",
+  "citation": "[2024] HC(A)",
+  "year": 2025,
+  "jurisdiction": "sg",
+  "caseType": "comparative-case",
+  "decisionType": "董事义务",
+  "issuesZh": ["董事忠实义务", "董事监督职责"],
+  "issuesEn": ["directors' duties", "oversight duties"],
+  "holdingZh": "该案例简报强调新加坡法下董事是“守望者而非侦探”，用于对照中国董事忠实勤勉义务讨论。",
+  "holdingEn": "The case brief frames directors as 'sentinels, not sleuths', useful for comparing oversight expectations with Chinese law.",
+  "topics": ["corporate-governance", "comparative-governance", "directors-officer-loyalty-and-duties"],
+  "relatedLawIds": ["sg-companies-act-1967", "sg-mainboard-rules-governance"],
+  "sources": [
+    {
+      "label": "Official English",
+      "url": "https://www.judiciary.gov.sg/judgments/case-briefs-by-smu/goh-jin-hian-v-inter-pacific-petroleum-pte-ltd",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

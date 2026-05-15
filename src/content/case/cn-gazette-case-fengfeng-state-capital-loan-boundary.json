@@ -1,0 +1,47 @@
+{
+  "titleZh": "峰峰集团有限公司与中国节能投资公司借款合同纠纷案",
+  "titleEn": "Gazette Case: Fengfeng Group Co., Ltd. v. China Energy Conservation Investment Corporation",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "（2007）民二终字第19号",
+  "year": 2007,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "借款合同纠纷",
+  "issuesZh": [
+    "国家基本建设经营性基金转增国家资本金",
+    "国家出资人职能的政策配置",
+    "政府调整划转国有资产与民事受案边界",
+    "借款合同清偿责任"
+  ],
+  "issuesEn": [
+    "conversion of state infrastructure operating funds into state capital",
+    "policy allocation of state investor functions",
+    "boundary between state-asset adjustment and civil adjudication",
+    "repayment liability under the loan contract"
+  ],
+  "holdingZh": "当事人因占有、使用国家基本建设经营性基金而发生的清偿争议，不当然属于因政府调整、划转企业国有资产而不予受理的民事案件。若国家政策文件已经明确相关债权债务关系划转给特定国家出资企业并由其行使出资人职能，原使用资金的企业仍应依照既有法律关系向该主体履行相应债务，不能仅以国家资本金账务处理或国资协调程序为由否认民事清偿责任。",
+  "holdingEn": "A repayment dispute arising from the possession and use of state infrastructure operating funds does not automatically fall into the category of non-justiciable disputes over governmental adjustment or allocation of enterprise state-owned assets. Where policy documents have already assigned the relevant debt-credit relationship to a designated state-invested enterprise and vested that enterprise with the investor function, the fund-using enterprise must still perform its civil repayment obligation and cannot avoid liability merely by invoking later accounting treatment as state capital or a pending state-asset coordination process.",
+  "topics": ["corporate-governance", "business-environment"],
+  "relatedLawIds": [
+    "cn-company-law-2005",
+    "cn-company-law-2023",
+    "cn-civil-code-2020-legal-person"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/69b1c9b8bd86b72a825c02c484270b.html",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Public English translation",
+      "url": "https://www.lawinfochina.com/display.aspx?EncodingName=gb2312&id=665&lib=case",
+      "noteZh": "用于核对案号及英文案名。",
+      "noteEn": "Used to confirm the case number and the English case title.",
+      "official": false,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

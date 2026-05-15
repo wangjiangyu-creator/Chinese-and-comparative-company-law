@@ -1,0 +1,40 @@
+{
+  "titleZh": "德国《公司治理守则 2022》",
+  "titleEn": "German Corporate Governance Code 2022",
+  "shortTitle": "德国公司治理守则",
+  "aliases": ["DCGK 2022"],
+  "jurisdiction": "de",
+  "documentType": "regulatory-code",
+  "authorityLevel": "regulatory-code",
+  "issuingBodyZh": "德国公司治理守则委员会",
+  "issuingBodyEn": "German Corporate Governance Code Commission",
+  "promulgationDate": "2022-04-28",
+  "effectiveDate": "2022-06-27",
+  "status": "reference",
+  "languageStatus": "official-en",
+  "languages": ["en"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "corporate-governance", "disclosure", "comparative-governance"],
+  "summaryZh": "德国公司治理守则为上市股份公司提供推荐性治理框架，集中体现两层董事会、独立监督和合规披露的德国路径。",
+  "summaryEn": "The German Code supplies a recommendation-based governance framework for listed stock corporations, highlighting the German approach to the two-tier board, independent oversight, and disclosure.",
+  "versionGroup": "de-governance-code",
+  "versionLabel": "current code",
+  "relatedCaseIds": ["de-case-arag-garmenbeck"],
+  "relatedArticleIds": ["article-cambridge-german-company-law-developments"],
+  "sources": [
+    {
+      "label": "Official English (reference)",
+      "url": "https://dcgk.de/files/dcgk/usercontent/en/download/code/220627_German_Corporate_Governance_Code_2022.pdf",
+      "official": true,
+      "lastVerified": "2026-05-16",
+      "noteZh": "委员会提供的英文 convenience translation。",
+      "noteEn": "Convenience translation provided by the Commission."
+    },
+    {
+      "label": "Official release",
+      "url": "https://www.dcgk.de/en/code.html",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

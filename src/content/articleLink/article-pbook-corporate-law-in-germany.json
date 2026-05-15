@@ -1,0 +1,13 @@
+{
+  "titleZh": "《Corporate Law in Germany》",
+  "titleEn": "Corporate Law in Germany",
+  "authors": ["Gerhard Wirth", "Michael Arnold", "Stefan Morshäuser", "Carl Greene"],
+  "publisher": "C.H.Beck",
+  "year": 2024,
+  "sourceKind": "publisher",
+  "jurisdictions": ["de"],
+  "topics": ["corporate-governance", "shareholder-rights", "listed-companies", "comparative-governance"],
+  "abstractZh": "英文写作的德国公司法导论，重点覆盖 GmbH、AG、公司治理以及核心条文的英文术语，是外国研究者进入德国公司法的实用入口。",
+  "abstractEn": "An English-language introduction to German company law covering the GmbH, AG, corporate governance, and key translated statutory concepts, useful for non-German comparative researchers.",
+  "sourceUrl": "https://www.beck-elibrary.de/en/10.17104/9783406827297/corporate-law-in-germany"
+}

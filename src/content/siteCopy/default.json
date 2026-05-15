@@ -1,0 +1,47 @@
+{
+  "defaultLocale": "zh",
+  "siteTitleZh": "中国与比较公司法",
+  "siteTitleEn": "Chinese and Comparative Company Law",
+  "siteSubtitleZh": "中国公司与商事组织法规则入口，强调权威来源、版本关系和双语可读性。",
+  "siteSubtitleEn": "A research portal for Chinese company and business-organization law",
+  "homeIntroZh": "第一版以中国法律法规主库为中心，辅以案例、学术与实务文章链接，以及美国、英国、新加坡、香港、德国的比较法入口，强调权威来源、版本关系和双语可读性。",
+  "homeIntroEn": "Version 1 centers on a China-first corpus of laws and regulations, supported by cases, linked commentary, and a lighter five-jurisdiction comparative layer spanning the United States, the United Kingdom, Singapore, Hong Kong, and Germany.",
+  "moduleOrder": ["laws", "cases", "articles", "comparative", "topics"],
+  "moduleLabels": [
+    {
+      "id": "laws",
+      "labelZh": "中国法律法规",
+      "labelEn": "China Laws and Rules",
+      "summaryZh": "按法律位阶、机关、主题和版本关系浏览中国公司法相关法规。",
+      "summaryEn": "Browse China company-law materials by authority, issuing body, topic, and version chain."
+    },
+    {
+      "id": "cases",
+      "labelEn": "China Cases",
+      "labelZh": "中国案例库",
+      "summaryEn": "Track guiding and reference cases through holdings and linked statutes.",
+      "summaryZh": "以判决要旨和相关法条为中心整理指导案例与参考案例。"
+    },
+    {
+      "id": "articles",
+      "labelZh": "学术与实务文章",
+      "labelEn": "Scholarship and Practitioner Articles",
+      "summaryZh": "只收录元数据、摘要与链接，不在站内复刻全文。",
+      "summaryEn": "Metadata, abstracts, and outbound links only; no full-text hosting in v1."
+    },
+    {
+      "id": "comparative",
+      "labelZh": "比较法",
+      "labelEn": "Comparative Law",
+      "summaryZh": "按美国、英国、新加坡、香港、德国五个法域整理核心公司法法源、判例与导读文献。",
+      "summaryEn": "A five-jurisdiction comparative layer for the United States, the United Kingdom, Singapore, Hong Kong, and Germany."
+    },
+    {
+      "id": "topics",
+      "labelZh": "专题比较",
+      "labelEn": "Topic Comparisons",
+      "summaryZh": "围绕公司成立、治理结构和少数股东保护问题进行主题化连线。",
+      "summaryEn": "Topic pages connect capital, governance, and minority-protection materials."
+    }
+  ]
+}

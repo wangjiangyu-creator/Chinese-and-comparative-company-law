@@ -1,0 +1,29 @@
+{
+  "titleZh": "夏丰与酒奢公司股东知情权纠纷案",
+  "titleEn": "Reference Case: Xia Feng v. Jiushe Company",
+  "forumZh": "上海市第一中级人民法院",
+  "forumEn": "Shanghai No. 1 Intermediate People's Court",
+  "citation": "上海一中院案例：夏丰诉酒奢公司知情权边界",
+  "year": 2022,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股东知情权纠纷",
+  "issuesZh": ["实际股东知情权", "会计账簿与会计凭证区分", "复制账簿限制"],
+  "issuesEn": ["inspection rights of an acknowledged beneficial shareholder", "distinction between accounting books and vouchers", "limits on copying books"],
+  "holdingZh": "法院确认公司及其他实际股东已经承认原告的实际股东身份，故其可以依法行使知情权。股东在已完成书面前置申请且不存在不正当目的时，可查阅公司章程、股东会记录、财务会计报告和会计账簿，但原则上不能复制会计账簿；对会计凭证的查阅则须进一步证明账簿存在明显问题或查阅凭证具有合理必要性，否则不予支持。",
+  "holdingEn": "The court held that because the company and other actual shareholders had acknowledged the claimant's beneficial shareholder status, inspection rights could be exercised. After a proper written demand and absent any improper purpose, the shareholder could inspect the charter, shareholder records, financial reports, and accounting books, but not ordinarily copy the books; inspection of accounting vouchers required a further showing that the books appeared unreliable or that voucher access was reasonably necessary.",
+  "topics": ["shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.hshfy.sh.cn/shfy/web/flws2pdf.jsp?pa=adGFoPaOoMjAyMqOpu6YwMcPx1tUxMjK6xSZ3c3hoPTImd3NsYj3D8crCxdC+9srpz",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

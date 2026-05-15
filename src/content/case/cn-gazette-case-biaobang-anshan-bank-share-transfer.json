@@ -1,0 +1,39 @@
+{
+  "titleZh": "深圳市标榜投资发展有限公司与鞍山市财政局股权转让纠纷案",
+  "titleEn": "Gazette Case: Shenzhen Biaobang Investment Development Co., Ltd. v. Anshan Municipal Finance Bureau",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "（2016）最高法民终802号",
+  "year": 2016,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股权转让纠纷",
+  "issuesZh": [
+    "金融企业国有股权转让审批",
+    "附批准生效的股份转让合同",
+    "不履行报批义务的缔约过失责任",
+    "交易机会损失的认定"
+  ],
+  "issuesEn": [
+    "approval requirements for state-owned shares in a financial enterprise",
+    "share transfer contracts subject to regulatory approval",
+    "culpa in contrahendo for failure to seek approval",
+    "assessment of lost transaction opportunity"
+  ],
+  "holdingZh": "金融企业国有股份转让合同虽须有权机关批准后方能确定效力，但在双方已就转让标的、价格和程序达成明确合意的情况下，出让方仍应依诚实信用原则积极履行报批义务。无正当理由拒绝报批、转而将涉案股份另行高价出售他人的，虽不当然承担完整履行利益责任，但可能因缔约过失承担交易费用、保证金占用损失以及适度的交易机会损失。",
+  "holdingEn": "Although a transfer contract for state-owned shares in a financial enterprise remains subject to approval by the competent authority, once the parties have reached clear agreement on the shares, price, and transaction path, the transferor must in good faith pursue the required approval. If the transferor unjustifiably refuses to apply for approval and instead resells the shares to another purchaser at a higher price, full expectation damages do not automatically follow, but the transferor may owe reliance losses, interest on the locked-up deposit, and a measured amount for lost transaction opportunity.",
+  "topics": ["shareholder-rights", "corporate-governance", "business-environment"],
+  "relatedLawIds": [
+    "cn-company-law-2013",
+    "cn-company-law-2023",
+    "cn-civil-code-2020-legal-person"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/e0cb6f10b21b17687b8aa8d4215e17.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

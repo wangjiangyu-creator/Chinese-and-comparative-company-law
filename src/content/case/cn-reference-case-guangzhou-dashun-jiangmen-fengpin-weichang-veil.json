@@ -1,0 +1,42 @@
+{
+  "titleZh": "广州大顺五金厂诉江门丰品公司、江门维昌公司等买卖合同纠纷案",
+  "titleEn": "Reference Case: Guangzhou Dashun Hardware Factory v. Jiangmen Fengpin Company, Jiangmen Weichang Company, et al.",
+  "forumZh": "广州市中级人民法院（广东法院第五批粤港澳大湾区跨境纠纷典型案例）",
+  "forumEn": "Guangzhou Intermediate People's Court (Guangdong Courts Fifth Batch of Greater Bay Area Cross-Border Dispute Model Cases)",
+  "citation": "广东法院典型案例：江门丰品/江门维昌人格混同",
+  "year": 2022,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "买卖合同纠纷",
+  "issuesZh": [
+    "同一实际控制人支配下的关联公司人格混同",
+    "无偿转移产品和设备逃避债务",
+    "人员、业务、财务交叉导致财产无法区分"
+  ],
+  "issuesEn": [
+    "commingling among affiliated companies under the same actual controller",
+    "gratuitous transfer of products and equipment to evade debt",
+    "overlap in personnel, business, and finance making assets indistinguishable"
+  ],
+  "holdingZh": "广州市中级人民法院在广东高院发布的粤港澳大湾区典型案例中认定，江门维昌公司与江门丰品公司受同一实际控制人支配，双方共用厂房设备、人员和财务负责人，在维昌公司无力清偿到期债务时又将大量产品和设备无偿转移给丰品公司，严重影响债权实现。法院参照指导案例15号，认定两公司构成人格混同，判令丰品公司对维昌公司所欠货款承担连带责任。",
+  "holdingEn": "The Guangzhou Intermediate People's Court held in a Guangdong Greater Bay Area model case that Jiangmen Weichang and Jiangmen Fengpin, both under the same actual controller, had become commingled because they shared facilities, personnel, and financial management, while assets and products were transferred free of charge when Weichang could not pay its debts. Relying on Guiding Case No. 15, the court imposed joint liability on Fengpin for Weichang's unpaid purchase price.",
+  "topics": [
+    "corporate-veil-piercing",
+    "corporate-governance",
+    "actual-controller-tunneling"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-civil-code-2020-legal-person",
+    "cn-national-civil-commercial-trial-minutes-2019"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.gdcourts.gov.cn/gsxx/quanweifabu/anlihuicui/content/post_1047684.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

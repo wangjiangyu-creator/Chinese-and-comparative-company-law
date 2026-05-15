@@ -1,0 +1,65 @@
+{
+  "nameZh": "英国",
+  "nameEn": "United Kingdom",
+  "emphasisZh": "英国部分以《公司法 2006》、公司治理守则和收购守则为主轴，兼顾董事义务、少数股东救济和公司独立人格等经典普通法问题。",
+  "emphasisEn": "The United Kingdom section centers on the Companies Act 2006, the governance code, and the Takeover Code, alongside classic common-law problems of directors' duties, minority protection, and separate corporate personality.",
+  "recordPriority": ["law", "case", "articleLink"],
+  "featuredLawIds": [
+    "uk-companies-act-2006",
+    "uk-model-articles-regulations-2008",
+    "uk-corporate-governance-code-2024",
+    "uk-takeover-code-2023",
+    "uk-company-directors-disqualification-act-1986",
+    "uk-insolvency-act-1986"
+  ],
+  "featuredCaseIds": [
+    "uk-case-salomon-v-salomon",
+    "uk-case-foss-v-harbottle",
+    "uk-case-howard-smith-v-ampol",
+    "uk-case-oneill-v-phillips",
+    "uk-case-ebrahimi-v-westbourne",
+    "uk-case-regal-hastings-v-gulliver",
+    "uk-case-prest-v-petrodel"
+  ],
+  "featuredArticleIds": [
+    "article-pbook-gower-davies-principles",
+    "article-cambridge-comparative-company-law",
+    "article-oup-anatomy-of-corporate-law",
+    "article-pbook-comparative-company-law",
+    "article-pbook-introduction-to-company-law-davies"
+  ],
+  "officialPortals": [
+    {
+      "label": "Official English",
+      "url": "https://www.legislation.gov.uk/",
+      "noteZh": "立法数据库",
+      "noteEn": "Legislation.gov.uk",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Research platform",
+      "url": "https://www.bailii.org/openlaw/company.html",
+      "noteZh": "BAILII 公司法判例",
+      "noteEn": "BAILII company cases",
+      "official": false,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Official release",
+      "url": "https://www.frc.org.uk/library/standards-codes-policy/corporate-governance/uk-corporate-governance-code/",
+      "noteZh": "FRC 治理守则",
+      "noteEn": "FRC governance code",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Official release",
+      "url": "https://code.thetakeoverpanel.org.uk/code.pdf",
+      "noteZh": "收购守则",
+      "noteEn": "Takeover Code",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

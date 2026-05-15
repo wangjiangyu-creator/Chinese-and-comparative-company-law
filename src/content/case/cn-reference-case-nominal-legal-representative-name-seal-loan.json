@@ -1,0 +1,31 @@
+{
+  "titleZh": "挂名法定代表人人名章被用于贷款延期合同案",
+  "titleEn": "Local Reference Case: Nominal Legal Representative Name Seal in Loan-Extension Contracts",
+  "forumZh": "北京金融法院（最高人民法院转载地方法院新闻）",
+  "forumEn": "Beijing Financial Court (local-court case reprinted by the Supreme People's Court)",
+  "citation": "地方法院参考案例：挂名法定代表人人名章",
+  "year": 2026,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "合同纠纷",
+  "issuesZh": ["挂名法定代表人", "人名章与债务加入", "金融机构核验义务"],
+  "issuesEn": [
+    "nominal legal representative",
+    "personal name seal and debt assumption",
+    "verification duty of financial institutions"
+  ],
+  "holdingZh": "仅因某人担任公司法定代表人且《借款延期协议》上出现其人名章，并不足以推定其自愿加入公司债务。对于将自然人列为共同借款人的重大事项，金融机构负有独立核身、面签或等效确认义务；在不能证明盖章行为出于本人真实授权或真实意思表示时，不得要求该挂名法定代表人共同承担公司债务。",
+  "holdingEn": "A person's status as legal representative, combined with the appearance of that person's personal name seal on a loan-extension agreement, is insufficient by itself to prove voluntary assumption of the company's debt. Where a financial institution seeks to add a natural person as a co-borrower, it must independently verify identity and consent through face-to-face signing or an equivalent process. Without proof that the seal was used with real authorization or true assent, the nominal legal representative cannot be made jointly liable for the corporate debt.",
+  "topics": ["legal-representative-and-seal-control", "corporate-governance"],
+  "relatedLawIds": ["cn-company-law-2023", "cn-civil-code-2020-legal-person"],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/495781.html",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "最高人民法院转载北京金融法院新闻稿，载明案件事实、争点与裁判结论。",
+      "noteEn": "SPC repost of a Beijing Financial Court news release stating the facts, issues, and disposition."
+    }
+  ]
+}

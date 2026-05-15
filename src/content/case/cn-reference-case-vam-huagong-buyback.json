@@ -1,0 +1,43 @@
+{
+  "titleZh": "江苏华工创业投资有限公司与扬州锻压机床股份有限公司、潘云虎等请求公司收购股份纠纷案",
+  "titleEn": "Reference Case: Jiangsu Huagong Venture Capital Co., Ltd. v. Yangzhou Forging Machine Tool Co., Ltd., Pan Yunhu et al.",
+  "forumZh": "江苏省高级人民法院",
+  "forumEn": "Jiangsu Higher People's Court",
+  "citation": "（2019）苏民再62号",
+  "year": 2019,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "请求公司收购股份纠纷",
+  "issuesZh": [
+    "投资人与目标公司直接约定股份回购的效力",
+    "资本维持原则与减资程序的协调",
+    "目标公司回购义务的可履行性审查"
+  ],
+  "issuesEn": [
+    "validity of a direct share-repurchase clause between the investor and the target company",
+    "coordination between capital-maintenance rules and capital-reduction procedure",
+    "review of whether the target company's repurchase obligation is practically performable"
+  ],
+  "holdingZh": "江苏高院明确，投资人与目标公司之间的对赌回购条款并非当然无效；只要履行路径可以纳入公司法上的减资、债权人保护等程序，并且不会实质损害公司和外部债权人利益，法院可以认定该条款有效并支持履行。这一判决被普遍视为从“海富案”走向《九民纪要》规则的关键转折。",
+  "holdingEn": "The Jiangsu Higher People's Court held that a direct VAM repurchase clause between the investor and the target company is not automatically invalid. Where the obligation can be performed through the Company Law's capital-reduction and creditor-protection procedures without substantively harming the company or outside creditors, the clause may be treated as valid and enforced. The decision is widely seen as a major transitional authority between the Haifu line and the later rule stated in the Ninth Civil Minutes.",
+  "topics": ["vam-disputes", "registered-capital", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2018",
+    "cn-company-law-2023",
+    "cn-national-civil-commercial-trial-minutes-2019"
+  ],
+  "sources": [
+    {
+      "label": "Law firm analysis",
+      "url": "https://www.zjga.com/articles/detail/2927.html",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Law firm analysis",
+      "url": "https://www.llinkslaw.com/uploadfile/publication/25_1562297684.pdf",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

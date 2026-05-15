@@ -1,0 +1,34 @@
+{
+  "titleZh": "南京某股权投资合伙企业诉房某某、梁某某等上市公司股份回购合同纠纷案",
+  "titleEn": "Database Case: Nanjing Equity Investment Partnership v. Fang Moumou, Liang Moumou et al.",
+  "forumZh": "人民法院案例库（最高人民法院审核入库）",
+  "forumEn": "People's Court Case Database (reviewed by the Supreme People's Court)",
+  "citation": "入库编号2023-08-2-308-002",
+  "year": 2024,
+  "jurisdiction": "cn",
+  "caseType": "database-case",
+  "decisionType": "股份回购合同纠纷",
+  "issuesZh": ["上市前应清理的对赌协议", "与市值挂钩的回购条款", "证券市场秩序与公序良俗"],
+  "issuesEn": [
+    "VAM clauses that should be cleared before listing",
+    "buyback terms tied to market capitalization",
+    "securities-market order and public policy"
+  ],
+  "holdingZh": "直接与上市公司二级市场短期股价或市值挂钩的回购条款，会破坏证券市场交易秩序、损害社会公共利益，因而无效。对于上市前依法应予清理且被当事人隐瞒未披露的对赌回购条款，投资人不得在公司上市后再据此主张回购权利。",
+  "holdingEn": "A buyback clause tied directly to the short-term secondary-market share price or market capitalization of a listed company disrupts securities-market order and harms the public interest, and is therefore invalid. Where a VAM-style buyback clause should have been cleared before listing but was concealed and undisclosed, investors cannot later enforce that clause after the company has gone public.",
+  "topics": ["listed-companies", "disclosure", "vam-disputes", "directors-officer-loyalty-and-duties"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-securities-law-2019",
+    "cn-national-civil-commercial-trial-minutes-2019"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://rmfyalk.court.gov.cn/dist/view/content.html?id=h3jlG2Jped3b6J1RbNSeC2mmXy7ui0O0gDO9swp1XDs%253D&lib=ck",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

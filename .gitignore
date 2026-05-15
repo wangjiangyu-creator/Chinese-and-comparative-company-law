@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.astro/
+.codex-runtime/
+.tools/
+.superpowers/
+preview*.log
+tmp_*
+tmp-*

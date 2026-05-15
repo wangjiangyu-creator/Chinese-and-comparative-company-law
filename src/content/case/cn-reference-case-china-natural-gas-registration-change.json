@@ -1,0 +1,39 @@
+{
+  "titleZh": "中华天然气公司与陕西西蓝天然气设备有限公司与公司有关的纠纷案",
+  "titleEn": "Reference Case: China Natural Gas Company v. Shaanxi Xilan Natural Gas Equipment Co., Ltd.",
+  "forumZh": "西安市中级人民法院一审判决（国际商事法庭转载）",
+  "forumEn": "Xi'an Intermediate People's Court first-instance judgment (republished by the International Commercial Court)",
+  "citation": "（2015）西中民四初字第00480号",
+  "year": 2015,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "与公司有关的纠纷",
+  "issuesZh": ["股东任命法定代表人", "章程修正与备案", "拒不办理变更登记"],
+  "issuesEn": [
+    "shareholder appointment of the legal representative",
+    "amendment and filing of the articles",
+    "refusal to process change registration"
+  ],
+  "holdingZh": "在外商投资公司中，股东或有权机关依章程作出的法定代表人及董事任免决定，对公司内部即发生免职和任命效力。公司作为登记、备案义务主体，拒不承认相关任免通知并怠于办理法定代表人、董事及章程修正案的变更登记、备案手续的，人民法院可以判令其在法定期限内向登记机关和商务主管机关办理相关手续。",
+  "holdingEn": "In a foreign-invested company, a valid decision made under the articles by the shareholder or other competent organ to remove and appoint the legal representative and directors takes effect internally upon adoption. If the company, as the entity responsible for registration and filing, refuses to recognize the appointment notice and delays the required change registration and filing for the legal representative, directors, and amended articles, a court may order it to complete those procedures within the statutory period.",
+  "topics": [
+    "legal-representative-and-seal-control",
+    "corporate-governance",
+    "corporate-formation"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2013",
+    "cn-company-registration-regulations-2014",
+    "cn-civil-code-2020-legal-person"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://cicc.court.gov.cn/html/1/224/228/1422.html",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "国际商事法庭转载的一审判决书，正文载有法定代表人任免、章程变更与登记备案义务的裁判理由。",
+      "noteEn": "Republished first-instance judgment on the CICC site containing the court's reasoning on appointment, articles amendment, and registration duties."
+    }
+  ]
+}

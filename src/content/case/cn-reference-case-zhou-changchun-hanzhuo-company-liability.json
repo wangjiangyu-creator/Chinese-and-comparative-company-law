@@ -1,0 +1,47 @@
+{
+  "titleZh": "周长春与庄士中国投资有限公司、李世慰、彭振傑及第三人湖南汉业房地产开发有限公司损害公司利益责任纠纷案",
+  "titleEn": "Zhou Changchun v. Zhuangshi China Investment Co., Li Shiwei, Peng Zhenjie, and Hunan Hanye Real Estate Development Co., Ltd.",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "（2019）最高法民终1679号",
+  "year": 2019,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股东代表诉讼前置程序与代表权审查",
+  "issuesZh": [
+    "董监高忠实义务",
+    "股东代表诉讼前置程序",
+    "股东直接起诉条件"
+  ],
+  "issuesEn": [
+    "directors' and managers' duty of loyalty",
+    "shareholder representative-action prerequisite",
+    "conditions for direct shareholder litigation"
+  ],
+  "holdingZh": "案件确认，在董事会、监事会无法正常运作且对公司存在明显侵权危害的情况下，若股东已经穷尽必要的内部程序，或明确存在明显不能提起公司机关诉讼的情形，法院应允许其在公司名称下直接提起股东代表诉讼；对董监高实施损害公司利益行为的实体审查应以《公司法》第一百四十九条及第一百五十一条的程序性要求为前提。",
+  "holdingEn": "The case confirms that where the company’s governing bodies are effectively unable to initiate litigation and internal channels are unavailable, a shareholder who has attempted required internal steps, or is in the statutory exception scenarios, may bring a representative action in the company’s name. Liability for breach by directors or managers is assessed with Article 149 and Article 151 of the Company Law as the legal framework for standing and procedural prerequisites.",
+  "topics": [
+    "corporate-governance",
+    "director-abuse",
+    "director-liability-litigation",
+    "actual-controller-tunneling",
+    "related-transaction-harm",
+    "shareholder-rights",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-1-2014",
+    "cn-spc-company-law-interpretation-5-2021",
+    "cn-civil-code-2020-legal-person"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/61d5ee6864b89fd59e9f67d7f5bdc1.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

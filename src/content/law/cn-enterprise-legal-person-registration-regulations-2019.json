@@ -1,0 +1,45 @@
+{
+  "titleZh": "中华人民共和国企业法人登记管理条例（2019年修订）",
+  "titleEn": "Regulations of the People's Republic of China on the Registration Administration of Enterprise Legal Persons (2019 Revision)",
+  "shortTitle": "企业法人登记管理条例（2019）",
+  "aliases": ["国务院令第709号"],
+  "jurisdiction": "cn",
+  "documentType": "administrative-regulation",
+  "authorityLevel": "administrative-regulation",
+  "issuingBodyZh": "国务院",
+  "issuingBodyEn": "State Council",
+  "promulgationDate": "2019-03-02",
+  "effectiveDate": "2019-03-02",
+  "status": "historical",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["business-environment", "corporate-formation"],
+  "summaryZh": "企业法人登记管理条例在市场主体登记体系统一前的末次修订文本，主要用于与后来的市场主体登记制度衔接比较。",
+  "summaryEn": "The final revised text of the Enterprise Legal Person Registration Regulation before the unified market-entity registration regime, useful for transition comparison.",
+  "versionGroup": "cn-enterprise-legal-person-registration-regulations",
+  "versionLabel": "2019 text",
+  "previousVersionId": "cn-enterprise-legal-person-registration-regulations-1988",
+  "applicablePeriodZh": "2019年3月2日起适用，至 2022年3月1日《市场主体登记管理条例》施行后，不再作为独立企业法人登记行政法规继续适用。",
+  "applicablePeriodEn": "Applied from March 2, 2019, until March 1, 2022, after which it no longer operated as a separate enterprise-legal-person registration regulation.",
+  "repealBasisZh": "2022年3月1日起，《中华人民共和国市场主体登记管理条例》统一调整公司、企业法人等登记规则，企业法人登记管理条例退出独立适用。",
+  "repealBasisEn": "From March 1, 2022, the Market Entity Registration Regulations unified registration rules for companies and enterprise legal persons, displacing the separate enterprise-legal-person regime.",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official Chinese",
+      "url": "https://www.gov.cn/gongbao/content/2019/content_5468910.htm",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Official release",
+      "url": "https://xzfg.moj.gov.cn/law/download?LawID=220&type=pdf",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "司法部法规库 PDF 可作为国务院公报之外的官方备链。",
+      "noteEn": "The Ministry of Justice PDF serves as a second official access point alongside the State Council Gazette page."
+    }
+  ]
+}

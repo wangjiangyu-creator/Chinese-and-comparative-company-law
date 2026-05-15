@@ -1,0 +1,51 @@
+{
+  "nameZh": "德国",
+  "nameEn": "Germany",
+  "emphasisZh": "德国部分以 AktG、GmbHG、UmwG 和公司治理守则为框架，特别适合对照股东会保留事项、监事会职责和两层董事会结构。",
+  "emphasisEn": "The Germany section is organized around the AktG, GmbHG, UmwG, and the governance code, making it useful for comparing reserved shareholder powers, supervisory-board duties, and the two-tier board structure.",
+  "recordPriority": ["law", "case", "articleLink"],
+  "featuredLawIds": [
+    "de-stock-corporation-act",
+    "de-limited-liability-companies-act",
+    "de-transformation-act",
+    "de-corporate-governance-code-2022"
+  ],
+  "featuredCaseIds": [
+    "de-case-holzmuller",
+    "de-case-arag-garmenbeck",
+    "de-case-gelatine",
+    "de-case-macrotron"
+  ],
+  "featuredArticleIds": [
+    "article-pbook-corporate-law-in-germany",
+    "article-cambridge-german-company-law-developments",
+    "article-oup-anatomy-of-corporate-law",
+    "article-pbook-comparative-company-law"
+  ],
+  "officialPortals": [
+    {
+      "label": "Official release",
+      "url": "https://www.gesetze-im-internet.de/Teilliste_translations.html",
+      "noteZh": "英文法典入口",
+      "noteEn": "English law translations",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Official release",
+      "url": "https://www.dcgk.de/en/code.html",
+      "noteZh": "治理守则",
+      "noteEn": "Governance code",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Official court release",
+      "url": "https://www.bundesgerichtshof.de/DE/Entscheidungen/entscheidungen.html",
+      "noteZh": "联邦法院判决",
+      "noteEn": "BGH decisions",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

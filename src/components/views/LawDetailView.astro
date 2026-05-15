@@ -1,0 +1,281 @@
+---
+import LawTextReader from "@/components/LawTextReader.astro";
+import MetadataGrid from "@/components/MetadataGrid.astro";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { findRelatedArticles, findRelatedCases } from "@/lib/catalog";
+import { pickLocalized, toLocalePath, type Locale } from "@/lib/i18n";
+import {
+  formatLanguageStatusLabel,
+  formatLawAuthorityLabel,
+  formatSourceLabel,
+  formatTextStatusLabel,
+  formatTopicLabel,
+  formatVersionLabel,
+  getLawShortLabel
+} from "@/lib/labels";
+import {
+  getBackupOfficialLawSource,
+  getEnglishLawSource,
+  getPrimaryLawSource
+} from "@/lib/law-directory";
+import { getPortalSnapshot } from "@/lib/portal-data";
+
+type Props = {
+  locale: Locale;
+  path: string;
+  id: string;
+};
+
+const { locale, path, id } = Astro.props;
+const snapshot = await getPortalSnapshot();
+const law = snapshot.laws.find((item) => item.id === id);
+
+if (!law) {
+  throw new Error(`Unknown law id: ${id}`);
+}
+
+const relatedCases = findRelatedCases(snapshot, law);
+const relatedArticles = findRelatedArticles(snapshot, law);
+const primarySource = getPrimaryLawSource(law);
+const backupOfficialSource = getBackupOfficialLawSource(law);
+const englishSource = getEnglishLawSource(law);
+const englishSourceUrl = englishSource?.url;
+const backupMatchesEnglishSource = Boolean(
+  backupOfficialSource && englishSourceUrl && backupOfficialSource.url === englishSourceUrl
+);
+const showBackupOfficialSource = Boolean(
+  backupOfficialSource &&
+    backupOfficialSource.url !== primarySource?.url &&
+    !backupMatchesEnglishSource
+);
+const showEnglishSource = Boolean(englishSource && englishSourceUrl && englishSourceUrl !== primarySource?.url);
+const primarySourceLabel =
+  primarySource?.official
+    ? locale === "zh"
+      ? "查看官方全文"
+      : "Official full text"
+    : locale === "zh"
+      ? "查看文本来源"
+      : "Source text";
+const versionChain = snapshot.laws
+  .filter((item) => item.versionGroup === law.versionGroup)
+  .sort((left, right) => (left.effectiveDate < right.effectiveDate ? 1 : -1));
+const previousVersion = law.previousVersionId
+  ? snapshot.laws.find((item) => item.id === law.previousVersionId)
+  : undefined;
+const nextVersion = law.nextVersionId ? snapshot.laws.find((item) => item.id === law.nextVersionId) : undefined;
+const metadataItems = [
+  {
+    label: locale === "zh" ? "制定/发布机关" : "Issuing body",
+    value: pickLocalized(locale, law.issuingBodyZh, law.issuingBodyEn)
+  },
+  {
+    label: locale === "zh" ? "公布日期" : "Promulgation date",
+    value: law.promulgationDate
+  },
+  {
+    label: locale === "zh" ? "施行日期" : "Effective date",
+    value: law.effectiveDate
+  },
+  {
+    label: locale === "zh" ? "语言状态" : "Language status",
+    value: formatLanguageStatusLabel(locale, law.languageStatus)
+  },
+  {
+    label: locale === "zh" ? "主题" : "Topics",
+    value: law.topics.map((item) => formatTopicLabel(locale, item)).join(", ")
+  },
+  {
+    label: locale === "zh" ? "版本链" : "Version chain",
+    value: versionChain.map((item) => getLawShortLabel(locale, item.id, item.shortTitle)).join(" -> ")
+  },
+  law.applicablePeriodZh || law.applicablePeriodEn
+    ? {
+        label: locale === "zh" ? "适用期间" : "Applicable period",
+        value: pickLocalized(locale, law.applicablePeriodZh ?? "", law.applicablePeriodEn ?? "")
+      }
+    : undefined,
+  law.repealBasisZh || law.repealBasisEn
+    ? {
+        label: locale === "zh" ? "废止/替代依据" : "Repeal or replacement basis",
+        value: pickLocalized(locale, law.repealBasisZh ?? "", law.repealBasisEn ?? "")
+      }
+    : undefined
+].filter((item): item is { label: string; value: string } => Boolean(item));
+---
+
+<BaseLayout
+  locale={locale}
+  path={path}
+  titleZh={law.titleZh}
+  titleEn={law.titleEn}
+  descriptionZh={law.summaryZh}
+  descriptionEn={law.summaryEn}
+>
+  <section class="hero">
+    <span class="eyebrow">{getLawShortLabel(locale, law.id, law.shortTitle)}</span>
+    <h1 class="page-title">{pickLocalized(locale, law.titleZh, law.titleEn)}</h1>
+    <p class="lede">{pickLocalized(locale, law.summaryZh, law.summaryEn)}</p>
+    {(primarySource || backupOfficialSource || englishSource) && (
+      <div class="hero-actions">
+        {primarySource && (
+          <a class="action-link action-link-primary" href={primarySource.url} target="_blank" rel="noreferrer">
+            {primarySourceLabel}
+          </a>
+        )}
+        {showBackupOfficialSource && backupOfficialSource && (
+          <a
+            class="action-link action-link-secondary"
+            href={backupOfficialSource.url}
+            target="_blank"
+            rel="noreferrer"
+          >
+            {locale === "zh" ? "备选官方全文" : "Backup official text"}
+          </a>
+        )}
+        {showEnglishSource && englishSourceUrl && (
+          <a class="action-link action-link-secondary" href={englishSourceUrl} target="_blank" rel="noreferrer">
+            {locale === "zh" ? "英文版本" : "English source"}
+          </a>
+        )}
+      </div>
+    )}
+  </section>
+
+  <section class="detail-shell">
+    <div class="detail-main">
+      <section class="panel card">
+        <div class="badge-row">
+          <span class="badge">{formatLawAuthorityLabel(locale, law.authorityLevel)}</span>
+          <span class="badge">{formatTextStatusLabel(locale, law.textStatus)}</span>
+          <span class="badge">{formatVersionLabel(locale, law.versionLabel)}</span>
+        </div>
+        <MetadataGrid items={metadataItems} />
+      </section>
+
+      <LawTextReader law={law} locale={locale} />
+    </div>
+
+    <aside class="detail-side">
+      <section class="panel card">
+        <h2>{locale === "zh" ? "官方全文与权威来源" : "Official Full Text and Sources"}</h2>
+        {(primarySource || backupOfficialSource || englishSource) && (
+          <div class="hero-actions">
+            {primarySource && (
+              <a class="action-link action-link-primary" href={primarySource.url} target="_blank" rel="noreferrer">
+                {primarySourceLabel}
+              </a>
+            )}
+            {showBackupOfficialSource && backupOfficialSource && (
+              <a
+                class="action-link action-link-secondary"
+                href={backupOfficialSource.url}
+                target="_blank"
+                rel="noreferrer"
+              >
+                {locale === "zh" ? "备选官方全文" : "Backup official text"}
+              </a>
+            )}
+            {showEnglishSource && englishSourceUrl && (
+              <a
+                class="action-link action-link-secondary"
+                href={englishSourceUrl}
+                target="_blank"
+                rel="noreferrer"
+              >
+                {locale === "zh" ? "英文版本" : "English source"}
+              </a>
+            )}
+          </div>
+        )}
+        <div class="source-list">
+          {law.sources.map((source) => (
+            <a href={source.url} target="_blank" rel="noreferrer">
+              <strong>{formatSourceLabel(locale, source.label)}</strong><br />
+              <small>{source.lastVerified}</small>
+              {(source.noteZh || source.noteEn) && (
+                <>
+                  <br />
+                  <span class="source-note">{pickLocalized(locale, source.noteZh ?? "", source.noteEn ?? "")}</span>
+                </>
+              )}
+            </a>
+          ))}
+        </div>
+      </section>
+
+      {(versionChain.length > 1 || previousVersion || nextVersion || law.applicablePeriodZh || law.repealBasisZh) && (
+        <section class="panel card">
+          <h2>{locale === "zh" ? "版本关系与适用信息" : "Version relations and applicability"}</h2>
+          <div class="relation-list">
+            {previousVersion && (
+              <a href={toLocalePath(locale, `/laws/${previousVersion.id}/`)}>
+                <strong>{locale === "zh" ? "前一版本" : "Previous version"}</strong>
+                <br />
+                <span>{pickLocalized(locale, previousVersion.titleZh, previousVersion.titleEn)}</span>
+              </a>
+            )}
+            {nextVersion && (
+              <a href={toLocalePath(locale, `/laws/${nextVersion.id}/`)}>
+                <strong>{locale === "zh" ? "后一版本" : "Next version"}</strong>
+                <br />
+                <span>{pickLocalized(locale, nextVersion.titleZh, nextVersion.titleEn)}</span>
+              </a>
+            )}
+            {(law.applicablePeriodZh || law.applicablePeriodEn) && (
+              <div class="relation-note">
+                <strong>{locale === "zh" ? "适用期间" : "Applicable period"}</strong>
+                <p>{pickLocalized(locale, law.applicablePeriodZh ?? "", law.applicablePeriodEn ?? "")}</p>
+              </div>
+            )}
+            {(law.repealBasisZh || law.repealBasisEn) && (
+              <div class="relation-note">
+                <strong>{locale === "zh" ? "废止/替代依据" : "Repeal or replacement basis"}</strong>
+                <p>{pickLocalized(locale, law.repealBasisZh ?? "", law.repealBasisEn ?? "")}</p>
+              </div>
+            )}
+          </div>
+        </section>
+      )}
+
+      {versionChain.length > 1 && (
+        <section class="panel card">
+          <h2>{locale === "zh" ? "完整版本链" : "Full version chain"}</h2>
+          <div class="relation-list">
+            {versionChain.map((item) => (
+              <a href={toLocalePath(locale, `/laws/${item.id}/`)}>
+                {pickLocalized(locale, item.titleZh, item.titleEn)}
+              </a>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {relatedCases.length > 0 && (
+        <section class="panel card">
+          <h2>{locale === "zh" ? "相关案例" : "Related cases"}</h2>
+          <div class="relation-list">
+            {relatedCases.map((item) => (
+              <a href={toLocalePath(locale, `/cases/${item.id}/`)}>
+                {pickLocalized(locale, item.titleZh, item.titleEn)}
+              </a>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {relatedArticles.length > 0 && (
+        <section class="panel card">
+          <h2>{locale === "zh" ? "延伸阅读" : "Further reading"}</h2>
+          <div class="relation-list">
+            {relatedArticles.map((item) => (
+              <a href={item.sourceUrl} target="_blank" rel="noreferrer">
+                {pickLocalized(locale, item.titleZh, item.titleEn)}
+              </a>
+            ))}
+          </div>
+        </section>
+      )}
+    </aside>
+  </section>
+</BaseLayout>

@@ -1,0 +1,41 @@
+{
+  "titleZh": "非上市公众公司监督管理办法（2021年修订）",
+  "titleEn": "Measures for the Supervision and Administration of Non-listed Public Companies",
+  "shortTitle": "非上市公众公司监督管理办法",
+  "aliases": ["证监会令第190号"],
+  "jurisdiction": "cn",
+  "documentType": "departmental-rule",
+  "authorityLevel": "departmental-rule",
+  "issuingBodyZh": "中国证券监督管理委员会",
+  "issuingBodyEn": "China Securities Regulatory Commission",
+  "promulgationDate": "2021-10-30",
+  "effectiveDate": "2021-11-15",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["corporate-formation", "corporate-governance", "disclosure"],
+  "summaryZh": "新三板和其他非上市公众公司监管框架的基础规章，覆盖公开转让、公开发行、公司治理、持续监管与法律责任。",
+  "summaryEn": "The basic CSRC rule for the supervision of NEEQ and other non-listed public companies, covering public transfer, public offering, corporate governance, ongoing supervision, and liability.",
+  "versionGroup": "cn-nonlisted-public-company-supervision-measures",
+  "versionLabel": "2021 through-current text",
+  "relatedCaseIds": [
+    "cn-reference-case-vam-huyue-neeq-delisting",
+    "cn-reference-case-vam-gaoci-neeq-invalid"
+  ],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official Chinese",
+      "url": "https://www.csrc.gov.cn/csrc/c106256/c1653982/content.shtml",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    },
+    {
+      "label": "Official release",
+      "url": "https://www.csrc.gov.cn/csrc/c101831/c1496640/content.shtml",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

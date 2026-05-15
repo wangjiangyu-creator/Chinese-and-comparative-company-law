@@ -1,0 +1,29 @@
+{
+  "titleZh": "王某诉某锋公司侵权责任纠纷案（码头作业区受伤）",
+  "titleEn": "Reference Case: Wang Mou v. Feng Company on Port-Operations Injury",
+  "forumZh": "广东省广州市南沙区人民法院（地方法院公开案例）",
+  "forumEn": "Nansha District People's Court of Guangzhou (local-court published case)",
+  "citation": "地方参考案例：码头作业区安全保障",
+  "year": 2024,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "侵权责任纠纷",
+  "issuesZh": ["码头作业区安全保障义务", "违规作业", "被侵权人重大过失与责任减轻"],
+  "issuesEn": [
+    "safety duties in a port operations zone",
+    "unsafe operational methods",
+    "comparative fault of the injured party"
+  ],
+  "holdingZh": "企业违反安全生产和行业要求组织作业，增加作业区风险并导致他人受伤的，应承担侵权赔偿责任；但受害人明知作业区禁止通行仍擅自进入、未尽自身注意义务的，人民法院可以根据双方过错程度减轻企业责任。",
+  "holdingEn": "An enterprise that uses unsafe operational methods contrary to safety and industry rules and thereby increases the risk of injury in its work zone must bear tort liability. Where the injured party knowingly enters a restricted operations area and fails to protect their own safety, courts may reduce the enterprise's liability according to comparative fault.",
+  "topics": ["corporate-social-responsibility"],
+  "relatedLawIds": ["cn-company-law-2023", "cn-civil-code-2020-legal-person"],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.sdcourt.gov.cn/zzterzfy/387577/387555/22569174/index.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

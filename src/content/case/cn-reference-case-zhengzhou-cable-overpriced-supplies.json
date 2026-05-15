@@ -1,0 +1,43 @@
+{
+  "titleZh": "上海中科英华科技发展有限公司与郑州投资控股有限公司等公司关联交易损害责任纠纷案",
+  "titleEn": "Shanghai Zhongkeyinghua Technologies Co., Ltd. and Related-Party Trading Loss Liability with Zhengzhou Investment Holding Co.",
+  "forumZh": "郑州市中级人民法院 / 河南省高级人民法院",
+  "forumEn": "Zhengzhou Intermediate People's Court / Henan Higher People's Court",
+  "citation": "（2017）豫01民初3991号；（2020）豫民终799号",
+  "year": 2021,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司关联交易损害责任纠纷",
+  "issuesZh": ["关联交易损害公司利益", "高管连带责任", "公司与其实际控制人的关系认定", "股东代表诉讼主体资格"],
+  "issuesEn": [
+    "loss-causing related-party transaction",
+    "executive and controller joint liability",
+    "control links and affiliate relationship",
+    "standing for shareholder derivative-style enforcement"
+  ],
+  "holdingZh": "在审理中，法院认定在股权托管及关联关系下，上海中科英华公司与郑州电缆公司之间存在控制关联关系并发生不公允交易，导致采购差价损失。法院维持一审判决，确认供应公司及相关高管应承担赔偿责任；同时确认目标公司股东在监事拒绝起诉的情形下，符合《公司法》规定程序后可代表公司起诉，体现了董监高之外关联方利用控制地位损害公司利益时的追责路径。",
+  "holdingEn": "The court held that a control-linked related-party structure existed and that unfair procurement transactions caused losses to the target company. The judgment for damages was affirmed on appeal. The case also confirms that where the supervising body refuses to act after being requested, qualifying shareholders may sue directly under statutory standing requirements, including where control-linked actors and executives are involved.",
+  "topics": [
+    "corporate-governance",
+    "director-abuse",
+    "director-liability-litigation",
+    "actual-controller-tunneling",
+    "related-transaction-harm",
+    "shareholder-rights",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2013",
+    "cn-spc-company-law-interpretation-2-2020",
+    "cn-spc-company-law-interpretation-5-2021"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.hncourt.gov.cn/public/detail.php?id=190327",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

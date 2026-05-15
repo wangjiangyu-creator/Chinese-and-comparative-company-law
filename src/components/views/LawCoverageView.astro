@@ -1,0 +1,166 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { pickLocalized, toLocalePath, type Locale } from "@/lib/i18n";
+import { getLawShortLabel } from "@/lib/labels";
+import { getLawCoverageChecklist } from "@/lib/law-coverage";
+import { getPortalSnapshot } from "@/lib/portal-data";
+
+type Props = {
+  locale: Locale;
+  path: string;
+};
+
+const { locale, path } = Astro.props;
+const snapshot = await getPortalSnapshot();
+const checklist = getLawCoverageChecklist(snapshot.laws);
+const lawMap = new Map(snapshot.laws.map((law) => [law.id, law]));
+---
+
+<BaseLayout
+  locale={locale}
+  path={path}
+  titleZh="主库覆盖清单"
+  titleEn="Corpus Coverage Checklist"
+  descriptionZh="维护中国法律法规主库的覆盖进度、历史版本、英文链接和备选全文入口。"
+  descriptionEn="Maintains coverage progress, historical versions, English links, and backup full-text access for the China law corpus."
+>
+  <section class="hero">
+    <span class="eyebrow">{locale === "zh" ? "维护视图" : "Maintenance view"}</span>
+    <h1 class="page-title">{locale === "zh" ? "法律法规主库覆盖清单" : "Law Corpus Coverage Checklist"}</h1>
+    <p class="lede">
+      {locale === "zh"
+        ? "这页面向维护而不是普通读者。它按法源层级跟踪应收录条目、已入库条目、英文入口缺口，以及官方备选全文链接缺口。"
+        : "This page is for maintenance rather than ordinary reading. It tracks expected records, present records, English-link gaps, and backup-official-source gaps by authority layer."}
+    </p>
+  </section>
+
+  <section class="section">
+    <div class="section-grid">
+      {checklist.sections.map((section) => {
+        const expectedCount = section.items.reduce((sum, item) => sum + item.expectedLawIds.length, 0);
+        const presentCount = section.items.reduce((sum, item) => sum + item.presentLawIds.length, 0);
+
+        return (
+          <div class="stat-card">
+            <strong>{presentCount}/{expectedCount}</strong>
+            <div>{pickLocalized(locale, section.titleZh, section.titleEn)}</div>
+            <small>{pickLocalized(locale, section.noteZh, section.noteEn)}</small>
+          </div>
+        );
+      })}
+    </div>
+  </section>
+
+  <section class="directory-shell coverage-shell">
+    {checklist.sections.map((section) => (
+      <section class="tier-section">
+        <div class="tier-section-head">
+          <div class="tier-index">{section.items.length}</div>
+          <div>
+            <h2>{pickLocalized(locale, section.titleZh, section.titleEn)}</h2>
+            <p>{pickLocalized(locale, section.noteZh, section.noteEn)}</p>
+          </div>
+        </div>
+
+        <div class="coverage-grid">
+          {section.items.map((item) => (
+            <article class="card coverage-card">
+              <div class="badge-row">
+                <span class="badge">
+                  {locale === "zh"
+                    ? `已收录 ${item.presentLawIds.length}/${item.expectedLawIds.length}`
+                    : `Present ${item.presentLawIds.length}/${item.expectedLawIds.length}`}
+                </span>
+                <span class="badge">
+                  {locale === "zh"
+                    ? `缺英文 ${item.missingEnglishSourceIds.length}`
+                    : `Missing English ${item.missingEnglishSourceIds.length}`}
+                </span>
+                <span class="badge">
+                  {locale === "zh"
+                    ? `缺备链 ${item.missingBackupOfficialSourceIds.length}`
+                    : `Missing backup ${item.missingBackupOfficialSourceIds.length}`}
+                </span>
+              </div>
+              <h3>{pickLocalized(locale, item.titleZh, item.titleEn)}</h3>
+              <p>{pickLocalized(locale, item.noteZh, item.noteEn)}</p>
+
+              <div class="coverage-block">
+                <strong>{locale === "zh" ? "已入库" : "Present"}</strong>
+                {item.presentLawIds.length > 0 ? (
+                  <div class="coverage-chip-list">
+                    {item.presentLawIds.map((lawId) => {
+                      const law = lawMap.get(lawId);
+                      if (!law) {
+                        return null;
+                      }
+
+                      return (
+                        <a class="coverage-chip" href={toLocalePath(locale, `/laws/${lawId}/`)}>
+                          {getLawShortLabel(locale, law.id, law.shortTitle)}
+                        </a>
+                      );
+                    })}
+                  </div>
+                ) : (
+                  <div class="directory-empty">
+                    {locale === "zh" ? "暂无已入库条目。" : "No records present yet."}
+                  </div>
+                )}
+              </div>
+
+              {item.missingLawIds.length > 0 && (
+                <div class="coverage-block">
+                  <strong>{locale === "zh" ? "待补条目" : "Missing records"}</strong>
+                  <div class="coverage-chip-list coverage-chip-list-muted">
+                    {item.missingLawIds.map((lawId) => (
+                      <span class="coverage-chip">{lawId}</span>
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              {(item.missingEnglishSourceIds.length > 0 || item.missingBackupOfficialSourceIds.length > 0) && (
+                <div class="coverage-block">
+                  <strong>{locale === "zh" ? "链接缺口" : "Link gaps"}</strong>
+                  <ul class="coverage-gap-list">
+                    {item.missingEnglishSourceIds.map((lawId) => {
+                      const law = lawMap.get(lawId);
+                      if (!law) {
+                        return null;
+                      }
+
+                      return (
+                        <li>
+                          {locale === "zh" ? "缺英文入口：" : "Missing English link: "}
+                          <a href={toLocalePath(locale, `/laws/${lawId}/`)}>
+                            {getLawShortLabel(locale, law.id, law.shortTitle)}
+                          </a>
+                        </li>
+                      );
+                    })}
+                    {item.missingBackupOfficialSourceIds.map((lawId) => {
+                      const law = lawMap.get(lawId);
+                      if (!law) {
+                        return null;
+                      }
+
+                      return (
+                        <li>
+                          {locale === "zh" ? "缺官方备链：" : "Missing backup official link: "}
+                          <a href={toLocalePath(locale, `/laws/${lawId}/`)}>
+                            {getLawShortLabel(locale, law.id, law.shortTitle)}
+                          </a>
+                        </li>
+                      );
+                    })}
+                  </ul>
+                </div>
+              )}
+            </article>
+          ))}
+        </div>
+      </section>
+    ))}
+  </section>
+</BaseLayout>

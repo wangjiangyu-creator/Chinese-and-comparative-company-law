@@ -1,0 +1,30 @@
+{
+  "titleZh": "姚锦城与鸿大（上海）投资管理有限公司、章歌等公司决议纠纷案",
+  "titleEn": "Gazette Case: Yao Jincheng v. Hongda (Shanghai) Investment Management Co., Ltd. et al.",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "公报案例：出资期限决议",
+  "year": 2019,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司决议纠纷",
+  "issuesZh": ["修改出资期限", "资本多数决滥用", "章程修正案无效"],
+  "issuesEn": ["changing contribution deadlines", "abuse of majority control", "invalid articles amendment"],
+  "holdingZh": "除法律规定或存在其他合理紧迫事由外，认缴出资期限涉及股东期限利益，不得由控股股东以多数决方式单方提前并损害少数股东权益；相关决议可被确认无效。",
+  "holdingEn": "Absent a statutory basis or other urgent justification, contribution deadlines implicate individual shareholder timing interests and cannot be unilaterally accelerated by majority vote to the detriment of minority shareholders; such a resolution may be declared invalid.",
+  "topics": ["registered-capital", "shareholder-rights", "corporate-governance", "directors-officer-loyalty-and-duties"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017",
+    "cn-spc-company-law-time-effect-2024"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/e67d7cedd3b6f33cc78c1da945b9af.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

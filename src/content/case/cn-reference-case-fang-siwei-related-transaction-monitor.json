@@ -1,0 +1,45 @@
+{
+  "titleZh": "方某某诉郑州四维节能技术有限公司、郑州四维粮油工程技术有限公司损害公司利益责任纠纷案",
+  "titleEn": "Fang v. Zhengzhou Siwei Energy Saving Co., Ltd. and Zhengzhou Siwei Grain & Oil Engineering Co., Ltd.",
+  "forumZh": "郑州市金水区人民法院 / 郑州市中级人民法院（河南法院案例评析）",
+  "forumEn": "Zhengzhou Jinshui District People's Court / Zhengzhou Intermediate People's Court (Henan court case note)",
+  "citation": "（2020）豫0105民初27717号；（2021）豫01民终4901号",
+  "year": 2021,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "损害公司利益责任纠纷",
+  "issuesZh": ["监事代表诉讼", "控股股东关联交易", "执行董事兼总经理忠实义务", "可得利益损失计算"],
+  "issuesEn": [
+    "supervisory representative action",
+    "related-party transaction by a controlling shareholder",
+    "duty of loyalty of the executive director and general manager",
+    "measurement of lost corporate profit"
+  ],
+  "holdingZh": "法院认定，控股股东兼执行董事、总经理同时控制交易相对方并以明显偏低价格安排设备转售，构成利用关联交易损害公司利益。公司监事在董事、高管本人即为侵害主体时，可以代表公司起诉并请求赔偿可得利益损失。",
+  "holdingEn": "The courts held that the controlling shareholder, who also served as executive director and general manager, used a controlled affiliate to arrange a grossly underpriced onward sale and thereby harmed the company through a related-party transaction. Where the wrongdoer is the director or senior manager himself, the company's supervisor may sue in the company's name and recover the company's lost expected profit.",
+  "topics": [
+    "corporate-governance",
+    "director-abuse",
+    "director-liability-litigation",
+    "actual-controller-tunneling",
+    "related-transaction-harm",
+    "shareholder-rights",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017",
+    "cn-spc-company-law-interpretation-5-2021"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://hnydfy.hncourt.gov.cn/public/detail.php?id=4181",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "河南法院发布的案例评析，载明一审、二审案号及裁判要旨。",
+      "noteEn": "Henan court case note with both instance numbers and the holding."
+    }
+  ]
+}

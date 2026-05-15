@@ -1,0 +1,29 @@
+{
+  "titleZh": "吕某某诉赵某某、甘肃某投资公司、某房地产公司、尚某某股东资格确认纠纷案",
+  "titleEn": "Database Case: Lv Moumou v. Zhao Moumou, Gansu Investment Company et al.",
+  "forumZh": "人民法院案例库（最高人民法院审核入库）",
+  "forumEn": "People's Court Case Database (reviewed by the Supreme People's Court)",
+  "citation": "入库编号2023-08-2-262-009",
+  "year": 2024,
+  "jurisdiction": "cn",
+  "caseType": "database-case",
+  "decisionType": "股东资格确认纠纷",
+  "issuesZh": ["股份有限公司", "股份代持", "实际出资人显名"],
+  "issuesEn": ["joint-stock company", "nominee shareholding", "registration of the actual investor"],
+  "holdingZh": "股份有限公司不具有人合性基础上的股权转让限制，实际出资人请求显名时，不必机械套用有限责任公司“其他股东过半数同意”的要件。只要代持协议合法有效且已实际出资或者认缴出资，法院可以确认其实质股东地位并支持办理变更登记。",
+  "holdingEn": "Because a joint-stock company does not share the personal-association constraints of a limited liability company, the actual investor's request for registration should not automatically be subjected to the LLC requirement of majority consent from other shareholders. Where the nominee arrangement is valid and the investor actually contributed or subscribed capital, the court may recognize the investor's shareholder status and order registration.",
+  "topics": ["shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-3-2021"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://chinagscourt.gov.cn/Show/94446",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

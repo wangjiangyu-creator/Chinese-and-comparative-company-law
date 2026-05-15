@@ -1,0 +1,32 @@
+{
+  "titleZh": "上市公司股份回购规则",
+  "titleEn": "Listed Companies Share Repurchase Rules",
+  "shortTitle": "股份回购规则",
+  "aliases": ["证监会公告〔2023〕63号"],
+  "jurisdiction": "cn",
+  "documentType": "regulatory-code",
+  "authorityLevel": "regulatory-code",
+  "issuingBodyZh": "中国证券监督管理委员会",
+  "issuingBodyEn": "China Securities Regulatory Commission",
+  "promulgationDate": "2023-12-15",
+  "effectiveDate": "2023-12-15",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "shareholder-rights", "corporate-governance"],
+  "summaryZh": "规范上市公司实施股份回购的目的、条件、程序、信息披露与后续处理，是资本运作与股东回报交叉领域的核心规则。",
+  "summaryEn": "Governs the purposes, conditions, procedures, disclosure, and follow-on handling of listed-company share repurchases, making it a core rule at the intersection of capital operations and shareholder return.",
+  "versionGroup": "cn-share-repurchase-rules",
+  "versionLabel": "2023 revision",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://www.csrc.gov.cn/csrc/c101954/c7449683/content.shtml",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

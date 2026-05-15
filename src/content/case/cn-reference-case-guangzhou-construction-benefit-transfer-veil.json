@@ -1,0 +1,42 @@
+{
+  "titleZh": "某建材公司与南京某建筑公司、广东某建筑公司等合同纠纷案",
+  "titleEn": "Reference Case: Building Materials Company v. Nanjing Construction Company, Guangdong Construction Company, et al.",
+  "forumZh": "广州市中级人民法院（广东法院第二批服务保障民营经济高质量发展典型案例）",
+  "forumEn": "Guangzhou Intermediate People's Court (Guangdong Courts Second Batch of Model Cases Supporting High-Quality Development of the Private Economy)",
+  "citation": "广东法院典型案例：资质转移与受益子公司责任",
+  "year": 2025,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "合同纠纷",
+  "issuesZh": [
+    "过度支配与控制",
+    "向子公司转移核心资质、技术人员和项目",
+    "收益归一方、损失由另一方承担的脱壳经营"
+  ],
+  "issuesEn": [
+    "over-control and domination",
+    "transfer of core licenses, technical personnel, and projects to a subsidiary",
+    "shell-stripping that shifts benefits to one company and losses to another"
+  ],
+  "holdingZh": "广州市中级人民法院在广东高院发布的营商环境典型案例中认定，南京某建筑公司将主营业务资质、技术人员、经营项目和巨额资金转移至广东某建筑公司，形成“收益归一方、损失由另一方承担”的结构，严重损害债权人利益，构成过度支配与控制。法院据此否认广东某建筑公司的独立人格，判令其对南京某建筑公司拖欠建材货款的债务承担连带责任。",
+  "holdingEn": "In a Guangdong model case on private-economy protection, the Guangzhou Intermediate People's Court held that a parent construction company abused corporate separateness by transferring key licenses, technical staff, projects, and large amounts of cash to its subsidiary, creating a structure in which benefits accrued to one company while losses remained with the debtor. The court treated this as over-control justifying veil piercing and held the beneficiary subsidiary jointly liable for the construction debt.",
+  "topics": [
+    "corporate-veil-piercing",
+    "corporate-governance",
+    "actual-controller-tunneling"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-civil-code-2020-legal-person",
+    "cn-national-civil-commercial-trial-minutes-2019"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.gdcourts.gov.cn/gsxx/quanweifabu/anlihuicui/content/post_1843544.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

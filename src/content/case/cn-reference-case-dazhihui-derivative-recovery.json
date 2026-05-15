@@ -1,0 +1,46 @@
+{
+  "titleZh": "投保机构股东代位追偿大智慧董监高损害公司利益案",
+  "titleEn": "Investor Protection Derivative Recovery Against DZH Directors and Senior Officers",
+  "forumZh": "上海金融法院（中国证监会投资者保护局发布案讯）",
+  "forumEn": "Shanghai Financial Court (official case note released by the CSRC Investor Protection Bureau)",
+  "citation": "全国首单投保机构股东代位诉讼；2023年2月20日调解结案",
+  "year": 2023,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "损害公司利益责任纠纷",
+  "issuesZh": ["上市公司董监高追偿", "投保机构股东代位诉讼", "证券欺诈后的公司内部追责", "避免对中小股东二次伤害"],
+  "issuesEn": [
+    "recovery against directors and senior officers of a listed company",
+    "derivative action by an investor-protection institution",
+    "follow-on internal recovery after securities fraud liability",
+    "avoiding a second round of harm to minority investors"
+  ],
+  "holdingZh": "中国投资者网发布的案讯显示，中证中小投资者服务中心以股东身份推动对大智慧控股股东、原董事长兼总经理等“关键少数”追偿，最终由责任人全额赔付诉请金额并承担诉讼费用、律师费。该案被定位为全国首单由投保机构提起的股东代位诉讼，也是证券虚假陈述民事赔偿之后由投保机构继续向董监高追偿的先例。",
+  "holdingEn": "According to the official case note on China Investor Network, the China Securities Investor Services Center used its shareholder status to pursue recovery from DZH's controlling shareholder and former chairman-general manager and achieved full payment of the amount claimed, together with costs and legal fees. The case is framed as the country's first derivative action brought by an investor-protection institution and the first follow-on recovery action against directors and senior officers after securities-fraud civil liability had already been imposed on the listed company.",
+  "topics": [
+    "corporate-governance",
+    "director-abuse",
+    "director-liability-litigation",
+    "listed-companies",
+    "disclosure",
+    "shareholder-rights",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-securities-law-2019",
+    "cn-listed-company-disclosure-measures-2021",
+    "cn-csrc-listed-company-governance-code-2018"
+  ],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://www.investor.org.cn/rdhd/gbqtjcp/2023/515xcr_3033/202305/t20230531_674532.shtml",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "中国证监会投资者保护局发布的案讯，载明调解结案结果及案件意义。",
+      "noteEn": "Official case note from the CSRC Investor Protection Bureau summarizing the settlement outcome and significance."
+    }
+  ]
+}

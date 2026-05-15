@@ -1,0 +1,15 @@
+---
+import LawDetailView from "@/components/views/LawDetailView.astro";
+import { getPortalSnapshot } from "@/lib/portal-data";
+
+export async function getStaticPaths() {
+  const snapshot = await getPortalSnapshot();
+  return snapshot.laws.map((law) => ({
+    params: { id: law.id }
+  }));
+}
+
+const { id } = Astro.params;
+---
+
+<LawDetailView locale="en" path={`/en/laws/${id}/`} id={id!} />

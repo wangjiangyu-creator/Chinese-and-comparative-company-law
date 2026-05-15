@@ -1,0 +1,46 @@
+{
+  "titleZh": "中证投服中心推动ST路通资金占用代位追偿案",
+  "titleEn": "China Securities Investor Services Center's Derivative Recovery Case over ST Lutuong's Fund Occupation",
+  "forumZh": "一审法院（中国投资者网转载上海证券报概述）",
+  "forumEn": "First-instance court (summarized in a China Investor Network repost of Shanghai Securities News)",
+  "citation": "2025年一审判决；ST路通资金占用追偿案",
+  "year": 2025,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "损害公司利益责任纠纷",
+  "issuesZh": ["上市公司资金占用追偿", "投保机构股东代位诉讼", "关键少数分层责任", "董监高按比例承担连带赔偿"],
+  "issuesEn": [
+    "recovery for occupation of listed-company funds",
+    "derivative action by an investor-protection institution",
+    "tiered liability for key insiders",
+    "proportional joint and several liability of directors, supervisors, and executives"
+  ],
+  "holdingZh": "中国投资者网转载的官方报道显示，投服中心在ST路通案诉讼过程中推动占用方先行偿还了约九成占款，法院一审判决其返还剩余约870万元及利息，并对负有责任的董监高分别在100%、70%、50%范围内承担连带赔偿责任。该案的要点不只是要求实际占用方返还占款，还在于对“关键少数”按参与程度和过错大小进行分层认定，为上市公司资金占用类案件的精准追责提供了参考。",
+  "holdingEn": "Official reporting reposted on China Investor Network states that during the ST Lutuong litigation, the investor-protection institution pushed the occupier to repay about ninety percent of the misappropriated funds, after which the first-instance court ordered return of the remaining roughly RMB 8.7 million plus interest and imposed joint and several liability on responsible directors, supervisors, and executives at the levels of 100%, 70%, and 50%. The significance of the case lies not only in requiring the actual occupier to repay, but also in tiering liability among the key insiders by degree of participation and fault.",
+  "topics": [
+    "corporate-governance",
+    "director-abuse",
+    "director-liability-litigation",
+    "listed-companies",
+    "disclosure",
+    "actual-controller-tunneling",
+    "shareholder-rights",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-securities-law-2019",
+    "cn-listed-company-disclosure-measures-2021",
+    "cn-csrc-listed-company-governance-code-2018"
+  ],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://www.investor.org.cn/zczx/gzjl/202507/t20250714_810367.shtml",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "中国投资者网转载上海证券报稿件，载明诉讼推进情况、剩余占款金额和董监高分层赔偿比例。",
+      "noteEn": "China Investor Network repost with the litigation progress, remaining amount, and tiered liability percentages."
+    }
+  ]
+}

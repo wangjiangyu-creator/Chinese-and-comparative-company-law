@@ -1,0 +1,37 @@
+{
+  "titleZh": "许明宏诉泉州南明置业有限公司、林树哲与公司有关的纠纷案",
+  "titleEn": "Gazette Case: Xu Minghong v. Quanzhou Nanming Real Estate Co., Ltd. and Lin Shuzhe",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "公报案例：涉港董事会记录",
+  "year": 2017,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "与公司有关的纠纷",
+  "issuesZh": ["决议无效之诉原告资格", "实际投资人行权路径", "董事会记录性文件"],
+  "issuesEn": ["standing in resolution-invalidity suits", "rights-assertion path for actual investors", "board record as non-resolution document"],
+  "holdingZh": "人民法院审查确认公司决议无效之诉时，应同时适用公司法及民事诉讼法关于直接利害关系的要求；中外合资企业董事会对合营一方依法律委派、撤换董事所作的记录性文件，不构成公司法意义上的董事会决议，也不能成为确认公司决议无效之诉的对象。",
+  "holdingEn": "When reviewing a suit to confirm a company resolution invalid, courts must apply both company-law rules and civil-procedure standing requirements; a record made by the board of a Sino-foreign joint venture to note a party's statutory appointment or replacement of directors is not a board resolution in the company-law sense and cannot itself be challenged as such.",
+  "topics": [
+    "shareholder-rights",
+    "corporate-governance",
+    "corporate-formation",
+    "director-abuse",
+    "director-liability-litigation",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017",
+    "cn-spc-foreign-invested-enterprise-disputes-1-2021"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/9d09b46af8aab27bfdcf69bc7075d7.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

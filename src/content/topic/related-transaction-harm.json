@@ -1,0 +1,108 @@
+{
+  "nameZh": "关联交易与利益输送专题",
+  "nameEn": "Related-Party Transactions and Tunneling Topic",
+  "descriptionZh": "本专题集中整理中国公司法上围绕关联交易、利益输送和机会转移的核心裁判材料，重点覆盖借贷型关联交易、资产低价处分、自我交易、同址设立同业公司、机会侵占，以及关联交易争议中代表诉讼、决议撤销和损失计算等程序路径。页面优先放入最高人民法院公报、人民法院案例库和法院官方发布的典型案例，便于从实质公平、忠实义务和诉权设计三个层面比较裁判规则。",
+  "descriptionEn": "This topic collects core Chinese authorities on related-party transactions, tunneling, and opportunity diversion, with emphasis on shareholder-loan transactions, undervalued asset transfers, self-dealing, same-premises competitor setups, derivative suits, resolution challenges, and loss calculation.",
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-company-law-2013",
+    "cn-civil-code-2020-legal-person",
+    "cn-spc-company-law-interpretation-1-2014",
+    "cn-spc-company-law-interpretation-2-2020",
+    "cn-spc-company-law-interpretation-5-2019",
+    "cn-spc-company-law-interpretation-5-2021"
+  ],
+  "relatedCaseIds": [
+    "cn-database-case-related-transaction-gao-cheng",
+    "cn-typical-case-related-transaction-shandong-yue",
+    "cn-typical-case-self-dealing-shanghai-lan",
+    "cn-reference-case-zhengzhou-cable-overpriced-supplies",
+    "cn-reference-case-xiang-zaozhuang-taxi-energy-supply",
+    "cn-reference-case-actual-controller-overinterest-loan",
+    "cn-reference-case-yiming-jinshengli-related-transaction-offset",
+    "cn-reference-case-kou-guo-henan-education-asset-sale",
+    "cn-reference-case-hongshida-zhangchen-company-harm",
+    "cn-reference-case-shanxi-property-and-monitor-zhuyue",
+    "cn-reference-case-opportunity-steering-fluid-equipment",
+    "cn-reference-case-zhou-changchun-hanzhuo-company-liability",
+    "cn-reference-case-lin-cheng-en-director-loyalty-foreign-complexity",
+    "cn-reference-case-yuyao-job-invention-loyalty",
+    "cn-reference-case-fang-siwei-related-transaction-monitor",
+    "cn-reference-case-monitor-representative-suit-shanghai",
+    "cn-reference-case-shanghai-investment-bio-related-resolution"
+  ],
+  "relatedArticleIds": [
+    "article-cms-company-law-2024",
+    "article-china-briefing-revised-company-law",
+    "article-skadden-broad-reforms",
+    "article-routledge-corporate-governance"
+  ],
+  "caseGroups": [
+    {
+      "titleZh": "借贷型关联交易、定价公允与损失计算",
+      "titleEn": "Shareholder-loan transactions, pricing fairness, and loss calculation",
+      "descriptionZh": "这一组先看最核心的实质公平问题：关联交易本身并不当然违法，但法院会审查交易是否具有真实商业必要性、对价和利率是否明显偏离市场，以及公司最终损失应如何计算。",
+      "descriptionEn": "This group focuses on substantive fairness: related-party transactions are not illegal per se, but courts review commercial necessity, pricing or interest fairness, and the proper measure of corporate loss.",
+      "caseIds": [
+        "cn-database-case-related-transaction-gao-cheng",
+        "cn-reference-case-zhengzhou-cable-overpriced-supplies",
+        "cn-reference-case-xiang-zaozhuang-taxi-energy-supply",
+        "cn-reference-case-actual-controller-overinterest-loan",
+        "cn-reference-case-yiming-jinshengli-related-transaction-offset"
+      ]
+    },
+    {
+      "titleZh": "自我交易、利益输送与低价处分资产",
+      "titleEn": "Self-dealing, tunneling, and undervalued asset disposals",
+      "descriptionZh": "这一组聚焦控股股东、实际控制人和高管利用控制地位，把交易机会、营业资源或公司财产转移给自己或关联方，法院如何在已证明的范围内判令返还收益或赔偿损失。",
+      "descriptionEn": "These cases address controllers and managers diverting opportunities, operating resources, or assets to themselves or affiliates, and the judicial response in ordering disgorgement or compensation to the extent proved.",
+      "caseIds": [
+        "cn-typical-case-self-dealing-shanghai-lan",
+        "cn-reference-case-kou-guo-henan-education-asset-sale",
+        "cn-reference-case-hongshida-zhangchen-company-harm",
+        "cn-reference-case-shanxi-property-and-monitor-zhuyue"
+      ]
+    },
+    {
+      "titleZh": "商机转移、同业竞争与机会侵占",
+      "titleEn": "Opportunity diversion, competition, and corporate-opportunity abuse",
+      "descriptionZh": "这里放入与关联交易密切衔接的机会转移案件，帮助比较法院如何区分一般经营竞争、未经同意的关联安排与应由公司取得的交易机会。",
+      "descriptionEn": "This group collects closely related opportunity-diversion disputes and shows how courts distinguish ordinary competition from undisclosed affiliated arrangements and usurped corporate opportunities.",
+      "caseIds": [
+        "cn-reference-case-opportunity-steering-fluid-equipment",
+        "cn-reference-case-zhou-changchun-hanzhuo-company-liability",
+        "cn-reference-case-lin-cheng-en-director-loyalty-foreign-complexity",
+        "cn-reference-case-yuyao-job-invention-loyalty"
+      ]
+    },
+    {
+      "titleZh": "代表诉讼、决议撤销与程序边界",
+      "titleEn": "Derivative suits, resolution challenges, and procedural boundaries",
+      "descriptionZh": "最后看程序路径：谁可以代表公司起诉、何时可以越过公司内部机关直接追责，以及关联交易争议中哪些内容适合放在决议撤销之诉中审查，哪些应另循损害公司利益责任之诉处理。",
+      "descriptionEn": "This group covers who may sue on the company's behalf, when internal organs may be bypassed, and which related-transaction disputes belong in a resolution challenge versus a direct company-interest damage action.",
+      "caseIds": [
+        "cn-reference-case-fang-siwei-related-transaction-monitor",
+        "cn-reference-case-monitor-representative-suit-shanghai",
+        "cn-typical-case-related-transaction-shandong-yue",
+        "cn-reference-case-shanghai-investment-bio-related-resolution"
+      ]
+    }
+  ],
+  "comparisonRows": [
+    {
+      "labelZh": "实质审查重点",
+      "labelEn": "Substantive focus",
+      "cn": "中国法院通常围绕关联关系是否成立、交易是否具有商业必要性、价格或利率是否公允、是否存在未披露利益冲突，以及公司损失能否具体计算来进行实质审查。",
+      "hk": "香港更强调上市规则和公司治理框架中的披露、回避表决和独立股东批准机制，并把不公平损害救济与关联交易控制结合起来。",
+      "sg": "新加坡同样重视忠实义务、信息披露和可追踪证据链，尤其关注董事是否善意为公司利益行事以及交易后果能否通过账册和资金流向具体证明。"
+    },
+    {
+      "labelZh": "追责路径",
+      "labelEn": "Liability pathway",
+      "cn": "中国法上通常先看公司内部机关是否有能力和意愿追责；在控股股东、实际控制人或高管本人就是侵害主体时，股东代表诉讼和监事代表诉讼成为关键路径，另有部分争议通过决议撤销之诉解决程序瑕疵问题。",
+      "hk": "香港更常把关联交易争议与不公平损害、衍生诉讼以及董事义务违约放在同一救济框架内综合处理。",
+      "sg": "新加坡则主要通过 directors' duties、derivative actions 和 oppression remedies 处理控制股东或管理层主导的利益输送。"
+    }
+  ]
+}

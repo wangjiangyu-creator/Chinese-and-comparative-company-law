@@ -1,0 +1,45 @@
+---
+import { pickLocalized, toLocalePath, type Locale } from "@/lib/i18n";
+import {
+  formatLawAuthorityLabel,
+  formatTextStatusLabel,
+  getLawShortLabel
+} from "@/lib/labels";
+import type { ResolvedLaw } from "@/lib/portal-data";
+
+type Props = {
+  law: ResolvedLaw;
+  locale: Locale;
+};
+
+const { law, locale } = Astro.props;
+const href = toLocalePath(locale, `/laws/${law.id}/`);
+const title = pickLocalized(locale, law.titleZh, law.titleEn);
+const summary = pickLocalized(locale, law.summaryZh, law.summaryEn);
+const dataSearch = [law.titleZh, law.titleEn, law.shortTitle, law.summaryZh, law.summaryEn, ...law.aliases].join(" ");
+const issuingBody = pickLocalized(locale, law.issuingBodyZh, law.issuingBodyEn);
+---
+
+<article
+  class="card law-card"
+  data-search={dataSearch}
+  data-topics={law.topics.join("|")}
+  data-authority={law.authorityLevel}
+  data-issuer={law.issuingBodyZh}
+  data-status={law.status}
+  data-jurisdiction={law.jurisdiction}
+  data-history={String(Boolean(law.previousVersionId || law.nextVersionId))}
+  data-english={String(law.languages.includes("en"))}
+>
+  <div class="badge-row">
+    <span class="badge">{getLawShortLabel(locale, law.id, law.shortTitle)}</span>
+    <span class="badge">{formatLawAuthorityLabel(locale, law.authorityLevel)}</span>
+    <span class="badge">{formatTextStatusLabel(locale, law.textStatus)}</span>
+  </div>
+  <h3 class="record-card-title"><a href={href}>{title}</a></h3>
+  <p>{summary}</p>
+  <div class="record-card-footer">
+    <span>{issuingBody}</span>
+    <span>{law.effectiveDate}</span>
+  </div>
+</article>

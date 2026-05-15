@@ -1,0 +1,25 @@
+{
+  "titleZh": "Howard Smith Ltd 诉 Ampol Petroleum Ltd",
+  "titleEn": "Howard Smith Ltd v Ampol Petroleum Ltd",
+  "forumZh": "英国枢密院司法委员会",
+  "forumEn": "Judicial Committee of the Privy Council",
+  "citation": "[1974] AC 821",
+  "year": 1974,
+  "jurisdiction": "uk",
+  "caseType": "comparative-case",
+  "decisionType": "董事权力目的限制",
+  "issuesZh": ["董事发行股份权力", "正当目的原则", "控制权争夺"],
+  "issuesEn": ["power to issue shares", "proper-purpose doctrine", "contests for corporate control"],
+  "holdingZh": "Howard Smith 以敌意收购情境下的增发股份为背景，确立董事行使法定权力必须服务于正当公司目的，而不能仅为改变控制权结果。",
+  "holdingEn": "Howard Smith established that directors must exercise corporate powers for proper purposes and cannot deploy share issuances simply to alter the outcome of a control contest.",
+  "topics": ["listed-companies", "corporate-governance", "corporate-reorganization", "comparative-governance"],
+  "relatedLawIds": ["uk-companies-act-2006", "uk-takeover-code-2023", "uk-corporate-governance-code-2024"],
+  "sources": [
+    {
+      "label": "Research platform",
+      "url": "https://www.bailii.org/uk/cases/UKPC/1974/3.html",
+      "official": false,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

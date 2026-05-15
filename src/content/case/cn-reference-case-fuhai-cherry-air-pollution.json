@@ -1,0 +1,29 @@
+{
+  "titleZh": "曲忠全诉山东富海实业股份有限公司大气污染责任纠纷案",
+  "titleEn": "Reference Case: Qu Zhongquan v. Shandong Fuhai Industrial Co., Ltd.",
+  "forumZh": "山东省烟台市中级人民法院、山东省高级人民法院、最高人民法院再审审查（地方法院公开案例）",
+  "forumEn": "Yantai Intermediate People's Court, Shandong High People's Court, and SPC retrial review (local-court published case)",
+  "citation": "地方参考案例：樱桃园大气污染赔偿",
+  "year": 2017,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "大气污染责任纠纷",
+  "issuesZh": ["企业排污与农作物减产", "环境污染因果关系举证", "天气因素与责任比例"],
+  "issuesEn": [
+    "crop loss caused by industrial emissions",
+    "proof of causation in environmental pollution cases",
+    "allocation of liability amid weather factors"
+  ],
+  "holdingZh": "受害人提交公证勘验、叶片氟含量检测及专业机构鉴定等证据，足以证明企业排污、损害结果及二者关联性的，污染企业应就不存在因果关系或者免责事由承担举证责任。企业不能有效反证的，应承担污染赔偿责任；但人民法院可以结合天气等其他原因，合理确定责任比例。",
+  "holdingEn": "Where the victim proves pollutant discharge, the damage, and a sufficient connection between the two through inspections and expert testing, the polluting enterprise bears the burden to disprove causation or establish a defense. Failing that, the enterprise is liable, though courts may adjust the percentage of liability to account for other factors such as weather.",
+  "topics": ["corporate-social-responsibility", "corporate-governance"],
+  "relatedLawIds": ["cn-company-law-2023", "cn-company-law-2018", "cn-civil-code-2020-legal-person"],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://sdcourt.gov.cn/dyzy/372897/372898/1660855/index.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

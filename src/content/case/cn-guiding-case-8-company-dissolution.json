@@ -1,0 +1,32 @@
+{
+  "titleZh": "指导案例8号：林方清诉常熟市凯莱实业有限公司、戴小明公司解散纠纷案",
+  "titleEn": "Guiding Case No. 8: Lin Fangqing v. Changshu Kailai Industry Co., Ltd. and Dai Xiaoming",
+  "forumZh": "最高人民法院",
+  "forumEn": "Supreme People's Court",
+  "citation": "指导案例8号",
+  "year": 2012,
+  "jurisdiction": "cn",
+  "caseType": "guiding-case",
+  "decisionType": "公司解散纠纷",
+  "issuesZh": ["公司僵局", "司法解散", "其他救济途径"],
+  "issuesEn": ["corporate deadlock", "judicial dissolution", "alternative remedies"],
+  "holdingZh": "在经营管理发生严重困难、股东利益受重大损失且其他途径无法解决时，持股 10% 以上股东可以请求法院解散公司。",
+  "holdingEn": "A shareholder meeting the statutory threshold may seek judicial dissolution when management deadlock seriously harms shareholder interests and alternative remedies are inadequate.",
+  "topics": ["dissolution-liquidation", "shareholder-rights"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-2-2008",
+    "cn-spc-company-law-interpretation-2-2020",
+    "cn-spc-compulsory-liquidation-minutes-2009",
+    "cn-national-civil-commercial-trial-minutes-2019"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/shenpan/xiangqing/4221.html",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

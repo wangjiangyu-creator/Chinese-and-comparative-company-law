@@ -1,0 +1,42 @@
+{
+  "titleZh": "中华人民共和国公司法（1999年第一次修正）",
+  "titleEn": "Company Law of the People's Republic of China (1999 First Amendment)",
+  "shortTitle": "公司法（1999）",
+  "aliases": ["1999 Company Law", "第一次修正公司法"],
+  "jurisdiction": "cn",
+  "documentType": "law",
+  "authorityLevel": "national-law",
+  "issuingBodyZh": "全国人民代表大会常务委员会",
+  "issuingBodyEn": "Standing Committee of the National People's Congress",
+  "promulgationDate": "1999-12-25",
+  "effectiveDate": "1999-12-25",
+  "status": "historical",
+  "languageStatus": "official-zh-plus-reference-en",
+  "languages": ["zh", "en"],
+  "textStatus": "metadata-only",
+  "topics": ["corporate-formation", "registered-capital", "corporate-governance", "shareholder-rights", "dissolution-liquidation"],
+  "summaryZh": "1999 年第一次修正后的公司法，用于观察高新技术股份公司条款加入后、2005 年全面修订前的治理框架。",
+  "summaryEn": "The first amended text, useful for studying the pre-2005 governance framework after the 1999 adjustments, including the added high-tech joint-stock company clause.",
+  "versionGroup": "cn-company-law",
+  "versionLabel": "1999 first amendment",
+  "previousVersionId": "cn-company-law-1993",
+  "nextVersionId": "cn-company-law-2004",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official Chinese",
+      "url": "https://www.gov.cn/gongbao/content/2000/content_60428.htm",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Public English translation",
+      "url": "https://www.lawinfochina.com/Display.aspx?Cgid=24091&EncodingName=gb2312&lib=law",
+      "noteZh": "公开可访问的英文数据库译本，可用于研究和版本比对；解释和效力仍以中文法定文本为准。",
+      "noteEn": "Publicly accessible English database translation for research and version comparison; the Chinese statutory text remains controlling.",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

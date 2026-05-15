@@ -1,0 +1,37 @@
+{
+  "titleZh": "工商银行山东分行诉信诚公司等借款合同纠纷案",
+  "titleEn": "Gazette Case: ICBC Shandong Branch v. Xincheng Company et al.",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "(2003)民二终字第106号",
+  "year": 2003,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "借款合同纠纷",
+  "issuesZh": [
+    "企业以部分财产和等额债务组建新公司",
+    "公司分立与债务转移",
+    "未转移债务债权人的保护",
+    "新设公司在接收财产范围内承担责任"
+  ],
+  "issuesEn": [
+    "forming a new company with part of the enterprise's assets and offsetting debt",
+    "corporate division and debt transfer",
+    "protection of creditors whose claims were not transferred",
+    "liability of the new company within the scope of assets received"
+  ],
+  "holdingZh": "企业以部分财产并以等额债务相抵方式组建新公司、且对所出让财产不再持有相应股份时，未被纳入债务转移安排的债权人仍可向原企业主张债权，并要求新设公司在其实际接收的原企业财产范围内承担连带清偿责任。",
+  "holdingEn": "Where an enterprise forms a new company by transferring part of its assets and offsetting an equivalent amount of debt, and no longer holds corresponding shares in the transferred assets, a creditor whose claim was not included in the transfer arrangement may still proceed against the original enterprise and require the new company to bear joint liability within the scope of the predecessor assets it actually received.",
+  "topics": ["corporate-reorganization", "business-environment"],
+  "relatedLawIds": ["cn-company-law-1993", "cn-company-law-2023", "cn-civil-code-2020-legal-person"],
+  "sources": [
+    {
+      "label": "Research platform",
+      "url": "https://www.fsou.net/html/text/cas/336216/33621697.html",
+      "noteZh": "页面载明来源为最高人民法院公报案例库，含裁判摘要、案号和当事人信息；当前以研究平台转引版本落库。",
+      "noteEn": "The page identifies itself as a reproduction from the Supreme People's Court Gazette case library and preserves the holding summary, case number, and party information.",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

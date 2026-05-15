@@ -1,0 +1,16 @@
+---
+type Props = {
+  href: string;
+  label: string;
+  title: string;
+  summary: string;
+};
+
+const { href, label, title, summary } = Astro.props;
+---
+
+<a class="card" href={href}>
+  <span class="eyebrow">{label}</span>
+  <h3>{title}</h3>
+  <p>{summary}</p>
+</a>

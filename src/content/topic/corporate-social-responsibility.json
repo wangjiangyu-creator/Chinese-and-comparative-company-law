@@ -1,0 +1,111 @@
+{
+  "nameZh": "CSR专题：企业社会责任、公共利益与第三人保护",
+  "nameEn": "CSR Topic: Corporate Social Responsibility, Public Interest, and Third-Party Protection",
+  "descriptionZh": "CSR专题集中收录与公司社会责任相关的中国裁判材料，现已将范围扩展至最高人民法院指导性案例、公报与人民法院案例库案例，以及中级人民法院、基层人民法院公开发布的环境污染、消费者保护、就业平等、安全生产与第三人保护案例。该专题将《公司法》中的社会责任条款、法人独立地位与外部责任边界，与环境公益、食品安全、劳动者和求职者保护、作业安全保障等领域的裁判规则串联起来。",
+  "descriptionEn": "This CSR topic collects Chinese authorities on corporate social responsibility across Supreme People's Court guiding cases, gazette and database materials, and officially published intermediate- and basic-court cases on environmental harm, consumer protection, equal employment, and operational safety. It ties Company Law notions of social responsibility and separate legal personality to judicial rules protecting the public, consumers, workers, job applicants, and third parties.",
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-civil-code-2020-legal-person"
+  ],
+  "relatedCaseIds": [
+    "cn-guiding-case-75-ruitai-environmental-standing",
+    "cn-guiding-case-130-zangjinge-entrusted-pollution",
+    "cn-guiding-case-131-zhenhua-air-pollution-risk",
+    "cn-guiding-case-174-yalong-ecological-prevention",
+    "cn-guiding-case-204-yuhuang-retrofit-offset",
+    "cn-guiding-case-210-zhengpeng-ecological-damage",
+    "cn-guiding-case-215-environmental-veil-piercing",
+    "cn-guiding-case-260-shanxi-aluminum-public-interest-settlement",
+    "cn-reference-case-fuhai-cherry-air-pollution",
+    "cn-reference-case-hyundai-emissions-public-interest-trust",
+    "cn-guiding-case-23-expired-food-punitive-damages",
+    "cn-guiding-case-64-china-mobile-disclosure",
+    "cn-reference-case-pingchuan-three-no-diet-product",
+    "cn-guiding-case-182-bonus-approval-labor-pay",
+    "cn-guiding-case-237-platform-outsourcing-labor",
+    "cn-guiding-case-238-platform-individual-business-labor",
+    "cn-reference-case-liang-cook-apprentice-gender-discrimination",
+    "cn-reference-case-hbv-carrier-employment-discrimination",
+    "cn-reference-case-meihekou-heating-rescue-health",
+    "cn-reference-case-nansha-port-safety-injury"
+  ],
+  "relatedArticleIds": [],
+  "caseGroups": [
+    {
+      "titleZh": "环境公益与生态修复",
+      "titleEn": "Environmental public interest and ecological remediation",
+      "descriptionZh": "围绕环境公益诉讼主体资格、重大风险预防、委托排污共同侵权、机动车尾气超标、传统工业排污致损以及和解、信托修复等问题，呈现企业在生态环境领域承担社会责任的主要裁判路径。",
+      "descriptionEn": "Tracks standing, preventive relief, delegated-pollution liability, excessive vehicle emissions, industrial pollution harming crops, and settlement or trust-based remediation in environmental disputes.",
+      "caseIds": [
+        "cn-guiding-case-75-ruitai-environmental-standing",
+        "cn-guiding-case-130-zangjinge-entrusted-pollution",
+        "cn-guiding-case-131-zhenhua-air-pollution-risk",
+        "cn-guiding-case-174-yalong-ecological-prevention",
+        "cn-guiding-case-204-yuhuang-retrofit-offset",
+        "cn-guiding-case-210-zhengpeng-ecological-damage",
+        "cn-guiding-case-215-environmental-veil-piercing",
+        "cn-guiding-case-260-shanxi-aluminum-public-interest-settlement",
+        "cn-reference-case-fuhai-cherry-air-pollution",
+        "cn-reference-case-hyundai-emissions-public-interest-trust"
+      ]
+    },
+    {
+      "titleZh": "消费者保护与市场诚信",
+      "titleEn": "Consumer protection and market integrity",
+      "descriptionZh": "聚焦食品安全、格式条款告知义务、经营者诚实履约和惩罚性赔偿边界，展示企业面对消费者时的真实说明、安全保障和公平交易责任。",
+      "descriptionEn": "Focuses on food safety, disclosure duties in standard terms, honest performance, and the scope of punitive damages owed by businesses to consumers.",
+      "caseIds": [
+        "cn-guiding-case-23-expired-food-punitive-damages",
+        "cn-guiding-case-64-china-mobile-disclosure",
+        "cn-reference-case-pingchuan-three-no-diet-product"
+      ]
+    },
+    {
+      "titleZh": "劳动者保护、就业平等与平台用工责任",
+      "titleEn": "Worker protection, equal employment, and platform-labor responsibility",
+      "descriptionZh": "覆盖奖金发放、平台承揽合作、个体工商户包装，以及地域、性别、健康状态歧视等争议，重点观察法院如何从实际用工控制、算法管理和求职者人格尊严保护角度要求企业承担外部责任。",
+      "descriptionEn": "Covers bonus disputes, outsourced platform work, sole-proprietor packaging, and discrimination based on region, sex, or health status, showing how courts police control, algorithmic management, and the dignity of applicants and workers.",
+      "caseIds": [
+        "cn-guiding-case-182-bonus-approval-labor-pay",
+        "cn-guiding-case-237-platform-outsourcing-labor",
+        "cn-guiding-case-238-platform-individual-business-labor",
+        "cn-reference-case-liang-cook-apprentice-gender-discrimination",
+        "cn-reference-case-hbv-carrier-employment-discrimination"
+      ]
+    },
+    {
+      "titleZh": "安全生产与第三人保护",
+      "titleEn": "Operational safety and third-party protection",
+      "descriptionZh": "收录作业环境危险、码头作业区安全保障、见义勇为救助受损等案件，展示企业未尽安全生产和场所管理义务时，对员工之外第三人的赔偿责任边界。",
+      "descriptionEn": "Collects cases on dangerous operating conditions, safety guarantees in operational zones, and harm suffered by rescuers, illustrating how enterprises may be liable to third parties beyond their own employees.",
+      "caseIds": [
+        "cn-reference-case-meihekou-heating-rescue-health",
+        "cn-reference-case-nansha-port-safety-injury"
+      ]
+    }
+  ],
+  "comparisonRows": [
+    {
+      "labelZh": "公司法上的社会责任定位",
+      "labelEn": "CSR in company law",
+      "cn": "中国《公司法》明文要求公司在经营活动中承担社会责任，司法上则更多通过环境公益、消费者保护、劳动保障、平等就业和人格否认规则把这一要求具体化。",
+      "hk": "香港更常通过普通法董事职责、上市规则和行业监管落实外部责任，较少以独立“公司社会责任纠纷”概念展开裁判。",
+      "sg": "新加坡主要通过公司法董事职责、证券监管与行业法落实社会责任议题，CSR 更多体现为合规与受托责任的延伸。"
+    },
+    {
+      "labelZh": "环境公益与风险预防",
+      "labelEn": "Environmental public interest and prevention",
+      "cn": "中国环境公益诉讼已形成从主体资格、预防性禁令到赔偿、修复、和解审查与替代性修复资金管理的完整裁判链条，企业环境责任是最成熟的公司社会责任案件类型。",
+      "hk": "香港环境责任更多通过行政监管、司法复核和私法救济处理，面向社会组织的独立公益诉讼路径相对有限。",
+      "sg": "新加坡以行政执法和法定合规体系为主，民事层面的公益型环境案件数量和制度展开均少于中国。"
+    },
+    {
+      "labelZh": "劳动者与消费者外部保护",
+      "labelEn": "Workers and consumers as external stakeholders",
+      "cn": "中国法院通过食品安全惩罚性赔偿、格式条款审查、就业平等权保护、奖金兑现、平台劳动关系认定等方式，将公司对外部利益相关者的责任转化为可执行的私法规则。",
+      "hk": "香港通常分别通过雇佣法、消费者法和平等机会制度保护劳动者与消费者，较少在公司法框架下集中表达。",
+      "sg": "新加坡亦主要依赖劳动法、消费者保护法与行业监管，不以单一 CSR 诉讼门类统摄相关争议。"
+    }
+  ]
+}

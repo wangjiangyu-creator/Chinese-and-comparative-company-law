@@ -1,0 +1,36 @@
+{
+  "titleZh": "甘肃居立门业有限责任公司与庆阳市太一热力有限公司、李昕军公司盈余分配纠纷案",
+  "titleEn": "Gazette Case: Gansu Juli Door Industry Co., Ltd. v. Qingyang Taiyi Heating Co., Ltd. and Li Xinjun",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "公报案例：强制盈余分配",
+  "year": 2017,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司盈余分配纠纷",
+  "issuesZh": ["无决议情况下利润分配", "强制盈余分配", "控股股东转移利润"],
+  "issuesEn": ["profit distribution without a resolution", "court-ordered profit distribution", "controlling-shareholder diversion of profits"],
+  "holdingZh": "虽无载明具体分配方案的股东会决议，但在公司存在可分配利润且控股股东变相分配、隐瞒或转移公司利润的情况下，人民法院可以强制盈余分配，以保护少数股东收益权。",
+  "holdingEn": "Even absent a shareholder resolution specifying a distribution plan, a court may order profit distribution where the company has distributable profits and controlling shareholders have diverted, concealed, or appropriated them to the detriment of minority shareholders.",
+  "topics": [
+    "shareholder-rights",
+    "corporate-governance",
+    "director-abuse",
+    "director-liability-litigation",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017",
+    "cn-national-civil-commercial-trial-minutes-2019"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/de322ca590bb9420f051bc6aec9b2b.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

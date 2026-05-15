@@ -1,0 +1,31 @@
+{
+  "titleZh": "指导案例9号：上海存亮贸易有限公司诉蒋志东、王卫明等买卖合同纠纷案",
+  "titleEn": "Guiding Case No. 9: Shanghai Cunliang Trading Co., Ltd. v. Jiang Zhidong, Wang Weiming et al.",
+  "forumZh": "最高人民法院",
+  "forumEn": "Supreme People's Court",
+  "citation": "指导案例9号",
+  "year": 2012,
+  "jurisdiction": "cn",
+  "caseType": "guiding-case",
+  "decisionType": "公司清算责任",
+  "issuesZh": ["清算义务人", "吊销营业执照后清算", "连带清偿责任"],
+  "issuesEn": ["liquidation obligors", "liquidation after business-license revocation", "joint repayment liability"],
+  "holdingZh": "有限责任公司的股东、股份有限公司的董事和控股股东在公司被吊销营业执照后负有法定清算义务，不能以未实际控制公司或者未参与经营管理为由免除责任。",
+  "holdingEn": "Shareholders of a limited liability company, and directors and controlling shareholders of a company limited by shares, remain statutory liquidation obligors after business-license revocation and cannot avoid liability by claiming they lacked actual control or day-to-day management.",
+  "topics": ["dissolution-liquidation", "shareholder-rights", "directors-officer-loyalty-and-duties"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-2-2008",
+    "cn-spc-company-law-interpretation-2-2020",
+    "cn-spc-compulsory-liquidation-minutes-2009"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/shenpan/xiangqing/13306.html",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

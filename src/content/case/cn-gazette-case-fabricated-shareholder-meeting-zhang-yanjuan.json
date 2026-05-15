@@ -1,0 +1,36 @@
+{
+  "titleZh": "张艳娟诉江苏万华工贸发展有限公司、万华、吴亮亮、毛建伟股东权纠纷案",
+  "titleEn": "Gazette Case: Zhang Yanjuan v. Jiangsu Wanhua Industry & Trade Development Co., Ltd. et al.",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "公报案例：虚构股东会决议",
+  "year": 2007,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股东权纠纷",
+  "issuesZh": ["虚构股东会决议", "股权转让同意规则", "六十日撤销期限"],
+  "issuesEn": ["fabricated shareholder resolution", "consent rules for equity transfer", "60-day rescission period"],
+  "holdingZh": "有限责任公司股东会议及其决议的有效性，以依法召开会议并由股东真实参与和表意为前提；实际控制人虚构股东会及其决议的，其他股东请求确认无效应予支持。对虚构会议和虚假决议，不适用公司法关于自决议作出之日起六十日内请求撤销的限制。",
+  "holdingEn": "The validity of a limited liability company's shareholder meeting and resolution depends on a lawfully convened meeting with genuine shareholder participation and assent; where the controller fabricates the meeting and resolution, other shareholders may seek a declaration of invalidity, and the Company Law's 60-day rescission limit for actual resolutions does not apply.",
+  "topics": [
+    "shareholder-rights",
+    "corporate-governance",
+    "director-abuse",
+    "director-liability-litigation",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-1-2014",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/9cde0357de27bb53c852a1bc313cb5.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

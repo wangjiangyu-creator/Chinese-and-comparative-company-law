@@ -1,0 +1,42 @@
+{
+  "titleZh": "吉林省金融控股集团股份有限公司与吉林省金融资产管理有限公司、宏运集团有限公司公司解散纠纷案",
+  "titleEn": "Gazette Case: Jilin Financial Holding Group Co., Ltd. v. Jilin Financial Asset Management Co., Ltd. and Hongyun Group Co., Ltd.",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "（2019）最高法民申1474号",
+  "year": 2019,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司解散纠纷",
+  "issuesZh": [
+    "司法解散边界",
+    "股东冲突与资金占用",
+    "公司机关仍可运转时是否解散"
+  ],
+  "issuesEn": [
+    "boundaries of judicial dissolution",
+    "shareholder conflict and fund occupation",
+    "whether dissolution is available when corporate organs still function"
+  ],
+  "holdingZh": "股东之间矛盾尖锐、存在关联交易争议或者资金占用情形，并不当然意味着公司已形成依法应当解散的经营管理僵局。只要股东会、董事会等公司机关仍能依章程和法律规定召开、表决并形成有效决议，公司治理结构尚未发生实质性瘫痪，人民法院一般不应支持解散请求。",
+  "holdingEn": "Sharp shareholder conflict, related-party transaction disputes, or occupation of company funds do not automatically amount to a deadlock warranting dissolution. If shareholder and board organs can still convene, vote, and produce valid resolutions under the law and the charter, and governance has not substantively collapsed, courts should ordinarily deny judicial dissolution.",
+  "topics": [
+    "dissolution-liquidation",
+    "corporate-governance",
+    "shareholder-rights"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-2-2008",
+    "cn-spc-company-law-interpretation-2-2020"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/faa11cc993e70234d34db7af2204a5.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

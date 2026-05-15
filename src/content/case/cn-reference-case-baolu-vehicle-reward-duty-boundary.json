@@ -1,0 +1,39 @@
+{
+  "titleZh": "王某胜、王某利与刘某华、王某军、毕某逸等损害公司利益责任纠纷案",
+  "titleEn": "Wang Mou sheng and Wang Mou li v. Liu, Wang, and Bi: Boundary of Director Liability for Reward Arrangements",
+  "forumZh": "山东省威海市中级人民法院保护中小投资者典型案例",
+  "forumEn": "Weihai Intermediate People's Court typical investor-protection case",
+  "citation": "（2019）鲁10民终3289号",
+  "year": 2019,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "损害公司利益责任纠纷",
+  "issuesZh": ["董监高忠实勤勉义务边界", "公司奖励车辆安排", "股东知情与追认", "是否当然构成公司损失"],
+  "issuesEn": [
+    "boundary of loyalty and diligence duties of directors, supervisors, and managers",
+    "company reward arrangements involving vehicles",
+    "shareholder knowledge and ratification",
+    "whether corporate loss is established automatically"
+  ],
+  "holdingZh": "法院指出，判断法定代表人或高管是否构成损害公司利益，仍须回到是否违反法律、章程或内部约定并造成公司损失。涉案奖励安排已经纳入公司内部报销与审批流程、事后又获实际股东追认时，不能仅因资产记名在个人名下就当然认定董监高违反忠实义务；但仍应按权属状态纠正个别名义持有瑕疵。",
+  "holdingEn": "The court emphasized that liability for harming corporate interests still turns on whether the director or executive violated law, the articles, or internal arrangements and thereby caused loss to the company. Where a reward arrangement went through the company's internal approval process and was later ratified by the actual shareholder, the mere fact that an asset stood in an individual's name does not automatically establish a breach of loyalty, although title defects may still need to be corrected.",
+  "topics": [
+    "corporate-governance",
+    "director-abuse",
+    "director-liability-litigation",
+    "legal-representative-and-seal-control",
+    "shareholder-rights",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": ["cn-company-law-2023", "cn-company-law-2018", "cn-civil-code-2020-legal-person"],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.sdcourt.gov.cn/whzy/yhyshj6/bhzxtzz/dxal116/6592303/index.html",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "威海中院发布的保护中小投资者典型案例，含二审案号与裁判理由。",
+      "noteEn": "Weihai court typical investor-protection case with appellate citation and reasoning."
+    }
+  ]
+}

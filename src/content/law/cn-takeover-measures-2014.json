@@ -1,0 +1,46 @@
+{
+  "titleZh": "上市公司收购管理办法（2014年修正）",
+  "titleEn": "Measures for the Administration of the Takeover of Listed Companies (2014 Amendment)",
+  "shortTitle": "收购管理办法（2014）",
+  "aliases": ["证监会令第108号"],
+  "jurisdiction": "cn",
+  "documentType": "departmental-rule",
+  "authorityLevel": "departmental-rule",
+  "issuingBodyZh": "中国证券监督管理委员会",
+  "issuingBodyEn": "China Securities Regulatory Commission",
+  "promulgationDate": "2014-10-23",
+  "effectiveDate": "2014-11-23",
+  "status": "historical",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "shareholder-rights", "disclosure"],
+  "summaryZh": "2014 年对上市公司收购管理办法的关键修正节点，与并购重组规则同步调整，是 2020 年修正前的中期代表性版本。",
+  "summaryEn": "The key 2014 amendment node for the takeover measures, revised alongside the M&A reorganization regime and serving as the principal mid-cycle version before 2020.",
+  "versionGroup": "cn-takeover-measures",
+  "versionLabel": "2014 amendment",
+  "previousVersionId": "cn-takeover-measures-2006",
+  "nextVersionId": "cn-takeover-measures-2020",
+  "applicablePeriodZh": "2014年11月23日起适用，后续由 2020 年修正文本继续承接。",
+  "applicablePeriodEn": "Applied from November 23, 2014, and was later succeeded by the 2020 amended text.",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official Chinese",
+      "url": "https://www.csrc.gov.cn/csrc/c101864/c1024607/1024607/files/%E5%85%B3%E4%BA%8E%E4%BF%AE%E6%94%B9%E3%80%8A%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E6%94%B6%E8%B4%AD%E7%AE%A1%E7%90%86%E5%8A%9E%E6%B3%95%E3%80%8B%E7%9A%84%E5%86%B3%E5%AE%9A.pdf",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "证监会 2014 年修正决定 PDF，用户阅读该版本时应与修正后的办法正文合并理解。",
+      "noteEn": "Official 2014 amendment decision PDF; users should read it together with the post-amendment text."
+    },
+    {
+      "label": "Official release",
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c1002940/content.shtml",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "证监会关于收购办法体系的正式发布页，可作为官方备链。",
+      "noteEn": "Formal CSRC release page for the takeover-measures regime, used as a backup official access point."
+    }
+  ]
+}

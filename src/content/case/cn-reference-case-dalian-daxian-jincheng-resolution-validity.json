@@ -1,0 +1,30 @@
+{
+  "titleZh": "大连大显集团有限公司与东北金城建设股份有限公司公司决议效力确认纠纷案",
+  "titleEn": "Reference Case: Dalian Daxian Group Co., Ltd. v. Dongbei Jincheng Construction Co., Ltd.",
+  "forumZh": "最高人民法院第二巡回法庭",
+  "forumEn": "Second Circuit Court of the Supreme People's Court",
+  "citation": "最高法二巡典型案例：股东会决议效力与公司自治",
+  "year": 2018,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司决议效力确认纠纷",
+  "issuesZh": ["股东会决议效力", "公司自治", "司法审查限度"],
+  "issuesEn": ["shareholder-resolution validity", "corporate autonomy", "limits of judicial review"],
+  "holdingZh": "人民法院审查股东会决议效力，应以合法性为主、合理性为辅，重点审查召集程序、表决程序和决议内容是否违反法律、行政法规或者章程。对未违反强制性规则、亦未损害公司或其他股东合法权益的公司自治安排，法院一般不宜以实质商业判断取代股东会决定。",
+  "holdingEn": "When reviewing the validity of a shareholders' resolution, courts should focus primarily on legality and only secondarily on reasonableness, examining whether convening, voting, or the substance of the resolution violates mandatory law or the articles. Where the resolution does not breach such rules or harm the company or other shareholders, courts should not replace corporate self-governance with their own business judgment.",
+  "topics": ["shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-1-2014",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/xunhui2/xiangqing/83142.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

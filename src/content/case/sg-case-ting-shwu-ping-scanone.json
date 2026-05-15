@@ -1,0 +1,33 @@
+{
+  "titleZh": "Ting Shwu Ping 诉 Scanone Pte Ltd",
+  "titleEn": "Ting Shwu Ping v Scanone Pte Ltd",
+  "forumZh": "新加坡上诉法院",
+  "forumEn": "Court of Appeal of Singapore",
+  "citation": "[2016] SGCA 65",
+  "year": 2016,
+  "jurisdiction": "sg",
+  "caseType": "comparative-case",
+  "decisionType": "少数股东压迫救济",
+  "issuesZh": ["少数股东压迫", "准合伙公司", "买断救济估值"],
+  "issuesEn": ["minority oppression", "quasi-partnership companies", "valuation in buyout remedies"],
+  "holdingZh": "Ting Shwu Ping 系统阐述了新加坡压迫救济中“准合伙公司”与“衡平法合理期待”的适用边界，并对法院命令买断时的估值安排作出重要说明。",
+  "holdingEn": "Ting Shwu Ping clarifies the role of quasi-partnership analysis and equitable expectations in Singapore oppression actions, and gives important guidance on valuation when the court orders a buyout remedy.",
+  "topics": ["shareholder-rights", "dissolution-liquidation", "corporate-governance", "comparative-governance"],
+  "relatedLawIds": ["sg-companies-act-1967"],
+  "sources": [
+    {
+      "label": "Official English",
+      "url": "https://www.elitigation.sg/gd/gd/2016_SGCA_65/pdf",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Official court release",
+      "url": "https://www.elitigation.sg/gd/s/2016_SGCA_65",
+      "official": true,
+      "lastVerified": "2026-05-16",
+      "noteZh": "新加坡法院网页版本。",
+      "noteEn": "Singapore Courts web-form version."
+    }
+  ]
+}

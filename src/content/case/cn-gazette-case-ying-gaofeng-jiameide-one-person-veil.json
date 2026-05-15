@@ -1,0 +1,33 @@
+{
+  "titleZh": "应高峰诉嘉美德（上海）商贸有限公司、陈惠美其他合同纠纷案",
+  "titleEn": "Gazette Case: Ying Gaofeng v. Jiameide (Shanghai) Trading Co., Ltd. and Chen Huimei",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "公报案例：一人公司人格否认与举证责任",
+  "year": 2016,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "其他合同纠纷",
+  "issuesZh": ["一人有限责任公司", "财产混同举证责任", "股东个人连带责任"],
+  "issuesEn": ["one-person limited liability company", "burden of proof for asset commingling", "shareholder joint liability"],
+  "holdingZh": "在一人公司人格否认诉讼中，如果债权人主张股东与公司财产混同，应由股东证明公司财产独立于个人财产；至于是否构成混同，应结合独立规范的财务制度、资金支付是否清晰、经营场所是否独立等因素综合判断。股东完成分离证明时，不应当然判令其对公司债务承担连带责任。",
+  "holdingEn": "In veil-piercing litigation involving a one-person company, when the creditor relies on shareholder-company asset commingling, the shareholder bears the burden of proving separation. Whether commingling exists should be assessed through the independence of the financial system, clarity of payments, and operational independence; if the shareholder carries that burden, joint liability should not be imposed automatically.",
+  "topics": [
+    "corporate-veil-piercing",
+    "corporate-governance",
+    "shareholder-rights"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-civil-code-2020-legal-person"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/c38e1845e8bcefca64c3f98ce1553f.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

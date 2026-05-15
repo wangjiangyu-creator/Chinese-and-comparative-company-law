@@ -1,0 +1,38 @@
+{
+  "titleZh": "大拇指环保科技集团（福建）有限公司与中华环保科技集团有限公司股东出资纠纷案",
+  "titleEn": "Gazette Case: Thumb Environmental Technology Group (Fujian) Co., Ltd. v. China Environmental Technology Group Co., Ltd.",
+  "forumZh": "最高人民法院公报 / 最高人民法院",
+  "forumEn": "Supreme People's Court Gazette / Supreme People's Court",
+  "citation": "公报案例：法定代表人登记公示",
+  "year": 2014,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股东出资纠纷",
+  "issuesZh": ["法定代表人登记公示效力", "法定代表人变更的内外效力", "公司诉讼意思表示"],
+  "issuesEn": [
+    "publicity effect of legal-representative registration",
+    "internal and external effect of changing the legal representative",
+    "corporate intent in litigation"
+  ],
+  "holdingZh": "工商登记的法定代表人对外具有公示效力，涉及公司与第三人之间因公司代表权产生的外部争议，应以登记状态作为重要判断基础。对公司内部而言，股东可以依公司法和章程作出法定代表人变更决定，但在未完成变更登记前，不能仅以内部更换事实否定已经以公司名义作出的对外表示和诉讼行为。",
+  "holdingEn": "Registration of the legal representative has public effect toward outsiders, and external disputes over corporate representation should be assessed with close regard to the registered status. Internally, shareholders may change the legal representative under the Company Law and the articles, but before registration is updated the mere fact of an internal change does not by itself negate outward acts or litigation conduct already taken in the company's name.",
+  "topics": [
+    "legal-representative-and-seal-control",
+    "corporate-governance",
+    "corporate-formation"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2005",
+    "cn-company-law-2023",
+    "cn-civil-code-2020-legal-person",
+    "cn-market-entity-registration-regulations-2021"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/7f487bb61c8c587ca9dfd61c9f3c2c.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

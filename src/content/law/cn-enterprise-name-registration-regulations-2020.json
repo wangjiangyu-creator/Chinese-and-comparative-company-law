@@ -1,0 +1,32 @@
+{
+  "titleZh": "企业名称登记管理规定",
+  "titleEn": "Provisions on the Registration and Administration of Enterprise Names",
+  "shortTitle": "企业名称登记管理规定",
+  "aliases": ["国务院令第734号"],
+  "jurisdiction": "cn",
+  "documentType": "administrative-regulation",
+  "authorityLevel": "administrative-regulation",
+  "issuingBodyZh": "国务院",
+  "issuingBodyEn": "State Council",
+  "promulgationDate": "2021-01-19",
+  "effectiveDate": "2021-03-01",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["business-environment", "corporate-formation"],
+  "summaryZh": "规定企业名称组成、申报、使用和争议处理的基础性行政法规，是公司设立和变更登记中名称审查的上位依据。",
+  "summaryEn": "The core State Council regulation governing enterprise-name structure, filing, use, and disputes, serving as the upper-level basis for company-name review in registration practice.",
+  "versionGroup": "cn-enterprise-name-registration-regulations",
+  "versionLabel": "Order No. 734",
+  "relatedCaseIds": ["cn-reference-case-wanmougong-enterprise-name-registration"],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://www.gov.cn/zhengce/zhengceku/2021-01/19/content_5581091.htm?ddtab=true",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

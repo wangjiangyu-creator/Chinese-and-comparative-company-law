@@ -1,0 +1,25 @@
+{
+  "titleZh": "南通双盈贸易有限公司诉镇江市丹徒区联达机械厂、魏恒聂等六人买卖合同纠纷案",
+  "titleEn": "Gazette Case: Nantong Shuangying Trading Co., Ltd. v. Lianda Machinery Factory of Dantu District, Zhenjiang, Wei Hengnie et al.",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "公报案例：合伙债务对外责任",
+  "year": 2009,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "买卖合同纠纷",
+  "issuesZh": ["实际合伙关系的认定", "未及时变更登记的对外责任", "合伙债务承担"],
+  "issuesEn": ["recognition of an actual partnership relationship", "external liability despite failure to update registration", "liability for partnership debts"],
+  "holdingZh": "最高人民法院公报案例确认：数人共同经营并对企业经营事项作出共同决定的，可以认定形成合伙关系。合伙人故意不将企业登记性质据实变更为合伙企业，不影响其对外就合伙经营产生的债务承担责任。",
+  "holdingEn": "The Gazette case confirms that where several persons jointly operate a business and jointly decide its business affairs, a partnership relationship may be found. Their deliberate failure to update the registration to reflect the partnership does not relieve them of external liability for debts incurred in partnership operations.",
+  "topics": ["partnership-enterprises"],
+  "relatedLawIds": ["cn-partnership-enterprise-law-1997", "cn-partnership-enterprise-law-2006"],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/3ad0ce7ac30890fd15c1653358ba4a.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

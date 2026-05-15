@@ -1,0 +1,27 @@
+{
+  "nameZh": "中国",
+  "nameEn": "China",
+  "emphasisZh": "主库法域，优先追求国家层级公司法相关材料的完整度和版本关系。",
+  "emphasisEn": "Primary jurisdiction; prioritize breadth and version control across national-level company-law materials.",
+  "recordPriority": ["law", "case", "articleLink", "topic"],
+  "officialPortals": [
+    {
+      "label": "Official Chinese",
+      "url": "https://www.npc.gov.cn/",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    },
+    {
+      "label": "Official release",
+      "url": "https://www.gov.cn/",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    },
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

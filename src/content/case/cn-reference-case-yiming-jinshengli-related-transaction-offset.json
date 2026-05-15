@@ -1,0 +1,41 @@
+{
+  "titleZh": "新疆一鸣房地产开发有限公司与金胜利公司关联交易损害责任纠纷再审案",
+  "titleEn": "Xinjiang Yiming Real Estate Development Co., Ltd. v. Jin Shengli (Retrial on Harmful Related-Party Transactions)",
+  "forumZh": "新疆维吾尔自治区高级人民法院 / 驻马店市中级人民法院转载",
+  "forumEn": "Xinjiang Uyghur Autonomous Region Higher People's Court / republished by Zhumadian Intermediate People's Court",
+  "citation": "（2019）新民再50号",
+  "year": 2019,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司关联交易损害责任纠纷",
+  "issuesZh": ["实际控制人占用公司资金", "预估利润分配与抵销抗辩", "关联公司往来合并处理", "返还责任与利息"],
+  "issuesEn": [
+    "actual controller's occupation of company funds",
+    "estimated profit-distribution set-off defense",
+    "combined accounting treatment of dealings with affiliated companies",
+    "repayment liability and interest"
+  ],
+  "holdingZh": "再审法院认定，实际控制人以支付货款名义将公司七百万元转出供个人使用，属于利用关联关系无偿转移、占有公司资产。虽然公司曾形成清产核资报告和利润分配决议，但在未审计、利润仅为预估且关联公司往来被合并处理的情况下，相关股东并不能据此当然取得利润分配，更不能据此抵销其对公司的返还义务。法院最终撤销原审，判令返还七百万元并支付占用利息。",
+  "holdingEn": "On retrial, the high court held that the actual controller had improperly transferred RMB 7 million from the company in the name of paying for goods and used it personally, thereby diverting company assets through an affiliated relationship. An unaudited clean-up report and an estimated profit-distribution resolution were not enough to establish lawful distributable profits or a valid set-off against the controller's repayment duty, especially where dealings with affiliated companies had been blended together. The prior judgments were reversed and repayment with interest was ordered.",
+  "topics": [
+    "corporate-governance",
+    "actual-controller-tunneling",
+    "related-transaction-harm",
+    "shareholder-rights"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2013",
+    "cn-spc-company-law-interpretation-5-2021"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://zmdzy.hncourt.gov.cn/public/detail.php?id=11309",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "驻马店中院转载的新疆高院再审判决全文，载明原审、再审的主要理由和判项。",
+      "noteEn": "Full retrial judgment of the Xinjiang Higher Court republished by Zhumadian Intermediate Court."
+    }
+  ]
+}

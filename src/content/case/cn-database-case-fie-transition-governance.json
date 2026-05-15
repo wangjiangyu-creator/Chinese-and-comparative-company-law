@@ -1,0 +1,34 @@
+{
+  "titleZh": "某商务公司诉某房地产公司公司决议撤销纠纷案",
+  "titleEn": "Database Case: Commerce Company v. Real Estate Company",
+  "forumZh": "人民法院案例库（最高人民法院审核入库）",
+  "forumEn": "People's Court Case Database (reviewed by the Supreme People's Court)",
+  "citation": "入库编号2024-10-2-270-001",
+  "year": 2024,
+  "jurisdiction": "cn",
+  "caseType": "database-case",
+  "decisionType": "公司决议撤销纠纷",
+  "issuesZh": ["外商投资法五年过渡期", "合营合同治理结构", "章程修改职权"],
+  "issuesEn": [
+    "five-year transition under the Foreign Investment Law",
+    "governance structure under the joint-venture contract",
+    "authority to amend the articles"
+  ],
+  "holdingZh": "在《外商投资法实施条例》规定的五年过渡期内，存量外商投资企业如需按照《公司法》等规则调整组织机构，仍须遵守原合营合同和公司章程确定的职权范围与议事程序，先依原治理文件作出有效修订决议，而不能直接援引《公司法》重新划分公司机关职权。违反原治理文件的股东会决议，应予撤销。",
+  "holdingEn": "During the five-year transition period under the Foreign Investment Law Implementation Regulation, an existing foreign-invested enterprise that seeks to realign its governance under the Company Law must still comply with the allocation of authority and procedures set by its original joint-venture contract and articles, and must first adopt a valid amending resolution under that original framework. A shareholders' resolution that bypasses those original governance documents should be rescinded.",
+  "topics": ["corporate-formation", "corporate-governance", "directors-officer-loyalty-and-duties"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017",
+    "cn-spc-foreign-invested-enterprise-disputes-1-2021"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://rmfyalk.court.gov.cn/dist/view/content.html?id=CPbt5CwGQ2EHM1ge%252FM%252FLEKbZ%252BMGdvrR6KlOCIaGQmYg%253D&lib=ck",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

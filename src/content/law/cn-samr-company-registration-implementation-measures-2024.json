@@ -1,0 +1,38 @@
+{
+  "titleZh": "公司登记管理实施办法",
+  "titleEn": "Implementation Measures for Company Registration Administration",
+  "shortTitle": "公司登记管理实施办法",
+  "aliases": ["市场监管总局令第95号"],
+  "jurisdiction": "cn",
+  "documentType": "departmental-rule",
+  "authorityLevel": "departmental-rule",
+  "issuingBodyZh": "国家市场监督管理总局",
+  "issuingBodyEn": "State Administration for Market Regulation",
+  "promulgationDate": "2024-12-20",
+  "effectiveDate": "2025-02-10",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["corporate-formation", "registered-capital"],
+  "summaryZh": "市场监管总局在新公司法与国务院资本规定之后出台的核心登记实施规章，负责把资本、登记和备案要求具体化。",
+  "summaryEn": "SAMR's implementing rule operationalizing capital, registration, and filing requirements after the new Company Law and State Council capital rules.",
+  "versionGroup": "cn-samr-company-registration-implementation-measures",
+  "versionLabel": "Order No. 95",
+  "relatedCaseIds": [
+    "cn-database-case-foreign-invested-capital-contribution",
+    "cn-database-case-change-registration-chen-moufei"
+  ],
+  "relatedArticleIds": [
+    "article-cms-company-law-2024",
+    "article-china-briefing-revised-company-law"
+  ],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2024/art_6580c00811be45bfa304c1273b74e294.html",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

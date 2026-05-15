@@ -1,0 +1,38 @@
+{
+  "titleZh": "广东省高级人民法院关于充分发挥破产审判职能服务高质量发展的意见",
+  "titleEn": "Guangdong High Court Opinion on Giving Full Play to Bankruptcy Adjudication in Serving High-Quality Development",
+  "shortTitle": "广东高院破产高质量发展意见",
+  "aliases": ["服务高质量发展破产意见"],
+  "jurisdiction": "cn",
+  "documentType": "judicial-policy",
+  "authorityLevel": "judicial-policy",
+  "issuingBodyZh": "广东省高级人民法院",
+  "issuingBodyEn": "Guangdong High People's Court",
+  "promulgationDate": "2023-03-01",
+  "effectiveDate": "2023-03-01",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["dissolution-liquidation", "business-environment"],
+  "summaryZh": "围绕破产拯救、市场退出、预重整、信用修复和跨境破产协作提出系统部署，是广东高院近年的核心破产审判政策文件之一。",
+  "summaryEn": "A recent Guangdong High Court policy opinion that systematizes bankruptcy rescue, market exit, pre-reorganization, credit repair, and cross-border insolvency cooperation.",
+  "versionGroup": "gd-high-court-bankruptcy-development-opinion",
+  "versionLabel": "2023 text",
+  "judicialMaterialClass": "local-high-court-guidance",
+  "relatedCaseIds": [
+    "cn-guiding-case-8-company-dissolution",
+    "cn-guiding-case-9-liquidation-liability",
+    "cn-reference-case-closure-operator-liquidation-liability",
+    "cn-database-case-port-company-dissolution"
+  ],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.gdcourts.gov.cn/gsxx/quanweifabu/guifanwenjian/content/post_1151346.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "titleZh": "一人有限公司在诉讼过程中变更为普通有限公司后的旧债责任案",
+  "titleEn": "Reference Case: Liability for Legacy Debt After Conversion from a One-person Company to an Ordinary LLC",
+  "forumZh": "济南市平阴县人民法院",
+  "forumEn": "Pingyin County People's Court of Jinan",
+  "citation": "平阴法院案例：一人公司变更为普通有限公司后的旧债责任",
+  "year": 2023,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "合同纠纷",
+  "issuesZh": ["一人有限责任公司", "变更为普通有限责任公司", "组织形式变更", "原股东责任边界"],
+  "issuesEn": [
+    "one-person limited liability company",
+    "conversion into an ordinary limited liability company",
+    "form change",
+    "limits of the original shareholder's liability"
+  ],
+  "holdingZh": "一人有限责任公司在诉讼过程中变更为普通有限责任公司，不影响审判程序的正常进行，也不当然切断变更前形成债务的责任追索。对于变更前形成的债务，原一人股东仍应就其是否实现公司财产独立承担相应举证责任，不能仅以事后变更组织形式对抗债权人。",
+  "holdingEn": "A one-person limited liability company that converts into an ordinary limited liability company during litigation does not disrupt the proceedings and does not automatically cut off liability for debts formed before the change. For pre-change debts, the original sole shareholder still bears the relevant burden of proving the company's separate property status and cannot defeat creditors merely by later changing the corporate form.",
+  "topics": ["corporate-reorganization", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-market-entity-registration-regulations-2021",
+    "cn-market-entity-registration-rules-2022"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.sdcourt.gov.cn/jnanpyfy/395858/395861/13768261/index.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

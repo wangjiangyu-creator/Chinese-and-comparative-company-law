@@ -1,0 +1,36 @@
+{
+  "titleZh": "企业法人登记管理条例施行细则（2017年修订）",
+  "titleEn": "Implementing Rules for the Regulations on the Registration Administration of Enterprise Legal Persons (2017 Revision)",
+  "shortTitle": "企业法人登记条例施行细则（2017）",
+  "aliases": ["国家工商行政管理总局令第92号"],
+  "jurisdiction": "cn",
+  "documentType": "departmental-rule",
+  "authorityLevel": "departmental-rule",
+  "issuingBodyZh": "国家工商行政管理总局",
+  "issuingBodyEn": "State Administration for Industry and Commerce",
+  "promulgationDate": "2017-10-27",
+  "effectiveDate": "2017-10-27",
+  "status": "historical",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["business-environment", "corporate-formation"],
+  "summaryZh": "企业法人登记管理条例的配套施行细则，细化名称、住所、经营范围、登记档案和注销程序，是市场主体登记改革前的重要实施层规范。",
+  "summaryEn": "The implementing rules for the Enterprise Legal Person Registration Regulation, detailing names, domicile, business scope, registration archives, and deregistration procedure before the unified market-entity reform.",
+  "versionGroup": "cn-enterprise-legal-person-registration-rules",
+  "versionLabel": "2017 text",
+  "applicablePeriodZh": "2017年10月27日起适用，至 2022年3月1日《市场主体登记管理条例实施细则》施行后由统一实施规则替代。",
+  "applicablePeriodEn": "Applied from October 27, 2017, until March 1, 2022, when the unified Market Entity Registration Rules replaced it.",
+  "repealBasisZh": "2022年3月1日起，《中华人民共和国市场主体登记管理条例实施细则》第八十一条等统一实施规则生效，企业法人登记管理条例施行细则不再单独适用。",
+  "repealBasisEn": "From March 1, 2022, the unified Market Entity Registration Rules, including Article 81, displaced the separate implementing rules for enterprise legal-person registration.",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official Chinese",
+      "url": "https://amr.hunan.gov.cn/amr/zwx/xxgkmlx/zcfgx/flfggzx/201711/t20171107_10467244.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

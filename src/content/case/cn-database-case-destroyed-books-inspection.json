@@ -1,0 +1,29 @@
+{
+  "titleZh": "陈某云诉射阳县某汽车驾驶员培训有限公司股东知情权纠纷案",
+  "titleEn": "Database Case: Chen Mouyun v. Sheyang Driver Training Company",
+  "forumZh": "人民法院案例库（最高人民法院审核入库）",
+  "forumEn": "People's Court Case Database (reviewed by the Supreme People's Court)",
+  "citation": "入库编号2024-08-2-267-002",
+  "year": 2025,
+  "jurisdiction": "cn",
+  "caseType": "database-case",
+  "decisionType": "股东知情权纠纷",
+  "issuesZh": ["财务资料灭失", "妥善保管义务", "知情权抗辩"],
+  "issuesEn": ["loss of financial records", "duty of proper preservation", "inspection-right defense"],
+  "holdingZh": "会计账簿、财务会计报告灭失并非法定拒绝股东知情权的事由。公司对财务会计资料负有法定保管义务，因自身保管不善导致资料灭失并妨碍股东行权的，应由公司承担不利后果。",
+  "holdingEn": "Loss of accounting books or financial reports is not a statutory ground to refuse shareholder inspection. A company has a legal duty to preserve such materials and bears the adverse consequences when its own poor recordkeeping frustrates inspection rights.",
+  "topics": ["shareholder-rights", "corporate-governance", "directors-officer-loyalty-and-duties"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.sdcourt.gov.cn/dyzy/resource/cms/article/372898/39957782/2025052609405555515.pdf",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

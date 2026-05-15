@@ -1,0 +1,40 @@
+{
+  "titleZh": "某金属公司诉A工贸公司、B工贸公司等买卖合同纠纷案",
+  "titleEn": "Reference Case: Metal Company v. A Trading Company, B Trading Company, et al.",
+  "forumZh": "昆山市人民法院（江苏法院网案例发布）",
+  "forumEn": "Kunshan People's Court (Jiangsu Courts release)",
+  "citation": "江苏法院案例：换壳交易与横向人格否认",
+  "year": 2026,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "买卖合同纠纷",
+  "issuesZh": [
+    "同一控制人注册多家公司并随意切换交易主体",
+    "关联公司横向人格否认",
+    "一人公司股东不能证明财产独立的责任承担"
+  ],
+  "issuesEn": [
+    "a single controller registering multiple companies and switching transaction counterparts at will",
+    "horizontal veil piercing among affiliated companies",
+    "liability of a sole shareholder who cannot prove asset separation"
+  ],
+  "holdingZh": "昆山市人民法院在江苏法院网发布案例中认定，A、B、C三家公司由同一实际控制人操纵，交易中随意更换送货单抬头和开票主体，但实际下单、对账、收货和使用钢材始终由同一团队完成；其中B、C公司缺乏独立经营地址、独立人员和实际支付能力，构成典型空壳公司。法院据此认定三家公司在人事、业务和财务上高度混同，适用横向人格否认，并因A公司系一人公司且股东不能证明财产独立，判令关联公司与唯一股东共同承担连带清偿责任。",
+  "holdingEn": "In a 2026 case release on the Jiangsu Courts website, the Kunshan People's Court found horizontal veil piercing appropriate because three companies under one controller freely switched delivery-note and invoice names while the same team continued to place orders, reconcile accounts, receive goods, and use the steel. Two of the companies had no real premises, staff, or payment capacity and functioned as shells. The court therefore held the affiliated companies jointly liable, and also imposed liability on the sole shareholder of the one-person company for failure to prove separate assets.",
+  "topics": [
+    "corporate-veil-piercing",
+    "corporate-governance"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-civil-code-2020-legal-person"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.jsfy.gov.cn/article/107448.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

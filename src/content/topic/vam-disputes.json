@@ -1,0 +1,100 @@
+{
+  "nameZh": "对赌协议（VAM）与回购补偿争议",
+  "nameEn": "VAM, Buyback, and Earnout Disputes",
+  "descriptionZh": "集中收录中国司法实践中关于对赌协议、估值调整机制、业绩补偿、股权回购以及目标公司担保的关键案例，重点呈现从“海富案”到“华工案”再到人民法院案例库的裁判演变路径，并把股东回购、目标公司回购、目标公司担保、上市后清理等不同争点拆开呈现。",
+  "descriptionEn": "Collects core Chinese authorities on valuation adjustment mechanisms, performance compensation, share repurchase, and target-company guarantees, with emphasis on the doctrinal path from Haifu through Huagong and into the People's Court Case Database.",
+  "relatedLawIds": [
+    "cn-company-law-2005",
+    "cn-company-law-2013",
+    "cn-company-law-2018",
+    "cn-company-law-2023",
+    "cn-securities-law-2019",
+    "cn-national-civil-commercial-trial-minutes-2019",
+    "cn-civil-code-2020-legal-person",
+    "cn-nonlisted-public-company-supervision-measures-2021",
+    "cn-nonlisted-public-company-disclosure-measures-2021"
+  ],
+  "relatedCaseIds": [
+    "cn-gazette-case-vam-haifu-investment",
+    "cn-database-case-vam-shanghai-preemption-buyback",
+    "cn-reference-case-vam-ruifeng-buyback",
+    "cn-reference-case-vam-jiuding-tianxia",
+    "cn-reference-case-vam-zhongnan-ipo-restoration",
+    "cn-reference-case-vam-hu-xiufang-drawer",
+    "cn-reference-case-vam-huyue-neeq-delisting",
+    "cn-reference-case-vam-hanlin-guarantee",
+    "cn-reference-case-vam-huagong-buyback",
+    "cn-reference-case-vam-zhang-dongju-damages",
+    "cn-reference-case-vam-gaoci-neeq-invalid",
+    "cn-database-case-listed-buyback-vam-nanjing"
+  ],
+  "relatedArticleIds": [],
+  "caseGroups": [
+    {
+      "titleZh": "效力起点：股东回购与补偿条款",
+      "titleEn": "First-line cases on shareholder repurchase and compensation",
+      "descriptionZh": "先看海富、瑞丰、九鼎和上海优先购买权案，理解法院如何把“协议有效”与“谁来履行、如何履行”拆开处理。",
+      "descriptionEn": "Start with Haifu, Ruifeng, Jiuding, and the Shanghai pre-emption case to see how courts separate contract validity from the identity and mode of performance.",
+      "caseIds": [
+        "cn-gazette-case-vam-haifu-investment",
+        "cn-reference-case-vam-ruifeng-buyback",
+        "cn-reference-case-vam-jiuding-tianxia",
+        "cn-database-case-vam-shanghai-preemption-buyback"
+      ]
+    },
+    {
+      "titleZh": "挂牌与上市清理：抽屉协议、恢复条款与退出路径",
+      "titleEn": "Listing cleanup, drawer agreements, and restored exit rights",
+      "descriptionZh": "这一组聚焦为 IPO 或新三板挂牌而暂时清理对赌条款的案件，重点看终止、恢复和挂牌失败后的退出安排。",
+      "descriptionEn": "These cases focus on VAM clauses temporarily cleared for IPO or NEEQ purposes and show how courts treat termination, restoration, and post-failure exits.",
+      "caseIds": [
+        "cn-reference-case-vam-zhongnan-ipo-restoration",
+        "cn-reference-case-vam-hu-xiufang-drawer",
+        "cn-reference-case-vam-huyue-neeq-delisting"
+      ]
+    },
+    {
+      "titleZh": "目标公司角色：回购、担保与违约责任",
+      "titleEn": "The target company's role: repurchase, guarantee, and damages",
+      "descriptionZh": "这一组重点看目标公司是否可以成为回购义务主体、保证责任主体，以及不能立即回购时是否仍需承担违约责任。",
+      "descriptionEn": "This group tracks whether the target company may act as a repurchase obligor, a guarantor, or a damages obligor when immediate repurchase is blocked.",
+      "caseIds": [
+        "cn-reference-case-vam-hanlin-guarantee",
+        "cn-reference-case-vam-huagong-buyback",
+        "cn-reference-case-vam-zhang-dongju-damages"
+      ]
+    },
+    {
+      "titleZh": "市场秩序边界：信息披露、挂牌规则与上市后不得再主张",
+      "titleEn": "Capital-market limits: disclosure, listing rules, and post-listing invalidity",
+      "descriptionZh": "最后看挂牌披露与上市后清理边界，尤其是未披露对赌、与市值挂钩条款为何会被认定无效。",
+      "descriptionEn": "Finish with disclosure and post-listing boundary cases, especially why undisclosed or market-value-linked clauses are treated as invalid.",
+      "caseIds": [
+        "cn-reference-case-vam-gaoci-neeq-invalid",
+        "cn-database-case-listed-buyback-vam-nanjing"
+      ]
+    }
+  ],
+  "comparisonRows": [
+    {
+      "labelZh": "效力审查主线",
+      "labelEn": "Core validity inquiry",
+      "cn": "中国裁判已从早期侧重“与公司对赌是否当然无效”，转向区分主体、区分义务类型，并进一步区分“协议有效”与“实际履行是否符合资本维持程序”两个层次。"
+    },
+    {
+      "labelZh": "股东回购与目标公司回购",
+      "labelEn": "Shareholder repurchase versus company repurchase",
+      "cn": "股东或实际控制人承担回购、补偿义务的条款通常更容易被认可；目标公司直接承担回购或补偿义务，则要进一步审查是否触及资本维持、减资程序和债权人保护。"
+    },
+    {
+      "labelZh": "目标公司担保",
+      "labelEn": "Target-company guarantee",
+      "cn": "目标公司不直接付款，并不当然排除其为股东或实际控制人回购义务提供担保；审查重点转向公司授权程序、投资人形式审查义务以及公司利益关联。"
+    },
+    {
+      "labelZh": "上市前后清理",
+      "labelEn": "Pre-listing and post-listing cleanup",
+      "cn": "在上市或拟上市公司场景，法院会更强调证券市场秩序、信息披露与上市前清理义务，对隐瞒未清理对赌条款的后续主张持更严格立场。"
+    }
+  ]
+}

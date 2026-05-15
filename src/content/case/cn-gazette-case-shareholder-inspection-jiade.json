@@ -1,0 +1,29 @@
+{
+  "titleZh": "李淑君、吴湘、孙杰、王国兴诉江苏佳德置业发展有限公司股东知情权纠纷案",
+  "titleEn": "Gazette Case: Li Shujun, Wu Xiang, Sun Jie, and Wang Guoxing v. Jiangsu Jiade Real Estate Development Co., Ltd.",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "公报案例：股东知情权",
+  "year": 2009,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股东知情权纠纷",
+  "issuesZh": ["行权前置程序", "不正当目的抗辩", "查阅会计账簿范围"],
+  "issuesEn": ["pre-suit demand", "improper-purpose defense", "scope of accounting-book inspection"],
+  "holdingZh": "股东提起知情权之诉应符合公司法规定的书面请求前置程序；公司以股东具有不正当目的抗辩的，应就该目的负举证责任；对会计账簿的知情权原则上限于查阅，不当然包括复制。",
+  "holdingEn": "A shareholder-inspection action requires compliance with the statutory written-demand prerequisite; the company bears the burden of proving an improper purpose; and inspection of accounting books generally means access rather than an automatic right to copy.",
+  "topics": ["shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/d84c3cc3a5f5ba924697b5a9ac39d3.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

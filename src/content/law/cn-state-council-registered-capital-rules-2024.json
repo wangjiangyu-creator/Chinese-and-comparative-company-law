@@ -1,0 +1,42 @@
+{
+  "titleZh": "国务院关于实施《中华人民共和国公司法》注册资本登记管理制度的规定",
+  "titleEn": "State Council Provisions on Implementing the Registered Capital Registration System under the Company Law",
+  "shortTitle": "注册资本登记管理制度规定",
+  "aliases": ["国务院注册资本规定", "Order No. 784"],
+  "jurisdiction": "cn",
+  "documentType": "administrative-regulation",
+  "authorityLevel": "administrative-regulation",
+  "issuingBodyZh": "国务院",
+  "issuingBodyEn": "State Council",
+  "promulgationDate": "2024-07-01",
+  "effectiveDate": "2024-07-01",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "selected-excerpt",
+  "topics": ["registered-capital", "corporate-formation"],
+  "summaryZh": "这是衔接 2023 年新公司法与存量公司认缴期限调整的核心行政法规，也是公司登记专题的必备条目。",
+  "summaryEn": "The key State Council regulation bridging the 2023 Company Law and the reset of contribution timing for existing companies.",
+  "versionGroup": "cn-state-council-registered-capital-rules",
+  "versionLabel": "2024 initial text",
+  "relatedCaseIds": ["cn-database-case-foreign-invested-capital-contribution"],
+  "relatedArticleIds": [
+    "article-cms-company-law-2024",
+    "article-skadden-broad-reforms"
+  ],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://www.gov.cn/zhengce/content/202407/content_6960376.htm?slb=true",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ],
+  "texts": {
+    "zh": {
+      "path": "law/zh/cn-state-council-registered-capital-rules-2024.json",
+      "label": "Official release",
+      "official": true
+    }
+  }
+}

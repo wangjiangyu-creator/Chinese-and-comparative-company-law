@@ -1,0 +1,35 @@
+{
+  "titleZh": "某贸易公司诉某化工公司、某化工合伙企业、张某买卖合同纠纷案",
+  "titleEn": "Reference Case: Trading Company v. Chemical Company, Chemical Partnership, and Zhang Mou",
+  "forumZh": "淄博市临淄区人民法院",
+  "forumEn": "Linzi District People's Court of Zibo",
+  "citation": "临淄法院案例：恶意延长出资期限时出资义务加速到期",
+  "year": 2023,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "买卖合同纠纷",
+  "issuesZh": ["恶意延长出资期限", "出资加速到期", "债权人补充赔偿"],
+  "issuesEn": [
+    "malicious extension of contribution deadlines",
+    "accelerated contribution",
+    "supplementary creditor recovery"
+  ],
+  "holdingZh": "股东明知公司债务已经发生甚至已被起诉，仍通过临时股东会决议和章程修正将原已届满或者即将届满的出资期限向后顺延的，该延长期限不得对债权人发生效力。公司不能清偿到期债务的，股东应在原认缴出资本息范围内承担补充赔偿责任。",
+  "holdingEn": "If shareholders know that company debts have already arisen, or that the company has already been sued, and nevertheless push contribution deadlines back through a temporary shareholders' resolution and charter amendment, the extension is ineffective against creditors. If the company cannot pay due debts, the shareholders must bear supplementary liability within the principal and interest of the originally subscribed contribution.",
+  "topics": ["registered-capital", "shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-3-2021",
+    "cn-national-civil-commercial-trial-minutes-2019",
+    "cn-spc-company-law-time-effect-2024"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.sdcourt.gov.cn/zblzqfy/378599/378577/10688956/index.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

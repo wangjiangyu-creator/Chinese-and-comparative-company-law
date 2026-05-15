@@ -1,0 +1,33 @@
+{
+  "titleZh": "最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（三）（2011年公布）",
+  "titleEn": "SPC Interpretation (III) on Several Issues Concerning the Application of the Company Law (2011)",
+  "shortTitle": "公司法司法解释（三）",
+  "aliases": ["法释〔2011〕3号", "2011原始文本"],
+  "jurisdiction": "cn",
+  "documentType": "judicial-interpretation",
+  "authorityLevel": "judicial-interpretation",
+  "issuingBodyZh": "最高人民法院",
+  "issuingBodyEn": "Supreme People's Court",
+  "promulgationDate": "2011-01-27",
+  "effectiveDate": "2011-02-16",
+  "status": "historical",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["corporate-formation", "registered-capital", "shareholder-rights"],
+  "summaryZh": "2011年原始文本首次系统处理公司设立、出资、抽逃出资、股权确认和名义股东等问题，是后续修正文的基础版本。",
+  "summaryEn": "The 2011 original text first systematized rules on company formation, capital contribution, capital withdrawal, shareholder status, and nominee shareholding, and serves as the base version for later revisions.",
+  "versionGroup": "cn-spc-company-law-interpretation-3",
+  "versionLabel": "2011 interpretation",
+  "nextVersionId": "cn-spc-company-law-interpretation-3-2021",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/fabu/xiangqing/2178.html",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

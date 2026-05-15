@@ -1,0 +1,39 @@
+{
+  "titleZh": "上海市高级人民法院破产审判工作规范指引（试行）",
+  "titleEn": "Shanghai High Court Guidelines for Bankruptcy Adjudication (Trial)",
+  "shortTitle": "上海高院破产审判指引",
+  "aliases": ["沪高法民二〔2018〕9号", "上海破产审判工作规范指引"],
+  "jurisdiction": "cn",
+  "documentType": "judicial-policy",
+  "authorityLevel": "judicial-policy",
+  "issuingBodyZh": "上海市高级人民法院",
+  "issuingBodyEn": "Shanghai High People's Court",
+  "promulgationDate": "2018-08-31",
+  "effectiveDate": "2018-08-31",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["dissolution-liquidation", "business-environment"],
+  "summaryZh": "围绕破产受理、重整识别、关联企业实质合并、管理人职责和财产处置等前沿问题形成系统规则，是上海法院公司破产与市场退出实务中的核心地方指引。",
+  "summaryEn": "A core Shanghai High Court guideline on bankruptcy adjudication, covering case acceptance, reorganization screening, substantive consolidation, administrator duties, and asset disposal.",
+  "versionGroup": "sh-high-court-bankruptcy-guideline",
+  "versionLabel": "2018 text",
+  "judicialMaterialClass": "local-high-court-guidance",
+  "relatedCaseIds": [
+    "cn-guiding-case-8-company-dissolution",
+    "cn-guiding-case-9-liquidation-liability",
+    "cn-reference-case-closure-operator-liquidation-liability"
+  ],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.hshfy.sh.cn/shfy/web/xxnr.jsp?pa=aaWQ9MjAxMTI2OTQmeGg9MSZsbWRtPWxtOTEwz",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "官方网页载明文号为沪高法民二〔2018〕9号。",
+      "noteEn": "The official page identifies the document as Hu Gao Fa Min Er [2018] No. 9."
+    }
+  ]
+}

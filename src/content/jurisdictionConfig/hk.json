@@ -1,0 +1,58 @@
+{
+  "nameZh": "香港",
+  "nameEn": "Hong Kong",
+  "emphasisZh": "比较层侧重《公司条例》和上市治理规则，服务于普通法语境对照。",
+  "emphasisEn": "Comparison layer focused on the Companies Ordinance and listed-governance rules in a common-law setting.",
+  "recordPriority": ["law", "case", "articleLink"],
+  "featuredLawIds": [
+    "hk-companies-ordinance-cap-622",
+    "hk-companies-winding-up-miscellaneous-provisions-ordinance-cap-32",
+    "hk-securities-and-futures-ordinance-cap-571",
+    "hk-corporate-governance-code",
+    "hk-takeovers-code-2023"
+  ],
+  "featuredCaseIds": [
+    "hk-case-yung-kee-holdings",
+    "hk-case-waddington-v-chan",
+    "hk-case-re-chime-corp"
+  ],
+  "featuredArticleIds": [
+    "article-pbook-hong-kong-company-law",
+    "article-hk-lawyer-new-companies-ordinance-highlights",
+    "article-pbook-hk-company-law-cases-materials-comments"
+  ],
+  "officialPortals": [
+    {
+      "label": "Official English",
+      "url": "https://www.elegislation.gov.hk/",
+      "noteZh": "电子法例",
+      "noteEn": "e-Legislation",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Official court release",
+      "url": "https://www.judiciary.hk/en/judgments_legal_reference/judgments.html",
+      "noteZh": "司法机构判决库",
+      "noteEn": "Judgments database",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Official exchange rule",
+      "url": "https://en-rules.hkex.com.hk/",
+      "noteZh": "港交所规则",
+      "noteEn": "HKEX rules",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Official release",
+      "url": "https://www.sfc.hk/en/Rules-and-standards/Codes-and-guidelines/Takeovers-mergers-and-share-buy-backs",
+      "noteZh": "证监会收购守则",
+      "noteEn": "SFC takeover codes",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

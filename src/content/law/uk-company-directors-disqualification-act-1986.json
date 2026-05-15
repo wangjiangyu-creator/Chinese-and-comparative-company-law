@@ -1,0 +1,40 @@
+{
+  "titleZh": "英国《公司董事取消资格法 1986》",
+  "titleEn": "Company Directors Disqualification Act 1986",
+  "shortTitle": "英国公司董事取消资格法",
+  "aliases": ["CDDA 1986"],
+  "jurisdiction": "uk",
+  "documentType": "statute",
+  "authorityLevel": "comparative-statute",
+  "issuingBodyZh": "英国国王印务局 / legislation.gov.uk",
+  "issuingBodyEn": "King's Printer of Acts of Parliament / legislation.gov.uk",
+  "promulgationDate": "1986-07-25",
+  "effectiveDate": "1986-07-25",
+  "status": "reference",
+  "languageStatus": "official-en",
+  "languages": ["en"],
+  "textStatus": "metadata-only",
+  "topics": ["corporate-governance", "directors-officer-loyalty-and-duties", "dissolution-liquidation"],
+  "summaryZh": "该法构成英国董事失格制度的核心法源，连接公司治理、破产与不当经营责任，是比较董事责任和公司清算后果的重要入口。",
+  "summaryEn": "The Act is the core U.K. source for director disqualification, linking corporate governance, insolvency, and wrongful conduct, and is an important gateway for comparing director-liability consequences.",
+  "versionGroup": "uk-director-disqualification",
+  "versionLabel": "current act",
+  "relatedCaseIds": [],
+  "relatedArticleIds": ["article-pbook-gower-davies-principles", "article-pbook-comparative-company-law"],
+  "sources": [
+    {
+      "label": "Official English",
+      "url": "https://www.legislation.gov.uk/ukpga/1986/46/contents",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Official release",
+      "url": "https://www.legislation.gov.uk/ukpga/1986/46/pdfs/ukpga_19860046_en.pdf",
+      "official": true,
+      "lastVerified": "2026-05-16",
+      "noteZh": "法规全文 PDF。",
+      "noteEn": "Full-text PDF."
+    }
+  ]
+}

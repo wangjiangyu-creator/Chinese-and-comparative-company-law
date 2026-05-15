@@ -1,0 +1,44 @@
+{
+  "titleZh": "寇某燕、郭某龙与冀某琴及河南某教育科技有限公司股东损害公司利益责任纠纷案",
+  "titleEn": "Kou Mouyan and Guo Moulong v. Ji Mouqin and Henan Education Technology Co., Ltd.",
+  "forumZh": "郑州市中级人民法院（保护中小投资者典型案例）",
+  "forumEn": "Zhengzhou Intermediate People's Court (typical cases on protecting minority investors)",
+  "citation": "（2021）豫0191民初31622号",
+  "year": 2022,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "损害公司利益责任纠纷",
+  "issuesZh": ["股东代位诉讼", "同址设立同业公司", "低价处分公司资产", "关联交易致公司受损"],
+  "issuesEn": [
+    "shareholder derivative action",
+    "setting up a competing company at the same premises",
+    "low-price disposal of company assets",
+    "related-party transactions causing corporate loss"
+  ],
+  "holdingZh": "法院认定，被告未经股东会同意擅自以公司名义借款，并在原公司经营地址设立经营相同业务的新公司，且通过其控制的新公司监事参与以明显偏低价格处分原公司固定资产，已构成对公司利益的侵害。对于已有证据证明的资产处分损失，法院支持股东代位之诉，请求被告向公司赔偿三万五千元；其他未能证明数额和因果关系的损失请求则不予支持。",
+  "holdingEn": "The court found that the defendant borrowed in the company's name without shareholder approval, established a same-business company at the original premises, and used an affiliate-linked transaction to dispose of the original company's fixed assets at a clearly undervalued price. The court therefore upheld the derivative claim to the extent proved and ordered compensation of RMB 35,000 to the company, while rejecting loss claims that lacked proof of amount or causation.",
+  "topics": [
+    "corporate-governance",
+    "director-abuse",
+    "director-liability-litigation",
+    "related-transaction-harm",
+    "shareholder-rights",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017",
+    "cn-spc-company-law-interpretation-5-2021"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://zzfy.hncourt.gov.cn/public/detail.php?id=27938",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "郑州中院发布的保护中小投资者典型案例，载明案号、事实经过和裁判结论。",
+      "noteEn": "Official Zhengzhou court model case with the case number, facts, and disposition."
+    }
+  ]
+}

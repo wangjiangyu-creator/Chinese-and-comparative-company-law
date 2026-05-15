@@ -1,0 +1,29 @@
+{
+  "titleZh": "楚某诉某某有限公司股东盈余分配案",
+  "titleEn": "Reference Case: Chu Mou v. a Certain Co., Ltd. (Profit Distribution)",
+  "forumZh": "成武县人民法院",
+  "forumEn": "Chengwu County People's Court",
+  "citation": "成武法院案例：楚某诉某公司股东盈余分配",
+  "year": 2014,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司盈余分配纠纷",
+  "issuesZh": ["章程约定的分红比例", "拒不提供财务资料的不利推定", "股东红利给付"],
+  "issuesEn": ["dividend ratio fixed by the charter", "adverse inference from withholding financial records", "payment of shareholder dividends"],
+  "holdingZh": "公司章程和既有分红安排已经表明利润按出资比例分配，而公司又无正当理由拒绝提交完整财务资料反驳股东主张的，法院可以依据不利推定认定分红事实成立，并判令公司支付拖欠红利及利息。",
+  "holdingEn": "Where the charter and prior distribution practice show profits are to be allocated according to capital contributions, and the company unjustifiably refuses to produce complete financial records to rebut the shareholder's claim, the court may draw an adverse inference, find that dividends were in fact declared, and order payment of the withheld dividends with interest.",
+  "topics": ["shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.sdcourt.gov.cn/hzcwfy/382591/382564/416735/index.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

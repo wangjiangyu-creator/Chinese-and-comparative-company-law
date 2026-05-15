@@ -1,0 +1,34 @@
+{
+  "titleZh": "深圳经济特区股份有限公司条例",
+  "titleEn": "Regulations of Shenzhen Special Economic Zone on Joint Stock Limited Companies",
+  "shortTitle": "深圳股份公司条例（1993）",
+  "aliases": ["1993 Shenzhen Joint Stock Company Regulations"],
+  "jurisdiction": "cn",
+  "documentType": "law",
+  "authorityLevel": "local-regulation",
+  "issuingBodyZh": "深圳市人民代表大会常务委员会",
+  "issuingBodyEn": "Standing Committee of the Shenzhen Municipal People's Congress",
+  "promulgationDate": "1993-04-26",
+  "effectiveDate": "1993-04-26",
+  "status": "historical",
+  "languageStatus": "official-en",
+  "languages": ["en"],
+  "textStatus": "metadata-only",
+  "topics": ["corporate-formation", "corporate-governance", "shareholder-rights", "registered-capital"],
+  "summaryZh": "深圳在国家《公司法》正式通过前后形成的早期特区股份有限公司地方制度文本，可用于追踪特区在股份公司设立、股本结构、公司机关和股东权利上的先行先试设计。",
+  "summaryEn": "An early Shenzhen special-zone text on joint stock limited companies from the formative period around the adoption of the national Company Law. It is useful for tracing Shenzhen's experimental design on incorporation, capital structure, corporate organs, and shareholder rights.",
+  "versionGroup": "sz-joint-stock-company-regulations",
+  "versionLabel": "1993 original enactment",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official English",
+      "url": "https://sf.sz.gov.cn/fggzywyb/content/post_2974000.html",
+      "noteZh": "深圳市司法局法规规章英文译本归档页，便于检索早期特区股份公司制度；具体历史适用应结合后续立法变化。",
+      "noteEn": "Archived English page in the Shenzhen Municipal Bureau of Justice database for early special-zone joint stock company rules; historical application should be read together with later legislative changes.",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

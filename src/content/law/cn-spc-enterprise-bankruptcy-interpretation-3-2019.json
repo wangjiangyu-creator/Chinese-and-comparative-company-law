@@ -1,0 +1,38 @@
+{
+  "titleZh": "最高人民法院关于适用《中华人民共和国企业破产法》若干问题的规定（三）",
+  "titleEn": "SPC Interpretation (III) on Several Issues Concerning the Application of the Enterprise Bankruptcy Law",
+  "shortTitle": "企业破产法司法解释（三）",
+  "aliases": ["破产法司法解释三"],
+  "jurisdiction": "cn",
+  "documentType": "judicial-interpretation",
+  "authorityLevel": "judicial-interpretation",
+  "issuingBodyZh": "最高人民法院",
+  "issuingBodyEn": "Supreme People's Court",
+  "promulgationDate": "2019-03-28",
+  "effectiveDate": "2019-03-28",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["dissolution-liquidation", "shareholder-rights"],
+  "summaryZh": "重点处理债权人权利行使、破产受理后强制清算费用与执行费用的清偿顺位，以及破产程序中的债权确认和分配衔接，是公司强制清算与破产转换中的重要规则。",
+  "summaryEn": "Focuses on creditor-rights exercise, the treatment of pre-bankruptcy compulsory-liquidation and enforcement expenses after acceptance of a bankruptcy petition, and the interface of claim recognition and distribution in the insolvency process.",
+  "versionGroup": "cn-spc-enterprise-bankruptcy-interpretation-3",
+  "versionLabel": "2019 interpretation",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/fabu/xiangqing/148662.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/2767d0164e52411e47607e2d32c437.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

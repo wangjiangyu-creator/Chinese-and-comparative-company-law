@@ -1,0 +1,42 @@
+{
+  "titleZh": "上市公司重大资产重组管理办法（2014年修订）",
+  "titleEn": "Administrative Measures for Major Asset Reorganizations of Listed Companies (2014 Revision)",
+  "shortTitle": "重大资产重组办法（2014）",
+  "aliases": ["证监会令第109号"],
+  "jurisdiction": "cn",
+  "documentType": "departmental-rule",
+  "authorityLevel": "departmental-rule",
+  "issuingBodyZh": "中国证券监督管理委员会",
+  "issuingBodyEn": "China Securities Regulatory Commission",
+  "promulgationDate": "2014-10-23",
+  "effectiveDate": "2014-11-23",
+  "status": "historical",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "corporate-governance", "disclosure"],
+  "summaryZh": "对重大资产重组审核、借壳上市与重组配套融资等制度进行关键重构，是 2025 年修订前的代表性中期版本。",
+  "summaryEn": "A major mid-cycle revision reshaping review, backdoor listing, and supporting financing rules for major asset reorganizations before the 2025 overhaul.",
+  "versionGroup": "cn-major-asset-reorganization-measures",
+  "versionLabel": "2014 revision",
+  "previousVersionId": "cn-major-asset-reorganization-measures-2008",
+  "nextVersionId": "cn-major-asset-reorganization-measures-2025",
+  "applicablePeriodZh": "2014年11月23日起适用，后经多轮修订并演进为 2025 年现行文本。",
+  "applicablePeriodEn": "Applied from November 23, 2014, and later evolved through additional amendments into the 2025 current text.",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official Chinese",
+      "url": "https://www.csrc.gov.cn/csrc/c101864/c1024606/content.shtml",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Official release",
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c1002061/content.shtml",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "titleZh": "世欣荣和投资管理股份有限公司与长安国际信托股份有限公司等信托合同纠纷案",
+  "titleEn": "Gazette Case: Shixin Ronghe Investment Management Co., Ltd. v. Chang'an International Trust Co., Ltd. et al.",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "公报案例：有限合伙人代位诉讼",
+  "year": 2016,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "信托合同纠纷",
+  "issuesZh": ["有限合伙人的代位诉讼资格", "执行事务合伙人怠于维权", "合伙协议与法定救济的衔接"],
+  "issuesEn": ["limited partner derivative standing", "failure of the managing partner to enforce rights", "interaction between the partnership agreement and statutory remedies"],
+  "holdingZh": "最高人民法院公报案例确认：在有限合伙企业中，执行事务合伙人怠于行使诉权时，不执行合伙事务的有限合伙人可以为合伙企业利益以自己名义提起诉讼。有限合伙人已经向合伙企业及执行事务合伙人发函催告而对方未依法起诉的，人民法院可以认可其诉讼主体资格。",
+  "holdingEn": "The SPC Gazette confirms that when the managing partner of a limited partnership fails to assert the partnership's rights, a non-managing limited partner may sue in its own name for the benefit of the partnership. After a proper demand on the partnership and the managing partner goes unanswered, the court may recognize the limited partner's standing.",
+  "topics": ["partnership-enterprises"],
+  "relatedLawIds": ["cn-partnership-enterprise-law-2006"],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/details/ce26ed23e276a4af04509bed31d259.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "titleZh": "最高人民法院关于审理外商投资企业纠纷案件若干问题的规定（一）（2020年修正）",
+  "titleEn": "SPC Provisions (I) on Several Issues Concerning the Trial of Disputes Involving Foreign-Invested Enterprises (2020 Revision)",
+  "shortTitle": "外商投资企业纠纷司法解释（一）",
+  "aliases": ["外商投资司法解释（一）", "2020年修正"],
+  "jurisdiction": "cn",
+  "documentType": "judicial-interpretation",
+  "authorityLevel": "judicial-interpretation",
+  "issuingBodyZh": "最高人民法院",
+  "issuingBodyEn": "Supreme People's Court",
+  "promulgationDate": "2020-12-29",
+  "effectiveDate": "2021-01-01",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["corporate-formation", "registered-capital", "shareholder-rights", "corporate-governance"],
+  "summaryZh": "现行文本原于2010年出台，2020年随商事司法解释集中修正后继续适用，重点处理外商投资企业设立、合同审批与生效、股权确认、股权转让以及实际投资人与名义股东关系。",
+  "summaryEn": "Current text, originally adopted in 2010 and revised in 2020, covering formation-stage foreign-invested-enterprise disputes, approval-linked contract effectiveness, equity confirmation, equity transfer, and nominee-shareholding relationships.",
+  "versionGroup": "cn-spc-fie-disputes-1",
+  "versionLabel": "2021 through-current text",
+  "relatedCaseIds": [
+    "cn-database-case-foreign-invested-capital-contribution",
+    "cn-gazette-case-fie-board-record-xu-minghong",
+    "cn-typical-case-self-dealing-shanghai-lan",
+    "cn-typical-case-related-transaction-shandong-yue",
+    "cn-typical-case-shareholder-inspection-korea-t",
+    "cn-typical-case-deadlock-dissolution-german-a",
+    "cn-typical-case-certificate-preservation-japan-a",
+    "cn-database-case-fie-transition-governance"
+  ],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/fabu/xiangqing/282631.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Official court release",
+      "url": "https://cicc.court.gov.cn/html/1/380/385/12839.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/fabu/xiangqing/1454.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

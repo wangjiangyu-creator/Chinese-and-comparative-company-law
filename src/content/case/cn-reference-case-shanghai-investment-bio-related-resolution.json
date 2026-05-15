@@ -1,0 +1,40 @@
+{
+  "titleZh": "上海某投资中心与某生物科技股份有限公司公司决议撤销纠纷案",
+  "titleEn": "Shanghai Investment Center v. Biotech Co., Ltd. (Resolution Rescission and Related-Party Identification)",
+  "forumZh": "开封市中级人民法院（中小投资者司法保护典型案例）",
+  "forumEn": "Kaifeng Intermediate People's Court (judicial protection cases for minority investors)",
+  "citation": "开封中院案例：关联交易认定与决议撤销边界",
+  "year": 2021,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司决议撤销纠纷",
+  "issuesZh": ["关联关系认定", "董事会决议撤销", "亲属关系与控制关系区分", "非公允关联交易的审查范围"],
+  "issuesEn": [
+    "identification of related-party relationships",
+    "rescission of board resolutions",
+    "distinguishing kinship from control",
+    "scope of review for unfair related-party transactions"
+  ],
+  "holdingZh": "法院指出，法律并不禁止关联交易，而是禁止通过关联交易损害公司利益。仅凭参会董事与交易相对方股东存在堂亲关系，尚不足以认定二者之间存在公司法意义上的关联关系；对于决议撤销之诉，法院重点审查召集程序、表决方式以及决议内容是否违反章程，不能将一切有关交易后果的争议都简单纳入决议撤销之诉解决。",
+  "holdingEn": "The court emphasized that the law does not ban related-party transactions, only unfair ones that harm the company. A cousin relationship between a participating director and the purchaser's shareholder was insufficient, without more evidence of control, to establish a company-law related-party relationship. In a resolution-rescission action, the court focuses on the meeting procedure, voting method, and consistency with the charter rather than using the rescission claim as a catch-all vehicle for every dispute over the commercial consequences of the transaction.",
+  "topics": [
+    "corporate-governance",
+    "related-transaction-harm",
+    "shareholder-rights"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://kfzy.hncourt.gov.cn/public/detail.php?id=10499",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "开封中院发布的中小投资者保护典型案例，专门讨论“关联交易”的认定与决议撤销的边界。",
+      "noteEn": "Official Kaifeng court model case on how to identify a related-party transaction and the limits of a resolution-rescission claim."
+    }
+  ]
+}

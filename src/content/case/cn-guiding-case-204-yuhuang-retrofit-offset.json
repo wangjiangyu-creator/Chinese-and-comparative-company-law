@@ -1,0 +1,25 @@
+{
+  "titleZh": "指导性案例204号：重庆市人民检察院第五分院诉重庆瑜煌电力设备制造有限公司等环境污染民事公益诉讼案",
+  "titleEn": "Guiding Case No. 204: Chongqing Municipal People's Procuratorate Fifth Branch v. Chongqing Yuhuang Power Equipment Manufacturing Co., Ltd. et al.",
+  "forumZh": "最高人民法院",
+  "forumEn": "Supreme People's Court",
+  "citation": "指导性案例204号",
+  "year": 2023,
+  "jurisdiction": "cn",
+  "caseType": "guiding-case",
+  "decisionType": "环境污染民事公益诉讼",
+  "issuesZh": ["环保技术改造费用抵扣", "强制性合规义务", "生态环境损害赔偿金"],
+  "issuesEn": ["offset of environmental retrofit costs", "mandatory compliance duties", "ecological-damage compensation"],
+  "holdingZh": "侵权企业在履行法定义务之外实施节能减排、减污降碳等环保技术改造，并经评估能够降低风险、改善环境效果的，人民法院可以酌情将相关费用抵扣生态环境损害赔偿金；为达法定排放标准而进行的强制性整改费用不得抵扣。",
+  "holdingEn": "Courts may credit genuinely additional environmental retrofit costs against ecological-damage compensation where the retrofit goes beyond mandatory compliance and demonstrably reduces risk or emissions; ordinary compulsory compliance costs are not deductible.",
+  "topics": ["corporate-social-responsibility", "corporate-governance"],
+  "relatedLawIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/shenpan/xiangqing/386151.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

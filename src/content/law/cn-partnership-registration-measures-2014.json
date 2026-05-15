@@ -1,0 +1,34 @@
+{
+  "titleZh": "中华人民共和国合伙企业登记管理办法（2014年修订）",
+  "titleEn": "Measures of the People's Republic of China for the Registration of Partnership Enterprises (2014 Revision)",
+  "shortTitle": "合伙企业登记管理办法（2014）",
+  "aliases": ["2014 Partnership Registration Measures"],
+  "jurisdiction": "cn",
+  "documentType": "administrative-regulation",
+  "authorityLevel": "administrative-regulation",
+  "issuingBodyZh": "国务院",
+  "issuingBodyEn": "State Council",
+  "promulgationDate": "2014-02-19",
+  "effectiveDate": "2014-02-19",
+  "status": "historical",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["partnership-enterprises", "corporate-formation"],
+  "summaryZh": "2014年整理后的登记办法将1997原始令和2007修订统一编入国务院公报增刊文本，便于检索现行与历史变动。",
+  "summaryEn": "The 2014 consolidated registration measure restated the 1997 text as revised in 2007 and 2014 for easier reference and implementation.",
+  "versionGroup": "cn-partnership-registration-measures",
+  "versionLabel": "2014 revision",
+  "previousVersionId": "cn-partnership-registration-measures-2007",
+  "nextVersionId": "cn-partnership-registration-measures-2019",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://www.gov.cn/gongbao/content/2014/content_2695434.htm",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

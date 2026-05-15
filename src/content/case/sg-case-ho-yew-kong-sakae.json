@@ -1,0 +1,33 @@
+{
+  "titleZh": "Ho Yew Kong 诉 Sakae Holdings Ltd 等",
+  "titleEn": "Ho Yew Kong v Sakae Holdings Ltd and other appeals and other matters",
+  "forumZh": "新加坡上诉法院",
+  "forumEn": "Court of Appeal of Singapore",
+  "citation": "[2018] SGCA 33",
+  "year": 2018,
+  "jurisdiction": "sg",
+  "caseType": "comparative-case",
+  "decisionType": "少数股东压迫救济",
+  "issuesZh": ["少数股东压迫", "忠实义务", "关联交易与公司机会侵夺"],
+  "issuesEn": ["minority oppression", "fiduciary duties", "related-party transactions and diversion of corporate opportunity"],
+  "holdingZh": "Sakae 案是新加坡少数股东压迫与董事义务交织问题的代表性判例，对关联交易、公司机会和压迫性行为的救济路径作出系统阐述。",
+  "holdingEn": "The Sakae litigation is a leading Singapore authority at the intersection of minority oppression and fiduciary duties, offering a detailed treatment of related-party transactions, diverted opportunities, and remedial design.",
+  "topics": ["shareholder-rights", "corporate-governance", "comparative-governance", "directors-officer-loyalty-and-duties"],
+  "relatedLawIds": ["sg-companies-act-1967", "sg-securities-and-futures-act-2001"],
+  "sources": [
+    {
+      "label": "Official English",
+      "url": "https://www.elitigation.sg/gd/gd/2018_SGCA_33/pdf",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Official court release",
+      "url": "https://www.elitigation.sg/gd/Home/Index?CurrentPage=11&Filter=SUPCT&PageSize=0&SearchMode=False&SearchPhrase=ho+yew+kong&SearchQueryTime=0&SearchTotalHits=0&SortAscending=False&SortBy=Score&SpanMultiplePages=False&Verbose=False&YearOfDecision=All",
+      "official": true,
+      "lastVerified": "2026-05-16",
+      "noteZh": "新加坡法院案件摘要页。",
+      "noteEn": "Singapore Courts case-summary page."
+    }
+  ]
+}

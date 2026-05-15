@@ -1,0 +1,32 @@
+{
+  "titleZh": "香港《证券及期货条例》（第571章）",
+  "titleEn": "Hong Kong Securities and Futures Ordinance (Cap. 571)",
+  "shortTitle": "香港《证券及期货条例》",
+  "aliases": ["SFO", "Cap. 571"],
+  "jurisdiction": "hk",
+  "documentType": "statute",
+  "authorityLevel": "comparative-statute",
+  "issuingBodyZh": "香港特别行政区立法机关",
+  "issuingBodyEn": "Hong Kong e-Legislation",
+  "promulgationDate": "2002-03-14",
+  "effectiveDate": "2003-04-01",
+  "status": "reference",
+  "languageStatus": "comparative-bilingual",
+  "languages": ["zh", "en"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "disclosure", "shareholder-rights", "comparative-governance"],
+  "summaryZh": "《证券及期货条例》是香港上市公司、证券市场行为和投资者保护的主干性法源，构成比较上市公司治理和收购规制时的基本入口。",
+  "summaryEn": "The SFO is the backbone of Hong Kong public-company, market-conduct, and investor-protection law, and a core entry point for comparative work on listed-company governance and takeovers.",
+  "versionGroup": "hk-sfo",
+  "versionLabel": "current chapter",
+  "relatedCaseIds": [],
+  "relatedArticleIds": ["article-pbook-hong-kong-company-law"],
+  "sources": [
+    {
+      "label": "Official English",
+      "url": "https://www.elegislation.gov.hk/hk/cap571",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+---
+import CaseCard from "@/components/CaseCard.astro";
+import LawCard from "@/components/LawCard.astro";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { pickLocalized, type Locale } from "@/lib/i18n";
+import {
+  formatArticleSourceLabel,
+  formatJurisdictionLabel,
+  formatSourceLabel
+} from "@/lib/labels";
+import { getPortalSnapshot } from "@/lib/portal-data";
+
+type Props = {
+  locale: Locale;
+  path: string;
+};
+
+const { locale, path } = Astro.props;
+const snapshot = await getPortalSnapshot();
+const jurisdictionOrder = ["us", "uk", "sg", "hk", "de"];
+const lawById = new Map(snapshot.laws.map((law) => [law.id, law]));
+const caseById = new Map(snapshot.cases.map((record) => [record.id, record]));
+const articleById = new Map(snapshot.articleLinks.map((record) => [record.id, record]));
+
+function pickFeatured<T>(ids: string[], lookup: Map<string, T>): T[] {
+  return ids.map((id) => lookup.get(id)).filter((item): item is T => Boolean(item));
+}
+
+function getPortalButtonLabel(
+  locale: Locale,
+  portal: { label: string; noteZh?: string; noteEn?: string }
+): string {
+  if (portal.noteZh && portal.noteEn) {
+    return pickLocalized(locale, portal.noteZh, portal.noteEn);
+  }
+
+  return formatSourceLabel(locale, portal.label);
+}
+
+const comparativeSections = snapshot.jurisdictions
+  .filter((item) => item.id !== "cn")
+  .sort((left, right) => jurisdictionOrder.indexOf(left.id) - jurisdictionOrder.indexOf(right.id))
+  .map((item) => ({
+    ...item,
+    laws:
+      item.featuredLawIds.length > 0
+        ? pickFeatured(item.featuredLawIds, lawById)
+        : snapshot.laws
+            .filter((law) => law.jurisdiction === item.id)
+            .sort((left, right) => {
+              if (left.effectiveDate !== right.effectiveDate) {
+                return left.effectiveDate < right.effectiveDate ? 1 : -1;
+              }
+
+              return left.titleEn.localeCompare(right.titleEn, "en");
+            }),
+    cases:
+      item.featuredCaseIds.length > 0
+        ? pickFeatured(item.featuredCaseIds, caseById)
+        : snapshot.cases
+            .filter((record) => record.jurisdiction === item.id)
+            .sort((left, right) => right.year - left.year || left.titleEn.localeCompare(right.titleEn, "en")),
+    articles:
+      item.featuredArticleIds.length > 0
+        ? pickFeatured(item.featuredArticleIds, articleById)
+        : snapshot.articleLinks
+            .filter((record) => record.jurisdictions.includes(item.id))
+            .sort((left, right) => right.year - left.year || left.titleEn.localeCompare(right.titleEn, "en"))
+  }));
+---
+
+<BaseLayout
+  locale={locale}
+  path={path}
+  titleZh="比较法"
+  titleEn="Comparative Law"
+  descriptionZh="按法域整理美国、英国、新加坡、香港和德国的核心公司法法源、代表性判例与入门阅读。"
+  descriptionEn="Jurisdiction-by-jurisdiction comparison of core corporate-law texts, leading cases, and introductory reading for the United States, the United Kingdom, Singapore, Hong Kong, and Germany."
+>
+  <section class="hero">
+    <span class="eyebrow">{locale === "zh" ? "五法域比较 / Research gateway" : "Five-jurisdiction comparison / Research gateway"}</span>
+    <h1 class="page-title">{locale === "zh" ? "比较法" : "Comparative Law"}</h1>
+    <p class="lede">
+      {locale === "zh"
+        ? "比较法模块现已从原先的香港、新加坡轻量层扩展为五个法域入口。每个法域均按“核心法源、代表性判例、介绍性学术与书籍”组织，继续保持从中国主库出发、向外对照的研究路径。"
+        : "The comparative layer now expands beyond Hong Kong and Singapore into five jurisdictional entry points. Each jurisdiction is organized around core texts, leading cases, and introductory scholarship, while remaining clearly subordinate to the China-first corpus."}
+    </p>
+    <div class="badge-row">
+      {comparativeSections.map((section) => (
+        <a class="badge" href={`#jurisdiction-${section.id}`}>
+          {formatJurisdictionLabel(locale, section.id)}
+        </a>
+      ))}
+    </div>
+  </section>
+
+  {comparativeSections.map((section) => (
+    <section class="section" id={`jurisdiction-${section.id}`}>
+        <div class="section-head">
+          <div>
+            <span class="eyebrow">{formatJurisdictionLabel(locale, section.id)}</span>
+            <h2>{pickLocalized(locale, section.nameZh, section.nameEn)}</h2>
+            <p>{pickLocalized(locale, section.emphasisZh, section.emphasisEn)}</p>
+            <div class="badge-row">
+              <span class="badge">{locale === "zh" ? `${section.laws.length} 部法源` : `${section.laws.length} texts`}</span>
+              <span class="badge">{locale === "zh" ? `${section.cases.length} 个案例` : `${section.cases.length} cases`}</span>
+              <span class="badge">
+                {locale === "zh" ? `${section.articles.length} 篇导读` : `${section.articles.length} readings`}
+              </span>
+            </div>
+          </div>
+        </div>
+
+      {section.officialPortals.length > 0 && (
+        <div class="hero-actions comparative-actions">
+          {section.officialPortals.map((portal) => (
+            <a class="action-link action-link-secondary" href={portal.url} target="_blank" rel="noreferrer">
+              {getPortalButtonLabel(locale, portal)}
+            </a>
+          ))}
+        </div>
+      )}
+
+      <div class="comparative-stack">
+        <section class="comparative-block">
+          <div class="section-head">
+            <div>
+              <span class="eyebrow">{locale === "zh" ? "法源" : "Texts"}</span>
+              <h3>{locale === "zh" ? "核心公司法律法规文本" : "Core company-law texts"}</h3>
+            </div>
+          </div>
+          {section.laws.length > 0 ? (
+            <div class="record-grid">
+              {section.laws.map((law) => <LawCard law={law} locale={locale} />)}
+            </div>
+          ) : (
+            <div class="directory-empty">
+              {locale === "zh" ? "该法域暂未录入法规条目。" : "No law records have been added for this jurisdiction yet."}
+            </div>
+          )}
+        </section>
+
+        <section class="comparative-block">
+          <div class="section-head">
+            <div>
+              <span class="eyebrow">{locale === "zh" ? "判例" : "Cases"}</span>
+              <h3>{locale === "zh" ? "代表性判例" : "Leading cases"}</h3>
+            </div>
+          </div>
+          {section.cases.length > 0 ? (
+            <div class="record-grid">
+              {section.cases.map((record) => <CaseCard record={record} locale={locale} />)}
+            </div>
+          ) : (
+            <div class="directory-empty">
+              {locale === "zh" ? "该法域暂未录入判例条目。" : "No case records have been added for this jurisdiction yet."}
+            </div>
+          )}
+        </section>
+
+        <section class="comparative-block">
+          <div class="section-head">
+            <div>
+              <span class="eyebrow">{locale === "zh" ? "导读" : "Reading"}</span>
+              <h3>{locale === "zh" ? "介绍性学术文章与书籍" : "Introductory articles and books"}</h3>
+            </div>
+          </div>
+          {section.articles.length > 0 ? (
+            <div class="record-grid">
+              {section.articles.map((article) => (
+                <article class="card">
+                  <div class="badge-row">
+                    <span class="badge">{article.publisher}</span>
+                    <span class="badge">{article.year}</span>
+                    <span class="badge">{formatArticleSourceLabel(locale, article.sourceKind)}</span>
+                  </div>
+                  <h3 class="record-card-title">
+                    <a href={article.sourceUrl} target="_blank" rel="noreferrer">
+                      {pickLocalized(locale, article.titleZh, article.titleEn)}
+                    </a>
+                  </h3>
+                  <p>{article.authors.join(", ")}</p>
+                  <p>{pickLocalized(locale, article.abstractZh, article.abstractEn)}</p>
+                </article>
+              ))}
+            </div>
+          ) : (
+            <div class="directory-empty">
+              {locale === "zh"
+                ? "该法域暂未录入导读文章或书籍。"
+                : "No introductory articles or books have been added for this jurisdiction yet."}
+            </div>
+          )}
+        </section>
+      </div>
+    </section>
+  ))}
+</BaseLayout>

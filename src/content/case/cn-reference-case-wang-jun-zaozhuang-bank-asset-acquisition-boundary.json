@@ -1,0 +1,34 @@
+{
+  "titleZh": "王军诉枣庄银行股份有限公司建设工程合同纠纷案",
+  "titleEn": "Reference Case: Wang Jun v. Zaozhuang Bank Co., Ltd.",
+  "forumZh": "枣庄市中级人民法院",
+  "forumEn": "Zaozhuang Intermediate People's Court",
+  "citation": "枣庄中院案例：收购合并与资产接收边界",
+  "year": 2009,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "建设工程合同纠纷",
+  "issuesZh": ["收购合并", "资产接收", "吸收合并与协议收购区分", "承债主体认定"],
+  "issuesEn": [
+    "acquisition and merger",
+    "asset reception",
+    "distinguishing absorption mergers from contractual acquisitions",
+    "identifying the debt-bearing entity"
+  ],
+  "holdingZh": "对城信社等金融机构有效资产、债权债务的协议接收，并不当然等同于吸收合并。法院应根据接收协议、批复文件和实际交易结构，区分吸收合并与特定资产债务接收；在缺乏独立承债依据时，不能仅因银行接收部分资产和债权债务即推定其对案涉旧债承担责任。",
+  "holdingEn": "A contractual reception of selected assets, claims, and liabilities from credit cooperatives does not automatically amount to an absorption merger. Courts should distinguish mergers from targeted asset-and-liability transfers by examining the transfer agreement, approvals, and the actual structure of the transaction; absent an independent basis for liability, a receiving bank cannot be presumed to bear every legacy debt simply because it took over part of the predecessor's assets and obligations.",
+  "topics": ["corporate-reorganization", "business-environment"],
+  "relatedLawIds": [
+    "cn-civil-code-2020-legal-person",
+    "cn-company-law-2005",
+    "cn-market-entity-registration-regulations-2021"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.sdcourt.gov.cn/jnanszqfy/389687/389688/6060391/index.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

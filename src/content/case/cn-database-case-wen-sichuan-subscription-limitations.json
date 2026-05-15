@@ -1,0 +1,35 @@
+{
+  "titleZh": "文某诉四川某投资顾问股份有限公司、黄某国等新增资本认购纠纷案",
+  "titleEn": "Database Case: Wen Mou v. Sichuan Investment Consulting Co., Ltd. et al.",
+  "forumZh": "人民法院案例库（最高人民法院审核入库）",
+  "forumEn": "People's Court Case Database (reviewed by the Supreme People's Court)",
+  "citation": "入库编号2023-08-2-266-001",
+  "year": 2026,
+  "jurisdiction": "cn",
+  "caseType": "database-case",
+  "decisionType": "新增资本认购纠纷",
+  "issuesZh": ["新增资本认购无效", "未出资股东的诉讼时效抗辩", "债权人个别清偿"],
+  "issuesEn": [
+    "invalid subscription of newly issued capital",
+    "limitation defense available to under-contributing shareholders",
+    "individual creditor recovery"
+  ],
+  "holdingZh": "债权人请求公司承担返还投资款等责任，并进一步请求未出资股东在未出资本息范围内承担补充赔偿责任时，未出资股东可以援用公司对该债权人享有的诉讼时效抗辩。对公司债权已超过诉讼时效的，股东可据此拒绝承担相应补充赔偿责任。",
+  "holdingEn": "When a creditor seeks recovery from the company and then pursues supplementarily liability from under-contributing shareholders, those shareholders may invoke the company's statute-of-limitations defense against the creditor. If the creditor's claim against the company is time-barred, the shareholders may rely on that defense to resist supplementary liability.",
+  "topics": ["registered-capital", "shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-civil-code-2020-legal-person",
+    "cn-spc-company-law-interpretation-3-2021",
+    "cn-national-civil-commercial-trial-minutes-2019"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.sdcourt.gov.cn/dyzy/resource/cms/article/372898/44500643/2026010908530984237.pdf",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "titleZh": "《公司法导论》",
+  "titleEn": "Introduction to Company Law",
+  "authors": ["Paul Davies"],
+  "publisher": "Oxford Academic",
+  "year": 2020,
+  "sourceKind": "publisher",
+  "jurisdictions": ["uk"],
+  "topics": ["corporate-formation", "corporate-governance", "shareholder-rights", "comparative-governance"],
+  "abstractZh": "Paul Davies 以公司法人格、有限责任、集中管理、股东控制和股份可转让性五个核心特征为线索，对英国公司法作概念化梳理，是进入《公司法 2006》与现代英国公司治理体系的优先导读。",
+  "abstractEn": "Paul Davies organizes UK company law around the five core features of the company, offering a conceptual route into the Companies Act 2006 and the modern governance framework.",
+  "sourceUrl": "https://academic.oup.com/book/33705"
+}

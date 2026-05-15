@@ -1,0 +1,32 @@
+{
+  "titleZh": "香港交易所《企业管治守则》",
+  "titleEn": "HKEX Corporate Governance Code",
+  "shortTitle": "香港企业管治守则",
+  "aliases": ["Appendix C1"],
+  "jurisdiction": "hk",
+  "documentType": "exchange-rule",
+  "authorityLevel": "exchange-rule",
+  "issuingBodyZh": "香港交易及结算所有限公司",
+  "issuingBodyEn": "Hong Kong Exchanges and Clearing Limited",
+  "promulgationDate": "2025-01-01",
+  "effectiveDate": "2025-01-01",
+  "status": "reference",
+  "languageStatus": "official-en",
+  "languages": ["en"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "corporate-governance", "disclosure"],
+  "summaryZh": "香港上市公司治理采用 Appendix C1 的 comply-or-explain 结构，是和中国证监会治理准则最值得对照的规则层。",
+  "summaryEn": "HKEX Appendix C1 supplies the classic comply-or-explain governance layer for Hong Kong listed issuers.",
+  "versionGroup": "hk-corporate-governance-code",
+  "versionLabel": "Appendix C1 current version",
+  "relatedCaseIds": [],
+  "relatedArticleIds": ["article-pbook-hong-kong-company-law"],
+  "sources": [
+    {
+      "label": "Official exchange rule",
+      "url": "https://en-rules.hkex.com.hk/rulebook/appendix-c1-corporate-governance-code",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

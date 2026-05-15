@@ -1,0 +1,44 @@
+{
+  "titleZh": "中华人民共和国证券法（2013年修正）",
+  "titleEn": "Securities Law of the People's Republic of China (2013 Amendment)",
+  "shortTitle": "证券法（2013）",
+  "aliases": ["2013 Securities Law", "2013修正证券法"],
+  "jurisdiction": "cn",
+  "documentType": "law",
+  "authorityLevel": "national-law",
+  "issuingBodyZh": "全国人民代表大会常务委员会",
+  "issuingBodyEn": "Standing Committee of the National People's Congress",
+  "promulgationDate": "2013-06-29",
+  "effectiveDate": "2013-06-29",
+  "status": "historical",
+  "languageStatus": "official-zh-plus-reference-en",
+  "languages": ["zh", "en"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "disclosure", "corporate-governance"],
+  "summaryZh": "2013 年修正后的证券法，用于观察 2014 年再次修正前的公开发行、持续信息公开和上市公司收购规则结构。",
+  "summaryEn": "The 2013 amended text, useful for tracing the pre-2014 structure of public offerings, continuing disclosure, and listed-company acquisition rules.",
+  "versionGroup": "cn-securities-law",
+  "versionLabel": "2013 amendment",
+  "previousVersionId": "cn-securities-law-2005",
+  "nextVersionId": "cn-securities-law-2014",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://gzw.wuhan.gov.cn/zwgk/zcwj/zcfg/202004/t20200428_1182084.shtml",
+      "noteZh": "政府公开页面提供 2013 年修正本全文。",
+      "noteEn": "Government public page providing the full 2013 amended text.",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Public English translation",
+      "url": "https://www.lawinfochina.com/display.aspx?CGid=&EncodingName=gb2312&id=14878&lib=law",
+      "noteZh": "公开可访问的英文数据库译本，可用于研究和版本比对；解释和效力仍以中文法定文本为准。",
+      "noteEn": "Publicly accessible English database translation for research and version comparison; the Chinese statutory text remains controlling.",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "titleZh": "德国《有限责任公司法》",
+  "titleEn": "German Limited Liability Companies Act (GmbHG)",
+  "shortTitle": "德国有限责任公司法",
+  "aliases": ["GmbHG", "Gesetz betreffend die Gesellschaften mit beschränkter Haftung"],
+  "jurisdiction": "de",
+  "documentType": "statute",
+  "authorityLevel": "comparative-statute",
+  "issuingBodyZh": "德国联邦司法部 / 联邦法律信息平台",
+  "issuingBodyEn": "Federal Ministry of Justice / Gesetze im Internet",
+  "promulgationDate": "1892-04-20",
+  "effectiveDate": "1892-04-20",
+  "status": "reference",
+  "languageStatus": "official-en",
+  "languages": ["en"],
+  "textStatus": "metadata-only",
+  "topics": ["corporate-formation", "corporate-governance", "shareholder-rights", "comparative-governance"],
+  "summaryZh": "GmbHG 是德国有限责任公司与 Unternehmergesellschaft 制度的基础法源，尤其适合与中国有限责任公司规则做精细比较。",
+  "summaryEn": "The GmbHG is the foundational source for the German private limited company, including the Unternehmergesellschaft, and is particularly useful for close comparison with Chinese limited-liability company rules.",
+  "versionGroup": "de-gmbhg",
+  "versionLabel": "current act",
+  "relatedCaseIds": [],
+  "relatedArticleIds": ["article-cambridge-german-company-law-developments"],
+  "sources": [
+    {
+      "label": "Official English (reference)",
+      "url": "https://www.gesetze-im-internet.de/englisch_gmbhg/englisch_gmbhg.pdf",
+      "official": true,
+      "lastVerified": "2026-05-16",
+      "noteZh": "联邦司法部英文译本 PDF。",
+      "noteEn": "Federal Ministry of Justice English translation PDF."
+    },
+    {
+      "label": "Official release",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/index.html",
+      "official": true,
+      "lastVerified": "2026-05-16",
+      "noteZh": "德文现行文本。",
+      "noteEn": "Current German text."
+    }
+  ]
+}

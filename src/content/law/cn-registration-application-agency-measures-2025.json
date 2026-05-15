@@ -1,0 +1,32 @@
+{
+  "titleZh": "经营主体登记申请及代理行为管理办法",
+  "titleEn": "Measures for the Administration of Business Entity Registration Applications and Agency Conduct",
+  "shortTitle": "经营主体登记申请及代理行为管理办法",
+  "aliases": ["国市监注规〔2025〕3号"],
+  "jurisdiction": "cn",
+  "documentType": "regulatory-code",
+  "authorityLevel": "regulatory-code",
+  "issuingBodyZh": "国家市场监督管理总局、中国人民银行",
+  "issuingBodyEn": "State Administration for Market Regulation and the People's Bank of China",
+  "promulgationDate": "2025-09-11",
+  "effectiveDate": "2025-09-15",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["business-environment", "corporate-formation"],
+  "summaryZh": "围绕登记联络员和登记代理人的申请、核验、执业记录、反虚假登记和反洗钱义务建立统一规则，是近年的公司登记合规重点文本。",
+  "summaryEn": "The joint SAMR-PBOC measure setting modern rules for registration filers and agents, including identity checks, practice records, anti-fake-registration controls, and anti-money-laundering duties.",
+  "versionGroup": "cn-registration-application-agency-measures",
+  "versionLabel": "2025 text",
+  "relatedCaseIds": ["cn-database-case-change-registration-chen-moufei"],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/djzcj/art/2025/art_146b59095fb14ffc88f6abd1db118925.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

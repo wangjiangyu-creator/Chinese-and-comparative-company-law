@@ -1,0 +1,25 @@
+{
+  "titleZh": "ARAG/Garmenbeck 案",
+  "titleEn": "ARAG/Garmenbeck",
+  "forumZh": "德国联邦最高法院",
+  "forumEn": "German Federal Court of Justice",
+  "citation": "BGHZ 135, 244 (II ZR 175/95, 1997)",
+  "year": 1997,
+  "jurisdiction": "de",
+  "caseType": "comparative-case",
+  "decisionType": "监事会追责义务",
+  "issuesZh": ["监事会监督职责", "追究管理层责任", "商业判断与公司利益"],
+  "issuesEn": ["supervisory-board oversight", "pursuit of claims against management", "business judgment and corporate interest"],
+  "holdingZh": "ARAG/Garmenbeck 明确监事会应独立审查公司对管理层的损害赔偿请求，并在符合公司利益的前提下积极决定是否追责，成为德国董事责任法的支点判例。",
+  "holdingEn": "ARAG/Garmenbeck clarified that the supervisory board must independently assess the corporation's claims against management and actively decide whether to pursue them in the company's interest, making it a cornerstone of German director-liability law.",
+  "topics": ["corporate-governance", "directors-officer-loyalty-and-duties", "comparative-governance"],
+  "relatedLawIds": ["de-stock-corporation-act", "de-corporate-governance-code-2022"],
+  "sources": [
+    {
+      "label": "Research platform",
+      "url": "https://www.anwalt24.de/urteile/bgh/1997-04-21/ii-zr-175_95",
+      "official": false,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

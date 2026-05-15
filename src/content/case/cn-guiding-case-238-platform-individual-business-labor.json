@@ -1,0 +1,31 @@
+{
+  "titleZh": "指导性案例238号：圣某欢诉江苏某网络科技有限公司确认劳动关系纠纷案",
+  "titleEn": "Guiding Case No. 238: Sheng Mouhuan v. A Jiangsu Network Technology Co., Ltd.",
+  "forumZh": "最高人民法院",
+  "forumEn": "Supreme People's Court",
+  "citation": "指导性案例238号",
+  "year": 2024,
+  "jurisdiction": "cn",
+  "caseType": "guiding-case",
+  "decisionType": "确认劳动关系纠纷",
+  "issuesZh": ["注册个体工商户规避用工责任", "主营业务转包", "关系最密切企业认定"],
+  "issuesEn": ["forced sole-proprietor registration to avoid labor duties", "subcontracting of core business", "identifying the enterprise most closely connected to the worker"],
+  "holdingZh": "平台企业要求劳动者先注册为个体工商户再签订承揽、合作协议的，不当然排除劳动关系认定；对于主营业务存在转包情形的，应结合实际用工管理、报酬来源和关系最密切的企业综合认定。",
+  "holdingEn": "A platform enterprise cannot avoid labor-law scrutiny merely by requiring workers to register as sole proprietors before signing cooperation agreements. Where core business functions are subcontracted, courts should identify the enterprise most closely connected to the worker by examining actual management and remuneration arrangements.",
+  "topics": ["corporate-social-responsibility"],
+  "relatedLawIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/cc5ae5792c86f6988bead4c81940b3.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/450651.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

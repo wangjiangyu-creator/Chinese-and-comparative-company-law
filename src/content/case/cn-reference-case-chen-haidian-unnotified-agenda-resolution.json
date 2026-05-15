@@ -1,0 +1,33 @@
+{
+  "titleZh": "陈某与某集团公司公司决议撤销纠纷案",
+  "titleEn": "Reference Case: Chen v. a Group Company on Resolution Rescission",
+  "forumZh": "北京市海淀区人民法院",
+  "forumEn": "Haidian District People's Court, Beijing",
+  "citation": "海淀法院典型案例：未提前通知会议议题",
+  "year": 2024,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司决议撤销纠纷",
+  "issuesZh": ["股东会通知事项", "重大议题未预告", "轻微程序瑕疵与实质影响"],
+  "issuesEn": [
+    "meeting notice contents",
+    "major agenda items omitted from notice",
+    "minor procedural defects versus substantive impact"
+  ],
+  "holdingZh": "股东会通知虽载明会议时间、地点及概括性主题，但未完整披露拟审议的重大事项，且实际会议审议并通过了股东出资转让、董事会解散、董事与经理免职、章程修改等与特定股东切身利益密切相关的议题，属于通知事项不完整的召集程序瑕疵。该瑕疵并非轻微瑕疵，足以实质影响股东行使发言权和表决权，法院可以判决撤销相关股东会决议。",
+  "holdingEn": "A meeting notice that states only the time, place, and a broad subject is defective if it omits the concrete major agenda items later voted on, especially where the meeting actually resolves on share transfers, board dissolution, removal of directors or managers, and charter amendments affecting a specific shareholder's interests. This is not a minor defect and can materially impair participation and voting rights, so rescission of the resolution is appropriate.",
+  "topics": ["shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://m.thepaper.cn/baijiahao_29431791",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

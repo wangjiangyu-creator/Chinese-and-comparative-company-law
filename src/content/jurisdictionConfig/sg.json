@@ -1,0 +1,53 @@
+{
+  "nameZh": "新加坡",
+  "nameEn": "Singapore",
+  "emphasisZh": "比较层侧重公司法、交易所持续治理义务和董事责任材料。",
+  "emphasisEn": "Comparison layer focused on the Companies Act, listing governance duties, and director-responsibility materials.",
+  "recordPriority": ["law", "case", "articleLink"],
+  "featuredLawIds": [
+    "sg-companies-act-1967",
+    "sg-insolvency-restructuring-dissolution-act-2018",
+    "sg-securities-and-futures-act-2001",
+    "sg-code-of-corporate-governance-2018",
+    "sg-mainboard-rules-governance"
+  ],
+  "featuredCaseIds": [
+    "sg-case-ho-yew-kong-sakae",
+    "sg-case-goh-jin-hian-directors-duties",
+    "sg-case-ting-shwu-ping-scanone",
+    "sg-case-over-and-over-bonvests",
+    "sg-case-miao-weiguo-reflective-loss",
+    "sg-case-ang-thiam-swee-v-low-hian-chor"
+  ],
+  "featuredArticleIds": [
+    "article-pbook-walter-woon-company-law",
+    "article-pbook-annotated-singapore-companies-act",
+    "article-pbook-guide-to-company-law-singapore"
+  ],
+  "officialPortals": [
+    {
+      "label": "Official English",
+      "url": "https://sso.agc.gov.sg/",
+      "noteZh": "Singapore Statutes Online",
+      "noteEn": "Singapore Statutes Online",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Official court release",
+      "url": "https://www.judiciary.gov.sg/judgments",
+      "noteZh": "新加坡法院判决库",
+      "noteEn": "Singapore judgments",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Official exchange rule",
+      "url": "https://rulebook.sgx.com/",
+      "noteZh": "SGX 规则库",
+      "noteEn": "SGX rulebook",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "titleZh": "近五年江苏公司纠纷案件审判情况通报（2012－2016）",
+  "titleEn": "Circular on Adjudication of Company Disputes in Jiangsu Courts over the Past Five Years (2012-2016)",
+  "shortTitle": "江苏公司纠纷审判情况通报",
+  "aliases": ["2012－2016江苏公司纠纷审判通报"],
+  "jurisdiction": "cn",
+  "documentType": "judicial-policy",
+  "authorityLevel": "judicial-policy",
+  "issuingBodyZh": "江苏省高级人民法院",
+  "issuingBodyEn": "Jiangsu High People's Court",
+  "promulgationDate": "2017-07-03",
+  "effectiveDate": "2017-07-03",
+  "status": "reference",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["corporate-formation", "corporate-governance", "shareholder-rights", "dissolution-liquidation"],
+  "summaryZh": "以江苏法院2012至2016年公司纠纷审判数据和裁判经验为基础，系统梳理公司设立、治理和终止阶段的高频问题，是研究地方公司审判理念和裁判结构的重要资料。",
+  "summaryEn": "An official Jiangsu High Court report using 2012-2016 case data and adjudication experience to map recurring issues in company formation, governance, and termination disputes.",
+  "versionGroup": "js-high-court-company-disputes-report",
+  "versionLabel": "2017 text",
+  "judicialMaterialClass": "local-high-court-report",
+  "relatedCaseIds": [
+    "cn-gazette-case-shareholder-inspection-jiade",
+    "cn-gazette-case-preemption-zhongjing",
+    "cn-database-case-profit-distribution-zhao-wang",
+    "cn-database-case-board-resolution-charter-overreach"
+  ],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.jsfy.gov.cn/article/20522.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

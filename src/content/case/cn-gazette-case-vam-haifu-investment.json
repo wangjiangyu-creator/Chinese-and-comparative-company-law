@@ -1,0 +1,38 @@
+{
+  "titleZh": "苏州工业园区海富投资有限公司与甘肃世恒有色资源再利用有限公司、香港迪亚有限公司、陆波增资纠纷案",
+  "titleEn": "Gazette Case: Suzhou Industrial Park Haifu Investment Co., Ltd. v. Gansu Shiheng Non-ferrous Resources Recycling Co., Ltd., Hong Kong Diya Co., Ltd., and Lu Bo",
+  "forumZh": "最高人民法院公报 / 最高人民法院",
+  "forumEn": "Supreme People's Court Gazette / Supreme People's Court",
+  "citation": "（2012）民提字第11号",
+  "year": 2012,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "增资纠纷",
+  "issuesZh": [
+    "目标公司直接承担对赌补偿义务的效力",
+    "目标公司股东承担补偿义务的效力",
+    "资本维持与公司债权人保护"
+  ],
+  "issuesEn": [
+    "validity of direct VAM compensation obligations undertaken by the target company",
+    "validity of compensation promises undertaken by the target company's shareholders",
+    "capital maintenance and creditor protection"
+  ],
+  "holdingZh": "投资人与目标公司之间约定的业绩补偿、现金补偿等对赌条款，如使投资人取得相对固定收益并脱离公司经营业绩、损害公司及其债权人利益，应认定无效；目标公司股东向投资人作出的补偿承诺，不违反法律、行政法规禁止性规定的，原则上有效。这一案件奠定了中国对赌协议司法实践中“与公司对赌受资本维持约束、与股东对赌原则上有效”的基础框架。",
+  "holdingEn": "VAM clauses requiring the target company itself to provide performance-based cash compensation are invalid where they give the investor a relatively fixed return detached from the company's operating results and thereby harm the company or its creditors. Compensation undertakings made by the target company's shareholders remain valid in principle absent a statutory ground of invalidity. The case became the foundational authority for the distinction between company-side and shareholder-side VAM obligations.",
+  "topics": ["vam-disputes", "shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2005",
+    "cn-company-law-2023",
+    "cn-civil-code-2020-legal-person",
+    "cn-national-civil-commercial-trial-minutes-2019"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/0e07feeb9a41c731e3730b9a4555f4.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

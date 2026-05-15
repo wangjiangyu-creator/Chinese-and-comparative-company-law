@@ -1,0 +1,33 @@
+{
+  "titleZh": "Waddington Ltd 诉 Chan Chun Hoo Thomas 等",
+  "titleEn": "Waddington Ltd v Chan Chun Hoo Thomas and Others",
+  "forumZh": "香港终审法院",
+  "forumEn": "Hong Kong Court of Final Appeal",
+  "citation": "(2008) 11 HKCFAR 370",
+  "year": 2008,
+  "jurisdiction": "hk",
+  "caseType": "comparative-case",
+  "decisionType": "派生诉讼与不公平损害",
+  "issuesZh": ["多重派生诉讼", "反射损失", "信义义务违反"],
+  "issuesEn": ["multiple derivative action", "reflective loss", "breach of fiduciary duty"],
+  "holdingZh": "Waddington 是香港公司法上多重派生诉讼和反射损失原则的关键案例，确认普通法下可以维持多重派生诉讼，并界定股东个人损失与公司损失之间的区分。",
+  "holdingEn": "Waddington is a key Hong Kong authority on multiple derivative actions and the reflective-loss principle, confirming that multiple derivative proceedings remain available at common law while distinguishing shareholder loss from corporate loss.",
+  "topics": ["shareholder-rights", "corporate-governance", "directors-officer-loyalty-and-duties", "comparative-governance"],
+  "relatedLawIds": ["hk-companies-ordinance-cap-622"],
+  "sources": [
+    {
+      "label": "Research platform",
+      "url": "https://vlex.hk/vid/waddington-ltd-v-chan-862802453",
+      "official": false,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Law firm analysis",
+      "url": "https://dcc.law/case_commentary/%E2%80%A2waddington-v-chan-chun-hoo-thomas-hca-32912003-18-dec-2013-multiple-derivative-action-by-a-minority-shareholder-in-a-listed-company-in-hong-kong-alleging-majority-shareholder-and-direct/",
+      "official": false,
+      "lastVerified": "2026-05-16",
+      "noteZh": "香港大律师事务所整理的案件评论，便于理解多重派生诉讼和反射损失问题。",
+      "noteEn": "Hong Kong chambers commentary highlighting multiple derivative actions and reflective-loss issues."
+    }
+  ]
+}

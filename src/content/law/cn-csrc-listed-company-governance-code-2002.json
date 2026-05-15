@@ -1,0 +1,41 @@
+{
+  "titleZh": "上市公司治理准则（2002年制定）",
+  "titleEn": "Code of Corporate Governance for Listed Companies (2002 Text)",
+  "shortTitle": "治理准则（2002）",
+  "aliases": ["证监发〔2002〕1号"],
+  "jurisdiction": "cn",
+  "documentType": "regulatory-code",
+  "authorityLevel": "regulatory-code",
+  "issuingBodyZh": "中国证券监督管理委员会、原国家经济贸易委员会",
+  "issuingBodyEn": "China Securities Regulatory Commission and former State Economic and Trade Commission",
+  "promulgationDate": "2002-01-07",
+  "effectiveDate": "2002-01-07",
+  "status": "historical",
+  "languageStatus": "official-bilingual",
+  "languages": ["zh", "en"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "corporate-governance", "disclosure"],
+  "summaryZh": "中国上市公司治理规范体系的起点文本，集中规定股东会、董事会、监事会、独立董事和信息披露等基本治理要求。",
+  "summaryEn": "The starting text of China's listed-company governance framework, covering shareholders' meetings, boards, supervisors, independent directors, and disclosure basics.",
+  "versionGroup": "cn-csrc-listed-company-governance-code",
+  "versionLabel": "2002 text",
+  "nextVersionId": "cn-csrc-listed-company-governance-code-2018",
+  "applicablePeriodZh": "2002年1月7日起施行，至 2018 年修订治理准则发布前长期构成上市公司治理基本规范。",
+  "applicablePeriodEn": "Effective from January 7, 2002, and remained the basic governance standard until the 2018 revision.",
+  "relatedCaseIds": ["cn-guiding-case-10-board-resolution-review"],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official Chinese",
+      "url": "https://neris.csrc.gov.cn/falvfagui/rdqsHeader/mainbody?body=&navbarId=3&secFutrsLawId=197e834411fa490b8998b327b1fe37aa",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Official English",
+      "url": "https://www.csrc.gov.cn/csrc_en/c102030/c1371191/content.shtml",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

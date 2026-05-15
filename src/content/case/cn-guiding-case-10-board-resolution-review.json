@@ -1,0 +1,31 @@
+{
+  "titleZh": "指导案例10号：李建军诉上海佳动力环保科技有限公司公司决议撤销纠纷案",
+  "titleEn": "Guiding Case No. 10: Li Jianjun v. Shanghai Jiadongli Environmental Technology Co., Ltd.",
+  "forumZh": "最高人民法院",
+  "forumEn": "Supreme People's Court",
+  "citation": "指导案例10号",
+  "year": 2012,
+  "jurisdiction": "cn",
+  "caseType": "guiding-case",
+  "decisionType": "公司决议撤销纠纷",
+  "issuesZh": ["公司决议撤销", "司法审查范围", "表决方式"],
+  "issuesEn": ["rescission of company resolutions", "scope of judicial review", "voting procedure"],
+  "holdingZh": "公司决议撤销之诉主要审查召集程序、表决方式与章程一致性，不对商业判断的事实基础作普遍实质审查。",
+  "holdingEn": "Judicial review of a resolution-rescission claim centers on convening procedure, voting method, and consistency with the articles rather than broad merits review.",
+  "topics": ["corporate-governance", "shareholder-rights", "directors-officer-loyalty-and-duties"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-1-2014",
+    "cn-spc-company-law-interpretation-4-2017",
+    "cn-csrc-listed-company-governance-code-2025"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/shenpan/xiangqing/13307.html",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

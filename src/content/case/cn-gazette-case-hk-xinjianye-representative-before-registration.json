@@ -1,0 +1,38 @@
+{
+  "titleZh": "香港新建业有限公司等诉上海新建业有限公司等欠款担保纠纷案",
+  "titleEn": "Gazette Case: Hong Kong Xinjianye Co., Ltd. et al. v. Shanghai Xinjianye Co., Ltd. et al.",
+  "forumZh": "最高人民法院公报 / 最高人民法院",
+  "forumEn": "Supreme People's Court Gazette / Supreme People's Court",
+  "citation": "公报案例：免职未变更登记前代表权",
+  "year": 2001,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司对外担保",
+  "issuesZh": ["法定代表人免职未变更登记", "对外代表权", "不违反公司利益的对外行为"],
+  "issuesEn": [
+    "dismissal of a legal representative before registration change",
+    "external representative authority",
+    "outward acts not contrary to company interests"
+  ],
+  "holdingZh": "企业法定代表人虽已被公司内部免职，但在办理变更登记之前，仍处于登记公示的对外代表地位。其在该期间以公司名义实施、且不违反公司利益的对外行为，仍可认定为公司有效表示并对公司发生法律效力。",
+  "holdingEn": "Even after internal dismissal, a legal representative remains in the outwardly registered representative position until registration is changed. Outward acts taken in the company's name during that interval, so long as they are not contrary to the company's interests, may still be treated as the company's valid acts and bind the company.",
+  "topics": [
+    "legal-representative-and-seal-control",
+    "corporate-governance",
+    "corporate-formation"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-1993",
+    "cn-company-law-2023",
+    "cn-civil-code-2020-legal-person",
+    "cn-company-registration-regulations-1994"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/7e7117483f17d2f949683b694f3eaa.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

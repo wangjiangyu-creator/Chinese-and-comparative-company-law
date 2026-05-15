@@ -1,0 +1,28 @@
+{
+  "titleZh": "重庆市某电缆公司诉重庆某房地产公司、西南某房地产集团公司合同纠纷案",
+  "titleEn": "Reference Case: Chongqing Cable Company v. Chongqing Real Estate Company and Southwest Real Estate Group",
+  "forumZh": "人民法院案例库（最高人民法院审核入库）",
+  "forumEn": "People's Court Case Database (reviewed by the Supreme People's Court)",
+  "citation": "入库编号2024-08-2-483-011",
+  "year": 2024,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司对外担保",
+  "issuesZh": ["间接持股100%", "公司担保决议程序", "非上市公司担保效力"],
+  "issuesEn": ["indirect 100 percent ownership", "corporate guarantee resolution procedure", "validity of non-listed company guarantees"],
+  "holdingZh": "非上市公司为其通过多层股权架构间接持股100%的公司提供担保，实质上系为自身利益担保，无损中小股东利益时，可认定属于无需另行决议的担保情形。",
+  "holdingEn": "A non-listed company’s guarantee for an indirectly wholly owned company may be treated as a self-interested guarantee that does not require a separate corporate resolution when no minority-shareholder interests are prejudiced.",
+  "topics": ["corporate-governance", "shareholder-rights", "directors-officer-loyalty-and-duties"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/447451.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

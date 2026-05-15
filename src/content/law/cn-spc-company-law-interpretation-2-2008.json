@@ -1,0 +1,37 @@
+{
+  "titleZh": "最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（二）（2008年公布）",
+  "titleEn": "SPC Interpretation (II) on Several Issues Concerning the Application of the Company Law (2008)",
+  "shortTitle": "公司法司法解释（二）",
+  "aliases": ["法释〔2008〕6号", "公司法司法解释二"],
+  "jurisdiction": "cn",
+  "documentType": "judicial-interpretation",
+  "authorityLevel": "judicial-interpretation",
+  "issuingBodyZh": "最高人民法院",
+  "issuingBodyEn": "Supreme People's Court",
+  "promulgationDate": "2008-05-12",
+  "effectiveDate": "2008-05-19",
+  "status": "historical",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["dissolution-liquidation", "shareholder-rights", "corporate-governance"],
+  "summaryZh": "原始文本系统规范公司解散诉讼、法院指定清算和清算义务人责任，是解散清算争议的核心司法解释。",
+  "summaryEn": "Original text systematizing dissolution suits, court-supervised liquidation, and the liability of liquidation obligors.",
+  "versionGroup": "cn-spc-company-law-interpretation-2",
+  "versionLabel": "2008 interpretation",
+  "nextVersionId": "cn-spc-company-law-interpretation-2-2020",
+  "relatedCaseIds": [
+    "cn-guiding-case-8-company-dissolution",
+    "cn-guiding-case-9-liquidation-liability",
+    "cn-reference-case-closure-operator-liquidation-liability"
+  ],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/490912eccaeb8f7b5207ae8b3f0652.html",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "titleZh": "最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（二）（2020年第二次修正）",
+  "titleEn": "SPC Interpretation (II) on Several Issues Concerning the Application of the Company Law (2020 Second Revision)",
+  "shortTitle": "公司法司法解释（二）",
+  "aliases": ["法释〔2008〕6号", "公司法司法解释二", "2020第二次修正"],
+  "jurisdiction": "cn",
+  "documentType": "judicial-interpretation",
+  "authorityLevel": "judicial-interpretation",
+  "issuingBodyZh": "最高人民法院",
+  "issuingBodyEn": "Supreme People's Court",
+  "promulgationDate": "2020-12-29",
+  "effectiveDate": "2021-01-01",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["dissolution-liquidation", "shareholder-rights", "corporate-governance"],
+  "summaryZh": "现行修正文在原有解散和清算规则基础上，吸收2014年和2020年两次修正后的条文口径，是公司解散清算争议的核心司法解释。",
+  "summaryEn": "Current revised text incorporating the 2014 and 2020 amendments to the SPC's core dissolution and liquidation interpretation.",
+  "versionGroup": "cn-spc-company-law-interpretation-2",
+  "versionLabel": "2020 revised interpretation",
+  "previousVersionId": "cn-spc-company-law-interpretation-2-2008",
+  "relatedCaseIds": [
+    "cn-guiding-case-8-company-dissolution",
+    "cn-guiding-case-9-liquidation-liability",
+    "cn-reference-case-closure-operator-liquidation-liability",
+    "cn-typical-case-deadlock-dissolution-german-a",
+    "cn-database-case-port-company-dissolution"
+  ],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/9215381727e7b8bcd7a5006b0afbdc.html",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    },
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/fabu/xiangqing/282631.html",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

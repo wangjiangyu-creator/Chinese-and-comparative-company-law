@@ -1,0 +1,92 @@
+---
+import { pickLocalized, toLocalePath, type Locale } from "@/lib/i18n";
+import {
+  formatLawAuthorityLabel,
+  formatRecordStatusLabel,
+  formatTextStatusLabel,
+  formatVersionLabel
+} from "@/lib/labels";
+import {
+  getBackupOfficialLawSource,
+  getEnglishLawSource,
+  getPrimaryLawSource
+} from "@/lib/law-directory";
+import type { ResolvedLaw } from "@/lib/portal-data";
+
+type Props = {
+  law: ResolvedLaw;
+  locale: Locale;
+  searchable?: boolean;
+};
+
+const { law, locale, searchable = true } = Astro.props;
+const detailHref = toLocalePath(locale, `/laws/${law.id}/`);
+const primarySource = getPrimaryLawSource(law);
+const backupOfficialSource = getBackupOfficialLawSource(law);
+const englishSource = getEnglishLawSource(law);
+const englishSourceUrl = englishSource?.url;
+const backupMatchesEnglishSource = Boolean(
+  backupOfficialSource && englishSourceUrl && backupOfficialSource.url === englishSourceUrl
+);
+const showBackupOfficialSource = Boolean(
+  backupOfficialSource &&
+    backupOfficialSource.url !== primarySource?.url &&
+    !backupMatchesEnglishSource
+);
+const showEnglishSource = Boolean(englishSource && englishSourceUrl && englishSourceUrl !== primarySource?.url);
+const title = pickLocalized(locale, law.titleZh, law.titleEn);
+const summary = pickLocalized(locale, law.summaryZh, law.summaryEn);
+const issuingBody = pickLocalized(locale, law.issuingBodyZh, law.issuingBodyEn);
+const searchText = [
+  law.titleZh,
+  law.titleEn,
+  law.shortTitle,
+  law.summaryZh,
+  law.summaryEn,
+  ...law.aliases
+].join(" ");
+---
+
+<article
+  class="directory-entry"
+  data-law-entry={searchable ? "true" : undefined}
+  data-search={searchable ? searchText : undefined}
+>
+  <div class="directory-entry-main">
+    <div class="badge-row">
+      <span class="badge">{formatLawAuthorityLabel(locale, law.authorityLevel)}</span>
+      <span class="badge">{formatVersionLabel(locale, law.versionLabel)}</span>
+      <span class="badge">{formatTextStatusLabel(locale, law.textStatus)}</span>
+      <span class="badge">{formatRecordStatusLabel(locale, law.status)}</span>
+    </div>
+    <h3 class="directory-entry-title">
+      <a href={detailHref}>{title}</a>
+    </h3>
+    <p class="directory-entry-summary">{summary}</p>
+    <div class="directory-entry-meta">
+      <span>{issuingBody}</span>
+      <span>{law.effectiveDate}</span>
+    </div>
+  </div>
+
+  <div class="directory-entry-actions">
+    <a class="action-link action-link-secondary" href={detailHref}>
+      {locale === "zh" ? "站内条目" : "Site entry"}
+    </a>
+    {primarySource && (
+      <a class="action-link action-link-primary" href={primarySource.url} target="_blank" rel="noreferrer">
+        {locale === "zh" ? "查看官方全文" : "Official full text"}
+      </a>
+    )}
+    {showBackupOfficialSource && backupOfficialSource && (
+      <a class="action-link action-link-secondary" href={backupOfficialSource.url} target="_blank" rel="noreferrer">
+        {locale === "zh" ? "备选全文" : "Backup text"}
+      </a>
+    )}
+    {showEnglishSource && englishSourceUrl && (
+      <a class="action-link action-link-secondary" href={englishSourceUrl} target="_blank" rel="noreferrer">
+        {locale === "zh" ? "英文版本" : "English source"}
+      </a>
+    )}
+  </div>
+</article>

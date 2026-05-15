@@ -1,0 +1,177 @@
+---
+import ArticleCard from "@/components/ArticleCard.astro";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { getArticleDirectory, getArticleSearchText } from "@/lib/article-directory";
+import { formatArticleSourceLabel, formatTopicLabel } from "@/lib/labels";
+import type { Locale } from "@/lib/i18n";
+import { getPortalSnapshot } from "@/lib/portal-data";
+
+type Props = {
+  locale: Locale;
+  path: string;
+};
+
+const { locale, path } = Astro.props;
+const snapshot = await getPortalSnapshot();
+const directory = getArticleDirectory(snapshot.articleLinks);
+const countLabel = locale === "zh" ? "条文章记录" : "article records";
+const allTopicLabel = locale === "zh" ? "全部主分组" : "All topic sections";
+const allSourceLabel = locale === "zh" ? "全部来源类型" : "All source types";
+const allPublisherLabel = locale === "zh" ? "全部发布机构" : "All publishers";
+const uncategorizedLabel = locale === "zh" ? "未分类" : "Uncategorized";
+
+const articleSections = directory.sections.map((section) => ({
+  topicId: section.topicId,
+  label: formatTopicLabel(locale, section.topicId),
+  items: section.items
+}));
+
+if (directory.uncategorized.length > 0) {
+  articleSections.push({
+    topicId: "uncategorized",
+    label: uncategorizedLabel,
+    items: directory.uncategorized
+  });
+}
+---
+
+<BaseLayout
+  locale={locale}
+  path={path}
+  titleZh="学术与实务文章"
+  titleEn="Scholarship and Practitioner Articles"
+  descriptionZh="按题目性质分组，并可按主分组、来源类型、发布机构与关键词筛选。站内仅保留元数据、摘要与外部链接。"
+  descriptionEn="Grouped by topic, with filters for topic section, source type, publisher, and keyword. The site keeps metadata, abstracts, and outbound links only."
+>
+  <section class="hero">
+    <span class="eyebrow">{locale === "zh" ? "链接目录" : "Link index"}</span>
+    <h1 class="page-title">{locale === "zh" ? "学术与实务文章" : "Scholarship and Practitioner Articles"}</h1>
+    <p class="lede">
+      {locale === "zh"
+        ? "继续按题目性质排布，同时补强中国公司法实务文章。页面不复制全文，只保留题名、摘要、来源机构和外部链接，便于研究型检索。"
+        : "Organized by topic with a research-first index of scholarly and practitioner writing. The page keeps titles, abstracts, publishers, and outbound links only."}
+    </p>
+  </section>
+
+  <section class="panel filters" data-count-label={countLabel}>
+    <div class="filters-grid">
+      <label>
+        {locale === "zh" ? "检索题名、摘要或作者" : "Search title, abstract, or author"}
+        <input
+          id="article-search"
+          type="search"
+          placeholder={locale === "zh" ? "如：出资、董事责任、对赌、少数股东" : "e.g. contribution, directors, VAM, minority shareholders"}
+        />
+      </label>
+      <label>
+        {locale === "zh" ? "主分组" : "Topic section"}
+        <select id="article-topic-filter">
+          <option value="all">{allTopicLabel}</option>
+          {articleSections.map((section) => (
+            <option value={section.topicId}>{section.label}</option>
+          ))}
+        </select>
+      </label>
+      <label>
+        {locale === "zh" ? "来源类型" : "Source type"}
+        <select id="article-source-filter">
+          <option value="all">{allSourceLabel}</option>
+          {directory.sourceKinds.map((kind) => (
+            <option value={kind}>{formatArticleSourceLabel(locale, kind)}</option>
+          ))}
+        </select>
+      </label>
+      <label>
+        {locale === "zh" ? "发布机构" : "Publisher"}
+        <select id="article-publisher-filter">
+          <option value="all">{allPublisherLabel}</option>
+          {directory.publishers.map((publisher) => (
+            <option value={publisher}>{publisher}</option>
+          ))}
+        </select>
+      </label>
+    </div>
+    <div class="directory-count" id="article-count"></div>
+    <p class="filters-note" id="article-empty" hidden>
+      {locale === "zh" ? "当前筛选条件下没有匹配文章。" : "No articles match the current filters."}
+    </p>
+  </section>
+
+  {articleSections.map((section) => (
+    <section data-article-section>
+      <h2 class="group-title">{section.label}</h2>
+      <div class="record-grid">
+        {section.items.map((article) => (
+          <div
+            class="article-card-shell"
+            data-article-entry="true"
+            data-primary-topic={section.topicId}
+            data-source-kind={article.sourceKind}
+            data-publisher={article.publisher}
+            data-search={getArticleSearchText(article)}
+          >
+            <ArticleCard article={article} locale={locale} />
+          </div>
+        ))}
+      </div>
+    </section>
+  ))}
+
+  {snapshot.articleLinks.length === 0 && (
+    <p>{locale === "zh" ? "暂无文章数据。" : "No article entries have been added yet."}</p>
+  )}
+
+  <script is:inline>
+    const filtersPanel = document.querySelector(".filters");
+    const countLabel = filtersPanel?.dataset.countLabel ?? "records";
+    const search = document.getElementById("article-search");
+    const topicFilter = document.getElementById("article-topic-filter");
+    const sourceFilter = document.getElementById("article-source-filter");
+    const publisherFilter = document.getElementById("article-publisher-filter");
+    const entries = [...document.querySelectorAll('[data-article-entry="true"]')];
+    const sections = [...document.querySelectorAll("[data-article-section]")];
+    const count = document.getElementById("article-count");
+    const emptyState = document.getElementById("article-empty");
+
+    const applyFilters = () => {
+      const searchValue = search?.value.trim().toLowerCase() ?? "";
+      const selectedTopic = topicFilter?.value ?? "all";
+      const selectedSource = sourceFilter?.value ?? "all";
+      const selectedPublisher = publisherFilter?.value ?? "all";
+      let visible = 0;
+
+      entries.forEach((entry) => {
+        const matchesSearch = !searchValue || entry.dataset.search.includes(searchValue);
+        const matchesTopic = selectedTopic === "all" || entry.dataset.primaryTopic === selectedTopic;
+        const matchesSource = selectedSource === "all" || entry.dataset.sourceKind === selectedSource;
+        const matchesPublisher = selectedPublisher === "all" || entry.dataset.publisher === selectedPublisher;
+        const isVisible = matchesSearch && matchesTopic && matchesSource && matchesPublisher;
+
+        entry.style.display = isVisible ? "" : "none";
+        if (isVisible) {
+          visible += 1;
+        }
+      });
+
+      sections.forEach((section) => {
+        const liveEntries = [...section.querySelectorAll('[data-article-entry="true"]')];
+        const hasVisibleEntries = liveEntries.some((entry) => entry.style.display !== "none");
+        section.style.display = hasVisibleEntries ? "" : "none";
+      });
+
+      if (count) {
+        count.textContent = `${visible} ${countLabel}`;
+      }
+
+      if (emptyState) {
+        emptyState.hidden = visible !== 0;
+      }
+    };
+
+    search?.addEventListener("input", applyFilters);
+    topicFilter?.addEventListener("change", applyFilters);
+    sourceFilter?.addEventListener("change", applyFilters);
+    publisherFilter?.addEventListener("change", applyFilters);
+    applyFilters();
+  </script>
+</BaseLayout>

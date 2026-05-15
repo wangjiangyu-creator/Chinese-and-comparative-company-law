@@ -1,0 +1,42 @@
+{
+  "titleZh": "陕西某置业公司诉张某某、朱某某损害公司利益责任纠纷案",
+  "titleEn": "Reference Case: Shaanxi Investment Company v. Zhang and Zhu (Breach of Corporate Interest)",
+  "forumZh": "人民法院案例库（最高人民法院再审）",
+  "forumEn": "People's Court Case Database (Supreme People's Court review)",
+  "citation": "(2021)最高法民申6621号",
+  "year": 2021,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "损害公司利益责任纠纷（监事未尽勤勉义务）",
+  "issuesZh": ["法定代表人侵害公司财产利益", "监事参与违法转款", "监事与法定代表人连带责任"],
+  "issuesEn": [
+    "legal representative harming corporate assets",
+    "supervisor participation in improper transfer of funds",
+    "joint liability of supervisor and legal representative"
+  ],
+  "holdingZh": "法院确认，作为公司法定代表人的董事长张某某在未履行内部控制程序的情况下，擅自向其关联主体转移并支出公司资金；朱某某作为监事并兼任财务人员，在明知风险的情况下仍参与办理资金划转。监事不能仅以“执行指令”为由免责，对法定代表人及高管侵害公司利益的行为负有制止义务，并应与法定代表人共同承担返还和赔偿责任。",
+  "holdingEn": "The court held that Zhang, acting as the company's legal representative and board chair, improperly diverted and disbursed company funds to related parties without following internal-control procedures. Zhu, who served as both supervisor and finance operator, participated in the transfers despite clear warning signs. A supervisor cannot escape liability merely by claiming to have followed instructions; because she had a duty to stop the legal representative's and managers' harmful conduct, she bears joint responsibility together with the legal representative for return and compensation.",
+  "topics": [
+    "corporate-governance",
+    "director-abuse",
+    "director-liability-litigation",
+    "legal-representative-and-seal-control",
+    "actual-controller-tunneling",
+    "related-transaction-harm",
+    "shareholder-rights",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2018",
+    "cn-company-law-2013",
+    "cn-spc-company-law-interpretation-1-2014"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://rmfyalk.court.gov.cn/dist/view/content.html?id=xlA2yr7zrLYsymIKS%252FQndH9XFAW0URC2KWx5FvJnmio%253D&lib=ck",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

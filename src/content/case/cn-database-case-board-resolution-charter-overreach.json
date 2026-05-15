@@ -1,0 +1,35 @@
+{
+  "titleZh": "上海某某企业管理咨询有限公司诉上海某某企业管理有限公司公司决议撤销纠纷案",
+  "titleEn": "Database Case: Shanghai Management Consulting Co. v. Shanghai Enterprise Management Co.",
+  "forumZh": "人民法院案例库（最高人民法院审核入库）",
+  "forumEn": "People's Court Case Database (reviewed by the Supreme People's Court)",
+  "citation": "入库编号2024-08-2-270-002",
+  "year": 2024,
+  "jurisdiction": "cn",
+  "caseType": "database-case",
+  "decisionType": "公司决议撤销纠纷",
+  "issuesZh": ["董事会决议越权", "章程实质变更", "总经理负责制"],
+  "issuesEn": ["board-resolution ultra vires", "substantive amendment of articles", "manager-responsibility structure"],
+  "holdingZh": "封闭公司董事会作出的决议，如果实质上改变了章程对股东会、董事会和总经理之间权力分配的安排，就属于对公司章程的实质性修改。该类事项应由股东会依章程作出，董事会越权作出的决议应予撤销。",
+  "holdingEn": "In a closely held company, a board resolution that substantively alters the articles' allocation of power among the shareholders' meeting, the board, and the general manager is effectively an amendment of the articles. Such matters must be decided by the proper organ under the articles, and an ultra vires board resolution should be rescinded.",
+  "topics": [
+    "corporate-governance",
+    "shareholder-rights",
+    "director-abuse",
+    "director-liability-litigation",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://rmfyalk.court.gov.cn/dist/view/content.html?id=vjS9fr%252F9KRxlZaO5cDIC4P6mynMo72A4huRF3tbAFss%253D&lib=ck",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

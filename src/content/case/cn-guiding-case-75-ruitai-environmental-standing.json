@@ -1,0 +1,25 @@
+{
+  "titleZh": "指导案例75号：中国生物多样性保护与绿色发展基金会诉宁夏瑞泰科技股份有限公司环境污染公益诉讼案",
+  "titleEn": "Guiding Case No. 75: China Biodiversity Conservation and Green Development Foundation v. Ningxia Ruitai Technology Co., Ltd.",
+  "forumZh": "最高人民法院",
+  "forumEn": "Supreme People's Court",
+  "citation": "指导案例75号",
+  "year": 2017,
+  "jurisdiction": "cn",
+  "caseType": "guiding-case",
+  "decisionType": "环境污染民事公益诉讼",
+  "issuesZh": ["环境公益诉讼主体资格", "腾格里沙漠污染", "社会组织宗旨关联性"],
+  "issuesEn": ["standing of environmental NGOs", "Tengger Desert pollution", "mission-claim nexus for public-interest standing"],
+  "holdingZh": "社会组织章程未明文写入维护环境公共利益，只要其持续活动、工作内容与所诉环境要素之间存在实质关联，仍可认定其具备提起环境民事公益诉讼的资格。",
+  "holdingEn": "An environmental NGO may have standing even if its charter does not expressly mention environmental public interests, so long as its sustained activities and mission are substantively connected to the environmental interests in suit.",
+  "topics": ["corporate-social-responsibility", "corporate-governance"],
+  "relatedLawIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/shenpan/xiangqing/34322.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

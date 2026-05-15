@@ -1,0 +1,44 @@
+{
+  "titleZh": "上市公司治理准则",
+  "titleEn": "Code of Corporate Governance for Listed Companies",
+  "shortTitle": "上市公司治理准则",
+  "aliases": ["证监会公告〔2025〕18号"],
+  "jurisdiction": "cn",
+  "documentType": "regulatory-code",
+  "authorityLevel": "regulatory-code",
+  "issuingBodyZh": "中国证券监督管理委员会",
+  "issuingBodyEn": "China Securities Regulatory Commission",
+  "promulgationDate": "2025-06-27",
+  "effectiveDate": "2026-01-01",
+  "status": "effective",
+  "languageStatus": "official-zh-plus-reference-en",
+  "languages": ["zh", "en"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "corporate-governance", "disclosure"],
+  "summaryZh": "证监会 2025 年修订发布的新治理准则，是上市公司治理模块的核心监管层规则。",
+  "summaryEn": "The CSRC's 2025 revised governance code, central to the regulatory layer for listed-company governance.",
+  "versionGroup": "cn-csrc-listed-company-governance-code",
+  "versionLabel": "2025 revision",
+  "previousVersionId": "cn-csrc-listed-company-governance-code-2018",
+  "relatedCaseIds": ["cn-guiding-case-10-board-resolution-review"],
+  "relatedArticleIds": [
+    "article-skadden-broad-reforms",
+    "article-china-briefing-revised-company-law"
+  ],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://www.csrc.gov.cn/csrc/c101954/c7589726/content.shtml",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    },
+    {
+      "label": "Official English (reference)",
+      "url": "https://www.csrc.gov.cn/csrc_en/c102034/c1372459/content.shtml",
+      "noteZh": "证监会英文站公开的是同名旧版英文文本，可作为 2025 年修订前后比对的官方英文参考。",
+      "noteEn": "The CSRC English site hosts an earlier official English version under the same title, used here as an official reference for comparison with the 2025 revision.",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "titleZh": "最高人民法院关于适用《中华人民共和国企业破产法》若干问题的规定（二）",
+  "titleEn": "SPC Interpretation (II) on Several Issues Concerning the Application of the Enterprise Bankruptcy Law",
+  "shortTitle": "企业破产法司法解释（二）",
+  "aliases": ["法释〔2013〕22号", "破产法司法解释二"],
+  "jurisdiction": "cn",
+  "documentType": "judicial-interpretation",
+  "authorityLevel": "judicial-interpretation",
+  "issuingBodyZh": "最高人民法院",
+  "issuingBodyEn": "Supreme People's Court",
+  "promulgationDate": "2013-09-05",
+  "effectiveDate": "2013-09-16",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["registered-capital", "dissolution-liquidation", "shareholder-rights"],
+  "summaryZh": "聚焦债务人财产认定、撤销权、取回权以及强制清算转入破产程序等问题，是公司出资、清算与破产衔接的重要司法解释。",
+  "summaryEn": "A key interpretation on debtor-property identification, avoidance powers, reclamation rights, and the transition from compulsory liquidation to bankruptcy.",
+  "versionGroup": "cn-spc-enterprise-bankruptcy-interpretation-2",
+  "versionLabel": "2013 interpretation",
+  "relatedCaseIds": ["cn-reference-case-shareholder-debt-setoff-contribution"],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/fabu/xiangqing/5681.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/a8cf0deff0d638a2fad2bc64677f6f.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

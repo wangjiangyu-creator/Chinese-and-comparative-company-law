@@ -1,0 +1,25 @@
+{
+  "titleZh": "Re Chime Corp Ltd",
+  "titleEn": "Re Chime Corp Ltd",
+  "forumZh": "香港终审法院",
+  "forumEn": "Hong Kong Court of Final Appeal",
+  "citation": "(2004) 7 HKCFAR 546",
+  "year": 2004,
+  "jurisdiction": "hk",
+  "caseType": "comparative-case",
+  "decisionType": "派生诉讼与不公平损害",
+  "issuesZh": ["派生诉讼", "不公平损害", "公司损失与个人救济区分"],
+  "issuesEn": ["derivative actions", "unfair prejudice", "distinction between company loss and personal relief"],
+  "holdingZh": "Re Chime 讨论了派生诉讼与不公平损害救济之间的边界，强调针对公司本身受损的主张通常应通过公司或派生诉讼路径提出。",
+  "holdingEn": "Re Chime explored the boundary between derivative actions and unfair-prejudice relief, stressing that claims for wrongs done to the company should generally be pursued by or on behalf of the company.",
+  "topics": ["shareholder-rights", "corporate-governance", "comparative-governance"],
+  "relatedLawIds": ["hk-companies-ordinance-cap-622"],
+  "sources": [
+    {
+      "label": "Research platform",
+      "url": "https://juristeca.com/uk/commercial-court/sentencias/2020/2/case-no-cl-2019-000290/re-chime-corp-ltd-kung-v-kou",
+      "official": false,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

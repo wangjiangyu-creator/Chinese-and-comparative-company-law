@@ -1,0 +1,25 @@
+{
+  "titleZh": "In re Caremark International Inc. Derivative Litigation",
+  "titleEn": "In re Caremark International Inc. Derivative Litigation",
+  "forumZh": "特拉华衡平法院",
+  "forumEn": "Delaware Court of Chancery",
+  "citation": "698 A.2d 959 (Del. Ch. 1996)",
+  "year": 1996,
+  "jurisdiction": "us",
+  "caseType": "comparative-case",
+  "decisionType": "董事监督义务",
+  "issuesZh": ["董事监督义务", "合规系统", "派生诉讼和董事忠实义务"],
+  "issuesEn": ["duty of oversight", "compliance systems", "derivative suits and fiduciary duty"],
+  "holdingZh": "Caremark 奠定了董事会监督义务的经典表述：董事若完全未尝试建立合理的信息和报告系统，可能因善意义务层面的失责而承担责任。",
+  "holdingEn": "Caremark supplied the canonical formulation of board oversight: directors may face liability where they utterly fail to attempt to establish a reasonable information and reporting system.",
+  "topics": ["corporate-governance", "comparative-governance", "directors-officer-loyalty-and-duties", "shareholder-rights"],
+  "relatedLawIds": ["us-delaware-general-corporation-law", "us-ali-principles-corporate-governance"],
+  "sources": [
+    {
+      "label": "Research platform",
+      "url": "https://opencasebook.org/casebooks/7179-corporations-spring-2023/resources/7.1.3-in-re-caremark-international-inc-derivative-litigation/",
+      "official": false,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

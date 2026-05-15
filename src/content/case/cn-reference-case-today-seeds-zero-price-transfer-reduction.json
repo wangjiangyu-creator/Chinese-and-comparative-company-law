@@ -1,0 +1,41 @@
+{
+  "titleZh": "江苏金土地种业有限公司诉扬州今日种业有限公司、戴天梅、杨居银、柏恒基侵害植物新品种权纠纷案",
+  "titleEn": "Reference Case: Jiangsu Jintudi Seed Co., Ltd. v. Yangzhou Today Seed Co., Ltd. et al.",
+  "forumZh": "最高人民法院知识产权法庭",
+  "forumEn": "IP Tribunal of the Supreme People's Court",
+  "citation": "最高法知产法庭案例：零元转股并减资逃避侵权之债",
+  "year": 2021,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "侵害植物新品种权纠纷",
+  "issuesZh": ["零元转让未届期股权", "减资逃避侵权赔偿", "一人公司财产混同举证责任"],
+  "issuesEn": [
+    "zero-price transfer of unmatured shares",
+    "capital reduction used to evade infringement liability",
+    "burden of proving asset separation in a one-person company"
+  ],
+  "holdingZh": "在侵权事实发生后，原股东未实缴出资即以零元对价将股权转让给明显无经营能力的受让人，并紧接着将公司注册资本大幅减至远低于侵权赔偿风险的水平，构成连续性的恶意逃债安排。对于转让前已经形成的侵权之债，原股东应在未出资范围内承担补充赔偿责任；受让后形成的一人公司不能证明公司财产独立于股东个人财产的，唯一股东还应承担连带责任。",
+  "holdingEn": "After the infringement arose, the original shareholders had not paid in their capital, transferred the shares for zero consideration to an obviously incapable transferee, and then sharply reduced the company's registered capital to a level far below the infringement risk. That continuous arrangement amounted to bad-faith debt evasion. For the pre-transfer infringement debt, the original shareholders were supplementarily liable within the unpaid contribution scope; and where the post-transfer one-person company could not prove separation of company and shareholder assets, the sole shareholder also bore joint liability.",
+  "topics": ["registered-capital", "shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-3-2021",
+    "cn-national-civil-commercial-trial-minutes-2019",
+    "cn-spc-company-law-time-effect-2024"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://ipc.court.gov.cn/zh-cn/news/view-1939.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Official court release",
+      "url": "https://ipc.court.gov.cn/zh-cn/news/view-1914.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

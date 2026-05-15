@@ -1,0 +1,43 @@
+{
+  "titleZh": "中华人民共和国公司法（1993年制定）",
+  "titleEn": "Company Law of the People's Republic of China (1993 Original Enactment)",
+  "shortTitle": "公司法（1993）",
+  "aliases": ["1993 Company Law", "初始公司法"],
+  "jurisdiction": "cn",
+  "documentType": "law",
+  "authorityLevel": "national-law",
+  "issuingBodyZh": "全国人民代表大会常务委员会",
+  "issuingBodyEn": "Standing Committee of the National People's Congress",
+  "promulgationDate": "1993-12-29",
+  "effectiveDate": "1994-07-01",
+  "status": "historical",
+  "languageStatus": "official-zh-plus-reference-en",
+  "languages": ["zh", "en"],
+  "textStatus": "metadata-only",
+  "topics": ["corporate-formation", "registered-capital", "corporate-governance", "shareholder-rights", "dissolution-liquidation"],
+  "summaryZh": "1993年12月29日通过、1994年7月1日施行的首部《公司法》，标志中国现代公司法体系正式建立，可用于追踪有限责任公司、股份有限公司、上市公司和公司债券制度的原始结构。",
+  "summaryEn": "The first Company Law of the PRC, adopted on December 29, 1993 and effective on July 1, 1994, established China's modern company-law framework and serves as the baseline for tracing the first-generation structure of limited liability companies, joint stock companies, listed companies, and corporate bonds.",
+  "versionGroup": "cn-company-law",
+  "versionLabel": "1993 original enactment",
+  "nextVersionId": "cn-company-law-1999",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://lawdb.cncourt.org/show.php?fid=18711",
+      "noteZh": "中国法院法规库公开页面，提供 1993 年原始公司法全文检索。",
+      "noteEn": "Public page in the China Court legal database providing the full text of the original 1993 Company Law.",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Public English translation",
+      "url": "https://lawinfochina.com/display.aspx?EncodingName=big5&id=641&lib=law",
+      "noteZh": "公开可访问的英文数据库译本，可用于研究和版本比对；解释和效力仍以中文法定文本为准。",
+      "noteEn": "Publicly accessible English database translation for research and version comparison; the Chinese statutory text remains controlling.",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

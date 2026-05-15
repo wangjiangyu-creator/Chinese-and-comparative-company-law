@@ -1,0 +1,49 @@
+{
+  "titleZh": "巴菲特投资有限公司诉上海自来水投资建设有限公司股权转让纠纷案",
+  "titleEn": "Gazette Case: Bafeite Investment Co., Ltd. v. Shanghai Water Investment Construction Co., Ltd.",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "（2009）沪高民二（商）终字第22号",
+  "year": 2009,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股权转让纠纷",
+  "issuesZh": [
+    "企业国有产权场外交易",
+    "国有股权转让进场规则",
+    "授权处分与国有资产转让程序",
+    "违反公共利益的合同效力"
+  ],
+  "issuesEn": [
+    "off-exchange transfers of enterprise state-owned property",
+    "mandatory exchange procedures for state-owned equity transfers",
+    "delegated disposal authority and state-asset transfer procedure",
+    "contract validity where public interests are impaired"
+  ],
+  "holdingZh": "企业国有产权转让原则上应当依照国有资产监管规则在依法设立的产权交易机构公开进行。即使国有股权持有人内部作出授权安排，若转让行为绕开法定产权交易程序、直接进行场外交易，人民法院仍可认定该交易违反公开、公平、公正原则并损害社会公共利益，从而认定合同无效。",
+  "holdingEn": "Transfers of enterprise state-owned property should, in principle, be conducted openly through a legally established property-rights exchange under the state-asset supervision rules. Even where the holder of the state-owned equity has made an internal authorization arrangement, a court may still hold an off-exchange transfer invalid if it bypasses the mandatory exchange procedure and thereby violates the principles of openness, fairness, and impartiality and harms the public interest.",
+  "topics": ["corporate-governance", "business-environment", "shareholder-rights"],
+  "relatedLawIds": [
+    "cn-company-law-2005",
+    "cn-company-law-2023",
+    "cn-civil-code-2020-legal-person"
+  ],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://sh.12348.gov.cn/sites/12348/news/judgement-detail.jsp?entityid=d6eedfec3bd04b298568a0d2433fb0b7",
+      "noteZh": "上海12348法网收录的《最高人民法院公报》2010年第4期案例摘要，载有案号、事实经过和裁判要旨。",
+      "noteEn": "Official Shanghai 12348 portal reproduction of the Gazette summary published in Issue No. 4 of 2010, including the case number, facts, and holding.",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Research platform",
+      "url": "https://www.fsou.com/Html/text/cas/337834/33783486.html",
+      "noteZh": "用于交叉核对争点、交易程序和裁判摘要的研究平台转引版本。",
+      "noteEn": "Used to cross-check the issues, transaction procedure, and condensed holding.",
+      "official": false,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

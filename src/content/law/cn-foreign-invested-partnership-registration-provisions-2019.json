@@ -1,0 +1,40 @@
+{
+  "titleZh": "外商投资合伙企业登记管理规定（2019年修订）",
+  "titleEn": "Provisions on the Registration of Foreign-Invested Partnership Enterprises (2019 Revision)",
+  "shortTitle": "外商投资合伙企业登记管理规定",
+  "aliases": ["市场监管总局令第14号", "外商投资合伙企业登记规定"],
+  "jurisdiction": "cn",
+  "documentType": "departmental-rule",
+  "authorityLevel": "departmental-rule",
+  "issuingBodyZh": "国家市场监督管理总局",
+  "issuingBodyEn": "State Administration for Market Regulation",
+  "promulgationDate": "2019-08-08",
+  "effectiveDate": "2019-08-08",
+  "status": "historical",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["partnership-enterprises", "corporate-formation"],
+  "summaryZh": "2019年修订的《外商投资合伙企业登记管理规定》承接外商投资法过渡期登记实践；其后因上位法体系重整，在市场监管总局2021年废止规章清理中失去继续单列的必要性。",
+  "summaryEn": "The 2019 revised registration provisions for foreign-invested partnerships reflected the transition to the Foreign Investment Law, but later became a historical reference after SAMR's 2021 repeal clean-up.",
+  "versionGroup": "cn-foreign-invested-partnership-registration-provisions",
+  "versionLabel": "2019 revision",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://www.gov.cn/gongbao/content/2019/content_5453436.htm",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Official release",
+      "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/xwxcs/art/2023/art_f4cda2fcd0ac4b4fa4bb532700860658.html",
+      "noteZh": "市场监管总局对2021年废止与修改规章清理的官方解读，说明《外商投资合伙企业登记管理规定》因上位法调整而被纳入废止范围。",
+      "noteEn": "SAMR's official explanation of the 2021 repeal-and-amendment package confirms that the standalone foreign-invested partnership registration provisions were repealed after changes in higher-level law.",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

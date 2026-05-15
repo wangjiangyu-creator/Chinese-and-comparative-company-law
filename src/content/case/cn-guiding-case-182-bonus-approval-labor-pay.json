@@ -1,0 +1,25 @@
+{
+  "titleZh": "指导案例182号：彭宇翔诉南京市城市建设开发（集团）有限责任公司追索劳动报酬纠纷案",
+  "titleEn": "Guiding Case No. 182: Peng Yuxiang v. Nanjing Urban Construction Development (Group) Co., Ltd.",
+  "forumZh": "最高人民法院",
+  "forumEn": "Supreme People's Court",
+  "citation": "指导案例182号",
+  "year": 2022,
+  "jurisdiction": "cn",
+  "caseType": "guiding-case",
+  "decisionType": "追索劳动报酬纠纷",
+  "issuesZh": ["奖金审批义务", "劳动报酬兑现", "用人单位单方激励规则"],
+  "issuesEn": ["approval duty for bonus payments", "payment of labor remuneration", "employer incentive rules"],
+  "holdingZh": "用人单位预先规定达到一定绩效即可获得奖金，却无正当理由拒绝履行内部审批义务的，劳动者可以主张获奖条件成就并请求按照规则支付奖金。",
+  "holdingEn": "Where an employer promises bonuses upon achievement of specified performance but unjustifiably refuses to complete the internal approval process, the employee may treat the condition as satisfied and recover the promised bonus.",
+  "topics": ["corporate-social-responsibility"],
+  "relatedLawIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/shenpan/xiangqing/364661.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

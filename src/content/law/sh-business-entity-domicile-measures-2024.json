@@ -1,0 +1,41 @@
+{
+  "titleZh": "上海市经营主体住所登记管理办法",
+  "titleEn": "Procedures for the Administration of Domicile Registration of Business Entities in Shanghai",
+  "shortTitle": "上海经营主体住所登记办法",
+  "aliases": ["沪府办规〔2024〕2号", "2024 Shanghai Domicile Measures"],
+  "jurisdiction": "cn",
+  "documentType": "departmental-rule",
+  "authorityLevel": "local-regulation",
+  "issuingBodyZh": "上海市人民政府办公厅",
+  "issuingBodyEn": "General Office of the Shanghai Municipal People's Government",
+  "promulgationDate": "2024-03-07",
+  "effectiveDate": "2024-03-20",
+  "status": "effective",
+  "languageStatus": "official-zh-plus-reference-en",
+  "languages": ["zh", "en"],
+  "textStatus": "metadata-only",
+  "topics": ["business-environment", "corporate-formation"],
+  "summaryZh": "上海现行经营主体住所登记管理办法，自2024年3月20日起施行。其核心价值在于统一覆盖公司、合伙企业、个人独资企业、个体工商户和外国公司分支机构的住所登记，一并纳入一址多照、一照多址和住所标准化登记信息库规则。",
+  "summaryEn": "Shanghai's current domicile-registration measure for business entities, effective from March 20, 2024. It is especially valuable because it uniformly covers companies, partnerships, sole proprietorships, self-employed businesses, and foreign company branches, while integrating the rules on multiple licenses at one address, one license for multiple business premises, and the standardized domicile-registration database.",
+  "versionGroup": "sh-domicile-registration-measures",
+  "versionLabel": "2024 text",
+  "previousVersionId": "sh-enterprise-domicile-measures-2015",
+  "relatedCaseIds": ["cn-database-case-change-registration-chen-moufei"],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official Chinese",
+      "url": "https://www.shanghai.gov.cn/nw12344/20240307/b5fd033b64f941b1a93ca7d8a930a7fe.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Official English (reference)",
+      "url": "https://english.shanghai.gov.cn/en-Bulletin/20241231/bda37b02b7df4d218c1989d112c5c39b.html",
+      "noteZh": "上海市司法局英文公报页，可用于英文对照；解释与适用仍以中文法定文本为准。",
+      "noteEn": "English bulletin page published through the Shanghai Municipal Bureau of Justice for comparison; the Chinese statutory text remains controlling.",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "titleZh": "某贸易公司诉某月花公司、陈某等买卖合同纠纷案",
+  "titleEn": "Reference Case: Trading Company v. Yuehua Company and Chen Mou et al.",
+  "forumZh": "重庆市第五中级人民法院",
+  "forumEn": "Chongqing Fifth Intermediate People's Court",
+  "citation": "重庆五中院案例：瑕疵减资与认缴出资加速到期",
+  "year": 2022,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "买卖合同纠纷",
+  "issuesZh": ["瑕疵减资", "认缴资本加速到期", "未通知已知债权人"],
+  "issuesEn": [
+    "defective capital reduction",
+    "acceleration of subscribed capital",
+    "failure to notify known creditors"
+  ],
+  "holdingZh": "公司减资虽减少的是未届期认缴资本，但若未依法编制资产负债表和财产清单、未通知已知债权人，并以不实债务说明办理减资登记，减资程序即存在重大瑕疵。公司穷尽执行仍无财产可供清偿时，债权人可以请求减资股东在减资前认缴出资范围内承担补充赔偿责任，认缴出资期限利益在该范围内加速消灭。",
+  "holdingEn": "Even where the reduction concerns only unpaid subscribed capital that has not yet matured, the process is materially defective if the company fails to prepare the required balance sheet and asset list, fails to notify known creditors, and procures registration through false debt disclosures. Once enforcement is exhausted and the company lacks assets, creditors may seek supplementary recovery from the reducing shareholders within the scope of the pre-reduction subscribed capital, with the timing benefit of the contribution accelerated away.",
+  "topics": ["registered-capital", "shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-3-2021",
+    "cn-national-civil-commercial-trial-minutes-2019",
+    "cn-spc-company-law-time-effect-2024"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.sdcourt.gov.cn/jningzcfy/386500/386502/11546799/index.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

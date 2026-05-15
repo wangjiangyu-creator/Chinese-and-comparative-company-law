@@ -1,0 +1,154 @@
+---
+import SectionCard from "@/components/SectionCard.astro";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { getPortalStats } from "@/lib/catalog";
+import { pickLocalized, toLocalePath, type Locale } from "@/lib/i18n";
+import { getPortalSnapshot } from "@/lib/portal-data";
+import { getTopicDirectory } from "@/lib/topic-directory";
+
+type Props = {
+  locale: Locale;
+  path: string;
+};
+
+const { locale, path } = Astro.props;
+const snapshot = await getPortalSnapshot();
+const stats = getPortalStats(snapshot);
+const topicDirectory = getTopicDirectory(snapshot.topics);
+const csrTopic = snapshot.topics.find((topic) => topic.id === "corporate-social-responsibility");
+const moduleCards = snapshot.siteCopy.moduleLabels.map((item) => ({
+  ...item,
+  href:
+    item.id === "laws"
+      ? toLocalePath(locale, "/laws/")
+      : item.id === "cases"
+        ? toLocalePath(locale, "/cases/")
+        : item.id === "articles"
+          ? toLocalePath(locale, "/articles/")
+          : item.id === "comparative"
+            ? toLocalePath(locale, "/comparative/")
+            : toLocalePath(locale, "/topics/")
+}));
+---
+
+<BaseLayout
+  locale={locale}
+  path={path}
+  titleZh="中国与比较公司法"
+  titleEn="Chinese and Comparative Company Law"
+  descriptionZh="中国公司与商事组织法研究门户，优先收录中国法律法规、案例与研究文章链接。"
+  descriptionEn="A China-first company-law research portal prioritizing Chinese laws, cases, and linked commentary."
+>
+  <section class="hero">
+    <span class="eyebrow">研究门户 / Research database</span>
+    <div class="hero-grid">
+      <div class="hero-copy-shell">
+        <div class="hero-copy-grid">
+          <section class="hero-language-block">
+            <span class="hero-language-label">中文</span>
+            <h1 class="hero-title">{snapshot.siteCopy.siteTitleZh}</h1>
+            <p class="lede hero-lede">{snapshot.siteCopy.homeIntroZh}</p>
+          </section>
+          <section class="hero-language-block">
+            <span class="hero-language-label">English</span>
+            <p class="page-title hero-title-secondary">{snapshot.siteCopy.siteTitleEn}</p>
+            <p class="lede hero-lede">{snapshot.siteCopy.homeIntroEn}</p>
+          </section>
+        </div>
+        <p class="hero-attribution">
+          <span>此网站由香港城市大学法律学院王江雨教授用Codex制作；所有个别文章版权归其原作者。</span>
+          <span>This website was created with Codex by Professor Wang Jiangyu of the School of Law, City University of Hong Kong; copyright in individual articles remains with their respective authors.</span>
+        </p>
+      </div>
+      <aside class="hero-note">
+        <h2>第一版重点 / Version 1 priorities</h2>
+        <p>
+          {locale === "zh"
+            ? "以中国法律法规主库为绝对中心，特别强调公司法、证券法、资本登记衔接规则、最高法院公司法过渡解释，以及沪深北交易所与证监会治理规则。"
+            : "The first release is anchored by the China law corpus, especially the Company Law, Securities Law, capital-registration transition rules, SPC temporal provisions, and CSRC/exchange governance rules."}
+        </p>
+      </aside>
+    </div>
+  </section>
+
+  <section class="stats-grid">
+    <div class="stat-card">
+      <strong>{stats.chinaLaws}</strong>
+      <span>{locale === "zh" ? "中国法律法规条目" : "China law records"}</span>
+    </div>
+    <div class="stat-card">
+      <strong>{stats.chinaCases}</strong>
+      <span>{locale === "zh" ? "中国案例条目" : "China case records"}</span>
+    </div>
+    <div class="stat-card">
+      <strong>{stats.articleLinks}</strong>
+      <span>{locale === "zh" ? "学术与实务文章" : "Scholarship and Practitioner Articles"}</span>
+    </div>
+    <div class="stat-card">
+      <strong>{stats.comparativeLaws}</strong>
+      <span>{locale === "zh" ? "比较法条目" : "Comparative records"}</span>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-head">
+      <div>
+        <span class="eyebrow">{locale === "zh" ? "主导航" : "Primary modules"}</span>
+        <h2>{locale === "zh" ? "按研究任务进入" : "Enter by research task"}</h2>
+      </div>
+    </div>
+    <div class="section-grid">
+      {moduleCards.map((item) => (
+        <SectionCard
+          href={item.href}
+          label={item.id}
+          title={pickLocalized(locale, item.labelZh, item.labelEn)}
+          summary={pickLocalized(locale, item.summaryZh, item.summaryEn)}
+        />
+      ))}
+    </div>
+  </section>
+
+  {csrTopic ? (
+    <section class="section">
+      <div class="section-head">
+        <div>
+          <span class="eyebrow">{locale === "zh" ? "专题聚焦" : "Spotlight"}</span>
+          <h2>{locale === "zh" ? "CSR 专题" : "CSR topic"}</h2>
+          <p>
+            {locale === "zh"
+              ? "集中查看企业社会责任、公共利益保护与第三人保护相关案例，现已覆盖最高法院材料以及中级法院、基层法院公开案例。"
+              : "A dedicated entry point for CSR, public-interest protection, and third-party protection, covering Supreme People's Court materials and officially published local-court cases."}
+          </p>
+        </div>
+      </div>
+      <div class="section-grid">
+        <SectionCard
+          href={toLocalePath(locale, `/topics/${csrTopic.id}/`)}
+          label={locale === "zh" ? "CSR 专题" : "CSR topic"}
+          title={pickLocalized(locale, csrTopic.nameZh, csrTopic.nameEn)}
+          summary={pickLocalized(locale, csrTopic.descriptionZh, csrTopic.descriptionEn)}
+        />
+      </div>
+    </section>
+  ) : null}
+
+  <section class="section">
+    <div class="section-head">
+      <div>
+        <span class="eyebrow">{locale === "zh" ? "专题入口" : "Topic entry points"}</span>
+        <h2>{locale === "zh" ? "先从这些高价值专题开始" : "Start with these high-value topics"}</h2>
+      </div>
+    </div>
+    <div class="section-grid">
+      {topicDirectory.featuredTopics.map((topic) => (
+        <SectionCard
+          href={toLocalePath(locale, `/topics/${topic.id}/`)}
+          label={locale === "zh" ? "专题页" : "Topic page"}
+          title={pickLocalized(locale, topic.nameZh, topic.nameEn)}
+          summary={pickLocalized(locale, topic.descriptionZh, topic.descriptionEn)}
+        />
+      ))}
+    </div>
+  </section>
+</BaseLayout>

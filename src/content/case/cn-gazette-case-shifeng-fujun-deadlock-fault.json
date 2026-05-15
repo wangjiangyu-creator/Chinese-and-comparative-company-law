@@ -1,0 +1,43 @@
+{
+  "titleZh": "仕丰科技有限公司与富钧新型复合材料（太仓）有限公司、第三人永利集团有限公司解散纠纷案",
+  "titleEn": "Gazette Case: Shifeng Technology Co., Ltd. v. Fujun New Composite Materials (Taicang) Co., Ltd., with Yongli Group Co., Ltd. as Third Party",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "（2011）民四终字第29号",
+  "year": 2012,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司解散纠纷",
+  "issuesZh": [
+    "公司僵局",
+    "中外合资有限责任公司司法解散",
+    "僵局成因与股东过错"
+  ],
+  "issuesEn": [
+    "corporate deadlock",
+    "judicial dissolution of a Sino-foreign equity joint venture",
+    "causation of deadlock and shareholder fault"
+  ],
+  "holdingZh": "人民法院审理中外合资有限责任公司解散纠纷时，仍可适用公司法关于公司僵局和司法解散的基本标准。判断是否应当解散，关键不在于僵局由哪一方首先引发，而在于公司治理是否已经长期瘫痪、股东会和董事会是否无法形成有效决议、公司目的是否事实上难以实现，以及是否仍存在可行的替代救济路径。即使提起诉讼的股东对僵局形成负有一定责任，只要经营管理严重困难持续存在且其他途径无法化解，法院仍可判令解散。",
+  "holdingEn": "In a dissolution dispute involving a Sino-foreign equity joint venture, courts may still apply the ordinary Company Law standards on corporate deadlock and judicial dissolution. The decisive inquiry is not which side first caused the deadlock, but whether governance has broken down for a sustained period, whether shareholder and board organs can no longer produce effective resolutions, whether the corporate purpose has become impracticable, and whether realistic alternative remedies remain. Even if the suing shareholder contributed to the deadlock, dissolution may still be ordered where severe management difficulties persist and cannot otherwise be resolved.",
+  "topics": [
+    "dissolution-liquidation",
+    "corporate-governance",
+    "shareholder-rights"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-2-2008",
+    "cn-spc-company-law-interpretation-2-2020",
+    "cn-spc-foreign-invested-enterprise-disputes-1-2021"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/48a584e8c330b1e539de4def4a92f6.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

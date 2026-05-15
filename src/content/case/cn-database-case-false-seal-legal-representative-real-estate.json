@@ -1,0 +1,35 @@
+{
+  "titleZh": "四川某星投资有限公司诉成都某发置业有限公司房屋买卖合同纠纷案",
+  "titleEn": "Database Case: Sichuan Xing Investment Co., Ltd. v. Chengdu Fa Real Estate Co., Ltd.",
+  "forumZh": "人民法院案例库（最高人民法院审核入库）",
+  "forumEn": "People's Court Case Database (reviewed by the Supreme People's Court)",
+  "citation": "入库编号2025-16-2-091-001",
+  "year": 2025,
+  "jurisdiction": "cn",
+  "caseType": "database-case",
+  "decisionType": "房屋买卖合同纠纷",
+  "issuesZh": ["法定代表人职务行为", "私刻公章", "刑民交叉下的合同效力"],
+  "issuesEn": [
+    "acts within the duties of a legal representative",
+    "privately carved company seal",
+    "contract validity where criminal conduct overlaps with civil liability"
+  ],
+  "holdingZh": "法定代表人在职权范围内以公司名义签订、履行合同，即使其为谋取个人利益私刻公章并涉嫌犯罪，也不当然否定合同对公司的效力。是否由公司承担合同责任，应结合其登记身份、交易外观、合同履行情况以及相对人是否善意等因素综合判断。",
+  "holdingEn": "Where a legal representative signs and performs a contract in the company's name within the scope of representative authority, the contract is not automatically ineffective against the company merely because the representative privately carved the company seal for personal gain and may have committed a crime. Company liability should be assessed in light of the registered status, the outward appearance of the transaction, performance, and the counterparty's good faith.",
+  "topics": [
+    "legal-representative-and-seal-control",
+    "corporate-governance"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-civil-code-2020-legal-person"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.sdcourt.gov.cn/dyzy/resource/cms/article/372898/36565098/2025031909572993865.pdf",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "titleZh": "深圳市中南成长投资合伙企业（有限合伙）诉廖志强合同纠纷案",
+  "titleEn": "Reference Case: Shenzhen Zhongnan Growth Investment Partnership v. Liao Zhiqiang",
+  "forumZh": "湖南省高级人民法院",
+  "forumEn": "Hunan Higher People's Court",
+  "citation": "（2014）湘高法民二初字第4号",
+  "year": 2014,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "合同纠纷",
+  "issuesZh": [
+    "拟上市公司申报期间终止对赌后又以补充协议恢复回购安排的效力",
+    "上市失败后实际控制人是否仍应履行股权回购义务",
+    "监管清理要求与当事人抽屉式恢复条款之间的关系"
+  ],
+  "issuesEn": [
+    "whether a supplemental agreement may restore a buyback arrangement after the VAM was nominally terminated for listing clearance",
+    "whether the controller must still repurchase the shares once the contemplated listing fails",
+    "the interaction between regulatory cleanup requirements and a private restoration clause"
+  ],
+  "holdingZh": "湖南省高级人民法院将申报上市期间的终止安排与其后的补充恢复安排一并审查，认定各方围绕上市失败后回购退出所作的后续约定仍属真实意思表示。因目标公司未能实现上市且约定的恢复条件已经成就，实际控制人应依约向投资方履行股权回购义务。",
+  "holdingEn": "The Hunan Higher People's Court examined the listing-clearance termination arrangement together with the later supplemental restoration agreement and held that the post-failure buyback mechanism still reflected the parties' true intent. Because the company did not complete the contemplated listing and the agreed restoration condition was met, the controller had to repurchase the investor's shares.",
+  "topics": ["vam-disputes", "shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2013",
+    "cn-company-law-2023",
+    "cn-national-civil-commercial-trial-minutes-2019"
+  ],
+  "sources": [
+    {
+      "label": "Law firm analysis",
+      "url": "https://www.chinaequitylawyer.com/content.php?id=904",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Research platform",
+      "url": "https://www.10100.com/article/39983474",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

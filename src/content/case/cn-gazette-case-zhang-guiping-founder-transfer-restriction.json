@@ -1,0 +1,32 @@
+{
+  "titleZh": "张桂平诉王华股权转让合同纠纷案",
+  "titleEn": "Gazette Case: Zhang Guiping v. Wang Hua",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "公报案例：发起人股份转让限制与股份托管",
+  "year": 2005,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股权转让纠纷",
+  "issuesZh": ["发起人股份转让限制", "股份托管安排", "股权转让合同效力"],
+  "issuesEn": [
+    "founder-share transfer restrictions",
+    "share custody arrangement",
+    "validity of the share transfer contract"
+  ],
+  "holdingZh": "在股份有限公司发起人股份存在法定转让限制期间时，人民法院应结合协议内容和履行状态，区分过渡期的股份托管、经营管理安排与已经完成的违法股份转让。未实际完成被禁止的股份转让，仅以配套的经营管理或托管约定存在，并不当然导致相关股权转让协议无效。",
+  "holdingEn": "Where founders' shares in a joint-stock company remain subject to statutory transfer restrictions, courts should distinguish a transitional custody or management arrangement from a completed prohibited transfer by examining the contract terms and the parties' performance. The existence of interim management or custody terms alone does not automatically render the related share transfer agreement invalid.",
+  "topics": ["shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/a66d6f7f563b6f5c81cfc29ad6c41e.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

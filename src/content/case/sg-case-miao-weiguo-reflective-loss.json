@@ -1,0 +1,25 @@
+{
+  "titleZh": "Miao Weiguo 诉 Tendcare Medical Group Holdings Pte Ltd and another",
+  "titleEn": "Miao Weiguo v Tendcare Medical Group Holdings Pte Ltd and another",
+  "forumZh": "新加坡司法机关案例简报",
+  "forumEn": "Singapore Judiciary Case Brief",
+  "citation": "[2021] SGCA 116",
+  "year": 2021,
+  "jurisdiction": "sg",
+  "caseType": "comparative-case",
+  "decisionType": "反射损失与少数股东救济",
+  "issuesZh": ["反射损失", "少数股东救济"],
+  "issuesEn": ["reflective loss", "minority shareholder remedies"],
+  "holdingZh": "该案说明新加坡对反射损失原则与少数股东诉权的理解，适合作为中国股东权保护专题的比较样本。",
+  "holdingEn": "The case illustrates Singapore's approach to reflective loss and minority shareholder claims, useful for comparison with Chinese shareholder-remedy debates.",
+  "topics": ["shareholder-rights", "comparative-governance"],
+  "relatedLawIds": ["sg-companies-act-1967", "sg-code-of-corporate-governance-2018"],
+  "sources": [
+    {
+      "label": "Official English",
+      "url": "https://www.judiciary.gov.sg/judgments/case-briefs-by-smu/miao-weiguo-v-tendcare-medical-group-holdings-pte-ltd-and-another",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

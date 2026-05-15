@@ -1,0 +1,127 @@
+---
+import MetadataGrid from "@/components/MetadataGrid.astro";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { pickLocalized, toLocalePath, type Locale } from "@/lib/i18n";
+import {
+  formatCaseCitationLabel,
+  formatCaseClassificationLabel,
+  formatCaseTypeLabel,
+  formatDecisionTypeLabel,
+  formatJurisdictionLabel,
+  formatTopicLabel,
+  formatSourceLabel
+} from "@/lib/labels";
+import { getPortalSnapshot } from "@/lib/portal-data";
+
+type Props = {
+  locale: Locale;
+  path: string;
+  id: string;
+};
+
+const { locale, path, id } = Astro.props;
+const snapshot = await getPortalSnapshot();
+const record = snapshot.cases.find((item) => item.id === id);
+
+if (!record) {
+  throw new Error(`Unknown case id: ${id}`);
+}
+
+const relatedLaws = snapshot.laws.filter((law) => record.relatedLawIds.includes(law.id));
+---
+
+<BaseLayout
+  locale={locale}
+  path={path}
+  titleZh={record.titleZh}
+  titleEn={record.titleEn}
+  descriptionZh={record.holdingZh}
+  descriptionEn={record.holdingEn}
+>
+  <section class="hero">
+    <span class="eyebrow">{formatCaseCitationLabel(locale, record.citation)}</span>
+    <h1 class="page-title">{pickLocalized(locale, record.titleZh, record.titleEn)}</h1>
+    <p class="lede">{pickLocalized(locale, record.holdingZh, record.holdingEn)}</p>
+  </section>
+
+  <section class="detail-shell">
+    <div class="detail-main">
+      <section class="panel card">
+        <h2>{locale === "zh" ? "案件要旨" : "Holding"}</h2>
+        <p>{pickLocalized(locale, record.holdingZh, record.holdingEn)}</p>
+      </section>
+      <section class="panel card">
+        <h2>{locale === "zh" ? "争点" : "Issues"}</h2>
+        <div class="badge-row">
+          {(locale === "zh" ? record.issuesZh : record.issuesEn).map((item) => (
+            <span class="badge">{item}</span>
+          ))}
+        </div>
+      </section>
+    </div>
+
+    <aside class="detail-side">
+      <section class="panel card">
+        <MetadataGrid
+          items={[
+            {
+              label: locale === "zh" ? "法院/来源" : "Forum",
+              value: pickLocalized(locale, record.forumZh, record.forumEn)
+            },
+            { label: locale === "zh" ? "年份" : "Year", value: String(record.year) },
+            {
+              label: locale === "zh" ? "争点分类" : "Issue category",
+              value: formatCaseClassificationLabel(locale, record.classificationId)
+            },
+            {
+              label: locale === "zh" ? "案例类型" : "Case type",
+              value: formatCaseTypeLabel(locale, record.caseType)
+            },
+            {
+              label: locale === "zh" ? "裁判类型" : "Decision type",
+              value: formatDecisionTypeLabel(locale, record.decisionType)
+            },
+            {
+              label: locale === "zh" ? "法域" : "Jurisdiction",
+              value: formatJurisdictionLabel(locale, record.jurisdiction)
+            },
+            {
+              label: locale === "zh" ? "专题标签" : "Topic tags",
+              value:
+                record.topics.length > 0
+                  ? record.topics.map((topic) => formatTopicLabel(locale, topic)).join(" / ")
+                  : locale === "zh"
+                    ? "未标注专题"
+                    : "No topic tags"
+            }
+          ]}
+        />
+      </section>
+
+      <section class="panel card">
+        <h2>{locale === "zh" ? "来源" : "Source"}</h2>
+        <div class="source-list">
+          {record.sources.map((source) => (
+            <a href={source.url} target="_blank" rel="noreferrer">
+              <strong>{formatSourceLabel(locale, source.label)}</strong><br />
+              <small>{source.lastVerified}</small>
+            </a>
+          ))}
+        </div>
+      </section>
+
+      {relatedLaws.length > 0 && (
+        <section class="panel card">
+          <h2>{locale === "zh" ? "相关法条" : "Related law records"}</h2>
+          <div class="relation-list">
+            {relatedLaws.map((law) => (
+              <a href={toLocalePath(locale, `/laws/${law.id}/`)}>
+                {pickLocalized(locale, law.titleZh, law.titleEn)}
+              </a>
+            ))}
+          </div>
+        </section>
+      )}
+    </aside>
+  </section>
+</BaseLayout>

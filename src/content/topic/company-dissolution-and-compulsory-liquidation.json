@@ -1,0 +1,92 @@
+{
+  "nameZh": "公司解散与强制清算",
+  "nameEn": "Company Dissolution and Compulsory Liquidation",
+  "descriptionZh": "本专题集中整理公司僵局、司法解散、自主清算、强制清算和强制清算转破产清算的核心裁判材料，重点覆盖何种僵局足以触发司法解散、何种冲突尚不足以支持解散、怠于清算和虚假清算的责任边界，以及强制清算与继续经营、破产程序之间的衔接。页面优先放入最高人民法院指导案例、公报案例、人民法院案例库和法院官方发布的典型案例，便于将《公司法》、司法解释、清算纪要和案例规则放到一条线上比较阅读。",
+  "descriptionEn": "This topic collects Chinese authorities on company deadlock, judicial dissolution, voluntary and compulsory liquidation, and conversion from compulsory liquidation into bankruptcy, focusing on when deadlock justifies dissolution, when conflict is still insufficient, how liquidation-duty and false-liquidation liability are allocated, and how compulsory liquidation interacts with going-concern preservation and later bankruptcy proceedings.",
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-civil-code-2020-legal-person",
+    "cn-spc-company-law-interpretation-2-2008",
+    "cn-spc-company-law-interpretation-2-2020",
+    "cn-spc-company-law-interpretation-4-2017",
+    "cn-spc-compulsory-liquidation-minutes-2009",
+    "cn-spc-enterprise-bankruptcy-interpretation-1-2011",
+    "cn-spc-enterprise-bankruptcy-interpretation-2-2013",
+    "cn-spc-enterprise-bankruptcy-interpretation-3-2019",
+    "cn-national-bankruptcy-trial-minutes-2018"
+  ],
+  "relatedCaseIds": [
+    "cn-guiding-case-9-liquidation-liability",
+    "cn-guiding-case-8-company-dissolution",
+    "cn-database-case-port-company-dissolution",
+    "cn-reference-case-closure-operator-liquidation-liability",
+    "cn-typical-case-deadlock-dissolution-german-a",
+    "cn-gazette-case-shifeng-fujun-deadlock-fault",
+    "cn-gazette-case-huiguan-northeast-asia-oppression-dissolution",
+    "cn-gazette-case-jilin-financial-no-dissolution",
+    "cn-reference-case-camel-haixia-continuation-settlement-liquidation",
+    "cn-reference-case-shengnuo-forced-liquidation-to-bankruptcy"
+  ],
+  "relatedArticleIds": [],
+  "caseGroups": [
+    {
+      "titleZh": "公司僵局与司法解散的肯定样态",
+      "titleEn": "Positive patterns for deadlock and judicial dissolution",
+      "descriptionZh": "这一组先看法院支持解散的核心情形：股东会、董事会长期失灵，经营管理严重困难持续存在，且收购退出、章程修复或其他替代救济都已难以奏效。",
+      "descriptionEn": "This group covers cases in which courts granted dissolution because governance paralysis persisted and realistic buyout, charter-fix, or other alternative remedies had effectively failed.",
+      "caseIds": [
+        "cn-guiding-case-8-company-dissolution",
+        "cn-typical-case-deadlock-dissolution-german-a",
+        "cn-gazette-case-shifeng-fujun-deadlock-fault",
+        "cn-gazette-case-huiguan-northeast-asia-oppression-dissolution",
+        "cn-database-case-port-company-dissolution"
+      ]
+    },
+    {
+      "titleZh": "司法解散边界与不予解散情形",
+      "titleEn": "Boundaries of judicial dissolution and denial scenarios",
+      "descriptionZh": "并非所有股东冲突、关联交易争议或资金占用都足以支持司法解散。只要公司机关仍能依法律和章程运行，法院通常会把解散作为最后手段而非一般性治理救济。",
+      "descriptionEn": "Not every shareholder conflict, related-party dispute, or fund-occupation claim justifies dissolution. Where corporate organs still function under the law and the charter, courts generally treat dissolution as a last resort.",
+      "caseIds": [
+        "cn-gazette-case-jilin-financial-no-dissolution"
+      ]
+    },
+    {
+      "titleZh": "怠于清算、虚假清算与清算责任承担",
+      "titleEn": "Failure to liquidate, false liquidation, and liquidation-duty liability",
+      "descriptionZh": "这一组聚焦公司依法应当清算后，股东、控制人和“职业闭店人”是否怠于履行清算义务、是否通过虚假报告骗取注销，以及由此对债权人承担何种补充赔偿责任。",
+      "descriptionEn": "These cases address whether shareholders, controllers, or professional closure operators failed to perform liquidation duties, used false reports to secure deregistration, and thereby incurred supplementary liability to creditors.",
+      "caseIds": [
+        "cn-guiding-case-9-liquidation-liability",
+        "cn-reference-case-closure-operator-liquidation-liability"
+      ]
+    },
+    {
+      "titleZh": "强制清算、自主清算与强清转破产衔接",
+      "titleEn": "Compulsory liquidation, voluntary liquidation, and conversion to bankruptcy",
+      "descriptionZh": "最后看程序衔接：法院何时推进强制清算、何时通过“存续式和解”保留继续经营的可能，以及在强制清算过程中查明资不抵债后，如何顺畅转入破产清算程序。",
+      "descriptionEn": "This group covers when courts push forward with compulsory liquidation, when they instead facilitate a continuation-oriented settlement, and how an insolvency finding during compulsory liquidation supports a later conversion into bankruptcy liquidation.",
+      "caseIds": [
+        "cn-reference-case-camel-haixia-continuation-settlement-liquidation",
+        "cn-reference-case-shengnuo-forced-liquidation-to-bankruptcy"
+      ]
+    }
+  ],
+  "comparisonRows": [
+    {
+      "labelZh": "司法介入的触发点",
+      "labelEn": "Triggers for court intervention",
+      "cn": "中国以《公司法》、公司法司法解释（二）和强制清算纪要作为解散、清算与债权人保护的核心裁判框架，尤其关注公司僵局和逾期不清算。",
+      "hk": "香港更典型的入口是 just and equitable winding-up 与法院对清盘程序的监督。",
+      "sg": "新加坡则把公司清盘、重整和解散放在更统一的 insolvency and restructuring 体系下处理。"
+    },
+    {
+      "labelZh": "控制人和清算义务责任",
+      "labelEn": "Controller and liquidation-duty liability",
+      "cn": "最高法院指导案例和参考案例已经明确：怠于履行清算义务、致使公司财产或账册灭失时，股东和控制人可能承担补充赔偿责任。",
+      "hk": "香港更多通过清盘人接管、董事受信义务和不当交易规则来追究控制人责任。",
+      "sg": "新加坡同样更强调董事义务、破产情形下的责任分配和程序内救济。"
+    }
+  ]
+}

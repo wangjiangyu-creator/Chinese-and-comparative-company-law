@@ -1,0 +1,29 @@
+{
+  "titleZh": "原股东对自己持有股份期间尚未分配的利润是否享有分配请求权案",
+  "titleEn": "Reference Case: Whether a Former Shareholder May Claim Undistributed Profits from the Prior Holding Period",
+  "forumZh": "日照经济开发区人民法院",
+  "forumEn": "Rizhao Economic Development Zone People's Court",
+  "citation": "鲁法案例〔2024〕739",
+  "year": 2024,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司盈余分配纠纷",
+  "issuesZh": ["抽象利润分配请求权", "具体利润分配请求权", "股权转让后的未决分红归属"],
+  "issuesEn": ["abstract profit-distribution right", "concrete dividend claim", "ownership of undecided dividends after share transfer"],
+  "holdingZh": "利润分配请求权在公司尚未作出分配决议前，属于依附于股东身份的抽象股东权利。股权经执行或转让发生移转时，如尚无分红决议或具体分配方案，原股东一并让渡该项抽象权利，之后不能再以不当得利等名义追索转让前持股期间尚未决议的利润。",
+  "holdingEn": "Before the company adopts a distribution resolution, the right to profit distribution remains an abstract shareholder right attached to membership status. If the shares are transferred through enforcement or voluntary disposition before any dividend resolution or specific distribution plan exists, the former shareholder transfers that abstract right with the shares and cannot later recapture the not-yet-declared profits through unjust enrichment or similar claims.",
+  "topics": ["shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.sdcourt.gov.cn/rzkfqfy/401884/401846/30837096/index.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

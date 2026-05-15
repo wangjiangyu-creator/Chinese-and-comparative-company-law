@@ -1,0 +1,37 @@
+{
+  "titleZh": "吴加特上诉吴加伦、上海伦特电子仪表有限公司公司分立纠纷案",
+  "titleEn": "Reference Case: Wu Jiate v. Wu Jialun and Shanghai Lunte Electronic Instrument Co., Ltd.",
+  "forumZh": "浙江省温州市中级人民法院",
+  "forumEn": "Wenzhou Intermediate People's Court of Zhejiang Province",
+  "citation": "(2013)浙温商终字第397号",
+  "year": 2013,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司分立纠纷",
+  "issuesZh": ["公司分立协议的履行", "协助办理分立登记义务", "行政调解书效力", "法院与工商注销股东资格的边界"],
+  "issuesEn": [
+    "performance of a company-split agreement",
+    "the duty to assist with split registration",
+    "the effect of an administrative mediation record",
+    "the boundary between judicial relief and administrative cancellation of shareholder status"
+  ],
+  "holdingZh": "当股东已通过股东会决议、行政调解书、资产分割安排和公告程序就公司分立形成明确合意并长期实际分开经营时，拒不配合的一方应承担协助办理公司分立登记的义务。法院可以确认相关分立协议或调解书的效力并责令协助登记，但不得以民事判决直接替代工商机关作出注销股东资格的行政行为。",
+  "holdingEn": "Where the shareholders have already formed a clear agreement on a company split through shareholder resolutions, an administrative mediation record, asset-allocation arrangements, and public notice, and have in fact operated separately for years, the obstructing party must assist with the split-registration process. A court may confirm the effectiveness of the relevant split agreement or mediation record and order cooperation with registration, but may not directly replace the registration authority by cancelling shareholder status through a civil judgment.",
+  "topics": ["corporate-reorganization", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2005",
+    "cn-company-law-2023",
+    "cn-market-entity-registration-regulations-2021",
+    "cn-market-entity-registration-rules-2022"
+  ],
+  "sources": [
+    {
+      "label": "Publisher page",
+      "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/070168-01.pdf",
+      "noteZh": "清华大学出版社《公司法学（下）》第13章案例13-10，载明一审案号、二审案号和裁判结果；原判词作删节改编。",
+      "noteEn": "Tsinghua University Press, Company Law II, Chapter 13, Case 13-10, reproducing the first- and second-instance case numbers and the appellate disposition in condensed form.",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "titleZh": "焦某与金珠公司、丁某股东知情权纠纷案",
+  "titleEn": "Reference Case: Jiao Mou v. Jinzhu Company and Ding Mou",
+  "forumZh": "青岛市中级人民法院",
+  "forumEn": "Qingdao Intermediate People's Court",
+  "citation": "青岛中院优化营商环境案例：焦某诉金珠公司股东知情权",
+  "year": 2021,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股东知情权纠纷",
+  "issuesZh": ["书面前置请求", "会计凭证查阅", "不正当目的举证责任"],
+  "issuesEn": ["written pre-suit demand", "inspection of accounting vouchers", "burden on improper purpose"],
+  "holdingZh": "股东已经履行书面前置请求后，公司无正当理由拒绝提供章程、股东会记录、财务会计报告、会计账簿和会计凭证的，人民法院应予支持。仅以抽象怀疑主张股东具有不正当目的，不足以对抗股东知情权。",
+  "holdingEn": "Where a shareholder has made the required written demand, the court should order access to the charter, meeting records, financial reports, accounting books, and accounting vouchers unless the company can show a legitimate ground for refusal. Mere abstract suspicion of an improper purpose is insufficient to defeat inspection rights.",
+  "topics": ["shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://sdcourt.gov.cn/qdzy/spgk66/sszy16/spzdyj/dxxal/8027860/index.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

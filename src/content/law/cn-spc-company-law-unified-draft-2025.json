@@ -1,0 +1,33 @@
+{
+  "titleZh": "最高人民法院关于适用《中华人民共和国公司法》若干问题的解释（征求意见稿）",
+  "titleEn": "SPC Draft Interpretation on Several Issues Concerning the Application of the Company Law",
+  "shortTitle": "公司法统一司法解释草案",
+  "aliases": ["2025征求意见稿", "公司法统一解释草案"],
+  "jurisdiction": "cn",
+  "documentType": "judicial-policy",
+  "authorityLevel": "judicial-policy",
+  "issuingBodyZh": "最高人民法院",
+  "issuingBodyEn": "Supreme People's Court",
+  "promulgationDate": "2025-09-30",
+  "effectiveDate": "2025-09-30",
+  "status": "reference",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["corporate-formation", "registered-capital", "shareholder-rights", "corporate-governance", "dissolution-liquidation"],
+  "summaryZh": "最高人民法院于2025年9月30日发布的公开征求意见稿。站点按2026年5月15日核验时，其仍属未生效的参考材料；草案明示生效后将同时废止公司法司法解释（一）至（五）。",
+  "summaryEn": "A public exposure draft released by the Supreme People's Court on September 30, 2025. As verified for this site on May 15, 2026, it remains non-effective reference material; the draft expressly provides that, once effective, it would repeal Company Law Interpretations I through V.",
+  "versionGroup": "cn-spc-company-law-unified-draft",
+  "versionLabel": "2025 draft",
+  "judicialMaterialClass": "spc-draft",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/477881.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

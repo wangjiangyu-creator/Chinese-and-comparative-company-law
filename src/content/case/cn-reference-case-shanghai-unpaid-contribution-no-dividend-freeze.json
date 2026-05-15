@@ -1,0 +1,29 @@
+{
+  "titleZh": "未实缴出资、股东资格解除与利润分配请求权复议案",
+  "titleEn": "Reference Case: Unpaid Contribution, Termination of Shareholder Status, and Dividend Rights on Execution Review",
+  "forumZh": "上海金融法院",
+  "forumEn": "Shanghai Financial Court",
+  "citation": "上海金融法院执行复议：未实缴出资与利润分配请求权",
+  "year": 2024,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "执行复议案",
+  "issuesZh": ["按实缴比例分红", "未实缴出资股东的分红资格", "内部股东资格解除与对外登记效力"],
+  "issuesEn": ["dividends by paid-in ratio", "dividend entitlement of an unpaid-contribution shareholder", "internal termination of shareholder status versus external registration effect"],
+  "holdingZh": "公司章程约定按实缴出资比例分取红利时，未实际缴纳出资的登记股东即使名义上仍持股，也不享有利润分配请求权。但在对外关系中，若股权已被法院冻结且股东资格解除决议形成于冻结之后，且尚未完成工商变更登记，该内部决议不能当然对抗执行程序中的外部善意相对人。",
+  "holdingEn": "Where the charter provides that dividends are distributed according to paid-in contributions, a registered shareholder who has not actually paid in capital does not enjoy a dividend claim despite nominal shareholding. In external relations, however, if the shares were already frozen by a court and the internal resolution terminating shareholder status was adopted only afterward without completion of registration change, that internal resolution cannot automatically defeat the interests protected in the execution process.",
+  "topics": ["shareholder-rights", "corporate-governance", "registered-capital"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-state-council-registered-capital-rules-2024"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.hshfy.sh.cn/shfy/web/flws2pdf.jsp?pa=adGFoPaOoMjAyNKOpu6Y3NNa0uLQ3NLrFJndzeGg9MSZ3c2xiPda00NCyw7aoyukPdcssz",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

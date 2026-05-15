@@ -1,0 +1,38 @@
+{
+  "titleZh": "陈某与于某、张某、第三人甲公司执行复议案",
+  "titleEn": "Database Case: Chen Mou v. Yu Mou, Zhang Mou, and Company A",
+  "forumZh": "人民法院案例库（最高人民法院审核入库）",
+  "forumEn": "People's Court Case Database (reviewed by the Supreme People's Court)",
+  "citation": "入库编号2024-17-5-202-006",
+  "year": 2024,
+  "jurisdiction": "cn",
+  "caseType": "database-case",
+  "decisionType": "执行复议案",
+  "issuesZh": ["股东代表诉讼", "申请执行权", "公司怠于主张权利"],
+  "issuesEn": [
+    "shareholder derivative action",
+    "standing to seek enforcement",
+    "company's failure to assert its rights"
+  ],
+  "holdingZh": "股东代表诉讼以维护公司利益为目的，胜诉利益归于公司。当代表诉讼进入执行阶段后，如公司仍怠于主张权利，提起代表诉讼的股东为继续维护公司利益，有权申请执行生效法律文书，这属于股东代表诉讼在执行阶段的合理延伸。",
+  "holdingEn": "A shareholder derivative action is brought for the company's benefit, and the fruits of success belong to the company. Once the case moves into the enforcement stage, if the company still fails to assert its rights, the shareholder who brought the derivative action may seek enforcement of the effective judgment in order to continue protecting the company's interests. This is a proper extension of derivative-action standing into enforcement.",
+  "topics": [
+    "shareholder-rights",
+    "corporate-governance",
+    "director-abuse",
+    "director-liability-litigation",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://rmfyalk.court.gov.cn/dist/view/content.html?id=AVh8WPZoT%252BTW1tSuV0J%252FVAZxvhpk0HiiaMZvTBmXYeU%253D&lib=ck",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

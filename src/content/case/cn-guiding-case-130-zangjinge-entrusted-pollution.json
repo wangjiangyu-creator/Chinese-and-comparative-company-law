@@ -1,0 +1,25 @@
+{
+  "titleZh": "指导案例130号：重庆市人民政府、重庆两江志愿服务发展中心诉重庆藏金阁物业管理有限公司、重庆首旭环保科技有限公司生态环境损害赔偿、环境民事公益诉讼案",
+  "titleEn": "Guiding Case No. 130: Chongqing Municipal People's Government and Chongqing Liangjiang Volunteer Service Development Center v. Chongqing Zangjinge Property Management Co., Ltd. and Chongqing Shouxu Environmental Protection Technology Co., Ltd.",
+  "forumZh": "最高人民法院",
+  "forumEn": "Supreme People's Court",
+  "citation": "指导案例130号",
+  "year": 2020,
+  "jurisdiction": "cn",
+  "caseType": "guiding-case",
+  "decisionType": "生态环境损害赔偿、环境民事公益诉讼",
+  "issuesZh": ["委托排污监管义务", "共同侵权", "生态环境修复费用量化"],
+  "issuesEn": ["supervisory duty in delegated pollution treatment", "joint tort liability", "quantification of ecological remediation costs"],
+  "holdingZh": "取得排污许可并委托他人处理污染物的企业，仍负有确保设施正常运行和排放达标的法定义务；明知受托方违法排污而不制止甚至提供便利的，应与受托方对生态环境损害承担连带责任。",
+  "holdingEn": "A licensed polluter that delegates waste treatment remains legally bound to ensure compliant operation. If it knows the contractor is discharging illegally and fails to stop or even facilitates the conduct, it bears joint liability for ecological damage.",
+  "topics": ["corporate-social-responsibility", "corporate-governance"],
+  "relatedLawIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/shenpan/xiangqing/216921.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

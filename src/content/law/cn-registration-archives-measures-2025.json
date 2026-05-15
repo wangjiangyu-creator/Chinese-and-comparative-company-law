@@ -1,0 +1,32 @@
+{
+  "titleZh": "经营主体登记档案管理办法",
+  "titleEn": "Measures for the Administration of Business Entity Registration Archives",
+  "shortTitle": "经营主体登记档案管理办法",
+  "aliases": ["市场监管总局、国家档案局令第96号"],
+  "jurisdiction": "cn",
+  "documentType": "departmental-rule",
+  "authorityLevel": "departmental-rule",
+  "issuingBodyZh": "国家市场监督管理总局、国家档案局",
+  "issuingBodyEn": "State Administration for Market Regulation and National Archives Administration of China",
+  "promulgationDate": "2025-02-10",
+  "effectiveDate": "2025-03-20",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["business-environment", "corporate-formation"],
+  "summaryZh": "对经营主体登记档案的归档范围、保管、迁移、查询利用和电子化管理作出统一规定，是公司登记资料保存与调取的重要规则。",
+  "summaryEn": "The joint SAMR-archives rule standardizing the collection, retention, transfer, access, and digital management of business-entity registration archives.",
+  "versionGroup": "cn-registration-archives-measures",
+  "versionLabel": "Order No. 96",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://www.gov.cn/zhengce/202502/content_7005685.htm",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

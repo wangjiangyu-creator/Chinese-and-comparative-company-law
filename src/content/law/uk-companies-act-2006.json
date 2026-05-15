@@ -1,0 +1,54 @@
+{
+  "titleZh": "英国《公司法 2006》",
+  "titleEn": "Companies Act 2006",
+  "shortTitle": "英国《公司法》",
+  "aliases": ["Companies Act 2006"],
+  "jurisdiction": "uk",
+  "documentType": "statute",
+  "authorityLevel": "comparative-statute",
+  "issuingBodyZh": "英国议会 / 英国国家档案馆立法数据库",
+  "issuingBodyEn": "UK Parliament / The National Archives",
+  "promulgationDate": "2006-11-08",
+  "effectiveDate": "2006-11-08",
+  "status": "reference",
+  "languageStatus": "official-en",
+  "languages": ["en"],
+  "textStatus": "metadata-only",
+  "topics": ["corporate-formation", "corporate-governance", "shareholder-rights", "comparative-governance"],
+  "summaryZh": "《公司法 2006》是英国现代公司法的主轴性法典，覆盖公司设立、董事义务、资本维持、成员权利与不公平损害救济等核心领域。",
+  "summaryEn": "The Companies Act 2006 is the backbone of modern UK company law, covering incorporation, directors' duties, capital maintenance, member rights, and unfair-prejudice relief.",
+  "versionGroup": "uk-companies-act",
+  "versionLabel": "current act",
+  "relatedCaseIds": [
+    "uk-case-salomon-v-salomon",
+    "uk-case-foss-v-harbottle",
+    "uk-case-howard-smith-v-ampol",
+    "uk-case-oneill-v-phillips",
+    "uk-case-ebrahimi-v-westbourne",
+    "uk-case-regal-hastings-v-gulliver",
+    "uk-case-prest-v-petrodel"
+  ],
+  "relatedArticleIds": [
+    "article-pbook-gower-davies-principles",
+    "article-cambridge-comparative-company-law",
+    "article-oup-anatomy-of-corporate-law",
+    "article-pbook-comparative-company-law",
+    "article-pbook-introduction-to-company-law-davies"
+  ],
+  "sources": [
+    {
+      "label": "Official English",
+      "url": "https://www.legislation.gov.uk/ukpga/2006/46/contents",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Official English",
+      "url": "https://www.legislation.gov.uk/ukpga/2006/46/pdfs/ukpga_20060046_en.pdf",
+      "official": true,
+      "lastVerified": "2026-05-16",
+      "noteZh": "官方 PDF 版全文。",
+      "noteEn": "Official PDF text."
+    }
+  ]
+}

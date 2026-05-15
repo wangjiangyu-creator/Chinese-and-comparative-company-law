@@ -1,0 +1,45 @@
+{
+  "titleZh": "陈彪诉邹国奎等股份回购合同纠纷案",
+  "titleEn": "Reference Case: Chen Biao v. Zou Guokui et al.",
+  "forumZh": "广东省茂名市中级人民法院",
+  "forumEn": "Maoming Intermediate People's Court, Guangdong",
+  "citation": "（2021）粤09民终36号",
+  "year": 2021,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股份回购合同纠纷",
+  "issuesZh": [
+    "新三板挂牌公司定增中的未披露回购对赌条款效力",
+    "违反《挂牌公司股票发行常见问题解答（三）》的信息披露与中介核查要求的后果",
+    "公序良俗与资本市场交易秩序在对赌纠纷中的适用"
+  ],
+  "issuesEn": [
+    "the validity of an undisclosed buyback VAM used in a NEEQ listed company's private placement",
+    "the consequences of violating Disclosure Q&A III and intermediary verification requirements",
+    "the role of public policy and capital-market order in VAM disputes"
+  ],
+  "holdingZh": "茂名中院从市场监管和投资者保护角度审查案涉回购协议，认为挂牌公司及相关主体在定向发行和挂牌过程中未如实披露具有保底性质的回购条款，致使中介机构出具了不存在特殊条款的合规意见，损害非特定投资者利益与交易安全。即使协议系当事人真实意思表示，仍因违背资本市场监管秩序与公序良俗而无效。",
+  "holdingEn": "The Maoming Intermediate People's Court reviewed the repurchase agreement through the lens of market regulation and investor protection. Because the listed company and related parties failed to disclose a downside-protection buyback clause during the private placement and listing process, allowing intermediaries to issue compliance opinions stating that no special clauses existed, the arrangement harmed non-specific investors and transaction safety. Even if the agreement reflected the parties' true intent, it was held invalid for offending capital-market order and public policy.",
+  "topics": ["vam-disputes", "listed-companies", "disclosure", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2018",
+    "cn-company-law-2023",
+    "cn-securities-law-2019",
+    "cn-nonlisted-public-company-supervision-measures-2021",
+    "cn-nonlisted-public-company-disclosure-measures-2021"
+  ],
+  "sources": [
+    {
+      "label": "Law firm analysis",
+      "url": "https://www.hylandslaw.com/content/details18_14033.html",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Law firm analysis",
+      "url": "https://www.baclaw.cn/41/139",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

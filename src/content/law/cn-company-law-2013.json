@@ -1,0 +1,42 @@
+{
+  "titleZh": "中华人民共和国公司法（2013年修正）",
+  "titleEn": "Company Law of the People's Republic of China (2013 Amendment)",
+  "shortTitle": "公司法（2013）",
+  "aliases": ["2013 Company Law", "2013修正公司法"],
+  "jurisdiction": "cn",
+  "documentType": "law",
+  "authorityLevel": "national-law",
+  "issuingBodyZh": "全国人民代表大会常务委员会",
+  "issuingBodyEn": "Standing Committee of the National People's Congress",
+  "promulgationDate": "2013-12-28",
+  "effectiveDate": "2014-03-01",
+  "status": "historical",
+  "languageStatus": "official-zh-plus-reference-en",
+  "languages": ["zh", "en"],
+  "textStatus": "metadata-only",
+  "topics": ["corporate-formation", "registered-capital", "corporate-governance", "shareholder-rights", "dissolution-liquidation"],
+  "summaryZh": "2013 年修正文本，于 2014 年 3 月 1 日起施行，是 2018 年股份回购条款修正前的完整版本。",
+  "summaryEn": "The 2013 amended text, effective on March 1, 2014, and the full version immediately preceding the 2018 share-repurchase amendment.",
+  "versionGroup": "cn-company-law",
+  "versionLabel": "2013 amendment",
+  "previousVersionId": "cn-company-law-2005",
+  "nextVersionId": "cn-company-law-2018",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official Chinese",
+      "url": "https://public.huiji.gov.cn/D300101X/1276422.jhtml",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Public English translation",
+      "url": "https://lawinfochina.com/display.aspx?id=16202&lib=law",
+      "noteZh": "公开可访问的英文数据库译本，可用于研究和版本比对；解释和效力仍以中文法定文本为准。",
+      "noteEn": "Publicly accessible English database translation for research and version comparison; the Chinese statutory text remains controlling.",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

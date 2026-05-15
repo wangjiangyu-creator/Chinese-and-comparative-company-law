@@ -1,0 +1,31 @@
+{
+  "titleZh": "理某（中国）投资有限公司诉上海市市场监督管理局、国家市场监督管理总局补正告知及行政复议案",
+  "titleEn": "Reference Case: Li Co. (China) Investment Ltd. v. Shanghai Municipal Administration for Market Regulation and the State Administration for Market Regulation",
+  "forumZh": "最高人民法院首批涉市场准入行政诉讼十大典型案例",
+  "forumEn": "SPC First Group of Ten Model Cases on Market-Access Administrative Litigation",
+  "citation": "最高法市场准入典型案例：经营范围变更登记",
+  "year": 2025,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "经营范围变更登记行政争议",
+  "issuesZh": ["融资租赁", "经营范围变更登记", "市场准入负面清单"],
+  "issuesEn": ["financial leasing", "business-scope change registration", "negative list for market access"],
+  "holdingZh": "对于涉及金融监管前置许可的融资租赁业务，市场监管机关可以要求申请人在办理经营范围变更登记前先补充提交行业主管部门许可文件；该类补正告知和后续复议维持，具有明确市场准入边界和金融风险防控功能。",
+  "holdingEn": "Where a proposed business-scope change involves financial-leasing activities subject to prior sectoral approval, the market regulator may require the applicant to first submit the necessary licensing document from the competent financial regulator before processing the registration change. Such supplementation notices, and administrative reconsideration decisions upholding them, clarify market-access boundaries and help control financial risk.",
+  "topics": ["corporate-formation"],
+  "relatedLawIds": [
+    "cn-market-entity-registration-regulations-2021",
+    "cn-market-entity-registration-rules-2022",
+    "cn-company-law-2018"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/456251.html",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "最高人民法院2025年3月3日发布的首批涉市场准入行政诉讼十大典型案例之一，第9案。",
+      "noteEn": "Case No. 9 in the SPC's first group of ten model administrative litigation cases on market access, released on March 3, 2025."
+    }
+  ]
+}

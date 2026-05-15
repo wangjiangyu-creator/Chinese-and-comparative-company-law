@@ -1,0 +1,37 @@
+{
+  "titleZh": "中华人民共和国企业法人登记管理条例",
+  "titleEn": "Regulations of the People's Republic of China on the Registration Administration of Enterprise Legal Persons",
+  "shortTitle": "企业法人登记管理条例（1988）",
+  "aliases": ["国务院令第1号"],
+  "jurisdiction": "cn",
+  "documentType": "administrative-regulation",
+  "authorityLevel": "administrative-regulation",
+  "issuingBodyZh": "国务院",
+  "issuingBodyEn": "State Council",
+  "promulgationDate": "1988-06-03",
+  "effectiveDate": "1988-07-01",
+  "status": "historical",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["business-environment", "corporate-formation"],
+  "summaryZh": "企业法人登记管理条例的原始文本，在公司制改革前后长期构成企业法人设立、变更与注销登记的基础行政法规。",
+  "summaryEn": "The original Enterprise Legal Person Registration Regulation, which long served as the basic administrative regime for the registration of enterprise legal persons before the unified market-entity system.",
+  "versionGroup": "cn-enterprise-legal-person-registration-regulations",
+  "versionLabel": "1988 original enactment",
+  "nextVersionId": "cn-enterprise-legal-person-registration-regulations-2019",
+  "applicablePeriodZh": "1988年7月1日起施行，后经多次修订，最终在市场主体登记制度改革中退出独立适用地位。",
+  "applicablePeriodEn": "Effective from July 1, 1988, later revised multiple times before losing its independent status in the market-entity registration reform.",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official Chinese",
+      "url": "https://xzfg.moj.gov.cn/law/download?LawID=220&type=pdf",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "司法部行政法规库提供的官方 PDF 整理文本，保留原始发布和修订脉络。",
+      "noteEn": "Official PDF text from the Ministry of Justice administrative-regulations database, preserving the promulgation and amendment history."
+    }
+  ]
+}

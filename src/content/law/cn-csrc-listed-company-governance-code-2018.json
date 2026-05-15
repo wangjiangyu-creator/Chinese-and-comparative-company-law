@@ -1,0 +1,50 @@
+{
+  "titleZh": "上市公司治理准则（2018年修订）",
+  "titleEn": "Code of Corporate Governance for Listed Companies (2018 Revision)",
+  "shortTitle": "治理准则（2018）",
+  "aliases": ["证监会公告〔2018〕29号"],
+  "jurisdiction": "cn",
+  "documentType": "regulatory-code",
+  "authorityLevel": "regulatory-code",
+  "issuingBodyZh": "中国证券监督管理委员会",
+  "issuingBodyEn": "China Securities Regulatory Commission",
+  "promulgationDate": "2018-09-30",
+  "effectiveDate": "2018-09-30",
+  "status": "historical",
+  "languageStatus": "official-zh-plus-reference-en",
+  "languages": ["zh", "en"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "corporate-governance", "disclosure"],
+  "summaryZh": "在 2002 年治理准则基础上按现代上市治理要求全面修订的关键文本，是 2025 年治理准则出台前的主要适用版本。",
+  "summaryEn": "The key modernized revision of the governance code built on the 2002 text and the principal governing version before the 2025 revision.",
+  "versionGroup": "cn-csrc-listed-company-governance-code",
+  "versionLabel": "2018 revision",
+  "previousVersionId": "cn-csrc-listed-company-governance-code-2002",
+  "nextVersionId": "cn-csrc-listed-company-governance-code-2025",
+  "applicablePeriodZh": "2018年9月30日起适用，至 2025 年新版治理准则生效前为主要现行版本。",
+  "applicablePeriodEn": "Applied from September 30, 2018, and remained the principal version until the 2025 code took effect.",
+  "relatedCaseIds": ["cn-guiding-case-10-board-resolution-review"],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official Chinese",
+      "url": "https://www.csrc.gov.cn/csrc/c101864/c1024585/content.shtml",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Official release",
+      "url": "https://www.csrc.gov.cn/csrc/c101864/c1024585/1024585/files/%E9%99%84%E4%BB%B6%EF%BC%9A%E3%80%8A%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E6%B2%BB%E7%90%86%E5%87%86%E5%88%99%E3%80%8B.pdf",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Official English (reference)",
+      "url": "https://www.csrc.gov.cn/csrc_en/c102034/c1372459/1372459/files/P020190415336431477120.pdf",
+      "official": false,
+      "lastVerified": "2026-05-15",
+      "noteZh": "证监会英文站保留的官方英文参考件，用于对照 2018 年修订后的治理条款。",
+      "noteEn": "Official English reference file preserved on the CSRC English site for comparison with the 2018 governance revision."
+    }
+  ]
+}

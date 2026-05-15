@@ -1,0 +1,42 @@
+{
+  "titleZh": "中华人民共和国证券法（2005年修订）",
+  "titleEn": "Securities Law of the People's Republic of China (2005 Revision)",
+  "shortTitle": "证券法（2005）",
+  "aliases": ["2005 Securities Law", "2005修订证券法"],
+  "jurisdiction": "cn",
+  "documentType": "law",
+  "authorityLevel": "national-law",
+  "issuingBodyZh": "全国人民代表大会常务委员会",
+  "issuingBodyEn": "Standing Committee of the National People's Congress",
+  "promulgationDate": "2005-10-27",
+  "effectiveDate": "2006-01-01",
+  "status": "historical",
+  "languageStatus": "official-zh-plus-reference-en",
+  "languages": ["zh", "en"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "disclosure", "corporate-governance"],
+  "summaryZh": "2005 年全面修订后的证券法，是 2013 年和 2014 年两次局部修正前的基础版本。",
+  "summaryEn": "The comprehensive 2005 securities-law revision that served as the base text before the 2013 and 2014 partial amendments.",
+  "versionGroup": "cn-securities-law",
+  "versionLabel": "2005 revision",
+  "previousVersionId": "cn-securities-law-2004",
+  "nextVersionId": "cn-securities-law-2013",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official Chinese",
+      "url": "https://www.gov.cn/flfg/2005-10/28/content_85556.htm",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Official English (reference)",
+      "url": "https://english.court.gov.cn/2015-08/17/c_761432.htm",
+      "noteZh": "最高人民法院英文站公开的 2005 年修订后证券法英文参考文本。",
+      "noteEn": "English reference text for the post-2005 revision Securities Law published on the SPC English site.",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

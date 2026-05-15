@@ -1,0 +1,38 @@
+{
+  "titleZh": "香港《公司收购、合并及股份回购守则》",
+  "titleEn": "Hong Kong Codes on Takeovers and Mergers and Share Buy-backs",
+  "shortTitle": "香港收购守则",
+  "aliases": ["Takeovers Code", "Share Buy-backs Code"],
+  "jurisdiction": "hk",
+  "documentType": "regulatory-code",
+  "authorityLevel": "regulatory-code",
+  "issuingBodyZh": "香港证券及期货事务监察委员会",
+  "issuingBodyEn": "Securities and Futures Commission of Hong Kong",
+  "promulgationDate": "2023-09-29",
+  "effectiveDate": "2023-09-29",
+  "status": "reference",
+  "languageStatus": "official-en",
+  "languages": ["en"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "corporate-reorganization", "shareholder-rights", "comparative-governance"],
+  "summaryZh": "香港收购守则以公平对待股东和市场秩序为中心，是与英国守则和中国上市公司收购规则对照的关键文本。",
+  "summaryEn": "The Hong Kong Takeovers Codes focus on equal treatment of shareholders and market order, and are a key comparator to the UK and Chinese takeover regimes.",
+  "versionGroup": "hk-takeover-code",
+  "versionLabel": "current code",
+  "relatedCaseIds": [],
+  "relatedArticleIds": ["article-pbook-hong-kong-company-law"],
+  "sources": [
+    {
+      "label": "Official English",
+      "url": "https://www.sfc.hk/web/EN/assets/components/codes/files-current/web/codes/the-codes-on-takeovers-and-mergers-and-share-buy-backs/the-codes-on-takeovers-and-mergers-and-share-buy-backs.pdf",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Official release",
+      "url": "https://www.sfc.hk/en/Regulatory-functions/Corporates/Takeovers-and-mergers",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

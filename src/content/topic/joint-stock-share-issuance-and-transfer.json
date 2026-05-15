@@ -1,0 +1,84 @@
+{
+  "nameZh": "股份有限公司股票发行与转让专题",
+  "nameEn": "Joint-Stock Company Share Issuance and Transfer Topic",
+  "descriptionZh": "本专题集中整理股份有限公司股票发行、股份转让和登记对抗的核心裁判材料，重点覆盖何种“转让”在法律上会被认定为未经批准的公开发行、股权分置改革和资本公积金转增与“发行新股”的边界、发起人股份禁售期内的过渡性托管安排、上市公司法人股与非流通股转让中的登记公示效力，以及金融企业股份转让中审批义务与交易机会损失的责任分配。页面优先放入最高人民法院公报、人民法院案例库和法院官方发布材料，便于把公司法、证券法和资本市场监管逻辑放在一条线上阅读。",
+  "descriptionEn": "This topic collects core Chinese authorities on stock issuance, share transfer, and registration opposability in joint-stock companies, focusing on when a purported transfer is treated as an unauthorized public offering, the boundary between capitalization and new issuance, founder-share lock-up and transitional custody arrangements, registration and publicity effects for listed-company shares, and approval-related liability in transfers of financial-enterprise shares.",
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2005",
+    "cn-securities-law-2019",
+    "cn-securities-law-1998",
+    "cn-listed-company-disclosure-measures-2021",
+    "cn-nonlisted-public-company-supervision-measures-2021",
+    "cn-nonlisted-public-company-disclosure-measures-2021",
+    "cn-takeover-measures-2020",
+    "cn-management-shareholding-rules-2024"
+  ],
+  "relatedCaseIds": [
+    "cn-gazette-case-anji-unauthorized-stock-issuance",
+    "cn-gazette-case-lanzhou-minbai-capital-reserve-shares",
+    "cn-reference-case-vam-gaoci-neeq-invalid",
+    "cn-database-case-listed-buyback-vam-nanjing",
+    "cn-gazette-case-zhang-guiping-founder-transfer-restriction",
+    "cn-gazette-case-listed-shareholding-shenyin",
+    "cn-gazette-case-biaobang-anshan-bank-share-transfer"
+  ],
+  "relatedArticleIds": [],
+  "caseGroups": [
+    {
+      "titleZh": "股票发行边界、公开募集与资本市场秩序",
+      "titleEn": "Issuance boundaries, public offerings, and market order",
+      "descriptionZh": "先看哪些安排会被法院按“发行股票”来理解：包括未上市股份公司面向社会公众转让股票、挂牌公司定向发行中隐瞒特殊回购条款，以及股改定向转增与“发行新股”之间的边界。",
+      "descriptionEn": "This group addresses when courts treat an arrangement as stock issuance, including public transfers by unlisted joint-stock companies, undisclosed repurchase terms in private placements, and the boundary between capitalization and issuing new shares.",
+      "caseIds": [
+        "cn-gazette-case-anji-unauthorized-stock-issuance",
+        "cn-gazette-case-lanzhou-minbai-capital-reserve-shares",
+        "cn-reference-case-vam-gaoci-neeq-invalid",
+        "cn-database-case-listed-buyback-vam-nanjing"
+      ]
+    },
+    {
+      "titleZh": "发起人股份禁售、股份托管与过渡安排",
+      "titleEn": "Founder lock-ups, share custody, and transitional arrangements",
+      "descriptionZh": "这一组聚焦股份有限公司发起人股份在法定禁售期内能否先签转让协议、先行委托行使股东权利，以及法院如何区分过渡性托管安排和已完成的违法转让。",
+      "descriptionEn": "These cases examine whether founders may contract during the statutory lock-up period, delegate interim exercise of shareholder rights, and how courts distinguish transitional custody from a completed prohibited transfer.",
+      "caseIds": [
+        "cn-gazette-case-zhang-guiping-founder-transfer-restriction"
+      ]
+    },
+    {
+      "titleZh": "上市公司股份代持、法人股转让与登记对抗",
+      "titleEn": "Nominee holdings, legal-person-share transfers, and registration opposability",
+      "descriptionZh": "这里集中看上市公司股份和历史上法人股、非流通股转让中的一个核心问题：登记、公示和股东名册记载在多大程度上决定股份归属以及对第三人的对抗力。",
+      "descriptionEn": "This group focuses on nominee holdings and the transfer of listed-company legal-person and formerly non-tradable shares, especially how registration, publicity, and shareholder lists determine ownership and opposability to third parties.",
+      "caseIds": [
+        "cn-gazette-case-listed-shareholding-shenyin"
+      ]
+    },
+    {
+      "titleZh": "金融企业股份转让审批与交易机会损失",
+      "titleEn": "Approval duties and lost opportunities in financial-share transfers",
+      "descriptionZh": "最后看受审批约束的股份转让。即使合同效力尚待主管机关批准，出让方仍负有诚信推进报批的义务；拒绝报批并转售他人的，可能承担交易费用和交易机会损失责任。",
+      "descriptionEn": "This group covers approval-conditioned share transfers, showing that even before approval is secured, the transferor still owes a good-faith duty to pursue approval and may owe reliance and opportunity-loss damages for an unjustified resale.",
+      "caseIds": [
+        "cn-gazette-case-biaobang-anshan-bank-share-transfer"
+      ]
+    }
+  ],
+  "comparisonRows": [
+    {
+      "labelZh": "发行监管入口",
+      "labelEn": "Regulatory entry point for issuance",
+      "cn": "中国法严格区分股份转让与公开发行；只要面向不特定对象公开推介，或者以特定对象转让名义累计股东超过法定人数，就可能被认定为公开发行或者变相公开发行，从而触发证券监管和民刑责任。",
+      "hk": "香港更强调《公司条例》与《证券及期货条例》下公开发售、招股章程和上市规则的衔接，由联交所和证监会共同把关发行与持续披露。",
+      "sg": "新加坡则把发行、招股说明书和持续披露规则放在公司法、证券期货法和 SGX 上市规则的统一框架下处理。"
+    },
+    {
+      "labelZh": "股份转让的形式要件与对抗力",
+      "labelEn": "Transfer formalities and opposability",
+      "cn": "中国裁判普遍重视股份转让协议、股东名册、证券登记和信息披露之间的层级关系，尤其强调上市公司股份变动的公示和登记对交易安全的意义。",
+      "hk": "香港在普通法传统下同样重视公司成员名册、股份过户文件和公司内部登记，但更频繁通过衡平法和董事义务规则处理登记受阻或代持争议。",
+      "sg": "新加坡也把成员名册和过户手续作为股份对外对抗的重要形式基础，同时允许通过公司法和一般合同法规则处理未完成登记的内部争议。"
+    }
+  ]
+}

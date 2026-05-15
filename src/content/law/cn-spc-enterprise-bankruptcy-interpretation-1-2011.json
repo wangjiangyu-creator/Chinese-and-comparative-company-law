@@ -1,0 +1,38 @@
+{
+  "titleZh": "最高人民法院关于适用《中华人民共和国企业破产法》若干问题的规定（一）",
+  "titleEn": "SPC Interpretation (I) on Several Issues Concerning the Application of the Enterprise Bankruptcy Law",
+  "shortTitle": "企业破产法司法解释（一）",
+  "aliases": ["破产法司法解释一"],
+  "jurisdiction": "cn",
+  "documentType": "judicial-interpretation",
+  "authorityLevel": "judicial-interpretation",
+  "issuingBodyZh": "最高人民法院",
+  "issuingBodyEn": "Supreme People's Court",
+  "promulgationDate": "2011-09-25",
+  "effectiveDate": "2011-09-26",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["dissolution-liquidation"],
+  "summaryZh": "聚焦破产案件受理标准、不能清偿到期债务与明显缺乏清偿能力的认定、管辖和程序衔接，是公司清算转入破产程序的基础性司法解释。",
+  "summaryEn": "A foundational interpretation on acceptance standards for bankruptcy cases, the tests for inability to pay due debts and obvious lack of solvency, and the procedural bridge from liquidation disputes into bankruptcy.",
+  "versionGroup": "cn-spc-enterprise-bankruptcy-interpretation-1",
+  "versionLabel": "2011 interpretation",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/3156.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/3d2d4ab54101faca18768de8d15e87.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

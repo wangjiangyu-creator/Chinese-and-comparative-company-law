@@ -1,0 +1,32 @@
+{
+  "titleZh": "英国《破产法 1986》",
+  "titleEn": "Insolvency Act 1986",
+  "shortTitle": "英国《破产法》",
+  "aliases": ["Insolvency Act 1986"],
+  "jurisdiction": "uk",
+  "documentType": "statute",
+  "authorityLevel": "comparative-statute",
+  "issuingBodyZh": "英国议会 / 英国国家档案馆立法数据库",
+  "issuingBodyEn": "UK Parliament / The National Archives",
+  "promulgationDate": "1986-07-25",
+  "effectiveDate": "1986-07-25",
+  "status": "reference",
+  "languageStatus": "official-en",
+  "languages": ["en"],
+  "textStatus": "metadata-only",
+  "topics": ["dissolution-liquidation", "corporate-reorganization", "comparative-governance"],
+  "summaryZh": "英国《破产法 1986》是公司清算、管理、撤销交易和董事责任的重要法源，是对照中国公司解散、清算与破产衔接制度的关键文本。",
+  "summaryEn": "The Insolvency Act 1986 is the core UK source on winding up, administration, avoidance actions, and related director liability, making it central to comparative work on dissolution and insolvency.",
+  "versionGroup": "uk-insolvency-act",
+  "versionLabel": "current act",
+  "relatedCaseIds": [],
+  "relatedArticleIds": ["article-pbook-gower-davies-principles"],
+  "sources": [
+    {
+      "label": "Official English",
+      "url": "https://www.legislation.gov.uk/ukpga/1986/45/contents",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

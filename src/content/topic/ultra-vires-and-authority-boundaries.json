@@ -1,0 +1,102 @@
+{
+  "nameZh": "公司越权、经营范围与权限边界专题",
+  "nameEn": "Ultra Vires Conduct, Business Scope, and Authority Boundaries Topic",
+  "descriptionZh": "本专题集中整理公司越权行为的核心裁判路径，重点覆盖法定代表人越权担保、董事会和股东会权限越界、董监高或工作人员超越权限引发的对外合同效力问题，以及“超越经营范围”在现代公司法和民法典体系下的效力判断。它与“法定代表人与公章”“公司登记与营商环境”两个专题互相补位：前者更关注身份、公章和登记控制，后者更关注登记和市场准入，本专题则把重心放在权限分配、善意相对人保护与合同效力归属。",
+  "descriptionEn": "This topic assembles the core Chinese authorities on corporate ultra vires disputes, focusing on legal-representative guarantees without proper authorization, board and shareholder-organ overreach, external contract disputes caused by directors, officers, supervisors, or staff exceeding authority, and the modern treatment of contracts made beyond registered business scope.",
+  "relatedLawIds": [
+    "cn-company-law-2005",
+    "cn-company-law-2023",
+    "cn-civil-code-2020-legal-person",
+    "cn-market-entity-registration-regulations-2021",
+    "cn-market-entity-registration-rules-2022",
+    "cn-spc-company-law-interpretation-4-2017",
+    "cn-national-civil-commercial-trial-minutes-2019",
+    "cn-spc-foreign-invested-enterprise-disputes-1-2021"
+  ],
+  "relatedCaseIds": [
+    "cn-gazette-case-zhenbang-apparent-representation-guarantee",
+    "cn-gazette-case-zhongjiancai-ultra-vires-guarantee",
+    "cn-reference-case-upstream-guarantee-no-resolution",
+    "cn-guiding-case-10-board-resolution-review",
+    "cn-database-case-board-resolution-charter-overreach",
+    "cn-database-case-employee-supervisor-resolution-invalid",
+    "cn-gazette-case-guixinyuan-business-scope-own-property-disposal",
+    "cn-reference-case-limou-financing-lease-scope-registration",
+    "cn-reference-case-spring-auto-establishment-registration",
+    "cn-reference-case-hongzhi-authority-not-capacity-share-transfer",
+    "cn-database-case-false-seal-legal-representative-real-estate",
+    "cn-reference-case-nominal-legal-representative-name-seal-loan",
+    "cn-gazette-case-hk-xinjianye-representative-before-registration"
+  ],
+  "relatedArticleIds": [],
+  "caseGroups": [
+    {
+      "titleZh": "法定代表人越权担保、表见代表与善意相对人",
+      "titleEn": "Ultra vires guarantees, apparent representation, and good-faith counterparties",
+      "descriptionZh": "这一组集中看公司法第16条和民法典第504条语境下的典型争议：内部未决议、决议瑕疵或者授权基础不足时，公司能否仍对外受约束，以及债权人要做到何种形式审查才可主张善意保护。",
+      "descriptionEn": "This group collects disputes on Article 16 of the Company Law and Civil Code Article 504, focusing on when the company remains bound despite internal approval defects and what level of formal review is sufficient for good-faith protection.",
+      "caseIds": [
+        "cn-gazette-case-zhenbang-apparent-representation-guarantee",
+        "cn-gazette-case-zhongjiancai-ultra-vires-guarantee",
+        "cn-reference-case-upstream-guarantee-no-resolution",
+        "cn-gazette-case-hk-xinjianye-representative-before-registration"
+      ]
+    },
+    {
+      "titleZh": "董事会、股东会与监督机关的权限越界",
+      "titleEn": "Overreach by the board, shareholders' meeting, and supervisory organs",
+      "descriptionZh": "这一组强调公司内部权限分工本身。法院通常不会普遍审查商业判断，但当董事会实质改动章程权力结构，或监督机关组成明显违反效力性强制规范时，越权决议本身会被撤销或确认无效。",
+      "descriptionEn": "This group focuses on internal allocation of power. Courts do not generally review business judgment, but they will rescind or invalidate resolutions that effectively amend the allocation of power under the articles or violate mandatory rules on supervisory-organ composition.",
+      "caseIds": [
+        "cn-guiding-case-10-board-resolution-review",
+        "cn-database-case-board-resolution-charter-overreach",
+        "cn-database-case-employee-supervisor-resolution-invalid"
+      ]
+    },
+    {
+      "titleZh": "超越经营范围、市场准入与经营范围登记",
+      "titleEn": "Business scope, market access, and scope-registration disputes",
+      "descriptionZh": "这里把“超越经营范围”问题拆成两条线看：一条是民事合同效力，原则上不得仅因超经营范围而认定无效；另一条是市场准入和经营范围变更登记，涉及金融、许可等领域时，前置审批和负面清单仍会实质影响登记结果。",
+      "descriptionEn": "This group separates two lines of cases: civil-contract validity, where a contract should not be denied effect solely for exceeding business scope, and market-access or registration disputes, where prior approval and negative-list controls may still materially affect the registration outcome.",
+      "caseIds": [
+        "cn-gazette-case-guixinyuan-business-scope-own-property-disposal",
+        "cn-reference-case-limou-financing-lease-scope-registration",
+        "cn-reference-case-spring-auto-establishment-registration"
+      ]
+    },
+    {
+      "titleZh": "股权转让、印章外观与其他权限越界后的责任归属",
+      "titleEn": "Share transfers, seal appearances, and liability after other authority overreach",
+      "descriptionZh": "最后这一组关注更复杂的越权场景：法定代表人未经内部同意签署股权转让安排、挂名法代或伪章交易、以及公司内部授权缺陷与外部交易外观交叉时，法院如何区分公司是否受约束、相对人是否善意以及内部责任如何追偿。",
+      "descriptionEn": "This group addresses more complex authority disputes, including unauthorized share-transfer arrangements by the legal representative, nominal-legal-representative or false-seal transactions, and the interaction between internal authorization defects and outward transaction appearances.",
+      "caseIds": [
+        "cn-reference-case-hongzhi-authority-not-capacity-share-transfer",
+        "cn-database-case-false-seal-legal-representative-real-estate",
+        "cn-reference-case-nominal-legal-representative-name-seal-loan"
+      ]
+    }
+  ],
+  "comparisonRows": [
+    {
+      "labelZh": "越权问题的基本结构",
+      "labelEn": "Basic structure of ultra vires disputes",
+      "cn": "中国法现在更强调把“越权”拆成内部权限分配、对外代表权外观和相对人善意三个层次来分析，而不是简单以“公司是否有权做这件事”一刀切处理。",
+      "hk": "香港法更典型地通过 indoor management rule 和 ostensible authority 处理内部权限瑕疵与第三人保护之间的张力。",
+      "sg": "新加坡法也更强调内部授权瑕疵与外部合同效力相分离，通常围绕董事会授权、表见授权和相对人信赖展开。"
+    },
+    {
+      "labelZh": "经营范围的法律功能",
+      "labelEn": "Legal function of business scope",
+      "cn": "在中国，经营范围仍兼具登记、公示和市场准入功能，但在民事合同效力上，现代规则已明确不得仅以超越经营范围否定合同效力。",
+      "hk": "香港公司法下，公司能力和经营对象限制对外部合同效力的作用通常更弱，监管重点更多放在牌照、披露和董事权限上。",
+      "sg": "新加坡也较少把注册经营对象本身当作否定外部合同效力的中心理由，更多通过行业许可和公司章程安排来控制风险。"
+    },
+    {
+      "labelZh": "内部追责与外部保护的平衡",
+      "labelEn": "Balancing internal recourse and external protection",
+      "cn": "中国裁判正在逐步形成一条更清楚的路径：对外优先判断公司是否受约束和相对人是否善意，对内再追究法定代表人、董监高或控制人的赔偿责任。",
+      "hk": "香港通常也区分公司对外是否受约束与董事、管理层是否违反内部义务两个层面。",
+      "sg": "新加坡的分析同样常把公司外部责任与董事义务、受信义务和内部追偿分层处理。"
+    }
+  ]
+}

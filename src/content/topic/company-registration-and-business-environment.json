@@ -1,0 +1,97 @@
+{
+  "nameZh": "公司登记与营商环境",
+  "nameEn": "Company Registration and Business Environment",
+  "descriptionZh": "把公司设立、市场主体登记、企业名称登记、注册资本登记、住所登记和地方营商环境规则放进同一研究路径，便于从国家法、登记实施规则到北京、上海、深圳地方规范一体检索。",
+  "descriptionEn": "Connects company formation, market-entity registration, enterprise-name administration, capital registration, domicile registration, and local business-environment rules in one research path.",
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-civil-code-2020-legal-person",
+    "cn-market-entity-registration-regulations-2021",
+    "cn-market-entity-registration-rules-2022",
+    "cn-enterprise-name-registration-regulations-2020",
+    "cn-enterprise-name-registration-implementation-measures-2023",
+    "cn-state-council-registered-capital-rules-2024",
+    "cn-samr-company-registration-implementation-measures-2024",
+    "cn-registration-archives-measures-2025",
+    "cn-forced-company-deregistration-measures-2025",
+    "cn-registration-application-agency-measures-2025",
+    "bj-business-environment-regulations-2024",
+    "sz-business-environment-regulations-2020",
+    "sz-commercial-registration-rules-2020",
+    "sh-business-entity-domicile-measures-2024",
+    "sh-enterprise-domicile-measures-2015"
+  ],
+  "relatedCaseIds": [
+    "cn-database-case-change-registration-chen-moufei",
+    "cn-database-case-fie-transition-governance",
+    "cn-reference-case-spring-auto-establishment-registration",
+    "cn-reference-case-limou-financing-lease-scope-registration",
+    "cn-reference-case-wanmougong-enterprise-name-registration",
+    "cn-gazette-case-beneficial-owner-zhang-jianzhong",
+    "cn-database-case-transfer-agreement-shareholder-inspection",
+    "cn-gazette-case-dilutive-capital-increase",
+    "cn-gazette-case-listed-shareholding-shenyin",
+    "cn-reference-case-closure-operator-liquidation-liability"
+  ],
+  "relatedArticleIds": [
+    "article-cms-company-law-2024",
+    "article-china-briefing-revised-company-law",
+    "article-skadden-broad-reforms"
+  ],
+  "caseGroups": [
+    {
+      "titleZh": "设立登记与登记机关增设条件",
+      "titleEn": "Establishment registration and unlawful extra conditions",
+      "descriptionZh": "聚焦公司设立登记阶段，登记机关能否超出法定材料审查范围，以规划、土地或行业准入要求变相增加设立门槛。",
+      "descriptionEn": "Focuses on whether registration authorities may go beyond statutory material review and impose extra establishment conditions through land, planning, or sector-entry requirements.",
+      "caseIds": ["cn-reference-case-spring-auto-establishment-registration"]
+    },
+    {
+      "titleZh": "法定代表人、股权与变更/涤除登记",
+      "titleEn": "Legal representative, equity, and change/removal registration",
+      "descriptionZh": "涵盖法定代表人辞任后的涤除登记、股权代持显名、股权转让后登记股东资格、以及增资备案对原股东地位的影响。",
+      "descriptionEn": "Covers removal of a resigned legal representative, registration of beneficial owners, shareholder status after share transfers, and the effect of capital-filing changes on existing shareholders.",
+      "caseIds": [
+        "cn-database-case-change-registration-chen-moufei",
+        "cn-gazette-case-beneficial-owner-zhang-jianzhong",
+        "cn-database-case-transfer-agreement-shareholder-inspection",
+        "cn-gazette-case-dilutive-capital-increase",
+        "cn-gazette-case-listed-shareholding-shenyin"
+      ]
+    },
+    {
+      "titleZh": "经营范围、企业名称与外商投资变更登记",
+      "titleEn": "Business scope, enterprise name, and change registration",
+      "descriptionZh": "聚焦经营范围变更登记、企业名称争议裁决及外商投资企业在登记与治理规则衔接中的争议。",
+      "descriptionEn": "Focuses on business-scope registration changes, enterprise-name dispute adjudication, and disputes involving the interface between foreign-invested enterprise governance and registration.",
+      "caseIds": [
+        "cn-reference-case-limou-financing-lease-scope-registration",
+        "cn-reference-case-wanmougong-enterprise-name-registration",
+        "cn-database-case-fie-transition-governance"
+      ]
+    },
+    {
+      "titleZh": "注销登记与登记形式滥用",
+      "titleEn": "Deregistration and abuse of registration formalities",
+      "descriptionZh": "用于观察市场主体利用虚假清算报告、股权过户或其他登记形式逃避债务时，法院如何通过民事责任进行矫正。",
+      "descriptionEn": "Tracks how courts respond with civil liability when market entities abuse deregistration, false liquidation reports, or registration formalities to evade debts.",
+      "caseIds": ["cn-reference-case-closure-operator-liquidation-liability"]
+    }
+  ],
+  "comparisonRows": [
+    {
+      "labelZh": "登记架构",
+      "labelEn": "Registration architecture",
+      "cn": "中国以《公司法》、《市场主体登记管理条例》、企业名称规则、国务院注册资本规则和市场监管总局实施细则为主轴，再由北京、上海、深圳等地补充住所登记和营商环境细化规则。",
+      "hk": "香港以《公司条例》、公司注册处和商业登记机制为中心，不采用中国式分层的住所承诺和地方营商环境立法结构。",
+      "sg": "新加坡以 ACRA 的集中登记和电子申报体系为核心，企业设立与持续披露路径更统一。"
+    },
+    {
+      "labelZh": "住所与经营场所规则",
+      "labelEn": "Domicile and registered-office rules",
+      "cn": "地方层面越来越强调住所登记便利化、承诺制、集中登记和经营主体迁移便利，上海和深圳规则尤其适合作为登记实践入口。",
+      "hk": "香港要求公司保有本地注册办事处，更强调公司秘书、送达和登记保存的持续合规。",
+      "sg": "新加坡也要求可联系的本地注册地址和法定资料保存安排，但不以地方性营商环境条例来分层推动。"
+    }
+  ]
+}

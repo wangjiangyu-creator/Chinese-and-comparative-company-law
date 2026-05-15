@@ -1,0 +1,59 @@
+{
+  "titleZh": "中华人民共和国合伙企业法（2006年修订）",
+  "titleEn": "Partnership Enterprise Law of the People's Republic of China (2006 Revision)",
+  "shortTitle": "合伙企业法",
+  "aliases": ["2006 Partnership Enterprise Law"],
+  "jurisdiction": "cn",
+  "documentType": "law",
+  "authorityLevel": "national-law",
+  "issuingBodyZh": "全国人民代表大会常务委员会",
+  "issuingBodyEn": "Standing Committee of the National People's Congress",
+  "promulgationDate": "2006-08-27",
+  "effectiveDate": "2007-06-01",
+  "status": "effective",
+  "languageStatus": "official-bilingual",
+  "languages": ["zh", "en"],
+  "textStatus": "selected-excerpt",
+  "topics": ["partnership-enterprises", "dissolution-liquidation"],
+  "summaryZh": "现行《合伙企业法》在2006年修订后形成普通合伙、特殊普通合伙和有限合伙的统一框架，是中国公司法之外最重要的企业组织法之一。",
+  "summaryEn": "The current Partnership Enterprise Law, revised in 2006 and effective from 1 June 2007, establishes the unified framework for general partnerships, special general partnerships, and limited partnerships.",
+  "versionGroup": "cn-partnership-enterprise-law",
+  "versionLabel": "2006 revision",
+  "previousVersionId": "cn-partnership-enterprise-law-1997",
+  "relatedCaseIds": [
+    "cn-gazette-case-partnership-share-transfer-xing-furong",
+    "cn-gazette-case-limited-partner-derivative-shixin-ronghe",
+    "cn-gazette-case-partnership-external-liability-nantong-shuangying"
+  ],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official Chinese",
+      "url": "https://www.npc.gov.cn/zgrdw/npc/xinwen/lfgz/zxfl/2006-08/27/content_351857.htm",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Official English",
+      "url": "https://www.npc.gov.cn/zgrdw/englishnpc/Law/2008-01/02/content_1388020.htm",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ],
+  "texts": {
+    "zh": {
+      "path": "law/zh/cn-partnership-enterprise-law-2006.json",
+      "label": "Official Chinese",
+      "official": true,
+      "noteZh": "第一版收录合伙企业法的核心定义、有限合伙维权和债务清偿条文摘录。",
+      "noteEn": "Version 1 highlights core definitions, limited-partner protection, and debt-payment provisions."
+    },
+    "en": {
+      "path": "law/en/cn-partnership-enterprise-law-2006.json",
+      "label": "Official English",
+      "official": true,
+      "noteZh": "英文摘录对应全国人大英文页公开文本。",
+      "noteEn": "The English excerpt follows the NPC English text."
+    }
+  }
+}

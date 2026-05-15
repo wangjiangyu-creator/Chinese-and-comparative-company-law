@@ -1,0 +1,38 @@
+{
+  "titleZh": "滕州市某机械制造有限责任公司诉李某专利权权属纠纷案",
+  "titleEn": "Tengzhou Machinery Manufacturing Co., Ltd. v. Li: Patent Ownership and Director Loyalty",
+  "forumZh": "最高人民法院知识产权法庭入库案例",
+  "forumEn": "Supreme People's Court Intellectual Property Tribunal database case",
+  "citation": "2023-13-2-160-021；（2020）鲁01民初1341号；（2021）最高法知民终194号",
+  "year": 2021,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "专利权权属纠纷",
+  "issuesZh": ["董事、高管忠实义务", "公司知识产权归属", "无偿转让公司专利给本人", "公司内部授权程序"],
+  "issuesEn": [
+    "duty of loyalty of directors and senior managers",
+    "ownership of company intellectual property",
+    "gratuitous transfer of a company patent to the insider personally",
+    "internal corporate authorization procedures"
+  ],
+  "holdingZh": "最高法知产法庭明确，公司董事、高管不得利用职务便利将本应归属于公司的专利无偿转至个人名下。未依章程履行授权程序、也不能证明转让符合公司利益的，该转让违反忠实义务，应认定无效，专利权仍归公司所有。",
+  "holdingEn": "The Supreme People's Court IP Tribunal held that a company director or senior manager may not use his office to transfer a company patent to himself for no consideration. If the transfer was not approved through the procedures required by the articles and cannot be justified as serving the company's interests, it breaches the duty of loyalty, is invalid, and the patent remains with the company.",
+  "topics": [
+    "corporate-governance",
+    "director-abuse",
+    "director-liability-litigation",
+    "shareholder-rights",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": ["cn-company-law-2023", "cn-company-law-2018", "cn-civil-code-2020-legal-person"],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://ipc.court.gov.cn/zh-cn/news/view-4834.html",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "最高人民法院知识产权法庭入库案例，含裁判要旨及一、二审案号。",
+      "noteEn": "SPC IP Tribunal database case with holding summary and both instance numbers."
+    }
+  ]
+}

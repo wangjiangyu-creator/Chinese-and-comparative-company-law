@@ -1,0 +1,40 @@
+{
+  "titleZh": "外国企业或者个人在中国境内设立合伙企业管理办法",
+  "titleEn": "Measures for the Administration of the Establishment of Partnership Enterprises in China by Foreign Enterprises or Individuals",
+  "shortTitle": "外国企业或者个人在中国境内设立合伙企业管理办法",
+  "aliases": ["国务院令第567号", "外商投资合伙企业设立管理办法"],
+  "jurisdiction": "cn",
+  "documentType": "administrative-regulation",
+  "authorityLevel": "administrative-regulation",
+  "issuingBodyZh": "国务院",
+  "issuingBodyEn": "State Council",
+  "promulgationDate": "2009-11-25",
+  "effectiveDate": "2010-03-01",
+  "status": "effective",
+  "languageStatus": "official-zh-plus-reference-en",
+  "languages": ["zh", "en"],
+  "textStatus": "metadata-only",
+  "topics": ["partnership-enterprises"],
+  "summaryZh": "国务院令第567号允许外国企业或者个人以合伙形式在中国境内投资，并将外商投资政策、送达机制与合伙登记制度衔接起来。",
+  "summaryEn": "State Council Order No. 567 opened the partnership form to foreign enterprises and individuals and linked foreign-investment policy with partnership registration requirements.",
+  "versionGroup": "cn-foreign-partnership-establishment-measures",
+  "versionLabel": "Order No. 567",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official Chinese",
+      "url": "https://www.gov.cn/zhengce/zhengceku/2009-12/02/content_1628.htm",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Public English translation (reference)",
+      "url": "https://www.eusmecentre.org.cn/sites/default/files/attach/Measures%20for%20the%20Administration%20of%20the%20Establishment%20of%20Partnership%20Enterprises%20in%20the%20Territory%20of%20China%20by%20Foreign%20Enterprises%20or%20Individuals.pdf",
+      "noteZh": "EU SME Centre公开英文译本，可作检索与比对；法律效力仍以国务院官方中文文本为准。",
+      "noteEn": "Public English translation hosted by the EU SME Centre for reference; the official State Council Chinese text remains controlling.",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

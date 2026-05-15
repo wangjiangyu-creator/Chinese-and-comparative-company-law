@@ -1,0 +1,30 @@
+{
+  "titleZh": "李某诉张某减肥产品买卖合同纠纷案",
+  "titleEn": "Reference Case: Li Mou v. Zhang Mou over Diet Product Sales",
+  "forumZh": "甘肃省白银市平川区人民法院（共和法庭）",
+  "forumEn": "Pingchuan District People's Court of Baiyin, Gansu (Gonghe Tribunal)",
+  "citation": "地方参考案例：三无减肥产品退一赔十",
+  "year": 2024,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "买卖合同纠纷",
+  "issuesZh": ["三无减肥产品", "西布曲明", "知假买假与消费者身份", "食品安全惩罚性赔偿"],
+  "issuesEn": [
+    "unlabeled diet products",
+    "sibutramine contamination",
+    "consumer status despite knowing defects",
+    "punitive damages for food safety violations"
+  ],
+  "holdingZh": "购买者未将产品用于生产经营或者转卖的，不能仅因其多次购买或者既往诉讼经历否定其消费者身份。销售者提供的减肥产品属于“三无产品”且含有西布曲明的，构成不符合食品安全标准的食品，应承担退货退款和惩罚性赔偿责任；但后续加购明显超出正常生活消费需要的，人民法院可以限缩惩罚性赔偿的基数。",
+  "holdingEn": "A buyer is not stripped of consumer status merely because of repeat purchases or prior litigation, so long as the product was not bought for resale or business use. Where a seller supplies unlabeled diet products containing sibutramine, the seller must refund the purchase price and pay punitive damages, though courts may limit the punitive-damages base when later purchases clearly exceed ordinary household consumption needs.",
+  "topics": ["corporate-social-responsibility"],
+  "relatedLawIds": ["cn-company-law-2023", "cn-civil-code-2020-legal-person"],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://baiyin.chinagscourt.gov.cn/Wap/Show/93039",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

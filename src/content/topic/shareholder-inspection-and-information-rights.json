@@ -1,0 +1,148 @@
+{
+  "nameZh": "股东知情权、表决权与分红权",
+  "nameEn": "Shareholder Inspection, Voting, and Dividend Rights",
+  "descriptionZh": "集中整理股东获取公司信息、参与表决以及分享公司利润三类核心权利的中国案例，重点覆盖股东资格与前置请求、原始凭证查阅、决议成立与无效、名义股东表决、增资中的优先认缴、强制盈余分配，以及分红诉请的主体与程序限制。",
+  "descriptionEn": "Collects Chinese authorities on three core shareholder rights: access to company information, participation in corporate voting, and receipt of dividends or profit distributions. The topic highlights standing and demand requirements, inspection of underlying vouchers, resolution validity and formation, nominee-shareholder voting, pre-emptive subscription in capital increases, forced profit distribution, and standing or procedural limits for dividend claims.",
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017",
+    "cn-spc-company-law-interpretation-5-2021",
+    "cn-spc-foreign-invested-enterprise-disputes-1-2021",
+    "hk-companies-ordinance-cap-622",
+    "sg-companies-act-1967"
+  ],
+  "relatedCaseIds": [
+    "cn-gazette-case-shareholder-inspection-jiade",
+    "cn-reference-case-han-dequan-original-vouchers-inspection",
+    "cn-reference-case-jiao-jinzhu-shareholder-inspection",
+    "cn-reference-case-zhang-zhiyuan-keluoen-inspection",
+    "cn-reference-case-wang-zaozhuang-hotel-inspection",
+    "cn-database-case-sun-beijing-tech-improper-purpose-inspection",
+    "cn-reference-case-sun-fengxian-improper-purpose-inspection",
+    "cn-reference-case-xiafeng-jiushe-books-not-vouchers",
+    "cn-reference-case-jiangmou-real-estate-inspection-professionals",
+    "cn-typical-case-shareholder-inspection-korea-t",
+    "cn-database-case-transfer-agreement-shareholder-inspection",
+    "cn-guiding-case-10-board-resolution-review",
+    "cn-reference-case-chen-haidian-unnotified-agenda-resolution",
+    "cn-reference-case-li-haidian-board-email-procedure",
+    "cn-reference-case-ge-saidu-ratification-resolution",
+    "cn-reference-case-jia-haidian-contribution-deadline-majority",
+    "cn-reference-case-dalian-daxian-jincheng-resolution-validity",
+    "cn-reference-case-chen-shandong-a-beijing-b-resolution",
+    "cn-reference-case-zhao-qian-zaozhuang-resolution",
+    "cn-reference-case-shanghai-monitor-temporary-meeting-legal-representative",
+    "cn-gazette-case-contribution-deadline-resolution",
+    "cn-gazette-case-fabricated-shareholder-meeting-zhang-yanjuan",
+    "cn-gazette-case-dilutive-capital-increase",
+    "cn-gazette-case-hongri-kechuang-capital-increase-voting",
+    "cn-database-case-equity-security-nominee-vote",
+    "cn-gazette-case-forced-profit-distribution",
+    "cn-reference-case-chu-profit-distribution",
+    "cn-reference-case-former-shareholder-undistributed-profits-rizhao",
+    "cn-reference-case-shanghai-unpaid-contribution-no-dividend-freeze",
+    "cn-database-case-profit-distribution-zhao-wang",
+    "cn-reference-case-taiyi-thermal-li-shiun-profit-distribution",
+    "cn-gazette-case-xu-minghong-profit-distribution-procedure",
+    "cn-database-case-destroyed-books-inspection",
+    "cn-database-case-former-shareholder-inspection-profit",
+    "cn-guiding-case-96-shareholder-status"
+  ],
+  "relatedArticleIds": [
+    "article-cms-company-law-2024",
+    "article-routledge-corporate-governance"
+  ],
+  "caseGroups": [
+    {
+      "titleZh": "知情权：股东资格、前置请求与原始凭证",
+      "titleEn": "Inspection rights: standing, pre-suit demand, and underlying vouchers",
+      "descriptionZh": "先看知情权主线案件：谁可以起诉、何时必须先行书面请求、会计账簿和原始凭证能否查阅，以及公司主张“不正当目的”时由谁承担举证责任。",
+      "descriptionEn": "These cases cover who may sue, when a written demand is required, whether books and underlying vouchers are inspectable, and who bears the burden on an improper-purpose defense.",
+      "caseIds": [
+        "cn-gazette-case-shareholder-inspection-jiade",
+        "cn-reference-case-han-dequan-original-vouchers-inspection",
+        "cn-reference-case-jiao-jinzhu-shareholder-inspection",
+        "cn-reference-case-zhang-zhiyuan-keluoen-inspection",
+        "cn-reference-case-wang-zaozhuang-hotel-inspection",
+        "cn-database-case-sun-beijing-tech-improper-purpose-inspection",
+        "cn-reference-case-sun-fengxian-improper-purpose-inspection",
+        "cn-reference-case-xiafeng-jiushe-books-not-vouchers",
+        "cn-reference-case-jiangmou-real-estate-inspection-professionals",
+        "cn-typical-case-shareholder-inspection-korea-t",
+        "cn-database-case-transfer-agreement-shareholder-inspection",
+        "cn-database-case-destroyed-books-inspection",
+        "cn-database-case-former-shareholder-inspection-profit"
+      ]
+    },
+    {
+      "titleZh": "表决权：决议成立、无效与优先认缴",
+      "titleEn": "Voting rights: resolution validity, formation, and pre-emptive subscription",
+      "descriptionZh": "这一组聚焦股东会和董事会决议的程序审查、公司自治边界、名义股东能否表决，以及增资中现有股东的优先认缴权如何影响决议和入股协议的效力。",
+      "descriptionEn": "This group tracks procedural review of resolutions, the boundary of corporate autonomy, whether nominee shareholders may vote, and how pre-emptive subscription rights affect the validity of capital increase resolutions and subscription agreements.",
+      "caseIds": [
+        "cn-guiding-case-10-board-resolution-review",
+        "cn-reference-case-chen-haidian-unnotified-agenda-resolution",
+        "cn-reference-case-li-haidian-board-email-procedure",
+        "cn-reference-case-ge-saidu-ratification-resolution",
+        "cn-reference-case-jia-haidian-contribution-deadline-majority",
+        "cn-reference-case-dalian-daxian-jincheng-resolution-validity",
+        "cn-reference-case-chen-shandong-a-beijing-b-resolution",
+        "cn-reference-case-zhao-qian-zaozhuang-resolution",
+        "cn-reference-case-shanghai-monitor-temporary-meeting-legal-representative",
+        "cn-gazette-case-contribution-deadline-resolution",
+        "cn-gazette-case-fabricated-shareholder-meeting-zhang-yanjuan",
+        "cn-gazette-case-dilutive-capital-increase",
+        "cn-gazette-case-hongri-kechuang-capital-increase-voting",
+        "cn-database-case-equity-security-nominee-vote"
+      ]
+    },
+    {
+      "titleZh": "分红权：强制盈余分配、主体资格与替代救济",
+      "titleEn": "Dividend rights: forced distribution, standing, and substitute remedies",
+      "descriptionZh": "最后看法院何时会介入分红：公司存在可分配利润且控股股东转移、隐瞒利润时，可否强制盈余分配；实际投资人或原股东何时可以主张分红；以及连续不分红时的退出型救济。",
+      "descriptionEn": "This group asks when courts will intervene in dividend disputes: whether forced distribution is available when controllers divert profits, when actual or former investors may sue, and what exit-type remedies exist when profits are withheld for years.",
+      "caseIds": [
+        "cn-gazette-case-forced-profit-distribution",
+        "cn-reference-case-chu-profit-distribution",
+        "cn-reference-case-former-shareholder-undistributed-profits-rizhao",
+        "cn-reference-case-shanghai-unpaid-contribution-no-dividend-freeze",
+        "cn-database-case-profit-distribution-zhao-wang",
+        "cn-reference-case-taiyi-thermal-li-shiun-profit-distribution",
+        "cn-gazette-case-xu-minghong-profit-distribution-procedure",
+        "cn-database-case-former-shareholder-inspection-profit",
+        "cn-guiding-case-96-shareholder-status"
+      ]
+    }
+  ],
+  "comparisonRows": [
+    {
+      "labelZh": "知情权资料范围",
+      "labelEn": "Scope of inspection materials",
+      "cn": "中国法区分公司决议、财务会计报告、会计账簿和原始凭证；是否可以复制、是否可查原始凭证、是否受不正当目的抗辩限制，主要由公司法司法解释和典型案例细化。",
+      "hk": "香港更依赖对法定登记册、章程、成员记录等法定公司文件的分类查阅规则，不以单一“知情权之诉”概括全部公司资料。",
+      "sg": "新加坡同样以法定登记册和公司记录的分类访问为主，对信息取得路径的设计更偏向公司记录义务和治理程序。"
+    },
+    {
+      "labelZh": "表决权争议的审查方式",
+      "labelEn": "How voting disputes are reviewed",
+      "cn": "中国法院通常围绕召集程序、表决方式、决议内容是否合法以及是否侵害既有股东法定权利来审查，不轻易以商业合理性取代公司自治。",
+      "hk": "香港在决议程序之外，更常把受压迫、不公平损害和章程解释问题放进同一救济框架中综合处理。",
+      "sg": "新加坡也重视章程和法定程序，但在控制股东压迫或治理僵局场景下，常与不公平损害救济一并讨论。"
+    },
+    {
+      "labelZh": "分红权的司法介入条件",
+      "labelEn": "When courts intervene in dividend disputes",
+      "cn": "中国法院原则上尊重利润分配决议形成机制，但在公司存在可分配利润且控股股东变相分配、隐瞒或转移利润时，可以例外支持强制盈余分配。",
+      "hk": "香港更常通过不公平损害、董事义务或清盘等路径间接处理长期不分红问题，而非频繁直接命令分红。",
+      "sg": "新加坡同样通常通过压迫救济、衍生诉讼或章程与股东协议解释来解决分红冲突，直接司法命令分红并非常态。"
+    },
+    {
+      "labelZh": "替代救济路径",
+      "labelEn": "Alternative remedies",
+      "cn": "中国法下，股东除提起知情权、决议无效/撤销和分红之诉外，还可能转向股权回购、股东代表诉讼、损害公司利益责任之诉等替代路径。",
+      "hk": "香港常见替代路径是不公平损害救济、衍生诉讼和强制清盘。",
+      "sg": "新加坡常见替代路径包括 oppression remedies、derivative actions 和 buyout-style relief."
+    }
+  ]
+}

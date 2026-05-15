@@ -1,0 +1,25 @@
+{
+  "titleZh": "O'Neill 诉 Phillips",
+  "titleEn": "O'Neill v Phillips",
+  "forumZh": "英国上议院",
+  "forumEn": "House of Lords",
+  "citation": "[1999] 1 WLR 1092",
+  "year": 1999,
+  "jurisdiction": "uk",
+  "caseType": "comparative-case",
+  "decisionType": "少数股东压迫救济",
+  "issuesZh": ["不公平损害", "少数股东合理期待", "公司内部公平"],
+  "issuesEn": ["unfair prejudice", "legitimate expectations of minority shareholders", "equitable fairness within the company"],
+  "holdingZh": "O'Neill v Phillips 是英国不公平损害救济的核心判例，强调少数股东“合理期待”必须建立在可识别的法律或衡平基础之上。",
+  "holdingEn": "O'Neill v Phillips is a leading case on unfair-prejudice relief, stressing that minority shareholders' legitimate expectations must rest on an identifiable legal or equitable foundation.",
+  "topics": ["shareholder-rights", "corporate-governance", "comparative-governance"],
+  "relatedLawIds": ["uk-companies-act-2006"],
+  "sources": [
+    {
+      "label": "Research platform",
+      "url": "https://www.bailii.org/uk/cases/UKHL/1999/24.html",
+      "official": false,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

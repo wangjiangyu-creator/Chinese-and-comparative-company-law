@@ -1,0 +1,39 @@
+{
+  "titleZh": "全国法院破产审判工作会议纪要",
+  "titleEn": "Minutes of the National Courts Bankruptcy Trial Work Conference",
+  "shortTitle": "全国法院破产审判纪要",
+  "aliases": ["法〔2018〕53号", "破产审判纪要"],
+  "jurisdiction": "cn",
+  "documentType": "judicial-policy",
+  "authorityLevel": "judicial-policy",
+  "issuingBodyZh": "最高人民法院",
+  "issuingBodyEn": "Supreme People's Court",
+  "promulgationDate": "2018-03-08",
+  "effectiveDate": "2018-03-08",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["registered-capital", "dissolution-liquidation", "shareholder-rights", "corporate-governance"],
+  "summaryZh": "系统总结执行转破产、出资人权益调整、债务人财产处置和程序衔接规则，是公司退出与破产审判的重要审判政策材料。",
+  "summaryEn": "A major bankruptcy-policy text covering execution-to-bankruptcy transfer, treatment of equity-holder interests, disposition of debtor assets, and procedural coordination.",
+  "versionGroup": "cn-national-bankruptcy-trial-minutes",
+  "versionLabel": "2018 text",
+  "judicialMaterialClass": "spc-policy",
+  "relatedCaseIds": ["cn-reference-case-shareholder-debt-setoff-contribution"],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://pccz.court.gov.cn/pcajxxw/pcFlfg/flfgxq?id=C74E315832AFE40743975CBAB3D8776F",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/2ee4b89e25f895a91885e746d361a0.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

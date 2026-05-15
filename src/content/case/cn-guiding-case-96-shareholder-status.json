@@ -1,0 +1,29 @@
+{
+  "titleZh": "指导案例96号：宋文军诉西安市大华餐饮有限公司股东资格确认纠纷案",
+  "titleEn": "Guiding Case No. 96: Song Wenjun v. Xi'an Dahua Catering Co., Ltd.",
+  "forumZh": "最高人民法院",
+  "forumEn": "Supreme People's Court",
+  "citation": "指导案例96号",
+  "year": 2018,
+  "jurisdiction": "cn",
+  "caseType": "guiding-case",
+  "decisionType": "股东资格确认纠纷",
+  "issuesZh": ["初始章程", "股权转让限制", "公司回购"],
+  "issuesEn": ["initial articles", "transfer restrictions", "company repurchase"],
+  "holdingZh": "有限责任公司初始章程中的“人走股留”及回购安排，只要不违反公司法强制性规定，可认定有效。",
+  "holdingEn": "Restrictions and buyback arrangements in a closely held company's initial articles may be valid if they do not violate mandatory company-law rules.",
+  "topics": ["shareholder-rights", "registered-capital", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-3-2021"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/shenpan/xiangqing/104292.html",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

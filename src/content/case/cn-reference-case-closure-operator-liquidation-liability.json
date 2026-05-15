@@ -1,0 +1,37 @@
+{
+  "titleZh": "王某月诉薛某亮清算责任纠纷案",
+  "titleEn": "Reference Case: Wang Mouyue v. Xue Mouliang Liquidation Liability Dispute",
+  "forumZh": "人民法院案例库（最高人民法院审核入库）",
+  "forumEn": "People's Court Case Database (reviewed by the Supreme People's Court)",
+  "citation": "入库编号2025-08-2-284-001",
+  "year": 2025,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司清算责任",
+  "issuesZh": ["职业闭店人", "虚假清算报告", "注销登记后的赔偿责任"],
+  "issuesEn": ["professional closure operator", "false liquidation report", "liability after deregistration"],
+  "holdingZh": "“职业闭店人”为帮助经营者逃避公司债务而受让股权并以虚假清算报告骗取注销登记，导致债权无法受偿的，应对公司债务向债权人承担相应民事赔偿责任。",
+  "holdingEn": "A professional closure operator who acquires shares to help a business evade debts and then secures deregistration through a false liquidation report may be held civilly liable to creditors for the company’s unpaid obligations.",
+  "topics": [
+    "corporate-veil-piercing",
+    "dissolution-liquidation",
+    "shareholder-rights",
+    "corporate-governance",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-civil-code-2020-legal-person",
+    "cn-spc-company-law-interpretation-2-2020",
+    "cn-spc-compulsory-liquidation-minutes-2009"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/471781.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

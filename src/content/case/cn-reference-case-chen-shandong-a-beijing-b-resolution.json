@@ -1,0 +1,29 @@
+{
+  "titleZh": "陈某某诉山东A公司、北京B公司公司决议效力确认纠纷案",
+  "titleEn": "Reference Case: Chen Moumou v. Shandong A Company and Beijing B Company",
+  "forumZh": "梁山县人民法院",
+  "forumEn": "Liangshan County People's Court",
+  "citation": "梁山法院中小投资者案例：陈某某诉山东A公司决议不成立",
+  "year": 2021,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司决议效力确认纠纷",
+  "issuesZh": ["股东会通知义务", "关联股东回避表决", "重大事项通过比例"],
+  "issuesEn": ["notice to shareholders", "recusal of interested shareholders", "voting threshold for major corporate matters"],
+  "holdingZh": "涉及延长大股东出资期限等与其自身利益直接相关事项时，关联股东表决应当回避。未通知小股东参会，且剔除应回避股东后未达到章程规定通过比例的，股东会决议不成立。",
+  "holdingEn": "When a resolution concerns matters directly affecting a major shareholder's own interests, such as extending that shareholder's contribution deadline, the interested shareholder should recuse from voting. If a minority shareholder is not notified and the remaining votes do not satisfy the charter threshold once the interested shareholder is excluded, the resolution is not established.",
+  "topics": ["shareholder-rights", "corporate-governance", "registered-capital"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.sdcourt.gov.cn/jninglsfy/385309/385271/7972356/index.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "titleZh": "Ebrahimi 诉 Westbourne Galleries Ltd",
+  "titleEn": "Ebrahimi v Westbourne Galleries Ltd",
+  "forumZh": "英国上议院",
+  "forumEn": "House of Lords",
+  "citation": "[1973] AC 360",
+  "year": 1973,
+  "jurisdiction": "uk",
+  "caseType": "comparative-case",
+  "decisionType": "少数股东压迫救济",
+  "issuesZh": ["准合伙公司", "公平清盘", "衡平法上的合理期待"],
+  "issuesEn": ["quasi-partnership company", "just and equitable winding up", "equitable expectations"],
+  "holdingZh": "Ebrahimi 是英国公司法中准合伙公司与公平清盘的经典判例，强调在个人信赖关系浓厚的封闭公司中，股东之间的衡平因素可以限制严格的章程和多数决逻辑。",
+  "holdingEn": "Ebrahimi is the classic UK authority on quasi-partnership companies and just-and-equitable winding up, emphasizing that equitable considerations may qualify strict constitutional rights and majority rule in closely held companies built on personal trust.",
+  "topics": ["shareholder-rights", "dissolution-liquidation", "corporate-governance", "comparative-governance"],
+  "relatedLawIds": ["uk-insolvency-act-1986", "uk-companies-act-2006"],
+  "sources": [
+    {
+      "label": "Research platform",
+      "url": "https://www.bailii.org/openlaw/company.html",
+      "official": false,
+      "lastVerified": "2026-05-16",
+      "noteZh": "BAILII 公司法 leading cases 清单收录该案，并标示其为准合伙公司与公平清盘经典案例。",
+      "noteEn": "BAILII's OpenLaw company-law list identifies the case as a leading authority on quasi-partnerships and just-and-equitable winding up."
+    }
+  ]
+}

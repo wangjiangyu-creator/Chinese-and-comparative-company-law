@@ -1,0 +1,34 @@
+{
+  "titleZh": "A公司诉B公司、王某、孙某买卖合同纠纷案",
+  "titleEn": "Reference Case: Company A v. Company B, Wang Mou, and Sun Mou",
+  "forumZh": "青岛市即墨区人民法院",
+  "forumEn": "Jimo District People's Court of Qingdao",
+  "citation": "即墨法院案例：未履行出资义务股东的补充责任",
+  "year": 2024,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "买卖合同纠纷",
+  "issuesZh": ["认缴期限届满未出资", "股东补充赔偿责任", "公司债权人保护"],
+  "issuesEn": [
+    "failure to contribute after the subscribed deadline matured",
+    "supplementary shareholder liability",
+    "protection of company creditors"
+  ],
+  "holdingZh": "股东在公司设立时认缴出资并约定了明确实缴期限，期限届满后仍未实际缴纳或者补足出资的，公司债权人可以请求该股东在未出资本息范围内，对公司债务不能清偿的部分承担补充赔偿责任。",
+  "holdingEn": "Where shareholders subscribed capital at incorporation with a clear payment deadline and still failed to pay or complete the contribution after that deadline matured, company creditors may seek supplementary liability from those shareholders within the principal and interest of the unpaid contribution for the part of the company debt that remains unsatisfied.",
+  "topics": ["registered-capital", "shareholder-rights"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-3-2021",
+    "cn-spc-company-law-time-effect-2024"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://sdcourt.gov.cn/qdjmfy/399689/399644/17931510/index.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

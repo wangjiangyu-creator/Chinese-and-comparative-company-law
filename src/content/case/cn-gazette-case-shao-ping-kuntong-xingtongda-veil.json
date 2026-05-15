@@ -1,0 +1,33 @@
+{
+  "titleZh": "邵萍与云南通海昆通工贸有限公司、通海兴通达工贸有限公司民间借贷纠纷案",
+  "titleEn": "Gazette Case: Shao Ping v. Yunnan Tonghai Kuntong Industrial and Trade Co., Ltd. and Tonghai Xingtongda Industrial and Trade Co., Ltd.",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "公报案例：昆通/兴通达人格混同",
+  "year": 2017,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "民间借贷纠纷",
+  "issuesZh": ["关联公司人格混同", "隐名持股与控制关系", "综合认定标准"],
+  "issuesEn": ["commingling among affiliated companies", "nominee shareholding and control", "multi-factor assessment"],
+  "holdingZh": "依据公司法关于人格否认的规则，认定公司滥用法人独立人格和股东有限责任，应综合考察公司设立背景、股东与控制人、主要财务人员、经营业务及交易目的、纳税安排，以及债权人与公司签约和履行的具体背景。若关联公司系为延续原债务公司经营而设，人员、交易链条和税务呈报长期混同，可以认定构成人格混同并判令承担连带责任。",
+  "holdingEn": "Applying the veil-piercing rule under the Company Law requires a multi-factor inquiry into the background of incorporation, the shareholders and controllers, key finance personnel, business operations and transaction purpose, tax arrangements, and the context in which the creditor contracted and performed. When a related company is created to continue the debtor's business and the two companies remain mixed in personnel, transaction flows, and tax reporting, commingling may be found and joint liability imposed.",
+  "topics": [
+    "corporate-veil-piercing",
+    "corporate-governance",
+    "shareholder-rights"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-civil-code-2020-legal-person"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/dd50d3d7d1522906721893219a1465.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

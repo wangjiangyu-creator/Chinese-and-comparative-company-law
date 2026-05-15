@@ -1,0 +1,33 @@
+{
+  "titleZh": "中华人民共和国合伙企业登记管理办法（2019年修订）",
+  "titleEn": "Measures of the People's Republic of China for the Registration of Partnership Enterprises (2019 Revision)",
+  "shortTitle": "合伙企业登记管理办法",
+  "aliases": ["2019 Partnership Registration Measures"],
+  "jurisdiction": "cn",
+  "documentType": "administrative-regulation",
+  "authorityLevel": "administrative-regulation",
+  "issuingBodyZh": "国务院",
+  "issuingBodyEn": "State Council",
+  "promulgationDate": "2019-03-02",
+  "effectiveDate": "2019-03-02",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["partnership-enterprises", "corporate-formation"],
+  "summaryZh": "现行《合伙企业登记管理办法》整合1997、2007、2014与2019修订，是中国合伙企业设立、变更、注销和分支登记的核心国务院行政法规。",
+  "summaryEn": "The current 2019 registration measure consolidates the 1997, 2007, 2014, and 2019 revisions and remains the core State Council regulation on partnership registration.",
+  "versionGroup": "cn-partnership-registration-measures",
+  "versionLabel": "2019 revision",
+  "previousVersionId": "cn-partnership-registration-measures-2014",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://www.gov.cn/gongbao/content/2019/content_5468859.htm",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

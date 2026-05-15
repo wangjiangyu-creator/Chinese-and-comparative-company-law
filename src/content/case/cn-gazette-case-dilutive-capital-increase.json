@@ -1,0 +1,29 @@
+{
+  "titleZh": "黄伟忠诉陈强庆等股东资格确认案",
+  "titleEn": "Gazette Case: Huang Weizhong v. Chen Qiangqing et al. Shareholder Status Confirmation",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "公报案例：稀释增资无效",
+  "year": 2012,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股东资格确认纠纷",
+  "issuesZh": ["虚假增资", "稀释原股东持股", "工商备案效力"],
+  "issuesEn": ["fictitious capital increase", "dilution of existing shareholding", "effect of registration filing"],
+  "holdingZh": "未经有效股东会决议，他人虚假增资以稀释原股东股权的，即使已办理工商备案登记，仍应认定无效，原股东持股比例应恢复。",
+  "holdingEn": "A fictitious capital increase that dilutes an existing shareholder's stake without a valid shareholder resolution remains invalid even if registration formalities were completed, and the original shareholding ratio should be restored.",
+  "topics": ["registered-capital", "shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-3-2021"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/c979d0555304b0dfb26a9c821fede0.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

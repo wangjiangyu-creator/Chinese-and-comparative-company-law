@@ -1,0 +1,38 @@
+{
+  "titleZh": "程骏平诉上海纽鑫达进出口有限公司等股东资格确认纠纷案",
+  "titleEn": "Gazette Case: Cheng Junping v. Shanghai Niuxinda Import & Export Co., Ltd. et al.",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "公报案例：外籍隐名股东显名",
+  "year": 2020,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股东资格确认纠纷",
+  "issuesZh": ["外籍实际出资人", "股权代持", "外商投资准入负面清单"],
+  "issuesEn": ["foreign beneficial investor", "nominee shareholding", "negative list for foreign investment"],
+  "holdingZh": "外籍隐名股东请求确认股权并显名变更登记时，除需证明实际投资和既有代持安排外，法院还应审查目标公司所处行业是否位于外商投资准入负面清单之内；对于负面清单外的领域，可以依法确认其显名为股东并办理变更。",
+  "holdingEn": "When a foreign beneficial investor seeks recognition of equity ownership and registration as a named shareholder, the court should examine both the underlying nominee arrangement and whether the target company's business falls within a foreign-investment negative list. For sectors outside the negative list, the investor may be recognized and registered as a shareholder.",
+  "topics": ["shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-3-2021",
+    "cn-spc-foreign-invested-enterprise-disputes-1-2021"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/f744805900351ccc004ceabbf36bf5.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Publisher page",
+      "url": "https://www.thepaper.cn/newsDetail_forward_7392412",
+      "noteZh": "用于核对公开报道中的裁判背景和宣判时间。",
+      "noteEn": "Used to confirm publicly reported background and the judgment date.",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

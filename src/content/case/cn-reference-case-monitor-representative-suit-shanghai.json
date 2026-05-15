@@ -1,0 +1,38 @@
+{
+  "titleZh": "上海某实业有限公司诉周某等损害公司利益责任纠纷案",
+  "titleEn": "Shanghai Industry Co., Ltd. v. Zhou (Supervisory Representative Suit)",
+  "forumZh": "人民法院案例库",
+  "forumEn": "People's Court Case Database",
+  "citation": "入库编号2024-08-2-276-001",
+  "year": 2014,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "损害公司利益责任纠纷",
+  "issuesZh": ["监事代表诉讼", "高管占用公司资金", "董事、高管忠实义务"],
+  "issuesEn": ["supervisory representative action", "diversion of company funds by executives", "duty of loyalty of directors and managers"],
+  "holdingZh": "在董监高利用职务实施侵害公司利益的情形下，监事在特定条件下可先于董事会提起诉讼；监事以公司名义起诉、以公司利益为追诉目的并符合法定程序时，其诉讼结果由公司利益归受益，符合公司法对监事代表诉讼的设计逻辑。",
+  "holdingEn": "Where directors or senior managers use their positions to harm corporate interests, a supervisor has standing to bring suit in the company’s name under the statutory representative-action framework; where procedural thresholds are met, such actions are treated as actions to protect the company, with recovered recovery accruing to the company.",
+  "topics": [
+    "corporate-governance",
+    "director-abuse",
+    "director-liability-litigation",
+    "actual-controller-tunneling",
+    "related-transaction-harm",
+    "shareholder-rights",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-5-2021",
+    "cn-civil-code-2020-legal-person"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://rmfyalk.court.gov.cn/dist/view/content.html?id=w2oMzU0lcFt3de2U73TKrYsKWsbyHRQNXQ0ptaeauqk%253D&lib=ck",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

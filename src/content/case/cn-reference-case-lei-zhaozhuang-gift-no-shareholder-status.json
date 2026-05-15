@@ -1,0 +1,30 @@
+{
+  "titleZh": "雷某某与某公司、王某、陈某某、蒋某某股东资格确认纠纷案",
+  "titleEn": "Reference Case: Lei Moumou v. Company, Wang Mou, Chen Moumou, and Jiang Moumou",
+  "forumZh": "枣庄市中级人民法院",
+  "forumEn": "Zaozhuang Intermediate People's Court",
+  "citation": "枣庄中院案例：股权赠与未完成不取得股东资格",
+  "year": 2021,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股东资格确认纠纷",
+  "issuesZh": ["股权赠与", "真实意思表示", "变更登记瑕疵"],
+  "issuesEn": ["gift of equity", "true intent of the parties", "defective registration change"],
+  "holdingZh": "股东资格确认不能仅看登记外观。若股东多次变更背后的股权转让协议并非当事人真实意思表示，且相应登记并未依法完成，股权并未发生转移；在权利尚未实际转移前，赠与人可以撤销股权赠与，受赠人据此主张股东资格不应支持。",
+  "holdingEn": "Shareholder status cannot be determined solely by registration appearances. If the supposed transfer agreements behind repeated shareholder changes did not reflect the parties' true intent and the registrations were not lawfully completed, the equity never transferred. Before the right actually passes, the donor may revoke the gift, and the donee's claim to shareholder status should fail.",
+  "topics": ["shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-3-2021",
+    "cn-market-entity-registration-regulations-2021"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.sdcourt.gov.cn/zzzy/yhyshj74/7458308/index.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

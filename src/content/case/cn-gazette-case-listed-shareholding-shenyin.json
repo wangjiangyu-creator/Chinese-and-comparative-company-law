@@ -1,0 +1,29 @@
+{
+  "titleZh": "申银万国证券股份有限公司诉上海国宏置业有限公司财产权属纠纷案",
+  "titleEn": "Gazette Case: Shenyin Wanguo Securities Co., Ltd. v. Shanghai Guohong Real Estate Co., Ltd.",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "公报案例：上市公司股份代持",
+  "year": 2009,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "财产权属纠纷",
+  "issuesZh": ["上市公司法人股代持", "股权转让公示效力", "证券登记对抗力"],
+  "issuesEn": ["nominee holding of listed-company legal-person shares", "publicity effect of share-transfer registration", "opposability of securities registration"],
+  "holdingZh": "对于原股东以有偿转让方式将上市公司法人股过户给他人的，如协议明确体现转让意思并完成登记，不属于股权代持或者挂靠；转让价款未支付并不恢复出让方的股权，而仅产生相应债权。上市公司股东持股及变动情况原则上应以具有公示效力的登记为准。",
+  "holdingEn": "Where an original shareholder transfers listed-company legal-person shares for consideration and the agreement clearly expresses a transfer and is followed by registration, the arrangement is a transfer rather than nominee holding; non-payment of the price restores only a claim for payment, not the transferred shares. Holdings and changes in listed-company shares should generally be determined by the public registration record.",
+  "topics": ["shareholder-rights", "listed-companies", "disclosure"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-securities-law-2019"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/439d6a3e660d436d5d58419815679e.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

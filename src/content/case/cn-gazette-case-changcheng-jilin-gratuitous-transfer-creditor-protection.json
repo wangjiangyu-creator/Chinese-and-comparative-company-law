@@ -1,0 +1,48 @@
+{
+  "titleZh": "中国长城资产管理股份有限公司吉林省分公司与吉林市中小企业信用担保集团有限公司、吉林市人民政府国有资产监督管理委员会侵权责任纠纷、股东损害公司债权人利益责任纠纷案",
+  "titleEn": "Gazette Case: China Great Wall Asset Management Co., Ltd., Jilin Branch v. Jilin SME Credit Guarantee Group Co., Ltd. and the Jilin Municipal SASAC",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "（2017）最高法民终181号",
+  "year": 2017,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "侵权责任纠纷、股东损害公司债权人利益责任纠纷",
+  "issuesZh": [
+    "国有法人股无偿划转",
+    "国家出资人处分权与债权人保护",
+    "逃废债务的第三人侵害债权责任",
+    "股东损害公司债权人利益责任"
+  ],
+  "issuesEn": [
+    "gratuitous transfer of state-owned legal-person shares",
+    "state-investor disposal power and creditor protection",
+    "third-party tort liability for impairing creditor rights through debt evasion",
+    "shareholder liability for harming company creditors"
+  ],
+  "holdingZh": "在债务人资不抵债、相关主体明知债权债务关系存在的情况下，若受让方配合以无偿划转国有法人股等方式转移核心资产、规避清偿责任，人民法院可以根据其过错程度和受益范围判令其承担相应赔偿责任。对于履行出资人职责机构，若债权人的损失已经能够通过受让方责任获得救济，且无证据证明该机构另行造成独立损害，人民法院无须当然再适用公司法第二十条追加其责任。",
+  "holdingEn": "Where the debtor is already insolvent and the relevant participants know of the creditor relationship, a court may impose damages on a transferee that cooperates in moving core assets by means such as a gratuitous transfer of state-owned legal-person shares in order to evade debt. As for the institution exercising the state's investor rights, Article 20 of the Company Law does not need to be applied automatically if the creditor can already obtain relief from the transferee and there is no proof of separate loss independently caused by that institution.",
+  "topics": ["corporate-governance", "shareholder-rights", "business-environment"],
+  "relatedLawIds": [
+    "cn-company-law-2005",
+    "cn-company-law-2018",
+    "cn-company-law-2023",
+    "cn-civil-code-2020-legal-person"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/d94256fb559bcc6bfd6a5075823b6d.html",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Law firm analysis",
+      "url": "https://www.zhonglun.com/research/articles/54678.html",
+      "noteZh": "用于交叉核对公报发布日期和债权侵权裁判要点。",
+      "noteEn": "Used to cross-check the Gazette publication context and the tort-against-creditor holding.",
+      "official": false,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

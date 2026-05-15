@@ -1,0 +1,128 @@
+{
+  "nameZh": "法定代表人、公司代表权与公章控制",
+  "nameEn": "Legal Representative, Representative Authority, and Seal Control",
+  "descriptionZh": "集中收录公司法定代表人的任命、认可、辞任、免去、身份争议、变更/涤除登记、公章和营业执照抢夺与拒不移交、公司协议和章程修改引发的法定代表人变更，以及法定代表人的对外代表责任和对内赔偿责任等争议。这个专题把公司登记、公司治理、公司控制和对外交易保护放进同一研究路径，便于同时观察内部决议、登记公示、公司真实意思表示和第三人信赖保护之间的交叉规则。",
+  "descriptionEn": "Collects disputes over appointment, recognition, resignation, removal, identity contests, change or deletion registration, seizure or withholding of company seals and licenses, amendments to company agreements and articles that drive legal-representative changes, and the legal representative's external and internal liabilities.",
+  "relatedLawIds": [
+    "cn-company-law-1993",
+    "cn-company-law-2005",
+    "cn-company-law-2018",
+    "cn-company-law-2023",
+    "cn-civil-code-2020-legal-person",
+    "cn-company-registration-regulations-1994",
+    "cn-company-registration-regulations-2014",
+    "cn-company-registration-regulations-2016",
+    "cn-market-entity-registration-regulations-2021",
+    "cn-market-entity-registration-rules-2022",
+    "cn-national-civil-commercial-trial-minutes-2019",
+    "cn-spc-foreign-invested-enterprise-disputes-1-2021"
+  ],
+  "relatedCaseIds": [
+    "cn-database-case-change-registration-chen-moufei",
+    "cn-gazette-case-thumb-legal-representative-publicity",
+    "cn-database-case-foreign-invested-capital-contribution",
+    "cn-reference-case-china-natural-gas-registration-change",
+    "cn-gazette-case-hk-xinjianye-representative-before-registration",
+    "cn-database-case-fie-transition-governance",
+    "cn-typical-case-certificate-preservation-japan-a",
+    "cn-database-case-certificate-return-shanghai-pan",
+    "cn-reference-case-chen-baoci-seal-snatching",
+    "cn-gazette-case-zhenbang-apparent-representation-guarantee",
+    "cn-database-case-false-seal-legal-representative-real-estate",
+    "cn-reference-case-nominal-legal-representative-name-seal-loan",
+    "cn-reference-case-shanxi-property-and-monitor-zhuyue",
+    "cn-reference-case-baolu-vehicle-reward-duty-boundary"
+  ],
+  "relatedArticleIds": [],
+  "caseGroups": [
+    {
+      "titleZh": "任命、认可与公司意思表示",
+      "titleEn": "Appointment, recognition, and corporate intent",
+      "descriptionZh": "关注谁有权任命或认可法定代表人，以及登记法定代表人与股东、董事会任命的法定代表人发生冲突时，法院如何判断公司真实意思表示。",
+      "descriptionEn": "Focuses on who may appoint or recognize the legal representative, and on how courts determine the company's true intent when the registered representative conflicts with the person appointed internally.",
+      "caseIds": [
+        "cn-gazette-case-thumb-legal-representative-publicity",
+        "cn-database-case-foreign-invested-capital-contribution",
+        "cn-reference-case-china-natural-gas-registration-change"
+      ]
+    },
+    {
+      "titleZh": "辞任、免去与变更/涤除登记",
+      "titleEn": "Resignation, removal, and change or deletion registration",
+      "descriptionZh": "围绕法定代表人辞任、免职后未及时变更登记，或者公司拒不配合涤除登记的情形，观察内部救济、登记公示与对外效力如何衔接。",
+      "descriptionEn": "Tracks resignation, dismissal, and the failure to update or delete registration, showing how internal remedies, public registration, and outward effect fit together.",
+      "caseIds": [
+        "cn-database-case-change-registration-chen-moufei",
+        "cn-gazette-case-hk-xinjianye-representative-before-registration",
+        "cn-gazette-case-thumb-legal-representative-publicity"
+      ]
+    },
+    {
+      "titleZh": "公司协议、章程修改与法定代表人变更",
+      "titleEn": "Company agreements, articles amendments, and representative change",
+      "descriptionZh": "聚焦通过股东决定、合营文件或章程修正案改变公司治理结构和法定代表人条款时，法院如何审查修改权限、程序和后续备案义务。",
+      "descriptionEn": "Looks at how courts review authority, procedure, and follow-on filing duties when shareholder decisions, joint-venture documents, or amendments to the articles are used to change governance structure and the legal-representative clause.",
+      "caseIds": [
+        "cn-reference-case-china-natural-gas-registration-change",
+        "cn-database-case-fie-transition-governance",
+        "cn-typical-case-certificate-preservation-japan-a"
+      ]
+    },
+    {
+      "titleZh": "公章、营业执照、证照抢夺与拒不移交",
+      "titleEn": "Seals, business licenses, and withholding of corporate credentials",
+      "descriptionZh": "聚焦原法定代表人或其他控制人抢夺、隐匿、拒不返还公司公章、营业执照和账册时，法院如何通过返还请求和行为保全恢复公司的正常控制秩序。",
+      "descriptionEn": "Tracks how courts restore normal corporate control through return actions and conduct-preservation orders when former controllers seize, conceal, or refuse to hand over seals, licenses, and records.",
+      "caseIds": [
+        "cn-database-case-certificate-return-shanghai-pan",
+        "cn-typical-case-certificate-preservation-japan-a",
+        "cn-reference-case-chen-baoci-seal-snatching"
+      ]
+    },
+    {
+      "titleZh": "表见代表、越权行为与对外责任",
+      "titleEn": "Apparent representation, ultra vires conduct, and external liability",
+      "descriptionZh": "观察法院如何在公司内部授权瑕疵、登记公示、真实公章或假章、以及交易相对人善意之间作衡量，决定公司是否受合同或担保约束。",
+      "descriptionEn": "Shows how courts balance internal authorization defects, public registration, genuine or false seals, and third-party good faith when deciding whether the company is bound by a contract or guarantee.",
+      "caseIds": [
+        "cn-gazette-case-hk-xinjianye-representative-before-registration",
+        "cn-gazette-case-zhenbang-apparent-representation-guarantee",
+        "cn-database-case-false-seal-legal-representative-real-estate"
+      ]
+    },
+    {
+      "titleZh": "挂名法定代表人与法定代表人的法律责任",
+      "titleEn": "Nominal legal representatives and personal liability",
+      "descriptionZh": "汇集挂名法定代表人是否承担公司债务、法定代表人侵害公司利益是否需返还赔偿，以及法院如何把握法定代表人责任边界的案例。",
+      "descriptionEn": "Collects cases on whether nominal legal representatives bear company debt, when legal representatives must return or compensate for harm to the company, and how courts define the boundary of legal-representative liability.",
+      "caseIds": [
+        "cn-reference-case-nominal-legal-representative-name-seal-loan",
+        "cn-reference-case-shanxi-property-and-monitor-zhuyue",
+        "cn-reference-case-baolu-vehicle-reward-duty-boundary"
+      ]
+    }
+  ],
+  "comparisonRows": [
+    {
+      "labelZh": "公司对外代表结构",
+      "labelEn": "External representation structure",
+      "cn": "中国公司法上长期存在具有登记公示功能的法定代表人制度，外部交易和登记争议常围绕法定代表人身份、公章和营业执照展开。",
+      "hk": "香港公司法并无中国式法定代表人概念，更多依董事、授权签字人、公司秘书和公司注册资料来判断公司对外行为。",
+      "sg": "新加坡同样以董事会授权、签字安排和 ACRA 登记信息为主，不以单一“法定代表人”承担中国式的公示与代表双重功能。"
+    },
+    {
+      "labelZh": "公章与外观信赖",
+      "labelEn": "Seals and reliance on appearances",
+      "cn": "中国裁判实践中，真实公章、营业执照和法定代表人身份仍是交易外观的重要组成部分，但越来越强调不能机械地以是否盖章作为唯一标准。",
+      "hk": "香港更强调签字授权和表见授权，法团印章不是所有交易成立的必要条件。",
+      "sg": "新加坡也更重视签字权限、公司决议和相对人的合理信赖，印章的作用通常弱于中国实践。"
+    },
+    {
+      "labelZh": "内部瑕疵与外部保护",
+      "labelEn": "Internal defects and third-party protection",
+      "cn": "在中国公司法与民法典体系下，法院越来越倾向于区分内部治理瑕疵与外部交易保护，尤其通过表见代表和善意相对人分析来维护交易安全。",
+      "hk": "香港长期通过 indoor management rule 和 ostensible authority 保护善意第三人，同时保留公司内部追责空间。",
+      "sg": "新加坡亦倾向区分内部授权瑕疵与外部合同效力，对善意相对人的交易安全给予较强保护。"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { pickLocalized, toLocalePath, type Locale } from "@/lib/i18n";
+import { formatCaseCitationLabel } from "@/lib/labels";
+import { getPortalSnapshot } from "@/lib/portal-data";
+
+type Props = {
+  locale: Locale;
+  path: string;
+  id: string;
+};
+
+const { locale, path, id } = Astro.props;
+const snapshot = await getPortalSnapshot();
+const topic = snapshot.topics.find((item) => item.id === id);
+
+if (!topic) {
+  throw new Error(`Unknown topic id: ${id}`);
+}
+
+const lawMap = new Map(snapshot.laws.map((law) => [law.id, law]));
+const caseMap = new Map(snapshot.cases.map((record) => [record.id, record]));
+const articleMap = new Map(snapshot.articleLinks.map((item) => [item.id, item]));
+
+const laws = topic.relatedLawIds
+  .map((lawId) => lawMap.get(lawId))
+  .filter((law): law is NonNullable<typeof law> => Boolean(law));
+const cases = topic.relatedCaseIds
+  .map((caseId) => caseMap.get(caseId))
+  .filter((record): record is NonNullable<typeof record> => Boolean(record));
+const articles = topic.relatedArticleIds
+  .map((articleId) => articleMap.get(articleId))
+  .filter((item): item is NonNullable<typeof item> => Boolean(item));
+const caseGroups = (topic.caseGroups ?? [])
+  .map((group) => ({
+    ...group,
+    cases: group.caseIds
+      .map((caseId) => caseMap.get(caseId))
+      .filter((record): record is NonNullable<typeof record> => Boolean(record))
+  }))
+  .filter((group) => group.cases.length > 0);
+const groupedCaseIds = new Set(caseGroups.flatMap((group) => group.cases.map((record) => record.id)));
+const remainingCases = cases.filter((record) => !groupedCaseIds.has(record.id));
+const isCsrTopic = topic.id === "corporate-social-responsibility";
+---
+
+<BaseLayout
+  locale={locale}
+  path={path}
+  titleZh={topic.nameZh}
+  titleEn={topic.nameEn}
+  descriptionZh={topic.descriptionZh}
+  descriptionEn={topic.descriptionEn}
+>
+  <section class="hero">
+    <span class="eyebrow">
+      {isCsrTopic ? (locale === "zh" ? "CSR专题" : "CSR topic") : locale === "zh" ? "专题页" : "Topic page"}
+    </span>
+    <h1 class="page-title">{pickLocalized(locale, topic.nameZh, topic.nameEn)}</h1>
+    <p class="lede">{pickLocalized(locale, topic.descriptionZh, topic.descriptionEn)}</p>
+  </section>
+
+  <section class="section">
+    <div class="section-head">
+      <div>
+        <span class="eyebrow">{locale === "zh" ? "对照表" : "Comparison table"}</span>
+        <h2>{locale === "zh" ? "中港新核心差异" : "China-HK-Singapore comparison"}</h2>
+      </div>
+    </div>
+    <table class="comparison-table">
+      <thead>
+        <tr>
+          <th>{locale === "zh" ? "主题" : "Issue"}</th>
+          <th>{locale === "zh" ? "中国" : "China"}</th>
+          <th>{locale === "zh" ? "香港" : "Hong Kong"}</th>
+          <th>{locale === "zh" ? "新加坡" : "Singapore"}</th>
+        </tr>
+      </thead>
+      <tbody>
+        {topic.comparisonRows.map((row) => (
+          <tr>
+            <td>{pickLocalized(locale, row.labelZh, row.labelEn)}</td>
+            <td>{row.cn}</td>
+            <td>{row.hk ?? "—"}</td>
+            <td>{row.sg ?? "—"}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </section>
+
+  <section class="detail-shell">
+    <div class="detail-main">
+      <section class="panel card">
+        <h2>{locale === "zh" ? "相关法规" : "Related law records"}</h2>
+        <div class="relation-list">
+          {laws.length > 0 ? (
+            laws.map((law) => (
+              <a href={toLocalePath(locale, `/laws/${law.id}/`)}>{pickLocalized(locale, law.titleZh, law.titleEn)}</a>
+            ))
+          ) : (
+            <span>{locale === "zh" ? "这一专题暂未挂接法规条目。" : "No law records have been linked to this topic yet."}</span>
+          )}
+        </div>
+      </section>
+      <section class="panel card">
+        <h2>{locale === "zh" ? "相关案例" : "Related cases"}</h2>
+        {caseGroups.length > 0 || remainingCases.length > 0 ? (
+          <div class="topic-case-groups">
+            {caseGroups.map((group) => (
+              <section class="topic-case-group">
+                <div class="topic-case-group-head">
+                  <h3>{pickLocalized(locale, group.titleZh, group.titleEn)}</h3>
+                  {group.descriptionZh || group.descriptionEn ? (
+                    <p>{pickLocalized(locale, group.descriptionZh ?? "", group.descriptionEn ?? "")}</p>
+                  ) : null}
+                </div>
+                <div class="topic-case-grid">
+                  {group.cases.map((record) => (
+                    <a class="topic-case-card" href={toLocalePath(locale, `/cases/${record.id}/`)}>
+                      <strong>{pickLocalized(locale, record.titleZh, record.titleEn)}</strong>
+                      <span class="topic-case-meta">
+                        {formatCaseCitationLabel(locale, record.citation)} ·{" "}
+                        {pickLocalized(locale, record.forumZh, record.forumEn)}
+                      </span>
+                      <span>{pickLocalized(locale, record.holdingZh, record.holdingEn)}</span>
+                    </a>
+                  ))}
+                </div>
+              </section>
+            ))}
+            {remainingCases.length > 0 ? (
+              <section class="topic-case-group">
+                <div class="topic-case-group-head">
+                  <h3>{locale === "zh" ? "其他相关案例" : "Additional related cases"}</h3>
+                </div>
+                <div class="topic-case-grid">
+                  {remainingCases.map((record) => (
+                    <a class="topic-case-card" href={toLocalePath(locale, `/cases/${record.id}/`)}>
+                      <strong>{pickLocalized(locale, record.titleZh, record.titleEn)}</strong>
+                      <span class="topic-case-meta">
+                        {formatCaseCitationLabel(locale, record.citation)} ·{" "}
+                        {pickLocalized(locale, record.forumZh, record.forumEn)}
+                      </span>
+                      <span>{pickLocalized(locale, record.holdingZh, record.holdingEn)}</span>
+                    </a>
+                  ))}
+                </div>
+              </section>
+            ) : null}
+          </div>
+        ) : (
+            <div class="relation-list">
+              <span>{locale === "zh" ? "这一专题暂未挂接案例。" : "No cases have been linked to this topic yet."}</span>
+            </div>
+          )}
+      </section>
+    </div>
+
+    <aside class="detail-side">
+      <section class="panel card">
+        <h2>{locale === "zh" ? "延伸阅读" : "Further reading"}</h2>
+        <div class="relation-list">
+          {articles.length > 0 ? (
+            articles.map((item) => (
+              <a href={item.sourceUrl} target="_blank" rel="noreferrer">{pickLocalized(locale, item.titleZh, item.titleEn)}</a>
+            ))
+          ) : (
+            <span>{locale === "zh" ? "这一专题暂未补入延伸阅读链接。" : "No follow-up reading links have been added to this topic yet."}</span>
+          )}
+        </div>
+      </section>
+    </aside>
+  </section>
+</BaseLayout>
+
+<style>
+  .topic-case-groups {
+    display: grid;
+    gap: 1.5rem;
+  }
+
+  .topic-case-group {
+    display: grid;
+    gap: 0.9rem;
+  }
+
+  .topic-case-group-head {
+    display: grid;
+    gap: 0.35rem;
+  }
+
+  .topic-case-group-head h3 {
+    margin: 0;
+    font-size: 1.05rem;
+  }
+
+  .topic-case-group-head p {
+    margin: 0;
+    color: var(--ink-muted);
+    font-size: 0.95rem;
+  }
+
+  .topic-case-grid {
+    display: grid;
+    gap: 0.85rem;
+  }
+
+  .topic-case-card {
+    display: grid;
+    gap: 0.45rem;
+    padding: 1rem 1.1rem;
+    border-radius: 1rem;
+    border: 1px solid var(--line-soft);
+    background: rgba(255, 255, 255, 0.72);
+    text-decoration: none;
+    color: inherit;
+    transition:
+      transform 0.18s ease,
+      border-color 0.18s ease,
+      box-shadow 0.18s ease;
+  }
+
+  .topic-case-card:hover {
+    transform: translateY(-1px);
+    border-color: var(--accent);
+    box-shadow: 0 12px 30px rgba(69, 53, 31, 0.08);
+  }
+
+  .topic-case-card strong {
+    font-size: 1rem;
+  }
+
+  .topic-case-card span {
+    color: var(--ink-muted);
+    line-height: 1.65;
+  }
+
+  .topic-case-meta {
+    font-size: 0.88rem;
+  }
+</style>

@@ -1,0 +1,31 @@
+{
+  "titleZh": "Kam Leung Sui Kwan 诉 Kam Kwan Lai 等（Yung Kee Holdings）",
+  "titleEn": "Kam Leung Sui Kwan v Kam Kwan Lai and Others (Yung Kee Holdings)",
+  "forumZh": "香港终审法院",
+  "forumEn": "Hong Kong Court of Final Appeal",
+  "citation": "[2015] 18 HKCFAR 501",
+  "year": 2015,
+  "jurisdiction": "hk",
+  "caseType": "comparative-case",
+  "decisionType": "离岸控股公司清盘与少数股东救济",
+  "issuesZh": ["离岸控股公司清盘", "少数股东救济", "香港法院对外国公司管辖"],
+  "issuesEn": ["winding up offshore holding companies", "minority shareholder relief", "Hong Kong court jurisdiction over foreign companies"],
+  "holdingZh": "Yung Kee 案围绕家族公司争议展开，终审法院讨论香港法院对离岸控股公司的清盘管辖与少数股东救济路径，成为香港公司纠纷领域的代表性案例。",
+  "holdingEn": "The Yung Kee dispute became a leading Hong Kong authority on winding up offshore holding companies and the routes of minority relief, while clarifying the court's jurisdiction over foreign holding structures.",
+  "topics": ["shareholder-rights", "dissolution-liquidation", "comparative-governance"],
+  "relatedLawIds": ["hk-companies-ordinance-cap-622"],
+  "sources": [
+    {
+      "label": "Research platform",
+      "url": "https://www.hk-lawyer.org/content/yung-kee-case-court-final-appeal-decides",
+      "official": false,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Law firm analysis",
+      "url": "https://www.cliffordchance.com/content/dam/cliffordchance/briefings/2015/11/re-yung-kee-holdings-ltd-the-end-of-an-era.pdf",
+      "official": false,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

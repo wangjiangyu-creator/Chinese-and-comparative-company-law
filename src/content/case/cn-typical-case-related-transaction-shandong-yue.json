@@ -1,0 +1,38 @@
+{
+  "titleZh": "山东跃某胶带有限公司与优某橡胶有限公司、日本横某株式会社等公司关联交易损害责任纠纷案",
+  "titleEn": "Typical Case: Shandong Yue Belt Co., Ltd. v. Related-Party Transaction Defendants in a Sino-Foreign Joint Venture",
+  "forumZh": "最高人民法院依法保护外商投资权益典型案例",
+  "forumEn": "Supreme People's Court Typical Cases on Protecting Foreign Investment Rights",
+  "citation": "最高法典型案例：关联交易损害责任",
+  "year": 2025,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司关联交易损害责任纠纷",
+  "issuesZh": ["关联交易损害责任", "股东代表诉讼", "仲裁条款与公司诉权的衔接"],
+  "issuesEn": ["liability for harmful related-party transactions", "shareholder derivative action", "interaction between arbitration clauses and company-law judicial relief"],
+  "holdingZh": "在中外合资企业关联交易损害责任纠纷中，不能机械以合资合同中的仲裁条款排除公司法上的股东代表诉讼与司法救济。最高人民法院在提审后通过调解促成继续合作，强调应结合股东代表诉讼机制、关联方身份和持续经营需要，避免程序空转。",
+  "holdingEn": "In a harmful related-party-transaction dispute involving a Sino-foreign joint venture, an arbitration clause in the joint-venture contract should not be applied mechanically to displace company-law derivative-action and judicial-relief mechanisms. After taking the case for retrial, the Supreme People's Court promoted a mediated solution that preserved the parties' cooperation, emphasizing the need to consider derivative-suit mechanisms, the identity of the related parties, and business continuity rather than allowing procedure to become an empty loop.",
+  "topics": [
+    "corporate-governance",
+    "director-abuse",
+    "director-liability-litigation",
+    "actual-controller-tunneling",
+    "related-transaction-harm",
+    "shareholder-rights",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-5-2021",
+    "cn-spc-foreign-invested-enterprise-disputes-1-2021"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/451771.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

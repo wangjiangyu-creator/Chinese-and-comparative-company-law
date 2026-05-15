@@ -1,0 +1,49 @@
+{
+  "titleZh": "全国法院民商事审判工作会议纪要",
+  "titleEn": "Minutes of the National Courts Civil and Commercial Trial Work Conference",
+  "shortTitle": "全国法院民商事审判会议纪要",
+  "aliases": ["九民纪要"],
+  "jurisdiction": "cn",
+  "documentType": "judicial-policy",
+  "authorityLevel": "judicial-policy",
+  "issuingBodyZh": "最高人民法院",
+  "issuingBodyEn": "Supreme People's Court",
+  "promulgationDate": "2019-11-14",
+  "effectiveDate": "2019-11-14",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["registered-capital", "corporate-governance", "shareholder-rights", "dissolution-liquidation"],
+  "summaryZh": "虽然不是严格意义上的司法解释，但在公司、担保、对赌、清算等争议中仍是高频参考材料。",
+  "summaryEn": "Not a formal judicial interpretation, but still a high-frequency reference point in company, guarantee, VAM, and liquidation disputes.",
+  "versionGroup": "cn-nine-minutes",
+  "versionLabel": "2019 text",
+  "judicialMaterialClass": "spc-policy",
+  "relatedCaseIds": [
+    "cn-guiding-case-8-company-dissolution",
+    "cn-guiding-case-96-shareholder-status",
+    "cn-database-case-port-company-dissolution",
+    "cn-database-case-listed-buyback-vam-nanjing",
+    "cn-database-case-vam-shanghai-preemption-buyback",
+    "cn-reference-case-vam-zhongnan-ipo-restoration",
+    "cn-reference-case-vam-hu-xiufang-drawer",
+    "cn-reference-case-vam-huyue-neeq-delisting",
+    "cn-reference-case-vam-hanlin-guarantee",
+    "cn-reference-case-vam-huagong-buyback",
+    "cn-reference-case-vam-zhang-dongju-damages",
+    "cn-reference-case-vam-gaoci-neeq-invalid"
+  ],
+  "relatedArticleIds": [
+    "article-ssrn-legal-capital",
+    "article-hankun-foreign-investment-perspective"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/199691.html",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

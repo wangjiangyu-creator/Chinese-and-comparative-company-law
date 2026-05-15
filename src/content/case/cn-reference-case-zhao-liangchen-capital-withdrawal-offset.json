@@ -1,0 +1,33 @@
+{
+  "titleZh": "赵良臣与沈敏、海南盛德环凯置业有限公司追加被执行人执行异议之诉案",
+  "titleEn": "Reference Case: Zhao Liangchen v. Shen Min and Hainan Shengde Huankai Real Estate Co., Ltd.",
+  "forumZh": "最高人民法院",
+  "forumEn": "Supreme People's Court",
+  "citation": "最高法判决：抽逃出资后内部抵销不得对抗第三人",
+  "year": 2018,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "追加被执行人执行异议之诉",
+  "issuesZh": ["抽逃出资", "事后股东会内部抵销", "第三人对抗"],
+  "issuesEn": [
+    "withdrawal of capital contributions",
+    "post hoc internal set-off by shareholder resolution",
+    "opposability against third parties"
+  ],
+  "holdingZh": "股东在公司成立后将已缴出资迅速转回本人账户，且不能证明系依法用于公司经营的，构成抽逃出资。此后公司股东会作出以股东对公司垫款冲抵出资的内部决议，仅具有公司内部效力，不得对抗公司外部债权人，也不能作为该股东已补足出资的证据。",
+  "holdingEn": "Where a shareholder rapidly transfers paid-in capital back to a personal account after incorporation and cannot prove that the funds were lawfully used for the company's business, the conduct constitutes withdrawal of capital. A later shareholder resolution internally setting off loans against the contribution has only internal effect, cannot defeat outside creditors, and does not prove that the contribution was replenished.",
+  "topics": ["registered-capital", "corporate-governance", "shareholder-rights"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-3-2021"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.sdcourt.gov.cn/hzcwfy/382591/382564/5652414/index.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

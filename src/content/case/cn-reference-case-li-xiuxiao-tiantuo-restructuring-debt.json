@@ -1,0 +1,35 @@
+{
+  "titleZh": "李修孝诉山东天拓建设有限公司等民间借贷纠纷案",
+  "titleEn": "Reference Case: Li Xiuxiao v. Shandong Tiantuo Construction Co., Ltd. et al.",
+  "forumZh": "济南市历城区人民法院",
+  "forumEn": "Licheng District People's Court of Jinan",
+  "citation": "济南历城法院案例：集体企业改制后的债务承继",
+  "year": 2011,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "民间借贷纠纷",
+  "issuesZh": ["集体企业改制", "改制为有限责任公司", "原有债务承继", "企业更名与责任延续"],
+  "issuesEn": [
+    "collective-enterprise restructuring",
+    "conversion into a limited liability company",
+    "succession to legacy debt",
+    "continuity of liability after renaming"
+  ],
+  "holdingZh": "集体企业经改制、资产拍卖和更名后变更为有限责任公司的，如果新公司实际接续原企业的资产、资质和经营外观，原企业对外债务并不因改制或更名当然消灭。债权人有权依据改制的连续性主张新公司在承继范围内承担清偿责任。",
+  "holdingEn": "When a collective enterprise is restructured, its assets are auctioned, and it is renamed as a limited liability company, the predecessor's external debts do not automatically disappear if the new company in substance continues the predecessor's assets, qualifications, and business appearance. Creditors may invoke that continuity to seek payment from the new company within the scope of succession.",
+  "topics": ["corporate-reorganization", "business-environment"],
+  "relatedLawIds": [
+    "cn-civil-code-2020-legal-person",
+    "cn-company-law-2005",
+    "cn-company-law-2023",
+    "cn-market-entity-registration-regulations-2021"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.sdcourt.gov.cn/jnanlcqfy/379762/379763/566358/index.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

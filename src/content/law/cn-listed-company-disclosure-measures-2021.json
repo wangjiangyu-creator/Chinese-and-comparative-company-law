@@ -1,0 +1,47 @@
+{
+  "titleZh": "上市公司信息披露管理办法（2021年修订）",
+  "titleEn": "Measures for the Administration of Information Disclosure by Listed Companies",
+  "shortTitle": "信息披露管理办法",
+  "aliases": ["证监会令第182号"],
+  "jurisdiction": "cn",
+  "documentType": "departmental-rule",
+  "authorityLevel": "departmental-rule",
+  "issuingBodyZh": "中国证券监督管理委员会",
+  "issuingBodyEn": "China Securities Regulatory Commission",
+  "promulgationDate": "2021-03-18",
+  "effectiveDate": "2021-05-01",
+  "status": "effective",
+  "languageStatus": "official-zh-plus-reference-en",
+  "languages": ["zh", "en"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "disclosure", "corporate-governance"],
+  "summaryZh": "上市公司持续信息披露的基础规章，细化定期报告、临时报告、公平披露、自愿披露和内幕信息管理等核心义务。",
+  "summaryEn": "The foundational CSRC rule for continuous disclosure by listed companies, covering periodic reports, ad hoc reports, fair disclosure, voluntary disclosure, and insider-information controls.",
+  "versionGroup": "cn-listed-company-disclosure-measures",
+  "versionLabel": "2021 through-current text",
+  "previousVersionId": "cn-listed-company-disclosure-measures-2007",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official Chinese",
+      "url": "https://www.csrc.gov.cn/csrc/c106256/c1653948/content.shtml",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    },
+    {
+      "label": "Official release",
+      "url": "https://www.csrc.gov.cn/csrc/c101864/c2ee1a791fddc4f5ebeeb70aa8e2399cf/content.shtml",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    },
+    {
+      "label": "Official English (reference)",
+      "url": "https://www.csrc.gov.cn/csrc_en/c102030/c1372051/content.shtml",
+      "official": false,
+      "lastVerified": "2026-05-15",
+      "noteZh": "证监会英文站保留的是早期官方英文文本，可作为 2021 年修订版的官方英文参考。",
+      "noteEn": "The CSRC English site preserves an earlier official English version, used here as an official English reference for the 2021 revised text."
+    }
+  ]
+}

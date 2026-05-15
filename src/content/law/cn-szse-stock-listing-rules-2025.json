@@ -1,0 +1,32 @@
+{
+  "titleZh": "深圳证券交易所股票上市规则（2025年修订）",
+  "titleEn": "Shenzhen Stock Exchange Stock Listing Rules (2025 Revision)",
+  "shortTitle": "深交所股票上市规则",
+  "aliases": ["SZSE Listing Rules 2025"],
+  "jurisdiction": "cn",
+  "documentType": "exchange-rule",
+  "authorityLevel": "exchange-rule",
+  "issuingBodyZh": "深圳证券交易所",
+  "issuingBodyEn": "Shenzhen Stock Exchange",
+  "promulgationDate": "2025-04-25",
+  "effectiveDate": "2025-04-25",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "disclosure", "corporate-governance"],
+  "summaryZh": "深交所 2025 年修订后的上市规则与证监会治理准则配套，是深市上市公司治理的重要基础规则。",
+  "summaryEn": "The SZSE's 2025 revision works alongside the CSRC governance code and anchors Shenzhen market governance obligations.",
+  "versionGroup": "cn-szse-stock-listing-rules",
+  "versionLabel": "2025 revision",
+  "relatedCaseIds": ["cn-guiding-case-10-board-resolution-review"],
+  "relatedArticleIds": ["article-skadden-broad-reforms"],
+  "sources": [
+    {
+      "label": "Official exchange rule",
+      "url": "https://www.szse.cn/lawrules/rule/stock/supervision/mb/t20250425_613256.html",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

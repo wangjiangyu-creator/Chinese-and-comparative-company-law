@@ -1,0 +1,25 @@
+{
+  "titleZh": "Gelatine 案",
+  "titleEn": "Gelatine",
+  "forumZh": "德国联邦最高法院",
+  "forumEn": "German Federal Court of Justice",
+  "citation": "BGHZ 159, 30 (II ZR 154/02; II ZR 155/02, 2004)",
+  "year": 2004,
+  "jurisdiction": "de",
+  "caseType": "comparative-case",
+  "decisionType": "股东会保留事项与结构变更",
+  "issuesZh": ["Holzmüller 原则细化", "集团内部重组", "股东会同意边界"],
+  "issuesEn": ["refinement of the Holzmüller doctrine", "intra-group restructurings", "boundary of shareholder approval"],
+  "holdingZh": "Gelatine 对 Holzmüller 原则进行了细化，强调只有在结构性措施显著削弱股东核心权利地位时，才会触发股东会的非明文保留权限。",
+  "holdingEn": "Gelatine refined the Holzmüller doctrine, emphasizing that unwritten reserved shareholder powers arise only when a structural measure materially diminishes the shareholders' core position.",
+  "topics": ["corporate-reorganization", "shareholder-rights", "comparative-governance"],
+  "relatedLawIds": ["de-stock-corporation-act", "de-transformation-act"],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Datum=2004&Gericht=bgh&Seite=7&Sort=1024&anz=1303&pos=216",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

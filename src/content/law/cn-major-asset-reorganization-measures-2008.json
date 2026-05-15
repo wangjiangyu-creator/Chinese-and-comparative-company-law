@@ -1,0 +1,41 @@
+{
+  "titleZh": "上市公司重大资产重组管理办法（2008年制定）",
+  "titleEn": "Administrative Measures for Major Asset Reorganizations of Listed Companies (2008 Text)",
+  "shortTitle": "重大资产重组办法（2008）",
+  "aliases": ["证监会令第53号"],
+  "jurisdiction": "cn",
+  "documentType": "departmental-rule",
+  "authorityLevel": "departmental-rule",
+  "issuingBodyZh": "中国证券监督管理委员会",
+  "issuingBodyEn": "China Securities Regulatory Commission",
+  "promulgationDate": "2008-04-16",
+  "effectiveDate": "2008-05-18",
+  "status": "historical",
+  "languageStatus": "official-bilingual",
+  "languages": ["zh", "en"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "corporate-governance", "disclosure"],
+  "summaryZh": "上市公司重大资产重组规则体系的起点文本，确立重大资产重组认定、审核和信息披露的基本框架。",
+  "summaryEn": "The starting text of the listed-company major-asset-reorganization regime, establishing the basic framework for transaction qualification, review, and disclosure.",
+  "versionGroup": "cn-major-asset-reorganization-measures",
+  "versionLabel": "2008 text",
+  "nextVersionId": "cn-major-asset-reorganization-measures-2014",
+  "applicablePeriodZh": "2008年5月18日起施行，至 2014 年重大修订文本发布前构成并购重组基础规章。",
+  "applicablePeriodEn": "Effective from May 18, 2008, and served as the foundational M&A rule until the 2014 revision.",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official Chinese",
+      "url": "https://www.csrc.gov.cn/csrc/c101864/c1024605/content.shtml",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Official English",
+      "url": "https://www.csrc.gov.cn/csrc_en/c102030/c1371009/content.shtml",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

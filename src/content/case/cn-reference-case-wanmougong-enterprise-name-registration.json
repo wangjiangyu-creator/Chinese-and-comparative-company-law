@@ -1,0 +1,31 @@
+{
+  "titleZh": "万某宫（湖南）娱乐有限公司诉长沙市市场监督管理局行政裁决案",
+  "titleEn": "Reference Case: Wanmougong (Hunan) Entertainment Co., Ltd. v. Changsha Municipal Administration for Market Regulation",
+  "forumZh": "最高人民法院首批涉市场准入行政诉讼十大典型案例",
+  "forumEn": "SPC First Group of Ten Model Cases on Market-Access Administrative Litigation",
+  "citation": "最高法市场准入典型案例：企业名称争议",
+  "year": 2025,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "企业名称争议与变更登记行政争议",
+  "issuesZh": ["企业名称争议", "责令变更登记", "攀附商誉"],
+  "issuesEn": ["enterprise-name dispute", "order to change registration", "free-riding on business reputation"],
+  "holdingZh": "经营主体擅自将具有较高知名度的他人字号登记为企业名称并造成混淆风险的，市场监管机关可以依法作出企业名称争议裁决，责令其限期办理名称变更登记；法院对该类裁决予以支持，有助于维护公平竞争和稳定市场准入秩序。",
+  "holdingEn": "Where a business entity improperly registers as its enterprise name another party's highly distinctive trade name and creates a risk of confusion, the market regulator may lawfully decide the enterprise-name dispute and order a timely change of registration. Judicial support for such decisions helps maintain fair competition and stable market-entry order.",
+  "topics": ["corporate-formation"],
+  "relatedLawIds": [
+    "cn-enterprise-name-registration-regulations-2020",
+    "cn-enterprise-name-registration-implementation-measures-2023",
+    "cn-market-entity-registration-regulations-2021"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/456251.html",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "最高人民法院2025年3月3日发布的首批涉市场准入行政诉讼十大典型案例之一，第10案。",
+      "noteEn": "Case No. 10 in the SPC's first group of ten model administrative litigation cases on market access, released on March 3, 2025."
+    }
+  ]
+}

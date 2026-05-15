@@ -1,0 +1,29 @@
+{
+  "titleZh": "监事召集临时股东会并变更法定代表人案",
+  "titleEn": "Reference Case: Supervisor-Convened Temporary Shareholders' Meeting and Change of Legal Representative",
+  "forumZh": "上海市高级人民法院",
+  "forumEn": "Shanghai High People's Court",
+  "citation": "上海高院裁判文书：监事召集临时股东会与法定代表人变更",
+  "year": 2024,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司决议效力确认纠纷",
+  "issuesZh": ["监事召集临时股东会", "法定代表人任免", "内部决议与登记变更"],
+  "issuesEn": ["supervisor-convened temporary shareholders' meeting", "appointment and removal of legal representative", "internal resolutions versus registration change"],
+  "holdingZh": "在执行董事或原有治理机关未依法召集股东会的情况下，监事依公司法提议并召集临时股东会形成的决议，可以作为内部任免执行董事和法定代表人的有效依据。即便尚未完成工商变更登记，公司与股东之间关于法定代表人任免的内部争议，原则上仍应以有效股东会决议为准。",
+  "holdingEn": "Where the executive director or existing management organs fail to convene a shareholders' meeting lawfully, a temporary shareholders' meeting convened by the supervisor under the Company Law may validly serve as the internal basis for removing and appointing the executive director and legal representative. Even before registration is updated, internal disputes between the company and its shareholders should in principle be resolved by reference to the valid shareholder resolution.",
+  "topics": ["shareholder-rights", "corporate-governance", "legal-representative-and-seal-control"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.hshfy.sh.cn/shfy/web/flws_view.jsp?pa=adGFoPaOoMjAyNKOpu6YwMTE0w%2FGz9TI2MjEwusUmd3N4aD0yz",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

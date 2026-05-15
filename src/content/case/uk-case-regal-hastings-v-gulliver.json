@@ -1,0 +1,33 @@
+{
+  "titleZh": "Regal (Hastings) 诉 Gulliver",
+  "titleEn": "Regal (Hastings) Ltd v Gulliver",
+  "forumZh": "英国上议院",
+  "forumEn": "House of Lords",
+  "citation": "[1942] UKHL 1, [1967] 2 AC 134",
+  "year": 1942,
+  "jurisdiction": "uk",
+  "caseType": "comparative-case",
+  "decisionType": "董事获利返还与忠实义务",
+  "issuesZh": ["董事获利返还", "公司机会", "忠实义务"],
+  "issuesEn": ["account of directors' profits", "corporate opportunity", "duty of loyalty"],
+  "holdingZh": "Regal (Hastings) 是英国董事忠实义务的经典判例，强调董事只要因其受托地位取得利益，即使公司本身无法取得该利益且董事主观上善意，原则上仍须向公司返还收益。",
+  "holdingEn": "Regal (Hastings) is a classic U.K. fiduciary-duty case holding that directors who profit by reason of their fiduciary position must account to the company, even if the company could not itself have taken the opportunity and the directors acted in good faith.",
+  "topics": ["corporate-governance", "directors-officer-loyalty-and-duties", "comparative-governance"],
+  "relatedLawIds": ["uk-companies-act-2006"],
+  "sources": [
+    {
+      "label": "Research platform",
+      "url": "https://www.bailii.org/uk/cases/UKHL/1942/1.html",
+      "official": false,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Research platform",
+      "url": "https://www.bailii.org/openlaw/company.html",
+      "official": false,
+      "lastVerified": "2026-05-16",
+      "noteZh": "BAILII OpenLaw 公司法清单收录该案为领导性判例。",
+      "noteEn": "BAILII OpenLaw lists this as a leading company-law case."
+    }
+  ]
+}

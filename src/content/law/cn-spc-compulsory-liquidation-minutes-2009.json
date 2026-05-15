@@ -1,0 +1,43 @@
+{
+  "titleZh": "关于审理公司强制清算案件工作座谈会纪要",
+  "titleEn": "Minutes of the Symposium on Hearing Cases of Compulsory Company Liquidation",
+  "shortTitle": "公司强制清算纪要",
+  "aliases": ["法发〔2009〕52号", "强制清算纪要"],
+  "jurisdiction": "cn",
+  "documentType": "judicial-policy",
+  "authorityLevel": "judicial-policy",
+  "issuingBodyZh": "最高人民法院",
+  "issuingBodyEn": "Supreme People's Court",
+  "promulgationDate": "2009-11-04",
+  "effectiveDate": "2009-11-04",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["dissolution-liquidation", "shareholder-rights", "corporate-governance"],
+  "summaryZh": "在公司法司法解释（二）基础上细化强制清算程序、指定清算组、无法清算终结和清算义务人责任，是强制清算实务中的关键审判规则材料。",
+  "summaryEn": "A key adjudication-policy document that elaborates compulsory liquidation procedure, liquidation-team appointment, impossible-liquidation termination, and liability of liquidation obligors.",
+  "versionGroup": "cn-spc-compulsory-liquidation-minutes",
+  "versionLabel": "2009 text",
+  "judicialMaterialClass": "spc-policy",
+  "relatedCaseIds": [
+    "cn-guiding-case-8-company-dissolution",
+    "cn-guiding-case-9-liquidation-liability",
+    "cn-reference-case-closure-operator-liquidation-liability"
+  ],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/fabu/xiangqing/604.html",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    },
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/shenpan/xiangqing/432.html",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

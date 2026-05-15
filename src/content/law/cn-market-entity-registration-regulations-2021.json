@@ -1,0 +1,40 @@
+{
+  "titleZh": "中华人民共和国市场主体登记管理条例",
+  "titleEn": "Regulations on the Administration of Market Entity Registration of the People's Republic of China",
+  "shortTitle": "市场主体登记管理条例",
+  "aliases": ["国务院令第746号"],
+  "jurisdiction": "cn",
+  "documentType": "administrative-regulation",
+  "authorityLevel": "administrative-regulation",
+  "issuingBodyZh": "国务院",
+  "issuingBodyEn": "State Council",
+  "promulgationDate": "2021-07-27",
+  "effectiveDate": "2022-03-01",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["business-environment", "corporate-formation", "registered-capital"],
+  "summaryZh": "统一公司、合伙企业、个人独资企业等经营主体登记规则的基础性行政法规，也是公司登记和市场准入专题的主轴文本之一。",
+  "summaryEn": "The baseline State Council regulation unifying registration rules for companies, partnerships, sole proprietorships, and other market entities, making it a core text for company-registration research.",
+  "versionGroup": "cn-market-entity-registration-regulations",
+  "versionLabel": "Order No. 746",
+  "relatedCaseIds": [
+    "cn-database-case-change-registration-chen-moufei",
+    "cn-reference-case-spring-auto-establishment-registration",
+    "cn-reference-case-limou-financing-lease-scope-registration",
+    "cn-reference-case-wanmougong-enterprise-name-registration"
+  ],
+  "relatedArticleIds": [
+    "article-cms-company-law-2024",
+    "article-china-briefing-revised-company-law"
+  ],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://www.gov.cn/gongbao/content/2021/content_5636139.htm",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

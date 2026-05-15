@@ -1,0 +1,36 @@
+{
+  "titleZh": "2019年度上海法院金融商事审判白皮书",
+  "titleEn": "2019 White Paper on Financial and Commercial Adjudication in Shanghai Courts",
+  "shortTitle": "上海法院金融商事审判白皮书",
+  "aliases": ["2019年度金融商事审判白皮书"],
+  "jurisdiction": "cn",
+  "documentType": "judicial-policy",
+  "authorityLevel": "judicial-policy",
+  "issuingBodyZh": "上海市高级人民法院",
+  "issuingBodyEn": "Shanghai High People's Court",
+  "promulgationDate": "2020-05-15",
+  "effectiveDate": "2020-05-15",
+  "status": "reference",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "disclosure", "corporate-governance"],
+  "summaryZh": "通报上海法院金融商事案件和证券虚假陈述案件的审判趋势、裁判难点和制度创新，是研究上市公司、信息披露和证券民事责任的重要地方审判资料。",
+  "summaryEn": "An official Shanghai High Court white paper summarizing trends, hard issues, and institutional innovation in financial-commercial and securities-misrepresentation adjudication.",
+  "versionGroup": "sh-high-court-financial-commercial-white-paper",
+  "versionLabel": "2020 text",
+  "judicialMaterialClass": "local-high-court-report",
+  "relatedCaseIds": [
+    "cn-database-case-listed-buyback-vam-nanjing",
+    "cn-gazette-case-listed-shareholding-shenyin"
+  ],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.hshfy.sh.cn/shfy/web/xxnr.jsp?pa=aaWQ9MjAxNzAxNzgmeGg9MSZsbWRtPWxtMTcxz&zd=xwzx",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "nameZh": "美国",
+  "nameEn": "United States",
+  "emphasisZh": "美国部分以特拉华公司法、MBCA 和公司治理原则为中心，突出董事义务、并购审查与监督责任的判例法传统。",
+  "emphasisEn": "The United States section focuses on Delaware corporate law, the MBCA, and governance principles, with special attention to fiduciary duties, M&A review, and oversight doctrine.",
+  "recordPriority": ["law", "case", "articleLink"],
+  "featuredLawIds": [
+    "us-delaware-general-corporation-law",
+    "us-model-business-corporation-act",
+    "us-ali-principles-corporate-governance",
+    "us-securities-exchange-act-1934",
+    "us-sarbanes-oxley-act-2002"
+  ],
+  "featuredCaseIds": [
+    "us-case-smith-v-van-gorkom",
+    "us-case-unocal-v-mesa",
+    "us-case-revlon-v-macandrews",
+    "us-case-in-re-caremark",
+    "us-case-weinberger-v-uop",
+    "us-case-kahn-v-mfw",
+    "us-case-sinclair-oil-v-levien"
+  ],
+  "featuredArticleIds": [
+    "article-pbook-folk-delaware-general-corporation-law",
+    "article-aba-mbca-at-75",
+    "article-oup-anatomy-of-corporate-law",
+    "article-pbook-comparative-company-law",
+    "article-pbook-genius-american-corporate-law"
+  ],
+  "officialPortals": [
+    {
+      "label": "Official release",
+      "url": "https://www.americanbar.org/groups/business_law/resources/model-business-corporation-act/",
+      "noteZh": "MBCA / ABA",
+      "noteEn": "MBCA / ABA",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Official release",
+      "url": "https://corp.delaware.gov/delaw/",
+      "noteZh": "特拉华公司法",
+      "noteEn": "Delaware corporate laws",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Official release",
+      "url": "https://www.govinfo.gov/app/collection/comps",
+      "noteZh": "联邦证券法",
+      "noteEn": "Federal securities laws",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Official release",
+      "url": "https://www.sec.gov/rules-regulations",
+      "noteZh": "SEC 规则与监管",
+      "noteEn": "SEC rules and regulation",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

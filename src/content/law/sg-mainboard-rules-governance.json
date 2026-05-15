@@ -1,0 +1,32 @@
+{
+  "titleZh": "新加坡交易所主板上市规则（治理条款）",
+  "titleEn": "SGX Mainboard Rules (Governance Provisions)",
+  "shortTitle": "SGX 主板规则",
+  "aliases": ["Rule 710", "Mainboard Rules"],
+  "jurisdiction": "sg",
+  "documentType": "exchange-rule",
+  "authorityLevel": "exchange-rule",
+  "issuingBodyZh": "新加坡交易所",
+  "issuingBodyEn": "Singapore Exchange",
+  "promulgationDate": "2019-01-01",
+  "effectiveDate": "2019-01-01",
+  "status": "reference",
+  "languageStatus": "official-en",
+  "languages": ["en"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "corporate-governance", "disclosure"],
+  "summaryZh": "SGX Rule 710 将治理守则嵌入年报披露义务，是比较中国交易所持续治理框架的好抓手。",
+  "summaryEn": "SGX Rule 710 embeds the governance code into annual-report disclosure obligations, making it a strong comparison point for Chinese exchange governance.",
+  "versionGroup": "sg-mainboard-rules",
+  "versionLabel": "current rulebook",
+  "relatedCaseIds": ["sg-case-goh-jin-hian-directors-duties"],
+  "relatedArticleIds": ["article-pbook-walter-woon-company-law"],
+  "sources": [
+    {
+      "label": "Official exchange rule",
+      "url": "https://rulebook.sgx.com/rulebook/mainboard-rules",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

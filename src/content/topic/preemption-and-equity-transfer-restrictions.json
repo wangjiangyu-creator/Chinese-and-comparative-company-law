@@ -1,0 +1,93 @@
+{
+  "nameZh": "股东优先购买权与股权转让限制",
+  "nameEn": "Pre-emption Rights and Equity Transfer Restrictions",
+  "descriptionZh": "聚焦有限责任公司股权对外转让中的优先购买权、同等条件判断、名义股东与实际出资人显名、章程或协议中的转让限制，以及担保性股权安排的识别。",
+  "descriptionEn": "Tracks pre-emption rights in external share transfers, the meaning of equal conditions, nominee-shareholding and beneficial-owner regularization, charter-based transfer restrictions, and the identification of security-oriented share arrangements.",
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-3-2021",
+    "cn-spc-company-law-interpretation-4-2017",
+    "cn-spc-foreign-invested-enterprise-disputes-1-2021",
+    "hk-companies-ordinance-cap-622",
+    "sg-companies-act-1967"
+  ],
+  "relatedCaseIds": [
+    "cn-gazette-case-preemption-zhongjing",
+    "cn-gazette-case-xinaote-huarong-preemption-contract-validity",
+    "cn-gazette-case-zhang-guiping-founder-transfer-restriction",
+    "cn-gazette-case-beneficial-owner-zhang-jianzhong",
+    "cn-gazette-case-kunming-oke-equity-security-status",
+    "cn-gazette-case-listed-shareholding-shenyin",
+    "cn-gazette-case-fabricated-shareholder-meeting-zhang-yanjuan",
+    "cn-database-case-equity-security-nominee-vote",
+    "cn-database-case-lv-gansu-investment-shareholder-status",
+    "cn-database-case-transfer-agreement-shareholder-inspection",
+    "cn-guiding-case-96-shareholder-status"
+  ],
+  "relatedArticleIds": [
+    "article-china-briefing-revised-company-law",
+    "article-skadden-broad-reforms"
+  ],
+  "caseGroups": [
+    {
+      "titleZh": "优先购买权、同等条件与合同效力",
+      "titleEn": "Pre-emption, equal terms, and contract validity",
+      "descriptionZh": "这一组先看有限责任公司对外转让股权时，其他股东的优先购买权如何与受让第三人的合同利益发生冲突。重点问题包括“同等条件”的判断、产权交易场所程序是否计入同等条件，以及优先购买权被行使后转让合同是否当然无效。",
+      "descriptionEn": "This group focuses on how shareholder pre-emption rights in external transfers interact with the contract interests of outside transferees, including the meaning of equal terms, whether exchange procedures count as part of those terms, and whether exercise of pre-emption automatically defeats the contract.",
+      "caseIds": [
+        "cn-gazette-case-preemption-zhongjing",
+        "cn-gazette-case-xinaote-huarong-preemption-contract-validity",
+        "cn-gazette-case-fabricated-shareholder-meeting-zhang-yanjuan"
+      ]
+    },
+    {
+      "titleZh": "发起人股份、章程限制与转让边界",
+      "titleEn": "Founder shares, charter restrictions, and transfer boundaries",
+      "descriptionZh": "这一组处理股权转让限制的另一面：并非所有限制都直接使协议无效。法院会区分法定锁定期、初始章程中的“人走股留”安排，以及过渡期托管、经营管理约定是否已经构成被法律禁止的实际转让。",
+      "descriptionEn": "This group addresses the other side of transfer restrictions. Not every restriction automatically invalidates an agreement. Courts distinguish statutory lock-up periods, initial charter clauses that tie shares to personal status, and whether interim custody or management arrangements amount to a prohibited completed transfer.",
+      "caseIds": [
+        "cn-gazette-case-zhang-guiping-founder-transfer-restriction",
+        "cn-guiding-case-96-shareholder-status"
+      ]
+    },
+    {
+      "titleZh": "代持显名、实际出资人与受让资格",
+      "titleEn": "Nominee holdings, beneficial investors, and transferee qualification",
+      "descriptionZh": "这一组聚焦谁有资格要求办理股东显名或承认转让结果。法院通常会把实际出资人与名义股东之间的内部安排，与有限责任公司对外转让的同意规则、股份有限公司的流通属性、以及工商登记和股东名册的内外效力区分开来。",
+      "descriptionEn": "This group examines who may demand registration or recognition of a transfer. Courts usually distinguish internal nominee arrangements from LLC consent rules for outside transfers, the freer transferability of joint-stock shares, and the different effects of registration and internal shareholder records.",
+      "caseIds": [
+        "cn-gazette-case-beneficial-owner-zhang-jianzhong",
+        "cn-database-case-lv-gansu-investment-shareholder-status",
+        "cn-database-case-transfer-agreement-shareholder-inspection",
+        "cn-gazette-case-listed-shareholding-shenyin"
+      ]
+    },
+    {
+      "titleZh": "让与担保、名义登记与股东权利边界",
+      "titleEn": "Security transfers, nominal registration, and the limits of shareholder rights",
+      "descriptionZh": "最后一组集中处理“名为转让、实为担保”的案件。即使受让方取得名义登记，也不当然取得完整股东权利；法院会围绕资金流向、回转条件、公司控制和真实意思表示，判断其是否只是担保权人而非真正股东。",
+      "descriptionEn": "The final group collects cases in which a transfer is only nominal and actually functions as security. Even where the transferee is registered in name, the court may conclude that it remains merely a secured party rather than a full shareholder by looking at fund flows, re-transfer conditions, control over the company, and the parties' real intent.",
+      "caseIds": [
+        "cn-gazette-case-kunming-oke-equity-security-status",
+        "cn-database-case-equity-security-nominee-vote"
+      ]
+    }
+  ],
+  "comparisonRows": [
+    {
+      "labelZh": "闭锁公司中的转让控制",
+      "labelEn": "Transfer control in closely held companies",
+      "cn": "中国有限责任公司法制长期把人合性和对外转让控制放在核心位置，优先购买权与其他股东同意机制长期是闭锁公司治理的重要部分。",
+      "hk": "香港更常通过章程细化私人公司股份转让限制和董事会审批机制，而不是全国统一的优先购买权框架。",
+      "sg": "新加坡私人公司同样更依赖章程条款、股份类别设计和合同安排来控制转让。"
+    },
+    {
+      "labelZh": "同等条件与名义持股争议",
+      "labelEn": "Equal terms and nominee-shareholding disputes",
+      "cn": "中国判例已明确，同等条件既可能包含价格，也可能包含场内交易程序条件；而实际出资人显名和担保性股权安排，还要接受公司法上股权转让规则的约束。",
+      "hk": "香港更强调章程、信托或代持安排本身的效力及其与公司记录的对应关系。",
+      "sg": "新加坡则更多通过公司文件、受益安排和股权交易文件来判断谁能主张转让或控制权利益。"
+    }
+  ]
+}

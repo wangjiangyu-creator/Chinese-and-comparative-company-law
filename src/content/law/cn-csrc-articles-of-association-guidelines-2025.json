@@ -1,0 +1,44 @@
+{
+  "titleZh": "上市公司章程指引",
+  "titleEn": "Guidelines for the Articles of Association of Listed Companies",
+  "shortTitle": "上市公司章程指引",
+  "aliases": ["证监会公告〔2025〕6号"],
+  "jurisdiction": "cn",
+  "documentType": "departmental-rule",
+  "authorityLevel": "departmental-rule",
+  "issuingBodyZh": "中国证券监督管理委员会",
+  "issuingBodyEn": "China Securities Regulatory Commission",
+  "promulgationDate": "2025-03-28",
+  "effectiveDate": "2025-03-28",
+  "status": "effective",
+  "languageStatus": "official-zh-plus-reference-en",
+  "languages": ["zh", "en"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "corporate-governance", "shareholder-rights"],
+  "summaryZh": "与公司法和治理准则联动，具体化上市公司章程中的董事会、审计委员会和股东会规则。",
+  "summaryEn": "Operationalizes how listed-company articles should reflect the Company Law, board structure, and committee design.",
+  "versionGroup": "cn-csrc-articles-of-association-guidelines",
+  "versionLabel": "2025 revision",
+  "previousVersionId": "cn-csrc-articles-of-association-guidelines-2022",
+  "relatedCaseIds": ["cn-guiding-case-10-board-resolution-review"],
+  "relatedArticleIds": [
+    "article-cms-company-law-2024",
+    "article-hankun-foreign-investment-perspective"
+  ],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://www.csrc.gov.cn/csrc/c101954/c7547791/content.shtml",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    },
+    {
+      "label": "Official English (reference)",
+      "url": "https://www.csrc.gov.cn/csrc_en/c102034/c1372457/content.shtml",
+      "noteZh": "证监会英文站公开的是同名旧版英文文本，可作为 2025 年修订版的官方英文参考。",
+      "noteEn": "The CSRC English site hosts an earlier official English version under the same title, used here as an official English reference for the 2025 revision.",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

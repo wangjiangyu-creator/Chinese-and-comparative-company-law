@@ -1,0 +1,29 @@
+{
+  "titleZh": "孙某诉上海某贸易公司股东知情权纠纷案",
+  "titleEn": "Reference Case: Sun Mou v. a Shanghai Trading Company",
+  "forumZh": "上海市奉贤区人民法院",
+  "forumEn": "Shanghai Fengxian District People's Court",
+  "citation": "奉贤法院案例：孙某查账不正当目的",
+  "year": 2023,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股东知情权纠纷",
+  "issuesZh": ["不正当目的抗辩", "实质性竞争关系", "财务报告与账簿查阅范围"],
+  "issuesEn": ["improper-purpose defense", "substantial competitive relationship", "scope of access to reports and books"],
+  "holdingZh": "股东虽可反复请求查阅财务会计报告，但对会计账簿和会计凭证的查阅仍受不正当目的限制。若股东本人或其近亲属控制的关联企业与目标公司在核心产品、客户和市场上存在实质性竞争关系，法院可以认定其查账请求具有不正当目的，从而驳回账簿和会计凭证查阅请求。",
+  "holdingEn": "A shareholder may renew a request to inspect financial reports, but access to accounting books and vouchers remains subject to the improper-purpose limitation. Where the shareholder or close relatives control an affiliated business that competes substantially with the target company in products, customers, and market, the court may find an improper purpose and deny inspection of books and vouchers.",
+  "topics": ["shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.hshfy.sh.cn/shfy/web/xxnr.jsp?pa=aaWQ9MTAyMDMyOTM1MyZ4aD0xJmxtZG09bG01MTkPdcssz",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

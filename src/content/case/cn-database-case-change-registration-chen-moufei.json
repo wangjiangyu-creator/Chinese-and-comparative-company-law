@@ -1,0 +1,35 @@
+{
+  "titleZh": "陈某飞诉上海某装饰有限公司及第三人章某林等请求变更公司登记纠纷案",
+  "titleEn": "Database Case: Chen Moufei v. Shanghai Decoration Company and Zhang Moulin et al.",
+  "forumZh": "人民法院案例库（最高人民法院审核入库）",
+  "forumEn": "People's Court Case Database (reviewed by the Supreme People's Court)",
+  "citation": "入库编号2024-08-2-264-001",
+  "year": 2025,
+  "jurisdiction": "cn",
+  "caseType": "database-case",
+  "decisionType": "请求变更公司登记纠纷",
+  "issuesZh": ["法定代表人辞任", "涤除登记", "内部救济穷尽"],
+  "issuesEn": ["resignation of legal representative", "removal from registration", "exhaustion of internal remedies"],
+  "holdingZh": "法定代表人与董事基于委任关系可以单方辞任，辞任通知送达公司时即生效。公司未在合理期限内完成变更登记、辞任人已穷尽公司法和章程赋予的内部救济后，法院可以判令公司办理变更或涤除登记。",
+  "holdingEn": "A legal representative or director may unilaterally resign from the underlying mandate relationship, with effect upon delivery of notice to the company. If the company fails to update registration within a reasonable period and internal remedies are exhausted, a court may order the company to change or remove the registration.",
+  "topics": [
+    "legal-representative-and-seal-control",
+    "corporate-formation",
+    "corporate-governance",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-civil-code-2020-legal-person",
+    "cn-samr-company-registration-implementation-measures-2024"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.sdcourt.gov.cn/dyzy/resource/cms/article/372898/41025337/2025062008295655073.pdf",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

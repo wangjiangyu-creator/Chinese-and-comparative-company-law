@@ -1,0 +1,30 @@
+{
+  "titleZh": "德国艾某国际货运代理有限公司与北京艾某国际货运代理有限公司公司解散纠纷案",
+  "titleEn": "Typical Case: German A International Freight Forwarding Co., Ltd. v. Beijing A International Freight Forwarding Co., Ltd.",
+  "forumZh": "最高人民法院依法保护外商投资权益典型案例",
+  "forumEn": "Supreme People's Court Typical Cases on Protecting Foreign Investment Rights",
+  "citation": "最高法典型案例：公司僵局解散",
+  "year": 2025,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司解散纠纷",
+  "issuesZh": ["公司僵局", "司法解散", "中外合资公司治理结构"],
+  "issuesEn": ["corporate deadlock", "judicial dissolution", "governance structure of a Sino-foreign joint venture"],
+  "holdingZh": "判断公司经营管理是否发生严重困难，应重点审查公司组织机构是否长期失灵并形成无法消解的内部障碍。对于章程设计导致双方董事一有分歧即无法形成有效决议、公司长期不能召开董事会并已无其他救济途径的中外合资公司，人民法院可以判决解散公司。",
+  "holdingEn": "Whether a company's operation and management have entered a state of serious difficulty should be judged primarily by whether the corporate organs have suffered a prolonged breakdown creating irresolvable internal obstacles. Where a Sino-foreign joint venture's articles mean that any disagreement blocks valid board action, the board cannot meet for a long period, and no other remedy can break the deadlock, a court may order judicial dissolution.",
+  "topics": ["dissolution-liquidation", "corporate-governance", "shareholder-rights"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-2-2020",
+    "cn-spc-foreign-invested-enterprise-disputes-1-2021"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/451771.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

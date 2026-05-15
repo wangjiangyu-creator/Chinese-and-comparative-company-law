@@ -1,0 +1,46 @@
+{
+  "titleZh": "最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（三）（2020年第二次修正）",
+  "titleEn": "SPC Interpretation (III) on Several Issues Concerning the Application of the Company Law (2020 Second Revision)",
+  "shortTitle": "公司法司法解释（三）",
+  "aliases": ["法释〔2011〕3号", "2020年第二次修正", "现行文本"],
+  "jurisdiction": "cn",
+  "documentType": "judicial-interpretation",
+  "authorityLevel": "judicial-interpretation",
+  "issuingBodyZh": "最高人民法院",
+  "issuingBodyEn": "Supreme People's Court",
+  "promulgationDate": "2020-12-29",
+  "effectiveDate": "2021-01-01",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["corporate-formation", "registered-capital", "shareholder-rights"],
+  "summaryZh": "现行文本以2011年原始解释为基础，吸收2014年和2020年两次修正，持续规范公司设立、出资、抽逃出资、股权确认和名义股东争议，是公司资本与股东资格争议的核心现行司法解释。",
+  "summaryEn": "The current text builds on the 2011 interpretation and incorporates the 2014 and 2020 revisions, remaining the central operative interpretation on company formation, contribution, capital withdrawal, equity confirmation, and nominee-shareholding disputes.",
+  "versionGroup": "cn-spc-company-law-interpretation-3",
+  "versionLabel": "2021 through-current text",
+  "previousVersionId": "cn-spc-company-law-interpretation-3-2011",
+  "relatedCaseIds": [
+    "cn-database-case-foreign-invested-capital-contribution",
+    "cn-guiding-case-96-shareholder-status",
+    "cn-reference-case-shareholder-debt-setoff-contribution",
+    "cn-gazette-case-dilutive-capital-increase",
+    "cn-gazette-case-beneficial-owner-zhang-jianzhong",
+    "cn-gazette-case-shareholder-expulsion-liu-meifang"
+  ],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/3da4e92fb4866e5d5e86617a099b15.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/fabu/xiangqing/282631.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

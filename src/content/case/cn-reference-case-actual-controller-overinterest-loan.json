@@ -1,0 +1,43 @@
+{
+  "titleZh": "宏达公司与马某珍公司利益损失返还纠纷",
+  "titleEn": "Hongda Co., Ma Somezhen Interest Overcharge Compensation Dispute",
+  "forumZh": "江苏省南京市六合区人民法院（一级）和南京市中级人民法院（复审）",
+  "forumEn": "Nanjing Liuhe District People's Court (first instance) and Nanjing Intermediate People's Court (appeal)",
+  "citation": "（2022）苏0116民初3207号；（2022）苏01民终14970号",
+  "year": 2022,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "损害公司利益责任纠纷",
+  "issuesZh": ["实际控制人利用关联关系", "高管关联交易", "董监高失信与过错认定", "赔偿范围界定"],
+  "issuesEn": [
+    "actual controller misuse of affiliated-party transactions",
+    "executive related-party financing",
+    "good faith and diligence standard for directors/supervisors",
+    "scope of compensation"
+  ],
+  "holdingZh": "案件中，宏达公司监事兼实际控制人马某飞通过控制关系向其姐姐马某珍借款并设置高利率，再用于归还凯旋公司欠款。上级法院在终审中强调，关联关系中的不当损害仍需兼顾侵权构成要件与实际商业效果；单纯存在高息融资并不足以当然认定损害公司利益，案中未证明其行为具备法定过错，故终审改判撤销一审，驳回原告关于马某飞赔偿的请求。",
+  "holdingEn": "In this dispute, the first-instance court held the actual controller/supervisory duty breach created a claim for interest loss, but the appellate court reversed. It ruled that a mere high-interest related-party loan was not automatically illegal where the transaction was part of a viable company financing choice and no sufficient fault was proved for abusing control; therefore the claim for the controller's compensation was dismissed.",
+  "topics": [
+    "corporate-governance",
+    "director-abuse",
+    "director-liability-litigation",
+    "actual-controller-tunneling",
+    "related-transaction-harm",
+    "shareholder-rights",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-2-2020",
+    "cn-spc-company-law-interpretation-5-2021"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.sdcourt.gov.cn/dyzy/372897/372899/19489231/index.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

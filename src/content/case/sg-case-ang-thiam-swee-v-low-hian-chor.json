@@ -1,0 +1,30 @@
+{
+  "titleZh": "Ang Thiam Swee 诉 Low Hian Chor",
+  "titleEn": "Ang Thiam Swee v. Low Hian Chor",
+  "forumZh": "新加坡上诉庭",
+  "forumEn": "Court of Appeal of Singapore",
+  "citation": "[2013] SGCA 11",
+  "year": 2013,
+  "jurisdiction": "sg",
+  "caseType": "comparative-case",
+  "decisionType": "派生诉讼许可与善意标准",
+  "issuesZh": ["法定派生诉讼许可", "股东善意标准", "公司利益判断"],
+  "issuesEn": ["leave for statutory derivative actions", "good-faith requirement", "assessment of the company's interests"],
+  "holdingZh": "Ang Thiam Swee 对《公司法》第216A条的许可门槛作出系统阐释，强调申请人的主观动机本身并非决定性因素，关键在于拟提起的派生诉讼是否真实服务于公司利益，并要求将善意与公司利益两个要件联动审查。",
+  "holdingEn": "Ang Thiam Swee gave a leading account of the leave threshold under s 216A of the Companies Act, stressing that motive alone is not decisive; the key question is whether the proposed derivative action genuinely serves the company's interests, with good faith and corporate benefit assessed together.",
+  "topics": [
+    "corporate-governance",
+    "shareholder-rights",
+    "comparative-governance",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": ["sg-companies-act-1967"],
+  "sources": [
+    {
+      "label": "Official English",
+      "url": "https://www.elitigation.sg/gd/gd/2013_SGCA_11/pdf",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

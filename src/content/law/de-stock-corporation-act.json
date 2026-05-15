@@ -1,0 +1,47 @@
+{
+  "titleZh": "德国《股份公司法》",
+  "titleEn": "German Stock Corporation Act (AktG)",
+  "shortTitle": "德国股份公司法",
+  "aliases": ["AktG", "Aktiengesetz"],
+  "jurisdiction": "de",
+  "documentType": "statute",
+  "authorityLevel": "comparative-statute",
+  "issuingBodyZh": "德国联邦司法部 / 联邦法律信息平台",
+  "issuingBodyEn": "Federal Ministry of Justice / Gesetze im Internet",
+  "promulgationDate": "1965-09-06",
+  "effectiveDate": "1965-09-06",
+  "status": "reference",
+  "languageStatus": "official-en",
+  "languages": ["en"],
+  "textStatus": "metadata-only",
+  "topics": ["corporate-governance", "shareholder-rights", "listed-companies", "comparative-governance"],
+  "summaryZh": "AktG 是德国股份公司和两层董事会结构的核心法典，也是理解股东会保留事项、监事会监督和集团法问题的基础文本。",
+  "summaryEn": "The AktG is the core statute for German stock corporations and the two-tier board structure, and the main starting point for reserved shareholder powers, supervisory-board oversight, and group-law questions.",
+  "versionGroup": "de-aktg",
+  "versionLabel": "current act",
+  "relatedCaseIds": ["de-case-holzmuller", "de-case-arag-garmenbeck", "de-case-gelatine", "de-case-macrotron"],
+  "relatedArticleIds": [
+    "article-pbook-corporate-law-in-germany",
+    "article-cambridge-comparative-company-law",
+    "article-cambridge-german-company-law-developments",
+    "article-pbook-comparative-company-law"
+  ],
+  "sources": [
+    {
+      "label": "Official English (reference)",
+      "url": "https://www.gesetze-im-internet.de/englisch_aktg/index.html",
+      "official": true,
+      "lastVerified": "2026-05-16",
+      "noteZh": "联邦司法部英文译本，并提示德文本可能更新更快。",
+      "noteEn": "Federal Ministry of Justice English translation; the German text may be updated more quickly."
+    },
+    {
+      "label": "Official release",
+      "url": "https://www.gesetze-im-internet.de/aktg/BJNR010890965.html",
+      "official": true,
+      "lastVerified": "2026-05-16",
+      "noteZh": "德文现行文本。",
+      "noteEn": "Current German text."
+    }
+  ]
+}

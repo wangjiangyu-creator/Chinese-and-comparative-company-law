@@ -1,0 +1,32 @@
+{
+  "titleZh": "郑州利宝塑业有限公司与郑州民生塑料制板实业有限公司公司分立纠纷案",
+  "titleEn": "Reference Case: Zhengzhou Libao Plastics Co., Ltd. v. Zhengzhou Minsheng Plastic Sheet Industrial Co., Ltd.",
+  "forumZh": "河南省郑州市中级人民法院",
+  "forumEn": "Zhengzhou Intermediate People's Court of Henan Province",
+  "citation": "(2013)郑民三终字第1121号",
+  "year": 2013,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司分立纠纷",
+  "issuesZh": ["存续分立后的土地分割", "分立协议中的税费分担", "口头约定的证明责任", "分立后费用结算"],
+  "issuesEn": [
+    "land allocation after a continuation split",
+    "tax and fee allocation in a split agreement",
+    "burden of proving oral understandings",
+    "post-split expense settlement"
+  ],
+  "holdingZh": "在公司存续分立并分割土地使用权后，如果分立协议和补充协议只明确了土地、补偿款和拆迁利益的分配，而未明确登记、转让税费的承担方式，已经垫付税费的一方不能仅凭口头约定主张按比例分摊。公司分立中的费用、税负和结算规则需要在分立协议中明确写明，否则主张方将承担证据不足的不利后果。",
+  "holdingEn": "After a continuation split and the division of land-use rights, where the split agreement and supplemental agreement allocate land, compensation, and demolition proceeds but do not specify who bears registration and transfer taxes, the party that prepaid those taxes cannot compel proportionate sharing based solely on an alleged oral understanding. Fees, taxes, and settlement mechanics arising from a corporate split should be stated expressly in the split agreement; otherwise the claimant bears the consequence of insufficient proof.",
+  "topics": ["corporate-reorganization", "business-environment"],
+  "relatedLawIds": ["cn-company-law-2005", "cn-company-law-2023", "cn-civil-code-2020-legal-person"],
+  "sources": [
+    {
+      "label": "Publisher page",
+      "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/070168-01.pdf",
+      "noteZh": "清华大学出版社《公司法学（下）》第13章案例13-11，载明二审案号与分立协议履行争点；原判词作删节改编。",
+      "noteEn": "Tsinghua University Press, Company Law II, Chapter 13, Case 13-11, reproducing the appellate case number and the key dispute over performance of the split agreement in condensed form.",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

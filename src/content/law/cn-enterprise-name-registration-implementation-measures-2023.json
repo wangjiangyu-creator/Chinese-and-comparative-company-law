@@ -1,0 +1,32 @@
+{
+  "titleZh": "企业名称登记管理规定实施办法",
+  "titleEn": "Implementation Measures for the Provisions on the Registration and Administration of Enterprise Names",
+  "shortTitle": "企业名称登记管理规定实施办法",
+  "aliases": ["市场监管总局令第82号"],
+  "jurisdiction": "cn",
+  "documentType": "departmental-rule",
+  "authorityLevel": "departmental-rule",
+  "issuingBodyZh": "国家市场监督管理总局",
+  "issuingBodyEn": "State Administration for Market Regulation",
+  "promulgationDate": "2023-08-29",
+  "effectiveDate": "2023-10-01",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["business-environment", "corporate-formation"],
+  "summaryZh": "细化企业名称禁限用、相同相近比对、争议裁决和登记机关职责，是企业名称审查与纠纷处理的现行操作规则。",
+  "summaryEn": "The current SAMR rule detailing prohibited and restricted wording, similarity review, name disputes, and registrar responsibilities for enterprise-name administration.",
+  "versionGroup": "cn-enterprise-name-registration-implementation-measures",
+  "versionLabel": "Order No. 82",
+  "relatedCaseIds": ["cn-reference-case-wanmougong-enterprise-name-registration"],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_1e269e76abdb405ab5253b7c78e45f6a.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

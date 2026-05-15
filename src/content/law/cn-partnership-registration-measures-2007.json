@@ -1,0 +1,34 @@
+{
+  "titleZh": "中华人民共和国合伙企业登记管理办法（2007年修订）",
+  "titleEn": "Measures of the People's Republic of China for the Registration of Partnership Enterprises (2007 Revision)",
+  "shortTitle": "合伙企业登记管理办法（2007）",
+  "aliases": ["国务院令第497号"],
+  "jurisdiction": "cn",
+  "documentType": "administrative-regulation",
+  "authorityLevel": "administrative-regulation",
+  "issuingBodyZh": "国务院",
+  "issuingBodyEn": "State Council",
+  "promulgationDate": "2007-05-09",
+  "effectiveDate": "2007-06-01",
+  "status": "historical",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["partnership-enterprises", "corporate-formation"],
+  "summaryZh": "2007年配合新《合伙企业法》施行而修订的登记办法，吸纳有限合伙与新设登记要求，是现行版本链的第一轮系统修订。",
+  "summaryEn": "The 2007 revision aligned the registration regime with the revised Partnership Enterprise Law, including limited-partnership and updated filing requirements.",
+  "versionGroup": "cn-partnership-registration-measures",
+  "versionLabel": "2007 revision",
+  "previousVersionId": "cn-partnership-registration-measures-1997",
+  "nextVersionId": "cn-partnership-registration-measures-2014",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://www.gov.cn/gongbao/content/2007/content_660398.htm",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

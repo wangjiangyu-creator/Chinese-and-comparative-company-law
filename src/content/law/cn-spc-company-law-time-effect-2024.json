@@ -1,0 +1,46 @@
+{
+  "titleZh": "最高人民法院关于适用《中华人民共和国公司法》时间效力的若干规定",
+  "titleEn": "SPC Provisions on the Temporal Application of the Company Law",
+  "shortTitle": "公司法时间效力规定",
+  "aliases": ["法释〔2024〕7号"],
+  "jurisdiction": "cn",
+  "documentType": "judicial-interpretation",
+  "authorityLevel": "judicial-interpretation",
+  "issuingBodyZh": "最高人民法院",
+  "issuingBodyEn": "Supreme People's Court",
+  "promulgationDate": "2024-06-29",
+  "effectiveDate": "2024-07-01",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "selected-excerpt",
+  "topics": ["registered-capital", "corporate-governance", "dissolution-liquidation"],
+  "summaryZh": "处理新旧公司法衔接的关键司法解释，第一版收录其总则、有利溯及规则和生效条款摘录。",
+  "summaryEn": "The core transition interpretation for old/new Company Law questions, excerpted here for temporal-application rules and commencement.",
+  "versionGroup": "cn-spc-company-law-time-effect",
+  "versionLabel": "2024 initial text",
+  "relatedCaseIds": [
+    "cn-guiding-case-8-company-dissolution",
+    "cn-guiding-case-10-board-resolution-review",
+    "cn-guiding-case-96-shareholder-status"
+  ],
+  "relatedArticleIds": [
+    "article-cms-company-law-2024",
+    "article-skadden-broad-reforms"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/436481.html",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ],
+  "texts": {
+    "zh": {
+      "path": "law/zh/cn-spc-company-law-time-effect-2024.json",
+      "label": "Official court release",
+      "official": true
+    }
+  }
+}

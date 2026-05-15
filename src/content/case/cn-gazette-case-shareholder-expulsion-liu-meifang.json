@@ -1,0 +1,35 @@
+{
+  "titleZh": "刘美芳诉常州凯瑞化学科技有限公司等公司决议效力确认纠纷案",
+  "titleEn": "Gazette Case: Liu Meifang v. Changzhou Kairui Chemical Technology Co., Ltd. et al.",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "公报案例：股东除名决议",
+  "year": 2018,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司决议效力确认纠纷",
+  "issuesZh": ["股东除名", "抽逃出资", "除名决议效力"],
+  "issuesEn": ["shareholder expulsion", "capital withdrawal", "validity of expulsion resolution"],
+  "holdingZh": "有限责任公司股东未履行出资义务或者抽逃全部出资，经催告后仍未补正的，公司可以依法以股东会决议解除其股东资格；但在参与表决的股东本身同样存在虚假出资或抽逃全部出资时，该部分股东行使除名表决权不具合法性基础，相关除名决议应认定无效。",
+  "holdingEn": "A limited liability company may expel a shareholder by resolution if that shareholder still fails to cure full non-contribution or full capital withdrawal after demand, but the resolution is invalid where the voting shareholders themselves also engaged in sham contribution or total withdrawal and therefore lack a legitimate basis to wield expulsion power.",
+  "topics": [
+    "registered-capital",
+    "shareholder-rights",
+    "corporate-governance",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-3-2021",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/64f3fab544d8d5fe0164ed38a39c94.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

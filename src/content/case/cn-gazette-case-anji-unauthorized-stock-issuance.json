@@ -1,0 +1,40 @@
+{
+  "titleZh": "上海市浦东新区人民检察院诉上海安基生物科技股份有限公司、郑戈擅自发行股票案",
+  "titleEn": "Gazette Case: Shanghai Pudong New Area People's Procuratorate v. Shanghai Anji Biotechnology Co., Ltd. and Zheng Ge",
+  "forumZh": "最高人民法院公报 / 上海市浦东新区人民法院",
+  "forumEn": "Supreme People's Court Gazette / Shanghai Pudong New Area People's Court",
+  "citation": "公报案例：非上市股份公司向社会公众转让股权构成擅自发行股票",
+  "year": 2009,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "擅自发行股票罪",
+  "issuesZh": [
+    "非上市股份有限公司向社会公众转让股票",
+    "变相公开发行的认定",
+    "股东累计超过二百人的判断",
+    "股票发行与一般股权转让的界分"
+  ],
+  "issuesEn": [
+    "public transfer of shares by an unlisted joint-stock company",
+    "identification of disguised public offerings",
+    "the significance of shareholder counts exceeding 200",
+    "the boundary between stock issuance and ordinary share transfer"
+  ],
+  "holdingZh": "非上市股份有限公司为了筹资，通过中介机构或者个人以公开推介、广告宣传等方式，向社会不特定对象转让本公司自然人股东股份，或者虽表面上针对特定对象但累计股东人数超过二百人的，本质上属于未经批准向社会公众发行股票，而非普通民事意义上的股权转让。公司及直接负责的主管人员因此可能构成擅自发行股票罪。",
+  "holdingEn": "Where an unlisted joint-stock company raises funds by using intermediaries or individuals to publicly market transfers of its shareholders' shares to unspecified members of the public, or where the purportedly targeted transfers lead to more than 200 shareholders, the conduct is treated in substance as an unapproved public stock offering rather than an ordinary private share transfer. The company and its directly responsible managers may therefore commit the crime of unauthorized stock issuance.",
+  "topics": ["listed-companies", "disclosure", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-1999",
+    "cn-company-law-2005",
+    "cn-securities-law-1998",
+    "cn-securities-law-2005"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/2a9e093fa65916956ea3c73430d8f3.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "titleZh": "上海某流体设备技术有限公司诉施某某损害公司利益责任纠纷案",
+  "titleEn": "Shanghai Fluid Equipment Technology Co., Ltd. v. Shi Moumou: Loss to the Company",
+  "forumZh": "人民法院案例库（转引）",
+  "forumEn": "People's Court Case Database (derived entry)",
+  "citation": "入库编号2023-08-2-276-003",
+  "year": 2021,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "损害公司利益责任纠纷",
+  "issuesZh": ["董事、高级管理人员忠实义务", "商业机会归属", "内幕交易与利益冲突"],
+  "issuesEn": ["loyalty duties of directors and senior managers", "corporate business opportunity", "conflict of interest and private diversion"],
+  "holdingZh": "总经理、董事不得利用职务便利将本应归属于公司经营机会私自转移给关联主体并据此牟利；一旦构成利用职务身份谋取商业机会、损害公司利益，应认定构成侵权并承担赔偿责任。该案强调商业机会归属判断时应结合公司的经营范围与实质经营努力。",
+  "holdingEn": "A director or senior manager may not use inside position and company resources to divert a business opportunity that belongs to the company for personal gain. Once the opportunity is shown to be within the company’s real business scope and efforts, private diversion to an affiliated entity is a breach of loyalty and results in compensation liability.",
+  "topics": [
+    "corporate-governance",
+    "director-abuse",
+    "director-liability-litigation",
+    "actual-controller-tunneling",
+    "related-transaction-harm",
+    "shareholder-rights",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017",
+    "cn-civil-code-2020-legal-person"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://rmfyalk.court.gov.cn/dist/view/content.html?id=fZejNMSA67y1FTHXJ2xVW5fN1t57qB49hjSq%252BPyd074%253D&lib=ck",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "titleZh": "上海磐某商业经营管理公司诉吴某梅公司证照返还纠纷案",
+  "titleEn": "Database Case: Shanghai Pan Commercial Operation Management Company v. Wu Moumei",
+  "forumZh": "人民法院案例库（最高人民法院审核入库）",
+  "forumEn": "People's Court Case Database (reviewed by the Supreme People's Court)",
+  "citation": "入库编号2024-08-2-272-001",
+  "year": 2025,
+  "jurisdiction": "cn",
+  "caseType": "database-case",
+  "decisionType": "公司证照返还纠纷",
+  "issuesZh": ["法定代表人与公司公章分离", "公司证照返还", "证照保管规则缺失"],
+  "issuesEn": [
+    "separation between the legal representative and control of the company seal",
+    "return of company certificates",
+    "absence of internal rules on custody of corporate certificates"
+  ],
+  "holdingZh": "在法定代表人与公司公章分离的情况下，法定代表人签署起诉状并实施诉讼行为，应视为公司的诉讼行为。公司对证照保管没有特别规定时，法定代表人属于公司证照的法定和当然管理人，有权请求占有人返还营业执照、公章、财务章、法定代表人印章、账册及合同等公司证照资料。",
+  "holdingEn": "Where the legal representative and the company seal are controlled separately, litigation acts carried out by the legal representative in the company's name are attributable to the company. In the absence of special internal rules on custody, the legal representative is the default lawful custodian of the company's certificates and may demand the return of the business license, company seal, finance seal, legal-representative seal, books, and contracts.",
+  "topics": [
+    "legal-representative-and-seal-control",
+    "corporate-governance",
+    "corporate-formation"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2018",
+    "cn-company-law-2023",
+    "cn-civil-code-2020-legal-person"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.sdcourt.gov.cn/dyzy/resource/cms/article/372898/39957872/2025052609411528004.pdf",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

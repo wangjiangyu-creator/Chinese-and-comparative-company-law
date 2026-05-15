@@ -1,0 +1,31 @@
+{
+  "titleZh": "Holzmüller 案",
+  "titleEn": "Holzmüller",
+  "forumZh": "德国联邦最高法院",
+  "forumEn": "German Federal Court of Justice",
+  "citation": "BGHZ 83, 122 (II ZR 174/80, 1982)",
+  "year": 1982,
+  "jurisdiction": "de",
+  "caseType": "comparative-case",
+  "decisionType": "股东会保留事项与结构变更",
+  "issuesZh": ["股东会保留事项", "重大资产转移", "结构性变更与股东参与"],
+  "issuesEn": ["reserved powers of the general meeting", "transfer of substantial assets", "shareholder participation in structural change"],
+  "holdingZh": "Holzmüller 开创了德国公司法中的非明文股东会保留事项理论：当管理层采取重大结构性措施，深刻影响股东权利与利益时，应回归股东会决定。",
+  "holdingEn": "Holzmüller launched the German doctrine of unwritten reserved shareholder powers, requiring general-meeting involvement when management undertakes structural measures that profoundly affect shareholder rights and interests.",
+  "topics": ["corporate-reorganization", "shareholder-rights", "comparative-governance"],
+  "relatedLawIds": ["de-stock-corporation-act", "de-transformation-act"],
+  "sources": [
+    {
+      "label": "Research platform",
+      "url": "https://www.anwalt24.de/urteile/bgh/1982-02-25/ii-zr-174_80",
+      "official": false,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Law firm analysis",
+      "url": "https://www.roedl.com/en/insights/holzmueller-doctrine-in-international-corporations-part-1-olg-cologne-judgment/",
+      "official": false,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

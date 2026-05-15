@@ -1,0 +1,25 @@
+{
+  "titleZh": "指导案例23号：孙银山诉南京欧尚超市有限公司江宁店买卖合同纠纷案",
+  "titleEn": "Guiding Case No. 23: Sun Yinshan v. Nanjing Auchan Supermarket Co., Ltd., Jiangning Store",
+  "forumZh": "最高人民法院",
+  "forumEn": "Supreme People's Court",
+  "citation": "指导案例23号",
+  "year": 2014,
+  "jurisdiction": "cn",
+  "caseType": "guiding-case",
+  "decisionType": "买卖合同纠纷",
+  "issuesZh": ["食品安全惩罚性赔偿", "消费者明知购买", "经营者销售过期食品"],
+  "issuesEn": ["punitive damages for food safety", "consumer knowingly purchasing unsafe food", "sale of expired food by operator"],
+  "holdingZh": "消费者购买到不符合食品安全标准的食品，请求经营者或者生产者承担十倍赔偿责任的，不因其购买时是否明知食品存在安全问题而受到限制。",
+  "holdingEn": "A consumer's claim for tenfold food-safety damages is not defeated by proof that the consumer knowingly purchased food that failed to meet safety standards.",
+  "topics": ["corporate-social-responsibility"],
+  "relatedLawIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/shenpan/xiangqing/13326.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "titleZh": "青岛克罗恩化学有限公司与张志远股东知情权纠纷案",
+  "titleEn": "Reference Case: Qingdao Kron Chemical Co., Ltd. v. Zhang Zhiyuan",
+  "forumZh": "青岛市中级人民法院",
+  "forumEn": "Qingdao Intermediate People's Court",
+  "citation": "青岛中院案例：张志远诉克罗恩公司股东知情权",
+  "year": 2020,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股东知情权纠纷",
+  "issuesZh": ["不正当目的抗辩", "实质性竞争关系", "注册会计师辅助查阅"],
+  "issuesEn": ["improper-purpose defense", "substantial competitive relationship", "inspection assisted by certified accountants"],
+  "holdingZh": "公司以股东自营或关联公司经营相近业务为由抗辩知情权时，应证明存在实质性竞争关系和损害公司利益的风险。证明不足的，股东不仅可以查阅章程、股东会记录和财务会计报告，还可以查阅会计账簿、原始凭证等会计凭证，并在本人在场时由负有保密义务的专业人员辅助查阅。",
+  "holdingEn": "When a company resists inspection on the ground that the shareholder or an affiliate runs a similar business, it must prove a substantial competitive relationship and a real risk of harm to the company. Failing that, the shareholder may inspect not only the charter, meeting records, and financial reports, but also accounting books and underlying vouchers, with professional assistance under confidentiality obligations while the shareholder is present.",
+  "topics": ["shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.sdcourt.gov.cn/qdzy/yshj/dxal3861/bhzxtzz83/7870289/index.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

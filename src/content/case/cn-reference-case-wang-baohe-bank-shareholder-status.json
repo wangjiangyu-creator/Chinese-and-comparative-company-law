@@ -1,0 +1,31 @@
+{
+  "titleZh": "汪某与某银行股东资格确认纠纷案",
+  "titleEn": "Reference Case: Wang Mou v. Bank Shareholder Status Dispute",
+  "forumZh": "合肥市包河区人民法院（中小投资者权益保护典型案例）",
+  "forumEn": "Baohe District People's Court of Hefei (investor-protection model case)",
+  "citation": "包河法院典型案例：商业银行股东资格继受",
+  "year": 2023,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股东资格确认纠纷",
+  "issuesZh": ["继受取得股份", "商业银行股东资格", "监管准入条件"],
+  "issuesEn": ["succession to shares", "shareholder status in a commercial bank", "regulatory eligibility"],
+  "holdingZh": "因清算分配、继承或其他继受方式取得股份的主体，仍可依据公司法主张确认股东资格，但法院须同时审查行业监管规则是否设置特别准入条件。对不涉及持股比例重大变化且现行监管并未禁止自然人成为相应银行股东的情形，可以确认其股东资格并要求记载于股东名册。",
+  "holdingEn": "A person who acquires shares through liquidation distribution, inheritance, or another mode of succession may still seek recognition as a shareholder under company law, but the court must also examine any sector-specific regulatory eligibility rules. Where the transfer does not trigger a major shareholding-change threshold and current regulation does not bar natural-person shareholding, the court may recognize the status and require entry in the shareholder register.",
+  "topics": ["shareholder-rights", "corporate-governance", "business-environment"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-3-2021"
+  ],
+  "sources": [
+    {
+      "label": "Publisher page",
+      "url": "https://m.thepaper.cn/newsDetail_forward_24371155",
+      "noteZh": "包河区人民法院官方澎湃号发布。",
+      "noteEn": "Published through the Baohe District Court official ThePaper account.",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

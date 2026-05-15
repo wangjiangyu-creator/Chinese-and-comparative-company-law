@@ -1,0 +1,39 @@
+{
+  "titleZh": "陈保慈、广东佛山青上肥料制造有限公司诉陈生贵侵权责任纠纷案",
+  "titleEn": "Reference Case: Chen Baoci and Qingshang Fertilizer v. Chen Shengui",
+  "forumZh": "广东省佛山市中级人民法院判决书（国际商事法庭转载）",
+  "forumEn": "Foshan Intermediate People's Court judgment (republished by the International Commercial Court)",
+  "citation": "（2019）粤06民终10354号",
+  "year": 2019,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "侵权责任纠纷",
+  "issuesZh": ["抢夺并拒不返还公司公章", "伪造股东会决议", "非法变更法定代表人"],
+  "issuesEn": [
+    "snatching and withholding the company seal",
+    "forged shareholder resolutions",
+    "unlawful change of the legal representative"
+  ],
+  "holdingZh": "原控制人通过伪造股东会文件、抢夺并控制公司公章、申请变更法定代表人等方式干预公司治理并侵害公司经营管理权的，应承担侵权责任。其取走公司公章且拒不返还的行为于法无据；即使公司已对该印章作遗失或作废处理，也不消灭返还请求和停止侵害的必要。",
+  "holdingEn": "A former controller who interferes with corporate governance and infringes the company's management rights by forging shareholder documents, seizing and controlling the company seal, and seeking to change the legal representative should bear tort liability. Taking the company seal and refusing to return it has no legal basis, and the need for return and injunctive relief does not disappear merely because the company later reports the seal lost or void.",
+  "topics": [
+    "legal-representative-and-seal-control",
+    "corporate-governance",
+    "shareholder-rights"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2013",
+    "cn-company-law-2018",
+    "cn-company-registration-regulations-2014"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://cicc.court.gov.cn/html/1/218/347/329/333/12848.html",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "国际商事法庭转载佛山中院二审判决书，明确记载抢夺公章、伪造决议和申请变更法定代表人的事实。",
+      "noteEn": "Republished Foshan appellate judgment on the CICC site expressly describing the seal seizure, forged resolutions, and legal-representative change attempt."
+    }
+  ]
+}

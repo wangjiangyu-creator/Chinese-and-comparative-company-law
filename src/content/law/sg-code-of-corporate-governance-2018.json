@@ -1,0 +1,32 @@
+{
+  "titleZh": "新加坡《公司治理守则（2018）》",
+  "titleEn": "Singapore Code of Corporate Governance 2018",
+  "shortTitle": "新加坡公司治理守则",
+  "aliases": ["Code of Corporate Governance 2018"],
+  "jurisdiction": "sg",
+  "documentType": "regulatory-code",
+  "authorityLevel": "regulatory-code",
+  "issuingBodyZh": "新加坡金融管理局 / 新加坡交易所规则体系",
+  "issuingBodyEn": "Monetary Authority of Singapore / SGX Rulebook",
+  "promulgationDate": "2018-08-06",
+  "effectiveDate": "2019-01-01",
+  "status": "reference",
+  "languageStatus": "official-en",
+  "languages": ["en"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "corporate-governance", "disclosure"],
+  "summaryZh": "新加坡治理守则与 SGX Rule 710 相互勾连，是比较上市治理披露义务的关键入口。",
+  "summaryEn": "The Code, read with SGX Rule 710, is a key entry point for Singapore listed-company governance and annual-report disclosure.",
+  "versionGroup": "sg-code-of-corporate-governance",
+  "versionLabel": "2018 code as revised in rulebook",
+  "relatedCaseIds": ["sg-case-ho-yew-kong-sakae", "sg-case-goh-jin-hian-directors-duties", "sg-case-miao-weiguo-reflective-loss"],
+  "relatedArticleIds": ["article-pbook-walter-woon-company-law"],
+  "sources": [
+    {
+      "label": "Official English",
+      "url": "https://rulebook.sgx.com/rulebook/code-corporate-governance-2018",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

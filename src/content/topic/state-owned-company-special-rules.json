@@ -1,0 +1,72 @@
+{
+  "nameZh": "国家出资公司与国有股权特别规则",
+  "nameEn": "State-Invested Companies and State-Owned Equity Special Rules",
+  "descriptionZh": "本专题聚焦《公司法》中国家出资公司、国有独资公司和国有股权处分所形成的特殊裁判规则，重点覆盖履行出资人职责机构的权力边界、国有产权进场交易、国有股权转让审批、国有法人股无偿划转、国有资本金安排与债权人保护。页面优先放入最高人民法院公报案例，并把国有资产监管程序与公司法内部治理、股东自治和债权人救济放在同一研究路径下阅读。",
+  "descriptionEn": "This topic collects Chinese case law on the special rules governing state-invested companies, wholly state-owned companies, and the disposal of state-owned equity, with emphasis on the boundaries of state-investor powers, mandatory exchange procedures, approval duties, gratuitous transfers of state-owned legal-person shares, state-capital arrangements, and creditor protection.",
+  "relatedLawIds": [
+    "cn-company-law-2005",
+    "cn-company-law-2018",
+    "cn-company-law-2023",
+    "cn-civil-code-2020-legal-person",
+    "sz-wholly-state-owned-company-regulations-1999"
+  ],
+  "relatedCaseIds": [
+    "cn-gazette-case-bafeite-state-owned-off-market-transfer-invalid",
+    "cn-gazette-case-preemption-zhongjing",
+    "cn-gazette-case-biaobang-anshan-bank-share-transfer",
+    "cn-gazette-case-changcheng-jilin-gratuitous-transfer-creditor-protection",
+    "cn-gazette-case-fengfeng-state-capital-loan-boundary"
+  ],
+  "relatedArticleIds": [],
+  "caseGroups": [
+    {
+      "titleZh": "国有产权进场交易、同等条件与场外交易无效",
+      "titleEn": "Exchange procedures, equal terms, and invalid off-market transfers",
+      "descriptionZh": "这一组先看国有股权处分进入产权交易场所之后，程序规则如何反过来塑造公司法上的股东权利和合同效力。重点争点包括老股东优先购买权中的“同等条件”是否包含摘牌、保证金等程序要求，以及绕开产权交易机构的场外交易是否因损害社会公共利益而无效。",
+      "descriptionEn": "This group examines how exchange-based state-asset procedures reshape shareholder rights and contract validity, including whether \"equal terms\" for pre-emption include bid-entry and deposit requirements and whether off-market transfers are invalid for harming the public interest.",
+      "caseIds": [
+        "cn-gazette-case-preemption-zhongjing",
+        "cn-gazette-case-bafeite-state-owned-off-market-transfer-invalid"
+      ]
+    },
+    {
+      "titleZh": "国有股权转让审批、报批义务与缔约责任",
+      "titleEn": "Approval duties, reporting obligations, and contractual liability in state-owned share transfers",
+      "descriptionZh": "这一组聚焦金融企业等特殊领域中的国有股权转让审批。即使合同尚待批准生效，出让方也不能以审批未完成为由任意反悔；其在已形成明确交易安排后消极报批、转卖他人的，仍可能承担缔约过失责任和交易机会损失责任。",
+      "descriptionEn": "This group focuses on approval requirements for state-owned share transfers, especially in regulated sectors such as financial enterprises. Even where approval remains a condition to effectiveness, the transferor may still owe pre-contractual liability for failing to pursue approval in good faith and for diverting the transaction.",
+      "caseIds": [
+        "cn-gazette-case-biaobang-anshan-bank-share-transfer"
+      ]
+    },
+    {
+      "titleZh": "无偿划转、国家出资人行权与债权人保护",
+      "titleEn": "Gratuitous transfers, state-investor action, and creditor protection",
+      "descriptionZh": "这一组处理最具张力的一类案件：履行出资人职责机构主导或批准的国有股权无偿划转，与公司债权人保护之间如何衔接。法院一方面承认国家出资人依法行权的特殊性，另一方面也会审查受让方是否明知债务风险而协助转移核心资产、逃废债务，并据此配置赔偿责任。",
+      "descriptionEn": "This group addresses the tension between gratuitous transfers directed or approved by state-investor authorities and the protection of company creditors. Courts recognize the special role of the state as investor, but still examine whether the transferee knowingly assisted in moving core assets and evading debt.",
+      "caseIds": [
+        "cn-gazette-case-changcheng-jilin-gratuitous-transfer-creditor-protection"
+      ]
+    },
+    {
+      "titleZh": "国家资本金安排、出资人职能与民事受案边界",
+      "titleEn": "State capital arrangements, investor functions, and the civil-case boundary",
+      "descriptionZh": "最后一组关注国家资本金和出资人职能的政策配置如何进入公司与合同纠纷。法院会区分单纯的政府行政性调整划转，和已经形成特定债权债务关系、应由特定国家出资企业承接的民事法律关系，从而决定案件是否受理以及责任由谁承担。",
+      "descriptionEn": "The final group looks at how policy arrangements concerning state capital and investor functions affect corporate and contractual disputes. Courts distinguish purely administrative reallocations from civil relationships in which a designated state-invested enterprise has taken over the relevant debt-credit position.",
+      "caseIds": [
+        "cn-gazette-case-fengfeng-state-capital-loan-boundary"
+      ]
+    }
+  ],
+  "comparisonRows": [
+    {
+      "labelZh": "履行出资人职责机构与一般股东自治",
+      "labelEn": "State-investor authority versus ordinary shareholder autonomy",
+      "cn": "中国裁判会把国家出资公司中的国资监管程序、政府批准和履行出资人职责机构的决定，与一般有限责任公司中以章程、股东会和董事会为中心的内部自治区分开来审查。"
+    },
+    {
+      "labelZh": "国有股权程序规则与公司法救济的衔接",
+      "labelEn": "Interaction between state-owned equity procedures and Company Law remedies",
+      "cn": "在国有股权转让、无偿划转和国家资本金安排中，法院通常不会只按普通合同逻辑处理，而是把产权交易、审批、出资人职责和债权人保护规则一并纳入公司法与民法的责任结构中。"
+    }
+  ]
+}

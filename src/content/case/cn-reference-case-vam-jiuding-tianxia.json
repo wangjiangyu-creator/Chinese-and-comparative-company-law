@@ -1,0 +1,42 @@
+{
+  "titleZh": "蓝泽桥、宜都天峡特种渔业有限公司、湖北天峡鲟业有限公司与苏州周原九鼎投资中心（有限合伙）其他合同纠纷案",
+  "titleEn": "Reference Case: Lan Zeqiao, Yidu Tianxia Special Fishery Co., Ltd., and Hubei Tianxia Sturgeon Co., Ltd. v. Suzhou Zhouyuan Jiuding Investment Center (Limited Partnership)",
+  "forumZh": "最高人民法院",
+  "forumEn": "Supreme People's Court",
+  "citation": "（2014）民二终字第111号",
+  "year": 2014,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "其他合同纠纷",
+  "issuesZh": [
+    "未实现上市目标时股东回购型对赌条款是否有效",
+    "上市不能的事实状态是否足以触发回购",
+    "股东回购价格与显失公平审查"
+  ],
+  "issuesEn": [
+    "whether shareholder repurchase VAM clauses remain valid when the IPO target is missed",
+    "whether a factual inability to achieve listing is enough to trigger repurchase",
+    "repurchase pricing and unconscionability review"
+  ],
+  "holdingZh": "最高人民法院认可投资人与股东之间关于回购股份的对赌安排，认为该条款系对投资风险与收益的真实商业分配，不当然因具有保底色彩而无效。对目标公司已经出现亏损、在约定期限内实现上市已无现实可能的，法院可以认定回购条件已成就。",
+  "holdingEn": "The Supreme People's Court recognized the validity of a share-repurchase VAM arrangement between the investor and the original shareholders, treating it as a genuine commercial allocation of investment risk and return rather than an automatically invalid guaranteed-return clause. Where the target company had already fallen into loss and timely listing had become practically impossible, the court was prepared to find that the repurchase trigger had been satisfied.",
+  "topics": ["vam-disputes", "shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2013",
+    "cn-company-law-2023"
+  ],
+  "sources": [
+    {
+      "label": "Law firm analysis",
+      "url": "https://m.zhirenlawyer.com/zryc/1913.html",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Publisher page",
+      "url": "https://business.sohu.com/20140614/n400841588.shtml",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

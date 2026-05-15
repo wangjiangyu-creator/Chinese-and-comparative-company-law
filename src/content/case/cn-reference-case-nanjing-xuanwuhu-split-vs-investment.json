@@ -1,0 +1,32 @@
+{
+  "titleZh": "南京玄武湖信用社诉化工容器厂、县郊化工公司、新朝阳公司借款合同纠纷案",
+  "titleEn": "Reference Case: Nanjing Xuanwuhu Credit Union v. Chemical Container Factory, Xianjiao Chemical Company, and New Chaoyang Company",
+  "forumZh": "江苏省南京市中级人民法院",
+  "forumEn": "Nanjing Intermediate People's Court of Jiangsu Province",
+  "citation": "(2007)宁民二终字第152号",
+  "year": 2007,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "借款合同纠纷",
+  "issuesZh": ["公司分立与转投资的区分", "工商登记资料的证明力", "分立后债务承担", "对子公司股权执行替代直接追偿"],
+  "issuesEn": [
+    "distinguishing a corporate split from an investment transaction",
+    "evidentiary weight of registration materials",
+    "liability for pre-division debt",
+    "executing equity in a subsidiary instead of imposing direct successor liability"
+  ],
+  "holdingZh": "即使主管部门文件使用了“分立”表述，如果工商登记、验资和设立过程表明原企业只是以人员、资金和资产投资设立独立法人，则该行为仍应认定为投资设立子公司而非公司分立。对原企业债权的实现，债权人可以通过执行原企业持有的股权进行，而不能当然要求改制后的新公司直接承担分立前债务的连带清偿责任。",
+  "holdingEn": "Even if supervisory documents used the language of 'division,' the transaction should still be characterized as an investment in a new legal person rather than a corporate split where the registration materials, capital verification, and formation process show that the predecessor merely invested personnel, funds, and assets into a separate entity. Creditors of the predecessor may seek recovery by executing the predecessor's equity interest, but cannot automatically demand direct joint liability from the later restructured company for pre-division debt.",
+  "topics": ["corporate-reorganization", "business-environment"],
+  "relatedLawIds": ["cn-company-law-2005", "cn-company-law-2023", "cn-civil-code-2020-legal-person"],
+  "sources": [
+    {
+      "label": "Publisher page",
+      "url": "https://www.tup.tsinghua.edu.cn/upload/books/yz/070168-01.pdf",
+      "noteZh": "清华大学出版社《公司法学（下）》第13章案例13-8，载明一审、二审案号并对原判词作删节改编，用于还原争点与二审结论。",
+      "noteEn": "Tsinghua University Press, Company Law II, Chapter 13, Case 13-8, which reproduces the first- and second-instance case numbers and a condensed version of the judgments.",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "titleZh": "中华人民共和国证券法（2019年修订）",
+  "titleEn": "Securities Law of the People's Republic of China",
+  "shortTitle": "证券法（2019）",
+  "aliases": ["Securities Law"],
+  "jurisdiction": "cn",
+  "documentType": "law",
+  "authorityLevel": "national-law",
+  "issuingBodyZh": "全国人民代表大会常务委员会",
+  "issuingBodyEn": "Standing Committee of the National People's Congress",
+  "promulgationDate": "2019-12-28",
+  "effectiveDate": "2020-03-01",
+  "status": "effective",
+  "languageStatus": "official-bilingual",
+  "languages": ["zh", "en"],
+  "textStatus": "selected-excerpt",
+  "topics": ["listed-companies", "disclosure", "corporate-governance"],
+  "summaryZh": "中国上市公司与证券发行交易治理的基础法律，第一版收录官方中英对照精选摘录。",
+  "summaryEn": "The foundational statute for Chinese listed-company and securities governance, seeded here with a paired Chinese-English excerpt.",
+  "versionGroup": "cn-securities-law",
+  "versionLabel": "2019 revision",
+  "previousVersionId": "cn-securities-law-2014",
+  "relatedCaseIds": [
+    "cn-guiding-case-10-board-resolution-review",
+    "cn-gazette-case-listed-shareholding-shenyin",
+    "cn-database-case-listed-buyback-vam-nanjing",
+    "cn-reference-case-vam-gaoci-neeq-invalid"
+  ],
+  "relatedArticleIds": [
+    "article-skadden-broad-reforms",
+    "article-china-briefing-revised-company-law"
+  ],
+  "sources": [
+    {
+      "label": "Official Chinese",
+      "url": "https://www.npc.gov.cn/npc/c2/c30834/201912/t20191231_304436.html",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    },
+    {
+      "label": "Official English",
+      "url": "https://www.npc.gov.cn/englishnpc/c2759/c23934/202109/t20210914_384349.html",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ],
+  "texts": {
+    "zh": {
+      "path": "law/zh/cn-securities-law-2019.json",
+      "label": "Official Chinese",
+      "official": true
+    },
+    "en": {
+      "path": "law/en/cn-securities-law-2019.json",
+      "label": "Official English",
+      "official": true
+    }
+  }
+}

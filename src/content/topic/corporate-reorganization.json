@@ -1,0 +1,110 @@
+{
+  "nameZh": "公司重组与形态变动专题",
+  "nameEn": "Corporate Reorganization and Form Changes Topic",
+  "descriptionZh": "本专题集中整理公司基本形态变动和企业重组中的核心裁判材料，重点覆盖吸收合并、兼并收购、资产接收、企业改制、公司分立前后债务承继、集团实质合并重整，以及有限责任公司、股份有限公司、一人公司等组织形式转换所引发的责任承担与程序衔接问题。与一般公司治理争议相比，这一组案件更强调债权债务是否随资产、营业、登记或组织形式变更而延续，是否存在借改制、重组、收购之名逃废旧债，以及法院如何在市场退出、破产重整和公司法上的连续性规则之间做衔接。",
+  "descriptionEn": "This topic collects Chinese authorities on basic corporate form changes and restructuring disputes, focusing on absorption mergers, acquisitions, asset reception, enterprise restructuring, debt succession before and after division, substantive consolidation in group reorganizations, and disputes arising from changes between limited companies, joint-stock companies, and one-person companies. The cases emphasize whether liabilities continue with assets, business operations, registration changes, or changes of form, and how courts police attempts to shed legacy debt through restructuring or acquisition arrangements.",
+  "relatedLawIds": [
+    "cn-civil-code-2020-legal-person",
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-market-entity-registration-regulations-2021",
+    "cn-market-entity-registration-rules-2022",
+    "cn-spc-company-law-interpretation-2-2020",
+    "cn-major-asset-reorganization-measures-2025",
+    "cn-takeover-measures-2020",
+    "cn-national-bankruptcy-trial-minutes-2018"
+  ],
+  "relatedCaseIds": [
+    "cn-gazette-case-icbc-shandong-xincheng-split-debt",
+    "cn-reference-case-nanjing-xuanwuhu-split-vs-investment",
+    "cn-reference-case-wu-jialun-split-registration-assistance",
+    "cn-reference-case-zhengzhou-libao-split-tax-allocation",
+    "cn-guiding-case-163-textile-substantive-consolidation",
+    "cn-reference-case-spc-private-economy-reform-debt-stripping",
+    "cn-gazette-case-tianyuan-listing-debt-transfer",
+    "cn-reference-case-wang-jun-zaozhuang-bank-asset-acquisition-boundary",
+    "cn-reference-case-li-xiuxiao-tiantuo-restructuring-debt",
+    "cn-reference-case-pingyin-one-person-to-ordinary-llc",
+    "cn-guiding-case-96-shareholder-status",
+    "cn-database-case-fie-transition-governance"
+  ],
+  "relatedArticleIds": [],
+  "caseGroups": [
+    {
+      "titleZh": "公司分立、分立协议与分立后债务承担",
+      "titleEn": "Corporate division, split agreements, and post-division debt allocation",
+      "descriptionZh": "本组集中处理公司分立这一条线：一方面区分真实分立与转投资、子公司设立，另一方面梳理分立后旧债是否连带承担、内部费用税负如何分担，以及法院能否强制一方协助完成分立登记。",
+      "descriptionEn": "This group focuses specifically on corporate divisions, distinguishing true splits from investment or subsidiary formation while also tracing post-division debt allocation, internal cost sharing, and court-ordered cooperation with split registration.",
+      "caseIds": [
+        "cn-gazette-case-icbc-shandong-xincheng-split-debt",
+        "cn-reference-case-nanjing-xuanwuhu-split-vs-investment",
+        "cn-reference-case-wu-jialun-split-registration-assistance",
+        "cn-reference-case-zhengzhou-libao-split-tax-allocation"
+      ]
+    },
+    {
+      "titleZh": "吸收合并、资产接收与承债主体界定",
+      "titleEn": "Absorption mergers, asset reception, and identifying the debt-bearing entity",
+      "descriptionZh": "围绕并购、兼并和资产接收安排，法院重点区分真正的吸收合并与特定资产债务接收，防止仅凭外观上的“接盘”就无限扩大承债范围，也防止借交易结构规避已承接的责任。",
+      "descriptionEn": "These cases distinguish true absorption mergers from targeted asset-and-liability receptions, preventing both overbroad successor liability and opportunistic evasion through transactional form.",
+      "caseIds": [
+        "cn-reference-case-wang-jun-zaozhuang-bank-asset-acquisition-boundary",
+        "cn-gazette-case-tianyuan-listing-debt-transfer"
+      ]
+    },
+    {
+      "titleZh": "改制、收购与旧债剥离边界",
+      "titleEn": "Restructuring, acquisitions, and the limits of stripping legacy debt",
+      "descriptionZh": "企业改制、新设承接和收购安排往往伴随“净资产进入新主体、旧债留在旧主体”的设计。法院在这一组案件中强调，应从资产承接、经营延续、承诺文件和债权人保护四个维度审查此类安排是否构成逃废债。",
+      "descriptionEn": "These cases examine whether restructurings that place productive assets in a new entity while leaving old debt behind amount to unlawful debt evasion, with emphasis on asset transfer, business continuity, undertakings, and creditor protection.",
+      "caseIds": [
+        "cn-reference-case-spc-private-economy-reform-debt-stripping",
+        "cn-gazette-case-tianyuan-listing-debt-transfer",
+        "cn-reference-case-li-xiuxiao-tiantuo-restructuring-debt"
+      ]
+    },
+    {
+      "titleZh": "组织形式变更、分立登记与治理衔接",
+      "titleEn": "Form changes, split registration, and the governance bridge",
+      "descriptionZh": "这一组案件关注从集体企业到有限公司、从一人公司到普通有限公司、以及存量外商投资企业治理转轨等情形下，法院如何处理登记变更、章程治理、股东资格退出和既有债务责任之间的连续性。",
+      "descriptionEn": "These cases address continuity across changes from collective enterprises to limited companies, from one-person companies to ordinary limited companies, and governance transitions in existing foreign-invested enterprises, including the bridge between split-registration duties and shareholder exit.",
+      "caseIds": [
+        "cn-reference-case-wu-jialun-split-registration-assistance",
+        "cn-reference-case-li-xiuxiao-tiantuo-restructuring-debt",
+        "cn-reference-case-pingyin-one-person-to-ordinary-llc",
+        "cn-guiding-case-96-shareholder-status",
+        "cn-database-case-fie-transition-governance"
+      ]
+    },
+    {
+      "titleZh": "集团整合、实质合并与整体重整",
+      "titleEn": "Group integration, substantive consolidation, and enterprise-wide rescue",
+      "descriptionZh": "当集团成员之间高度混同、分开清理财产成本过高时，法院可能转而采用实质合并重整这一更强的统合工具，以统一处理成员间债权债务和外部债权人受偿秩序。",
+      "descriptionEn": "Where group members are heavily commingled and separation is prohibitively costly, courts may turn to substantive consolidation to unify internal claims and external creditor recovery in a single reorganization.",
+      "caseIds": ["cn-guiding-case-163-textile-substantive-consolidation"]
+    }
+  ],
+  "comparisonRows": [
+    {
+      "labelZh": "债权债务是否随重组延续",
+      "labelEn": "Whether liabilities continue through restructuring",
+      "cn": "中国法强调从资产接收、经营延续、登记变更和交易承诺四个维度审查债务是否随改制、合并或收购继续存在，并对借重组逃废债保持高度警惕。",
+      "hk": "香港更依赖具体交易文件、法定合并或安排计划的法律效果来判断债务承继，而不是抽象地以“改制”概念统一处理。",
+      "sg": "新加坡也更强调法定重组程序、资产转移文件和偿债能力框架下的责任分配，通常以交易文件和法院批准程序确定承继边界。"
+    },
+    {
+      "labelZh": "组织形式变更与登记连续性",
+      "labelEn": "Form changes and registration continuity",
+      "cn": "中国法院通常不把有限公司、股份公司或一人公司之间的形式变更视为切断既有债务和治理约束的理由，而是继续追问变更前后的主体连续性。",
+      "hk": "香港法更强调公司注册连续性本身，若法人主体未中断，债务和内部治理约束通常随主体延续。",
+      "sg": "新加坡对公司转换和重组也以主体连续性和法定程序为核心，组织形式变化一般不当然消灭既有责任。"
+    },
+    {
+      "labelZh": "集团整合与合并程序",
+      "labelEn": "Group integration and consolidation procedures",
+      "cn": "中国在破产法框架下已经发展出关联企业实质合并重整规则，用于解决高度混同集团的整体救治和公平清偿。",
+      "hk": "香港对集团重整仍以个别法人分离和计划安排为主，实质合并工具相对谨慎。",
+      "sg": "新加坡则更多依赖重组计划、司法管理和集团协同安排，而非广泛的实质合并。"
+    }
+  ]
+}

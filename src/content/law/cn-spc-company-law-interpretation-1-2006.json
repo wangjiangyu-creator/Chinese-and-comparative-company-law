@@ -1,0 +1,33 @@
+{
+  "titleZh": "最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（一）（2006年公布）",
+  "titleEn": "SPC Interpretation (I) on Several Issues Concerning the Application of the Company Law (2006)",
+  "shortTitle": "公司法司法解释（一）",
+  "aliases": ["法释〔2006〕3号", "公司法司法解释一"],
+  "jurisdiction": "cn",
+  "documentType": "judicial-interpretation",
+  "authorityLevel": "judicial-interpretation",
+  "issuingBodyZh": "最高人民法院",
+  "issuingBodyEn": "Supreme People's Court",
+  "promulgationDate": "2006-04-28",
+  "effectiveDate": "2006-05-09",
+  "status": "historical",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["shareholder-rights", "corporate-governance"],
+  "summaryZh": "原始文本主要处理2005年公司法施行后的新旧法衔接、决议撤销起诉期间以及股东代表诉讼连续持股期间等基础适用问题。",
+  "summaryEn": "Original text addressing transition from the 2005 Company Law, filing windows for resolution challenges, and the continuous-holding period for derivative suits.",
+  "versionGroup": "cn-spc-company-law-interpretation-1",
+  "versionLabel": "2006 interpretation",
+  "nextVersionId": "cn-spc-company-law-interpretation-1-2014",
+  "relatedCaseIds": ["cn-guiding-case-10-board-resolution-review"],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/212a2d58f83711d90451833f35b8df.html",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

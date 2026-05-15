@@ -1,0 +1,27 @@
+---
+import { pickLocalized, type Locale } from "@/lib/i18n";
+import { formatArticleSourceLabel } from "@/lib/labels";
+import type { ResolvedArticleLink } from "@/lib/portal-data";
+
+type Props = {
+  article: ResolvedArticleLink;
+  locale: Locale;
+};
+
+const { article, locale } = Astro.props;
+---
+
+<article class="card">
+  <div class="badge-row">
+    <span class="badge">{formatArticleSourceLabel(locale, article.sourceKind)}</span>
+    <span class="badge">{article.publisher}</span>
+  </div>
+  <h3 class="record-card-title">
+    <a href={article.sourceUrl} target="_blank" rel="noreferrer">{pickLocalized(locale, article.titleZh, article.titleEn)}</a>
+  </h3>
+  <p>{pickLocalized(locale, article.abstractZh, article.abstractEn)}</p>
+  <div class="record-card-footer">
+    <span>{article.authors.join(", ")}</span>
+    <span>{article.year}</span>
+  </div>
+</article>

@@ -1,0 +1,63 @@
+---
+import "@/styles/global.css";
+
+import { getAlternatePath, pickLocalized, toLocalePath, type Locale } from "@/lib/i18n";
+
+type Props = {
+  locale: Locale;
+  path: string;
+  titleZh: string;
+  titleEn: string;
+  descriptionZh: string;
+  descriptionEn: string;
+};
+
+const { locale, path, titleZh, titleEn, descriptionZh, descriptionEn } = Astro.props;
+const pageTitle = pickLocalized(locale, titleZh, titleEn);
+const pageDescription = pickLocalized(locale, descriptionZh, descriptionEn);
+const alternatePath = getAlternatePath(locale, path);
+const nav = [
+  { path: "/", zh: "首页", en: "Home" },
+  { path: "/laws/", zh: "法律法规", en: "Laws" },
+  { path: "/cases/", zh: "案例库", en: "Cases" },
+  { path: "/articles/", zh: "学术与实务文章", en: "Scholarship and Practitioner Articles" },
+  { path: "/comparative/", zh: "比较法", en: "Comparative" },
+  { path: "/topics/", zh: "专题页", en: "Topics" }
+];
+---
+
+<html lang={locale === "zh" ? "zh-CN" : "en"}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={pageDescription} />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="shell site-header-inner">
+        <a class="brand" href={toLocalePath(locale, "/")}>
+          <small>China-first legal research portal</small>
+          <strong>{locale === "zh" ? "中国与比较公司法" : "Chinese and Comparative Company Law"}</strong>
+        </a>
+        <div class="nav-row">
+          {nav.map((item) => (
+            <a href={toLocalePath(locale, item.path)}>{pickLocalized(locale, item.zh, item.en)}</a>
+          ))}
+          <a class="locale-switch" href={alternatePath}>
+            {locale === "zh" ? "English" : "中文"}
+          </a>
+        </div>
+      </div>
+    </header>
+    <main class="shell">
+      <slot />
+    </main>
+    <footer class="shell footer-note">
+      <p class="footer-attribution">本网站由香港城市大学法律学院王江雨教授制作。</p>
+      <p class="footer-attribution footer-attribution-en">
+        This website was created by Professor Wang Jiangyu of the School of Law, City University of Hong Kong.
+      </p>
+    </footer>
+  </body>
+</html>

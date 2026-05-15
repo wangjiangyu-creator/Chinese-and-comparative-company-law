@@ -1,0 +1,25 @@
+{
+  "titleZh": "指导案例174号：中国生物多样性保护与绿色发展基金会诉雅砻江流域水电开发有限公司生态环境保护民事公益诉讼案",
+  "titleEn": "Guiding Case No. 174: China Biodiversity Conservation and Green Development Foundation v. Yalong River Hydropower Development Co., Ltd.",
+  "forumZh": "最高人民法院",
+  "forumEn": "Supreme People's Court",
+  "citation": "指导案例174号",
+  "year": 2021,
+  "jurisdiction": "cn",
+  "caseType": "guiding-case",
+  "decisionType": "生态环境保护民事公益诉讼",
+  "issuesZh": ["潜在生态风险", "濒危野生植物保护", "预防性措施与环评补正"],
+  "issuesEn": ["potential ecological risk", "protection of endangered plants", "preventive relief and EIA supplementation"],
+  "holdingZh": "在现有证据和科学技术足以表明建设项目可能破坏濒危野生植物生境、损害生态环境公共利益时，人民法院可以判令企业采取预防性措施，并将相关影响纳入环境影响评价。",
+  "holdingEn": "When existing evidence and scientific analysis show that a project may damage endangered-plant habitat and thereby harm the public ecological interest, courts may order preventive measures and require the risk to be incorporated into the environmental impact assessment.",
+  "topics": ["corporate-social-responsibility", "corporate-governance"],
+  "relatedLawIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/fabu/xiangqing/334701.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

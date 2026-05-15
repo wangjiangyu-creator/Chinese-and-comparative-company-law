@@ -1,0 +1,40 @@
+{
+  "titleZh": "英国《公司治理守则 2024》",
+  "titleEn": "UK Corporate Governance Code 2024",
+  "shortTitle": "英国公司治理守则",
+  "aliases": ["UK Corporate Governance Code"],
+  "jurisdiction": "uk",
+  "documentType": "regulatory-code",
+  "authorityLevel": "regulatory-code",
+  "issuingBodyZh": "英国财务报告委员会",
+  "issuingBodyEn": "Financial Reporting Council",
+  "promulgationDate": "2024-01-22",
+  "effectiveDate": "2025-01-01",
+  "status": "reference",
+  "languageStatus": "official-en",
+  "languages": ["en"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "corporate-governance", "disclosure", "comparative-governance"],
+  "summaryZh": "英国治理守则延续 comply-or-explain 结构，并在内控与董事会问责方面进行了更新，是比较中国上市公司治理和交易所规则的重要软法文本。",
+  "summaryEn": "The UK Code retains the comply-or-explain architecture while updating internal-control and board-accountability expectations, making it a leading soft-law comparator for listed-company governance.",
+  "versionGroup": "uk-governance-code",
+  "versionLabel": "current code",
+  "relatedCaseIds": ["uk-case-howard-smith-v-ampol", "uk-case-oneill-v-phillips"],
+  "relatedArticleIds": ["article-pbook-gower-davies-principles"],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://www.frc.org.uk/library/standards-codes-policy/corporate-governance/uk-corporate-governance-code/",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Official English",
+      "url": "https://media.frc.org.uk/documents/UK_Corporate_Governance_Code_2024_a2hmQmY.pdf",
+      "official": true,
+      "lastVerified": "2026-05-16",
+      "noteZh": "2024 守则 PDF 版。",
+      "noteEn": "PDF version of the 2024 Code."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "titleZh": "中建材集团进出口公司诉北京大地恒通经贸有限公司、北京天元盛唐投资有限公司、天宝盛世科技发展（北京）有限公司、江苏银大科技有限公司、四川宜宾俄欧工程发展有限公司进出口代理合同纠纷案",
+  "titleEn": "Gazette Case: CNBM Group Import & Export Corp. v. Beijing Dadi Hengtong Trading Co., Ltd. and Others",
+  "forumZh": "最高人民法院公报 / 北京市高级人民法院二审判决",
+  "forumEn": "Supreme People's Court Gazette / Beijing High People's Court appellate judgment",
+  "citation": "（2009）高民终字第1730号；载《最高人民法院公报》2011年第2期",
+  "year": 2009,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司越权担保与进出口代理合同纠纷",
+  "issuesZh": ["公司法第16条", "法定代表人越权担保", "善意第三人", "公司内部决议程序"],
+  "issuesEn": [
+    "Article 16 of the Company Law",
+    "ultra vires guarantee by the legal representative",
+    "good-faith counterparty",
+    "internal corporate approval procedures"
+  ],
+  "holdingZh": "公司法关于对外担保决议程序的规定，原则上属于公司内部治理和授权控制规则，并不当然导致担保合同无效。相对人不知道且不应当知道法定代表人超越权限，且已对决议文件和授权外观进行了必要形式审查的，可以作为善意第三人受到保护；公司不得仅以内部决议程序瑕疵对抗外部交易安全。",
+  "holdingEn": "The Company Law's rules on internal approval for external guarantees are, in principle, internal governance and authorization-control rules, and do not automatically invalidate the guarantee contract. If the counterparty neither knew nor should have known that the legal representative exceeded authority and carried out the necessary formal review of the apparent authorization documents, the counterparty may be protected as a good-faith third party, and the company may not rely solely on internal approval defects to defeat external transaction security.",
+  "topics": ["corporate-governance", "legal-representative-and-seal-control"],
+  "relatedLawIds": [
+    "cn-company-law-2005",
+    "cn-company-law-2023",
+    "cn-civil-code-2020-legal-person",
+    "cn-national-civil-commercial-trial-minutes-2019"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/details/49a9f216ac22d1a4360eda9fd823e4.html",
+      "official": true,
+      "lastVerified": "2026-05-16",
+      "noteZh": "最高人民法院公报案例。已公开案号、案名及关于公司法第16条和善意相对人保护的裁判摘要。",
+      "noteEn": "Supreme People's Court Gazette case with public case number, caption, and published summary on Article 16 and protection of good-faith counterparties."
+    }
+  ]
+}

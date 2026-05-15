@@ -1,0 +1,29 @@
+{
+  "titleZh": "昆明哦客商贸有限公司、熊志民与李长友等股东资格确认纠纷案",
+  "titleEn": "Gazette Case: Kunming Oke Trading Co., Ltd. and Xiong Zhimin v. Li Changyou et al.",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "公报案例：股权让与担保名义股东",
+  "year": 2020,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股东资格确认纠纷",
+  "issuesZh": ["股权让与担保", "名义股东", "股东权利归属"],
+  "issuesEn": ["equity transfer by way of security", "nominee shareholder", "allocation of shareholder rights"],
+  "holdingZh": "名为股权转让、实为债务担保的交易，应根据资金往来、回转条件、公司控制和经营接管情况认定为股权让与担保。担保权人虽取得名义登记，但原则上仅享有担保利益，不当然取得表决、分红和经营管理等实质股东权利。",
+  "holdingEn": "A transaction framed as an equity transfer but functioning as debt security should be treated as an equity transfer by way of security in light of the parties' dealings, re-transfer conditions, and post-transfer control arrangements. The secured party may hold nominal registration, but does not automatically acquire substantive shareholder rights such as voting, dividends, or management power.",
+  "topics": ["shareholder-rights", "corporate-governance", "registered-capital"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/7bb16db0ae471a08d198d40d76bec0.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

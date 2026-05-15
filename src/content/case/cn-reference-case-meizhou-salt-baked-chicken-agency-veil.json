@@ -1,0 +1,41 @@
+{
+  "titleZh": "梅州金某公司销售代理合同纠纷案",
+  "titleEn": "Reference Case: Meizhou Jin Company Agency-Sales Contract Dispute",
+  "forumZh": "兴宁市人民法院（广东法院服务保障“百千万工程”第二批典型案例）",
+  "forumEn": "Xingning People's Court (Guangdong Courts Model Cases for the \"Hundreds, Thousands and Tens of Thousands Project\", Batch II)",
+  "citation": "广东法院典型案例：盐焗鸡产业人格否认",
+  "year": 2025,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "合同纠纷",
+  "issuesZh": [
+    "股东控制公司与经营主体人格混同",
+    "挂名法定代表人与免责声明安排",
+    "公章、账户和办公人员统一控制"
+  ],
+  "issuesEn": [
+    "commingling between a shareholder-controlled company and the operating company",
+    "nominee legal representative and disclaimer arrangement",
+    "unified control over seals, accounts, and personnel"
+  ],
+  "holdingZh": "兴宁市人民法院在广东高院发布的典型案例中认定，广州优某公司通过员工挂名担任法定代表人、统一控制广州楚某公司的公章与账户，并与其共用办公场所和人员，导致两公司在经营收益和责任承担上高度混同。广州楚某公司拖欠梅州金某公司货款时，法院据此适用公司人格否认规则，判令广州楚某公司支付货款及利息，广州优某公司承担连带责任。",
+  "holdingEn": "The Xingning People's Court held in a model case released by the Guangdong High Court that the shareholder-controlled affiliate and the operating company had lost separate personality because the controlling company arranged a nominee legal representative, controlled the operating company's seals and bank accounts, and shared offices and staff with it. The court therefore pierced the corporate veil and ordered the operating company to pay the outstanding price and interest, with the controlling affiliate jointly liable.",
+  "topics": [
+    "corporate-veil-piercing",
+    "corporate-governance",
+    "legal-representative-and-seal-control"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-civil-code-2020-legal-person"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.gdcourts.gov.cn/gsxx/quanweifabu/anlihuicui/content/post_1842915.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

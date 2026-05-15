@@ -1,0 +1,40 @@
+{
+  "titleZh": "英国《公司示范章程细则条例 2008》",
+  "titleEn": "The Companies (Model Articles) Regulations 2008",
+  "shortTitle": "英国公司示范章程细则条例",
+  "aliases": ["SI 2008/3229", "Model Articles"],
+  "jurisdiction": "uk",
+  "documentType": "regulatory-code",
+  "authorityLevel": "comparative-statute",
+  "issuingBodyZh": "英国国王印务局 / legislation.gov.uk",
+  "issuingBodyEn": "King's Printer of Acts of Parliament / legislation.gov.uk",
+  "promulgationDate": "2008-12-17",
+  "effectiveDate": "2009-10-01",
+  "status": "reference",
+  "languageStatus": "official-en",
+  "languages": ["en"],
+  "textStatus": "metadata-only",
+  "topics": ["corporate-formation", "shareholder-rights", "corporate-governance", "comparative-governance"],
+  "summaryZh": "该条例根据《公司法 2006》提供私人公司、担保有限公司和公众公司的示范章程细则，是理解英国公司内部治理默认规则的最直接文本。",
+  "summaryEn": "This regulation supplies model articles for private companies, companies limited by guarantee, and public companies under the Companies Act 2006, making it the most direct entry point for U.K. default internal-governance rules.",
+  "versionGroup": "uk-model-articles",
+  "versionLabel": "current regulations",
+  "relatedCaseIds": [],
+  "relatedArticleIds": ["article-pbook-gower-davies-principles", "article-pbook-comparative-company-law"],
+  "sources": [
+    {
+      "label": "Official English",
+      "url": "https://www.legislation.gov.uk/uksi/2008/3229/contents/made",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Official release",
+      "url": "https://www.legislation.gov.uk/uksi/2008/3229/pdfs/uksi_20083229_en.pdf",
+      "official": true,
+      "lastVerified": "2026-05-16",
+      "noteZh": "法规全文 PDF。",
+      "noteEn": "Full-text PDF."
+    }
+  ]
+}

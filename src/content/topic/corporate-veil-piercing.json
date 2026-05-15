@@ -1,0 +1,109 @@
+{
+  "nameZh": "公司人格否认 / 刺破公司面纱专题",
+  "nameEn": "Corporate Veil Piercing Topic",
+  "descriptionZh": "本专题集中整理中国公司法上关于公司人格否认的核心案例，重点覆盖关联公司人格混同、一人公司股东与公司财产混同、举证责任分配，以及将人格否认规则延伸适用于环境侵权债务和职业闭店逃债等新场景的裁判。页面按照研究用途组织材料，既保留最高法指导性案例和公报案例，也纳入最高法专题发布和案例库审定案例，便于快速比较适用门槛、证明重点与责任形态。",
+  "descriptionEn": "This topic collects core Chinese veil-piercing authorities, focusing on affiliated-company commingling, one-person-company asset separation, allocation of the burden of proof, and extensions of veil-piercing doctrine to environmental liability and debt-evasion scenarios such as professional closure operators.",
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-civil-code-2020-legal-person",
+    "cn-national-civil-commercial-trial-minutes-2019",
+    "cn-spc-company-law-interpretation-2-2020"
+  ],
+  "relatedCaseIds": [
+    "cn-guiding-case-15-corporate-veil",
+    "cn-guiding-case-215-environmental-veil-piercing",
+    "cn-reference-case-closure-operator-liquidation-liability",
+    "cn-gazette-case-xinda-tailai-affiliated-company-veil",
+    "cn-gazette-case-ying-gaofeng-jiameide-one-person-veil",
+    "cn-gazette-case-shao-ping-kuntong-xingtongda-veil",
+    "cn-reference-case-jiachen-haima-burden-allocation-veil",
+    "cn-reference-case-taiwan-plastics-ningbo-import-export-veil",
+    "cn-reference-case-meizhou-salt-baked-chicken-agency-veil",
+    "cn-reference-case-luo-weikang-nike-affiliate-veil",
+    "cn-reference-case-guangzhou-dashun-jiangmen-fengpin-weichang-veil",
+    "cn-reference-case-guangzhou-construction-benefit-transfer-veil",
+    "cn-reference-case-kunshan-shell-switching-horizontal-veil",
+    "cn-reference-case-zibo-sichuang-glade-fushide-beisida-veil"
+  ],
+  "relatedArticleIds": [],
+  "caseGroups": [
+    {
+      "titleZh": "关联公司与集团内部人格混同",
+      "titleEn": "Affiliated-company and group commingling",
+      "descriptionZh": "聚焦多家公司由同一控制人支配、人员业务财务高度交叉、资产边界无法区分时，法院如何突破形式上的公司分离。",
+      "descriptionEn": "Focuses on how courts pierce formal separation when multiple companies under common control are deeply intertwined in personnel, business, and finance.",
+      "caseIds": [
+        "cn-guiding-case-15-corporate-veil",
+        "cn-gazette-case-xinda-tailai-affiliated-company-veil",
+        "cn-gazette-case-shao-ping-kuntong-xingtongda-veil",
+        "cn-reference-case-luo-weikang-nike-affiliate-veil",
+        "cn-reference-case-zibo-sichuang-glade-fushide-beisida-veil",
+        "cn-reference-case-taiwan-plastics-ningbo-import-export-veil"
+      ]
+    },
+    {
+      "titleZh": "一人公司与股东个人财产混同",
+      "titleEn": "One-person companies and shareholder-asset separation",
+      "descriptionZh": "围绕一人有限责任公司中财产独立、审计资料、经营场所和资金流向的证明问题，观察举证责任如何在债权人与股东之间分配。",
+      "descriptionEn": "Tracks proof of asset separation in one-person companies and how the burden of proof is allocated between creditors and shareholders.",
+      "caseIds": [
+        "cn-gazette-case-ying-gaofeng-jiameide-one-person-veil",
+        "cn-reference-case-jiachen-haima-burden-allocation-veil"
+      ]
+    },
+    {
+      "titleZh": "扩张适用：环境债务与职业闭店逃债",
+      "titleEn": "Extended applications: environmental debt and professional closure",
+      "descriptionZh": "整理将人格否认适用于环境侵权、虚假清算、注销逃债等新场景的最高法材料，便于把握规则的外延边界。",
+      "descriptionEn": "Collects Supreme People's Court materials extending veil-piercing doctrine to environmental liability, false liquidation, and debt evasion through deregistration.",
+      "caseIds": [
+        "cn-guiding-case-215-environmental-veil-piercing",
+        "cn-reference-case-closure-operator-liquidation-liability"
+      ]
+    },
+    {
+      "titleZh": "挂名法代、空壳切换与基层法院适用",
+      "titleEn": "Nominee legal representatives, shell switching, and grassroots applications",
+      "descriptionZh": "收录基层法院和地方法院公开发布的典型裁判，展示公司人格否认如何在挂名法定代表人、空壳公司轮换、统一控制公章账户等具体经营场景中落地。",
+      "descriptionEn": "Collects local and grassroots court materials showing how veil piercing is applied in concrete operating scenarios such as nominee legal representatives, rotating shell companies, and unified control of seals and accounts.",
+      "caseIds": [
+        "cn-reference-case-meizhou-salt-baked-chicken-agency-veil",
+        "cn-reference-case-kunshan-shell-switching-horizontal-veil"
+      ]
+    },
+    {
+      "titleZh": "过度支配、无偿转移与脱壳经营",
+      "titleEn": "Over-control, gratuitous transfers, and shell stripping",
+      "descriptionZh": "聚焦控制人或受益关联公司通过无偿转移产品、设备、资质、技术人员和在建项目等方式，把收益留在受益主体、把债务留在原公司时，法院如何认定人格否认或受益关联公司的连带责任。",
+      "descriptionEn": "Focuses on cases where controllers or beneficiary affiliates strip products, equipment, licenses, staff, or projects from the debtor company, leaving benefits with one company and liabilities with another.",
+      "caseIds": [
+        "cn-reference-case-guangzhou-dashun-jiangmen-fengpin-weichang-veil",
+        "cn-reference-case-guangzhou-construction-benefit-transfer-veil"
+      ]
+    }
+  ],
+  "comparisonRows": [
+    {
+      "labelZh": "适用触发点",
+      "labelEn": "Trigger for application",
+      "cn": "中国法上人格否认是公司独立人格和股东有限责任的例外，强调滥用公司形式、逃避债务并严重损害债权人或公共利益。",
+      "hk": "香港更常通过欺诈、代理、受托义务或衡平法路径处理控制人滥用公司形式问题，真正刺破公司面纱仍属例外。",
+      "sg": "新加坡同样对刺破公司面纱持审慎态度，通常要求证明公司被用作欺诈、规避既有义务或纯粹门面。"
+    },
+    {
+      "labelZh": "证明重点",
+      "labelEn": "Main evidentiary focus",
+      "cn": "中国裁判最重视人员、业务、财务和财产边界是否混同；对一人公司，还会特别审查审计报表、资金流向和财务制度。",
+      "hk": "香港通常要求更明确地证明公司仅是控制人的外衣，单纯集团控制或管理交叉一般不足。",
+      "sg": "新加坡注重公司是否具有真实独立经营与意思表示，证据重点仍在滥用目的和财产分离。"
+    },
+    {
+      "labelZh": "责任形态",
+      "labelEn": "Form of liability",
+      "cn": "中国法上常见后果是判令股东、实际控制人或关联公司对特定债务承担连带责任，而非全面永久否定公司资格。",
+      "hk": "香港通常更倾向于在具体交易或侵权关系内追究控制人责任，而不是普遍改写公司债务结构。",
+      "sg": "新加坡亦多在个案中作有限突破，维持公司人格独立作为基本原则。"
+    }
+  ]
+}

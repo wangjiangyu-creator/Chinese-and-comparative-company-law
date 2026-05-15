@@ -1,0 +1,39 @@
+{
+  "titleZh": "北京市高级人民法院企业破产案件审理规程",
+  "titleEn": "Beijing High Court Rules for the Hearing of Enterprise Bankruptcy Cases",
+  "shortTitle": "北京高院企业破产审理规程",
+  "aliases": ["京高法发〔2013〕242号", "北京破产审理规程"],
+  "jurisdiction": "cn",
+  "documentType": "judicial-policy",
+  "authorityLevel": "judicial-policy",
+  "issuingBodyZh": "北京市高级人民法院",
+  "issuingBodyEn": "Beijing High People's Court",
+  "promulgationDate": "2013-07-22",
+  "effectiveDate": "2013-07-22",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["dissolution-liquidation", "business-environment"],
+  "summaryZh": "系统规定破产申请受理、管理人指定、债权申报、重整和清算等程序，是北京法院审理企业破产和相关公司退出案件的基础性地方审判规程。",
+  "summaryEn": "A foundational Beijing High Court procedural rulebook covering case acceptance, administrator appointment, claims filing, reorganization, and liquidation in enterprise bankruptcy matters.",
+  "versionGroup": "bj-high-court-bankruptcy-procedure-rules",
+  "versionLabel": "2013 text",
+  "judicialMaterialClass": "local-high-court-guidance",
+  "relatedCaseIds": [
+    "cn-guiding-case-8-company-dissolution",
+    "cn-guiding-case-9-liquidation-liability",
+    "cn-reference-case-closure-operator-liquidation-liability"
+  ],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.bjcourt.gov.cn/ssfw/spzdwj/detail.htm?NId=30000107&channel=100014002",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "北京高院详情页在脚本环境下可能返回访问限制，建议在 Edge 等标准浏览器中打开。",
+      "noteEn": "The Beijing High Court detail page may return an access restriction to scripted requests; open it in a standard browser such as Edge."
+    }
+  ]
+}

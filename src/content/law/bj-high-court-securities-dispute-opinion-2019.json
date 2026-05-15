@@ -1,0 +1,38 @@
+{
+  "titleZh": "北京市高级人民法院关于依法公正高效处理群体性证券纠纷的意见（试行）",
+  "titleEn": "Beijing High Court Opinion on Lawful, Fair, and Efficient Handling of Mass Securities Disputes (Trial)",
+  "shortTitle": "北京高院群体性证券纠纷意见",
+  "aliases": ["群体性证券纠纷意见（试行）"],
+  "jurisdiction": "cn",
+  "documentType": "judicial-policy",
+  "authorityLevel": "judicial-policy",
+  "issuingBodyZh": "北京市高级人民法院",
+  "issuingBodyEn": "Beijing High People's Court",
+  "promulgationDate": "2019-08-23",
+  "effectiveDate": "2019-08-23",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "disclosure", "shareholder-rights"],
+  "summaryZh": "围绕证券虚假陈述、内幕交易和操纵市场等群体性证券纠纷，细化多元解纷、示范判决和投资者保护机制，是北京高院审理证券类公司纠纷的重要地方审判指引。",
+  "summaryEn": "A Beijing High Court trial opinion on mass securities disputes that refines multi-track dispute resolution, model-judgment practice, and investor-protection mechanisms for securities-related corporate litigation.",
+  "versionGroup": "bj-high-court-securities-dispute-opinion",
+  "versionLabel": "2019 text",
+  "judicialMaterialClass": "local-high-court-guidance",
+  "relatedCaseIds": [
+    "cn-database-case-listed-buyback-vam-nanjing",
+    "cn-gazette-case-listed-shareholding-shenyin"
+  ],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.bjcourt.gov.cn/ssfw/spzdwj/detail.htm?NId=145002836&channel=100014002",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "北京高院详情页在脚本环境下可能返回访问限制，建议在 Edge 等标准浏览器中打开。",
+      "noteEn": "The Beijing High Court detail page may return an access restriction to scripted requests; open it in a standard browser such as Edge."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "titleZh": "最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（五）（2020年修正）",
+  "titleEn": "SPC Interpretation (V) on Several Issues Concerning the Application of the Company Law (2020 Revision)",
+  "shortTitle": "公司法司法解释（五）",
+  "aliases": ["法释〔2019〕7号", "2020年修正", "现行文本"],
+  "jurisdiction": "cn",
+  "documentType": "judicial-interpretation",
+  "authorityLevel": "judicial-interpretation",
+  "issuingBodyZh": "最高人民法院",
+  "issuingBodyEn": "Supreme People's Court",
+  "promulgationDate": "2020-12-29",
+  "effectiveDate": "2021-01-01",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["shareholder-rights", "corporate-governance", "listed-companies"],
+  "summaryZh": "现行文本以2019年原始解释为基础，经2020年统一修正后继续适用，重点处理关联交易损害、董事解任补偿、利润分配履行和股东重大分歧救济，是股东权益保护层面的核心现行司法解释。",
+  "summaryEn": "The current text builds on the 2019 interpretation and continues in force after the 2020 revision, focusing on harmful related-party transactions, compensation after director removal, implementation of profit distributions, and remedies for severe shareholder deadlock.",
+  "versionGroup": "cn-spc-company-law-interpretation-5",
+  "versionLabel": "2021 through-current text",
+  "previousVersionId": "cn-spc-company-law-interpretation-5-2019",
+  "relatedCaseIds": [
+    "cn-gazette-case-forced-profit-distribution",
+    "cn-typical-case-self-dealing-shanghai-lan",
+    "cn-typical-case-related-transaction-shandong-yue",
+    "cn-database-case-related-transaction-gao-cheng"
+  ],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/a562cc2efa4ee68aef39531e26c147.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/fabu/xiangqing/282631.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "titleZh": "上海市企业住所登记管理办法",
+  "titleEn": "Procedures for the Administration of Domicile Registration of Enterprises in Shanghai",
+  "shortTitle": "上海企业住所登记办法（2015）",
+  "aliases": ["沪府办发〔2015〕15号", "2015 Shanghai Enterprise Domicile Measures"],
+  "jurisdiction": "cn",
+  "documentType": "departmental-rule",
+  "authorityLevel": "local-regulation",
+  "issuingBodyZh": "上海市人民政府办公厅",
+  "issuingBodyEn": "General Office of the Shanghai Municipal People's Government",
+  "promulgationDate": "2015-03-23",
+  "effectiveDate": "2015-03-01",
+  "status": "historical",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["business-environment", "corporate-formation"],
+  "summaryZh": "2015年版《上海市企业住所登记管理办法》是现行2024年经营主体住所规则的前身，主要针对企业及分支机构住所登记，保留了集中登记、一址多照和住所证明简化等早期改革设计。",
+  "summaryEn": "The 2015 Shanghai enterprise-domicile measure was the predecessor of the current 2024 business-entity domicile rules. It focused on enterprises and branch premises, while preserving early reform designs on common registry offices, multiple licenses at one address, and simplified domicile-proof requirements.",
+  "versionGroup": "sh-domicile-registration-measures",
+  "versionLabel": "2015 text",
+  "nextVersionId": "sh-business-entity-domicile-measures-2024",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official Chinese",
+      "url": "https://www.shanghai.gov.cn/nw32865/20200821/0001-32865_41978.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

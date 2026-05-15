@@ -1,0 +1,54 @@
+{
+  "titleZh": "中证投服中心代太安退公司诉控股股东、实控人及董事高管损害公司利益纠纷案",
+  "titleEn": "China Securities Investor Services Center on Behalf of Tai'an Delisted Company v. the Controlling Shareholder, Actual Controller, and Responsible Directors/Executives",
+  "forumZh": "上海市第二中级人民法院（中国证监会年度投资者保护典型案例）",
+  "forumEn": "Shanghai No. 2 Intermediate People's Court (CSRC annual investor-protection typical case)",
+  "citation": "2025年5月诉中调解结案；太安退资金占用代位追偿案",
+  "year": 2025,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "损害公司利益责任纠纷",
+  "issuesZh": ["上市公司资金占用追偿", "投保机构股东代位诉讼", "退市不免责", "诉中调解全额清偿"],
+  "issuesEn": [
+    "recovery for occupation of listed-company funds",
+    "derivative action by an investor-protection institution",
+    "delisting does not eliminate liability",
+    "full repayment through in-litigation mediation"
+  ],
+  "holdingZh": "中国证监会2025年投资者保护典型案例显示，太安退公司控股股东长期非经营性占用公司资金，投服中心于2024年9月提起股东代位诉讼，代公司向控股股东、实控人及董事高管追责。经法院和投服中心持续推动，占用方于2025年4月以股权转让暨代偿方式全额清偿本息合计5.72亿元，法院于2025年5月以诉中调解方式结案，并退回投服中心全部预交诉讼费，体现了退市后仍可继续向“关键少数”追偿的司法路径。",
+  "holdingEn": "The CSRC's 2025 investor-protection typical cases report shows that Tai'an Delisted Company's controlling shareholder had long non-operationally occupied company funds. In September 2024, the investor-protection institution filed a derivative action on the company's behalf against the controlling shareholder, actual controller, and responsible directors/executives. With continued judicial and institutional pressure, the occupier fully repaid principal and interest totaling RMB 572 million in April 2025 through a share-transfer and assumption structure, after which the court closed the matter by in-litigation mediation in May 2025 and returned the full filing fee prepaid by the investor-protection institution, illustrating a post-delisting recovery path against the key insiders.",
+  "topics": [
+    "corporate-governance",
+    "director-abuse",
+    "director-liability-litigation",
+    "listed-companies",
+    "disclosure",
+    "actual-controller-tunneling",
+    "shareholder-rights",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-securities-law-2019",
+    "cn-listed-company-disclosure-measures-2021",
+    "cn-csrc-listed-company-governance-code-2018"
+  ],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://www.investor.org.cn/rdhd/515qgtzzbhxcr/2024_73011/dxal/202505/P020250519658283788619.pdf",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "中国证监会2025年5月15日发布的《年度评选十大投资者保护典型案例》PDF，载明起诉时间、清偿金额和结案方式。",
+      "noteEn": "CSRC PDF released on May 15, 2025 listing the filing date, repayment amount, and settlement method."
+    },
+    {
+      "label": "Official release",
+      "url": "https://www.investor.org.cn/zczx/gzjl/202507/t20250714_810367.shtml",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "中国投资者网转载报道，作为后续案例成效说明。",
+      "noteEn": "China Investor Network repost noting the later practical effect of the case."
+    }
+  ]
+}

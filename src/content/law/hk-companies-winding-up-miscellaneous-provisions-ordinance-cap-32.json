@@ -1,0 +1,40 @@
+{
+  "titleZh": "香港《公司（清盘及杂项条文）条例》（第32章）",
+  "titleEn": "Hong Kong Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32)",
+  "shortTitle": "香港公司（清盘及杂项条文）条例",
+  "aliases": ["Cap. 32", "CWUMPO"],
+  "jurisdiction": "hk",
+  "documentType": "statute",
+  "authorityLevel": "comparative-statute",
+  "issuingBodyZh": "香港特别行政区律政司电子版香港法例",
+  "issuingBodyEn": "Hong Kong e-Legislation",
+  "promulgationDate": "2014-03-03",
+  "effectiveDate": "2014-03-03",
+  "status": "reference",
+  "languageStatus": "comparative-bilingual",
+  "languages": ["zh", "en"],
+  "textStatus": "metadata-only",
+  "topics": ["dissolution-liquidation", "listed-companies", "comparative-governance"],
+  "summaryZh": "第32章保留了香港公司法体系中与招股章程、清盘、公司无力偿债和董事失格有关的核心规定，是理解第622章以外公司清算与资本市场衔接规则的必读文本。",
+  "summaryEn": "Cap. 32 preserves the Hong Kong rules on prospectuses, winding up, corporate insolvency, and director disqualification, and is essential for understanding the parts of Hong Kong company law that sit outside Cap. 622.",
+  "versionGroup": "hk-cwumpo",
+  "versionLabel": "current chapter",
+  "relatedCaseIds": ["hk-case-re-chime-corp", "hk-case-yung-kee-holdings"],
+  "relatedArticleIds": ["article-pbook-hong-kong-company-law"],
+  "sources": [
+    {
+      "label": "Official English",
+      "url": "https://www.elegislation.gov.hk/hk/cap32",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Official release",
+      "url": "https://www.sfc.hk/en/Rules-and-standards/Laws/Companies-Winding-Up-and-Miscellaneous-Provisions-Ordinance-with-subsidiary-legislation",
+      "official": true,
+      "lastVerified": "2026-05-16",
+      "noteZh": "香港证监会提供通向 HKeL 全文的公开入口。",
+      "noteEn": "SFC public entry page linking to the HKeL full text."
+    }
+  ]
+}

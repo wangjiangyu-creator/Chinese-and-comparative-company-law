@@ -1,0 +1,25 @@
+{
+  "titleZh": "Macrotron 案",
+  "titleEn": "Macrotron (BGH II ZR 133/01)",
+  "forumZh": "德国联邦法院",
+  "forumEn": "Federal Court of Justice (BGH)",
+  "citation": "BGHZ 153, 47 (II ZR 133/01, 25 Nov. 2002)",
+  "year": 2002,
+  "jurisdiction": "de",
+  "caseType": "comparative-case",
+  "decisionType": "退市、股东会参与与退出保护",
+  "issuesZh": ["上市公司退市", "股东会决议参与", "少数股东退出保护"],
+  "issuesEn": ["delisting of listed companies", "shareholder-resolution participation", "minority exit protection"],
+  "holdingZh": "Macrotron 在德国公司法与资本市场法交界处确立了经典退市保护框架：退市被视为需要股东会参与的结构性事项，并应配套向公众股东提供退出补偿，从而强化了上市公司退市中的少数股东保护。",
+  "holdingEn": "Macrotron became the classic German delisting authority by treating withdrawal from the stock market as a structural step requiring shareholder involvement and an exit offer for public investors, thereby strengthening minority protection at the company-securities interface.",
+  "topics": ["listed-companies", "corporate-governance", "shareholder-rights", "comparative-governance"],
+  "relatedLawIds": ["de-stock-corporation-act"],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Gericht=bgh&anz=1&nr=25332&pos=0",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "titleZh": "宏智实业股份有限公司与陈孟榆、丁修智、武汉友谊特康食品有限公司股权转让纠纷再审民事判决书",
+  "titleEn": "Reference Case: Hongzhi Industrial Co., Ltd. v. Chen Mengyu, Ding Xiuzhi, and Wuhan Youyi Tekang Food Co., Ltd.",
+  "forumZh": "国际商事法庭转载 / 最高人民法院再审判决",
+  "forumEn": "Republished by the International Commercial Court / Supreme People's Court retrial judgment",
+  "citation": "（2014）鄂民监三再字第9号",
+  "year": 2014,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股权转让纠纷中的法定代表人越权问题",
+  "issuesZh": ["法定代表人越权", "代理权限与法人行为能力区分", "股权转让合同效力", "报批生效规则"],
+  "issuesEn": [
+    "ultra vires conduct by the legal representative",
+    "distinguishing agency authority from corporate capacity",
+    "validity of equity-transfer agreements",
+    "approval-based effectiveness"
+  ],
+  "holdingZh": "在公司股权转让纠纷中，法定代表人未经内部授权签约，原则上属于代理权限是否存在的问题，而不是公司的民事行为能力问题。人民法院不能把法定代表人越权简单等同于公司无行为能力；对于依法仍需报批生效的股权转让安排，还应同时审查报批规则和合同内容，分别判断其成立、效力与履行责任。",
+  "holdingEn": "In an equity-transfer dispute, a legal representative's execution of an agreement without internal authorization is, in principle, a question of agency authority rather than the company's civil capacity. Courts should not collapse a legal representative's excess of authority into a lack of corporate capacity. Where the transaction remains subject to statutory approval for effectiveness, courts must also examine the approval regime and the contract terms separately when assessing formation, effectiveness, and performance obligations.",
+  "topics": ["corporate-governance", "legal-representative-and-seal-control", "shareholder-rights"],
+  "relatedLawIds": [
+    "cn-company-law-2013",
+    "cn-company-law-2023",
+    "cn-civil-code-2020-legal-person",
+    "cn-spc-foreign-invested-enterprise-disputes-1-2021"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://cicc.court.gov.cn/html/1/224/228/1462.html",
+      "official": true,
+      "lastVerified": "2026-05-16",
+      "noteZh": "国际商事法庭转载的最高人民法院再审判决书，公开载明“法定代表人是否越权并不是法人的权利能力或行为能力问题，而是代理权限问题”。",
+      "noteEn": "Republished Supreme People's Court retrial judgment on the CICC site stating that a legal representative's excess of authority is an agency-authority issue rather than a question of corporate capacity."
+    }
+  ]
+}

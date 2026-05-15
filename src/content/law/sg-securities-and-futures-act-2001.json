@@ -1,0 +1,32 @@
+{
+  "titleZh": "新加坡《证券与期货法 2001》",
+  "titleEn": "Singapore Securities and Futures Act 2001",
+  "shortTitle": "新加坡《证券与期货法》",
+  "aliases": ["SFA 2001", "Cap. 289"],
+  "jurisdiction": "sg",
+  "documentType": "statute",
+  "authorityLevel": "comparative-statute",
+  "issuingBodyZh": "新加坡总检察署立法数据库",
+  "issuingBodyEn": "Singapore Statutes Online",
+  "promulgationDate": "2001-10-01",
+  "effectiveDate": "2002-10-01",
+  "status": "reference",
+  "languageStatus": "official-en",
+  "languages": ["en"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "disclosure", "shareholder-rights", "comparative-governance"],
+  "summaryZh": "新加坡《证券与期货法》统摄资本市场、披露义务、收购与监管执法，是连接公司法与证券法比较研究的主干文本。",
+  "summaryEn": "Singapore's Securities and Futures Act structures its capital-markets, disclosure, takeover, and enforcement regime, making it a central bridge between company law and securities regulation.",
+  "versionGroup": "sg-sfa",
+  "versionLabel": "current act",
+  "relatedCaseIds": ["sg-case-miao-weiguo-reflective-loss", "sg-case-ho-yew-kong-sakae"],
+  "relatedArticleIds": ["article-pbook-walter-woon-company-law"],
+  "sources": [
+    {
+      "label": "Official English",
+      "url": "https://sso.agc.gov.sg/Act/SFA2001",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "titleZh": "上市公司章程指引（2016年修订）",
+  "titleEn": "Guidelines for the Articles of Association of Listed Companies (2016 Revision)",
+  "shortTitle": "章程指引（2016）",
+  "aliases": ["证监会公告〔2016〕23号"],
+  "jurisdiction": "cn",
+  "documentType": "departmental-rule",
+  "authorityLevel": "departmental-rule",
+  "issuingBodyZh": "中国证券监督管理委员会",
+  "issuingBodyEn": "China Securities Regulatory Commission",
+  "promulgationDate": "2016-09-30",
+  "effectiveDate": "2016-09-30",
+  "status": "historical",
+  "languageStatus": "official-zh-plus-reference-en",
+  "languages": ["zh", "en"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "corporate-governance", "shareholder-rights"],
+  "summaryZh": "上市公司章程指引在 2016 年的重要修订文本，细化股东大会、董事会和监事会条款，是后续 2022 与 2025 版本的直接前序。",
+  "summaryEn": "The important 2016 revision of the Articles Guidelines, refining shareholder-meeting, board, and supervisory-board clauses as the direct predecessor to the 2022 and 2025 versions.",
+  "versionGroup": "cn-csrc-articles-of-association-guidelines",
+  "versionLabel": "2016 revision",
+  "nextVersionId": "cn-csrc-articles-of-association-guidelines-2022",
+  "applicablePeriodZh": "2016年9月30日起适用，至 2022 年修订版出台前构成上市公司章程设计的重要依据。",
+  "applicablePeriodEn": "Applied from September 30, 2016, and remained an important baseline until the 2022 revision.",
+  "relatedCaseIds": ["cn-guiding-case-10-board-resolution-review"],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official Chinese",
+      "url": "https://www.csrc.gov.cn/xiamen/c105635/c1318368/content.shtml",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Official release",
+      "url": "https://www.csrc.gov.cn/csrc/c101864/c1024596/1024596/files/%E9%99%84%E4%BB%B6%EF%BC%9A%E3%80%8A%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E7%AB%A0%E7%A8%8B%E6%8C%87%E5%BC%95%EF%BC%882016%E5%B9%B4%E4%BF%AE%E8%AE%A2%EF%BC%89%E3%80%8B.pdf",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Official English (reference)",
+      "url": "https://www.csrc.gov.cn/csrc_en/c102034/c1372457/content.shtml",
+      "official": false,
+      "lastVerified": "2026-05-15",
+      "noteZh": "证监会英文站保留的同名官方英文参考页，可用于与 2016 年修订文本对照。",
+      "noteEn": "Official English reference page on the CSRC English site for comparison with the 2016 revision."
+    }
+  ]
+}

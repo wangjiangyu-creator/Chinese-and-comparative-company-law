@@ -1,0 +1,180 @@
+{
+  "nameZh": "董监高信义义务、责任追究与代表诉讼专题",
+  "nameEn": "Directors, Supervisors, and Senior Managers: Duties, Liability, and Derivative Enforcement",
+  "descriptionZh": "本专题将原先分散的董监高侵害公司利益、董监高责任追责、董监高信义义务和董监高责任与代表诉讼路径四页合并为一个研究入口，集中整理中国公司法下关于忠实勤勉义务、关联交易、利益输送、商业机会侵占、监事或股东代表诉讼、公司决议程序、利润分配、清算责任及上市公司代位追偿的核心案例与规则。页面按研究路径重新分组，优先保留最高人民法院公报、指导案例、人民法院案例库和法院官方发布案例，便于从义务基础、程序启动和救济落实三个维度快速检索。",
+  "descriptionEn": "This consolidated topic merges the former separate pages on fiduciary abuse, director-liability litigation, duties of directors and officers, and representative-action pathways into a single research entry. It collects core Chinese authorities on loyalty and diligence, related-party transactions, tunneling, corporate-opportunity diversion, derivative suits by supervisors or shareholders, resolution procedure, profit distribution, liquidation liability, and listed-company recovery actions.",
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-company-law-2013",
+    "cn-civil-code-2020-legal-person",
+    "cn-spc-company-law-interpretation-1-2014",
+    "cn-spc-company-law-interpretation-2-2020",
+    "cn-spc-company-law-interpretation-5-2019",
+    "cn-spc-company-law-interpretation-5-2021",
+    "cn-spc-company-law-interpretation-3-2021"
+  ],
+  "relatedCaseIds": [
+    "cn-reference-case-opportunity-steering-fluid-equipment",
+    "cn-reference-case-lin-cheng-en-director-loyalty-foreign-complexity",
+    "cn-reference-case-lvyuan-patent-transfer-loyalty",
+    "cn-reference-case-yuyao-job-invention-loyalty",
+    "cn-reference-case-supervisor-noncompete-binhu",
+    "cn-reference-case-baolu-vehicle-reward-duty-boundary",
+    "sg-case-goh-jin-hian-directors-duties",
+    "cn-database-case-related-transaction-gao-cheng",
+    "cn-typical-case-related-transaction-shandong-yue",
+    "cn-typical-case-self-dealing-shanghai-lan",
+    "cn-reference-case-zhengzhou-cable-overpriced-supplies",
+    "cn-reference-case-actual-controller-overinterest-loan",
+    "cn-reference-case-hongshida-zhangchen-company-harm",
+    "cn-reference-case-kou-guo-henan-education-asset-sale",
+    "cn-reference-case-shanxi-property-and-monitor-zhuyue",
+    "cn-reference-case-zhou-changchun-hanzhuo-company-liability",
+    "cn-reference-case-monitor-representative-suit-shanghai",
+    "cn-reference-case-fang-siwei-related-transaction-monitor",
+    "cn-database-case-derivative-execution-review",
+    "cn-reference-case-dazhihui-derivative-recovery",
+    "cn-reference-case-st-moden-fund-occupation-derivative",
+    "cn-reference-case-taian-ret-fund-occupation-derivative",
+    "cn-reference-case-st-lutong-fund-occupation-derivative",
+    "cn-guiding-case-10-board-resolution-review",
+    "cn-database-case-board-resolution-charter-overreach",
+    "cn-database-case-employee-supervisor-resolution-invalid",
+    "cn-gazette-case-fie-board-record-xu-minghong",
+    "cn-gazette-case-fabricated-shareholder-meeting-zhang-yanjuan",
+    "cn-database-case-fie-transition-governance",
+    "cn-database-case-change-registration-chen-moufei",
+    "cn-gazette-case-shareholder-expulsion-liu-meifang",
+    "cn-database-case-equity-security-nominee-vote",
+    "cn-gazette-case-contribution-deadline-resolution",
+    "cn-reference-case-cai-mei-fang-company-resolution-validity-foreign-invested-case",
+    "cn-reference-case-upstream-guarantee-no-resolution",
+    "cn-database-case-listed-buyback-vam-nanjing",
+    "cn-gazette-case-forced-profit-distribution",
+    "cn-reference-case-taiyi-thermal-li-shiun-profit-distribution",
+    "cn-database-case-profit-distribution-zhao-wang",
+    "cn-database-case-destroyed-books-inspection",
+    "cn-guiding-case-9-liquidation-liability",
+    "cn-reference-case-closure-operator-liquidation-liability",
+    "cn-guiding-case-15-corporate-veil",
+    "cn-guiding-case-215-environmental-veil-piercing",
+    "cn-typical-case-certificate-preservation-japan-a"
+  ],
+  "relatedArticleIds": [
+    "article-cms-company-law-2024",
+    "article-china-briefing-revised-company-law",
+    "article-skadden-broad-reforms",
+    "article-routledge-corporate-governance"
+  ],
+  "caseGroups": [
+    {
+      "titleZh": "忠实义务、勤勉义务与商业机会",
+      "titleEn": "Loyalty, diligence, and corporate opportunities",
+      "descriptionZh": "先看义务基础本身。这里集中放入忠实义务、勤勉义务、竞业禁止和商业机会归属案件，便于比较法院如何区分正常经营判断、利益冲突和可归属于公司的机会转移。",
+      "descriptionEn": "This group focuses on the duty framework itself: loyalty, diligence, non-compete constraints, and corporate-opportunity disputes.",
+      "caseIds": [
+        "cn-reference-case-opportunity-steering-fluid-equipment",
+        "cn-reference-case-lin-cheng-en-director-loyalty-foreign-complexity",
+        "cn-reference-case-lvyuan-patent-transfer-loyalty",
+        "cn-reference-case-yuyao-job-invention-loyalty",
+        "cn-reference-case-supervisor-noncompete-binhu",
+        "cn-reference-case-baolu-vehicle-reward-duty-boundary",
+        "sg-case-goh-jin-hian-directors-duties"
+      ]
+    },
+    {
+      "titleZh": "关联交易、利益输送与损害公司利益",
+      "titleEn": "Related-party transactions, tunneling, and harm to corporate interests",
+      "descriptionZh": "这一组围绕最常见的董监高侵害公司利益样态展开，包括自我交易、低价处分资产、过高定价采购、控制股东或管理层对公司资源的转移，以及损失计算与返还收益的裁判方法。",
+      "descriptionEn": "These cases address the most common patterns of insider harm: self-dealing, undervalued asset transfers, overpriced procurement, diversion of company resources, and loss-disgorgement methods.",
+      "caseIds": [
+        "cn-database-case-related-transaction-gao-cheng",
+        "cn-typical-case-related-transaction-shandong-yue",
+        "cn-typical-case-self-dealing-shanghai-lan",
+        "cn-reference-case-zhengzhou-cable-overpriced-supplies",
+        "cn-reference-case-actual-controller-overinterest-loan",
+        "cn-reference-case-hongshida-zhangchen-company-harm",
+        "cn-reference-case-kou-guo-henan-education-asset-sale",
+        "cn-reference-case-shanxi-property-and-monitor-zhuyue",
+        "cn-reference-case-zhou-changchun-hanzhuo-company-liability"
+      ]
+    },
+    {
+      "titleZh": "代表诉讼、内部追责与上市公司代位救济",
+      "titleEn": "Derivative suits, internal enforcement, and listed-company recovery actions",
+      "descriptionZh": "这部分专门收拢监事提诉、股东代表诉讼、执行衔接和中证投服中心代位追偿等程序路径，方便直接检索谁能起诉、何时可绕过公司内部机关，以及判决后如何继续为公司回收损失。",
+      "descriptionEn": "This group collects procedural pathways: supervisor-initiated suits, shareholder derivative actions, post-judgment execution, and investor-service-center recovery claims.",
+      "caseIds": [
+        "cn-reference-case-monitor-representative-suit-shanghai",
+        "cn-reference-case-fang-siwei-related-transaction-monitor",
+        "cn-database-case-derivative-execution-review",
+        "cn-reference-case-dazhihui-derivative-recovery",
+        "cn-reference-case-st-moden-fund-occupation-derivative",
+        "cn-reference-case-taian-ret-fund-occupation-derivative",
+        "cn-reference-case-st-lutong-fund-occupation-derivative"
+      ]
+    },
+    {
+      "titleZh": "决议程序、监事地位、治理结构与特别公司场景",
+      "titleEn": "Resolution procedure, supervisory status, governance structure, and special corporate settings",
+      "descriptionZh": "这一组处理责任争议常见的程序前置问题，包括监事资格、董事会和股东会决议效力、外商投资企业治理过渡、法定登记变更衔接，以及上市公司股份回购等特殊治理场景。",
+      "descriptionEn": "These cases deal with the procedural and structural side of D&O disputes: supervisory status, board and shareholder resolutions, FIE governance transition, registration change follow-through, and listed-company governance settings.",
+      "caseIds": [
+        "cn-guiding-case-10-board-resolution-review",
+        "cn-database-case-board-resolution-charter-overreach",
+        "cn-database-case-employee-supervisor-resolution-invalid",
+        "cn-gazette-case-fie-board-record-xu-minghong",
+        "cn-gazette-case-fabricated-shareholder-meeting-zhang-yanjuan",
+        "cn-database-case-fie-transition-governance",
+        "cn-database-case-change-registration-chen-moufei",
+        "cn-gazette-case-shareholder-expulsion-liu-meifang",
+        "cn-database-case-equity-security-nominee-vote",
+        "cn-gazette-case-contribution-deadline-resolution",
+        "cn-reference-case-cai-mei-fang-company-resolution-validity-foreign-invested-case",
+        "cn-reference-case-upstream-guarantee-no-resolution",
+        "cn-database-case-listed-buyback-vam-nanjing"
+      ]
+    },
+    {
+      "titleZh": "盈余分配、清算责任与延伸救济",
+      "titleEn": "Profit distribution, liquidation liability, and ancillary remedies",
+      "descriptionZh": "最后放入与董监高责任紧密相连的延伸救济问题，包括强制分红、账簿毁损后的证据救济、怠于清算责任、人格否认和行为保全，便于把义务违反和最终救济结果放在同一页观察。",
+      "descriptionEn": "This final group collects closely related remedial questions, including forced distributions, evidentiary relief after destroyed books, liquidation liability, veil piercing, and interim preservation.",
+      "caseIds": [
+        "cn-gazette-case-forced-profit-distribution",
+        "cn-reference-case-taiyi-thermal-li-shiun-profit-distribution",
+        "cn-database-case-profit-distribution-zhao-wang",
+        "cn-database-case-destroyed-books-inspection",
+        "cn-guiding-case-9-liquidation-liability",
+        "cn-reference-case-closure-operator-liquidation-liability",
+        "cn-guiding-case-15-corporate-veil",
+        "cn-guiding-case-215-environmental-veil-piercing",
+        "cn-typical-case-certificate-preservation-japan-a"
+      ]
+    }
+  ],
+  "comparisonRows": [
+    {
+      "labelZh": "义务基础与审查重心",
+      "labelEn": "Duty framework and review focus",
+      "cn": "中国公司法把忠实义务、勤勉义务、报告披露义务和关联交易回避义务放在同一责任框架下，裁判上通常同时审查利益冲突、程序合规和公司损失是否可具体化。",
+      "hk": "香港更强调董事职责、上市规则下的披露和回避表决，以及董事会程序与独立股东保护机制的配合。",
+      "sg": "新加坡同样以 fiduciary duties 和 statutory duties 为核心，但更依赖案例法对商业判断、利益冲突和资不抵债背景下的义务边界作细化。"
+    },
+    {
+      "labelZh": "代表诉讼与内部追责路径",
+      "labelEn": "Derivative enforcement and internal accountability",
+      "cn": "中国法上通常先看监事会、董事会或公司本身是否有能力和意愿起诉；在内部机关失灵时，股东代表诉讼、监事提诉和执行延伸成为关键追责路径，上市公司场景中还出现投服中心代位追偿。",
+      "hk": "香港主要通过 derivative action、unfair prejudice 和清盘救济处理控制股东或管理层主导的侵害，不存在中国式监事会代表诉讼结构。",
+      "sg": "新加坡则通过法定或判例上的 derivative action、minority oppression 和董事责任诉讼形成并行救济。"
+    },
+    {
+      "labelZh": "程序治理与救济落点",
+      "labelEn": "Governance procedure and remedial design",
+      "cn": "中国法院常把决议效力、公司登记变更、利润分配、清算责任和人格否认放在同一治理链条中考察，强调程序纠偏和财产回收的衔接。",
+      "hk": "香港更偏向通过声明、禁令、赔偿和公司法庭命令分别校正程序瑕疵与实质损害。",
+      "sg": "新加坡则更强调 declaratory relief、injunctions、damages 和 court-ordered corporate relief 的组合使用。"
+    }
+  ]
+}

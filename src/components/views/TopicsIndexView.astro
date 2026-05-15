@@ -1,0 +1,76 @@
+---
+import SectionCard from "@/components/SectionCard.astro";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { pickLocalized, toLocalePath, type Locale } from "@/lib/i18n";
+import { getPortalSnapshot } from "@/lib/portal-data";
+import { getTopicDirectory } from "@/lib/topic-directory";
+
+type Props = {
+  locale: Locale;
+  path: string;
+};
+
+const { locale, path } = Astro.props;
+const snapshot = await getPortalSnapshot();
+const directory = getTopicDirectory(snapshot.topics);
+---
+
+<BaseLayout
+  locale={locale}
+  path={path}
+  titleZh="专题页"
+  titleEn="Topic Pages"
+  descriptionZh="把中国法律法规、案例、地方性规则和比较法材料串联成可直接进入的专题研究路径。"
+  descriptionEn="Topic entry points that connect China laws, cases, local rules, and comparative materials into direct research paths."
+>
+  <section class="hero">
+    <span class="eyebrow">{locale === "zh" ? "研究路径" : "Research paths"}</span>
+    <h1 class="page-title">{locale === "zh" ? "专题页" : "Topic Pages"}</h1>
+    <p class="lede">
+      {locale === "zh"
+        ? "专题模块不替代主库，而是把最常一起被研究的法律、案例、地方规则和比较法材料提前编织成检索入口。"
+        : "The topic layer does not replace the core corpus; it weaves frequently co-researched laws, cases, local rules, and comparative materials into direct entry points."}
+    </p>
+  </section>
+
+  <section class="section">
+    <div class="section-head">
+      <div>
+        <span class="eyebrow">{locale === "zh" ? "推荐专题" : "Featured topics"}</span>
+        <h2>{locale === "zh" ? "先从这几个高价值专题开始" : "Start with these high-value topics"}</h2>
+      </div>
+    </div>
+    <div class="section-grid">
+      {directory.featuredTopics.map((topic) => (
+        <SectionCard
+          href={toLocalePath(locale, `/topics/${topic.id}/`)}
+          label={locale === "zh" ? "专题页" : "Topic page"}
+          title={pickLocalized(locale, topic.nameZh, topic.nameEn)}
+          summary={pickLocalized(locale, topic.descriptionZh, topic.descriptionEn)}
+        />
+      ))}
+    </div>
+  </section>
+
+  {directory.groups.map((group) => (
+    <section class="section">
+      <div class="section-head">
+        <div>
+          <span class="eyebrow">{locale === "zh" ? "专题分组" : "Topic group"}</span>
+          <h2>{pickLocalized(locale, group.titleZh, group.titleEn)}</h2>
+          <p>{pickLocalized(locale, group.noteZh, group.noteEn)}</p>
+        </div>
+      </div>
+      <div class="section-grid">
+        {group.topics.map((topic) => (
+          <SectionCard
+            href={toLocalePath(locale, `/topics/${topic.id}/`)}
+            label={locale === "zh" ? "专题页" : "Topic page"}
+            title={pickLocalized(locale, topic.nameZh, topic.nameEn)}
+            summary={pickLocalized(locale, topic.descriptionZh, topic.descriptionEn)}
+          />
+        ))}
+      </div>
+    </section>
+  ))}
+</BaseLayout>

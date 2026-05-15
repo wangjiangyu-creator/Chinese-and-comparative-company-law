@@ -1,0 +1,44 @@
+{
+  "titleZh": "张冬驹等与南京钢研创业投资合伙企业（有限合伙）股权转让纠纷案",
+  "titleEn": "Reference Case: Zhang Dongju et al. v. Nanjing Gangyan Venture Capital Partnership",
+  "forumZh": "北京市高级人民法院",
+  "forumEn": "Beijing Higher People's Court",
+  "citation": "（2021）京民终495号",
+  "year": 2021,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股权转让纠纷",
+  "issuesZh": [
+    "目标公司未完成减资程序时能否承担股权赎回迟延履行违约金",
+    "资本维持原则是否当然排斥对赌违约责任",
+    "未及时推进减资程序是否构成目标公司的附随义务违反"
+  ],
+  "issuesEn": [
+    "whether a target company may owe delay damages on a redemption obligation when capital reduction was not completed",
+    "whether capital-maintenance principles automatically displace contractual VAM damages",
+    "whether failure to timely advance the capital-reduction process breaches the target company's ancillary duties"
+  ],
+  "holdingZh": "北京高院区分了“实际回购股权”和“因未及时履行回购配套程序而承担违约金”两层责任，认为目标公司虽因未完成减资程序而不能直接支付回购价款，但其未及时推进减资程序已违反合同附随义务，应向投资人承担迟延履行违约金。该违约金并不当然导致注册资本减少，也不当然构成变相抽逃出资。",
+  "holdingEn": "The Beijing Higher People's Court distinguished between actually repurchasing the shares and paying damages for failing to timely complete the supporting steps for that repurchase. Although the target company could not directly pay the redemption price without first completing a capital reduction, its failure to timely push that process forward breached ancillary contractual duties, so delay damages were available. Those damages did not automatically reduce registered capital or amount to a disguised withdrawal of capital.",
+  "topics": ["vam-disputes", "registered-capital", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2018",
+    "cn-company-law-2023",
+    "cn-national-civil-commercial-trial-minutes-2019",
+    "cn-civil-code-2020-legal-person"
+  ],
+  "sources": [
+    {
+      "label": "Law firm analysis",
+      "url": "https://www.junhe.com/legal-updates/1944?locale=zh",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Law firm analysis",
+      "url": "https://www.foridom.com/index.php/index/article/id/1239",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

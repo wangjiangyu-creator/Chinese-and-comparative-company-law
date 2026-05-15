@@ -1,0 +1,31 @@
+{
+  "titleZh": "安徽省春某汽车销售公司诉蒙城县市场监督管理局行政许可案",
+  "titleEn": "Reference Case: Anhui Spring Auto Sales Company v. Mengcheng County Market Supervision Administration",
+  "forumZh": "最高人民法院首批涉市场准入行政诉讼十大典型案例",
+  "forumEn": "SPC First Group of Ten Model Cases on Market-Access Administrative Litigation",
+  "citation": "最高法市场准入典型案例：设立登记增设许可条件",
+  "year": 2025,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司设立登记行政争议",
+  "issuesZh": ["公司设立登记", "住所证明", "增设许可条件"],
+  "issuesEn": ["company establishment registration", "proof of company domicile", "improper additional licensing conditions"],
+  "holdingZh": "市场监管机关在公司设立登记阶段原则上只审查法定登记材料，申请人已经提交能够证明拟设立公司住所使用权的文件时，不得再以该住所是否符合特定经营活动的土地、规划要求为由增设登记条件并驳回申请。",
+  "holdingEn": "At the company-establishment registration stage, the registrar should generally examine only the statutory registration materials. Once the applicant has provided documents proving the right to use the proposed company domicile, the authority may not add extra conditions based on land-use or planning suitability for the intended business and reject registration on that basis.",
+  "topics": ["corporate-formation"],
+  "relatedLawIds": [
+    "cn-company-registration-regulations-2016",
+    "cn-market-entity-registration-regulations-2021",
+    "cn-market-entity-registration-rules-2022"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/456251.html",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "最高人民法院2025年3月3日发布的首批涉市场准入行政诉讼十大典型案例之一，第7案。",
+      "noteEn": "Case No. 7 in the SPC's first group of ten model administrative litigation cases on market access, released on March 3, 2025."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "titleZh": "强静延、曹务波股权转让纠纷案",
+  "titleEn": "Reference Case: Qiang Jingyan v. Cao Wubo",
+  "forumZh": "最高人民法院",
+  "forumEn": "Supreme People's Court",
+  "citation": "（2016）最高法民再128号",
+  "year": 2018,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股权转让纠纷",
+  "issuesZh": [
+    "目标公司为实际控制人回购义务提供担保的效力",
+    "投资人对公司担保是否尽到形式审查义务",
+    "公司担保与公司直接承担对赌义务的区分"
+  ],
+  "issuesEn": [
+    "validity of the target company's guarantee for the controller's repurchase obligation",
+    "whether the investor satisfied its formal-review duty regarding corporate authorization",
+    "distinguishing company guarantee from the company directly assuming the VAM obligation"
+  ],
+  "holdingZh": "最高人民法院认可目标公司为实际控制人回购义务提供连带责任担保的安排可以有效，并强调此类担保条款不能简单等同于目标公司直接向投资人支付对赌补偿。判断重点转向投资人是否尽到合理形式审查义务，以及公司提供担保是否具有相应的授权基础与利益关联。",
+  "holdingEn": "The Supreme People's Court accepted that a target company may validly provide a joint-liability guarantee for the controller's repurchase obligation, and stressed that such a guarantee should not be collapsed into a direct VAM payment obligation by the company itself. The analysis turns instead on whether the investor exercised reasonable formal review and whether the guarantee had a sufficient authorization and corporate-benefit basis.",
+  "topics": ["vam-disputes", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2013",
+    "cn-company-law-2023",
+    "cn-national-civil-commercial-trial-minutes-2019"
+  ],
+  "sources": [
+    {
+      "label": "Law firm analysis",
+      "url": "https://www.mhplawyer.com/CN/05-10977.aspx",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Publisher page",
+      "url": "https://www.thepaper.cn/newsDetail_forward_7085247",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

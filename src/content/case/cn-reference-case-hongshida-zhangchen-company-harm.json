@@ -1,0 +1,43 @@
+{
+  "titleZh": "沈阳宏适达电子有限公司与张陈、李征帆损害公司利益纠纷案",
+  "titleEn": "Shenyang Hongshida Electronics Co., Ltd. v. Zhang Chen and Li Zhengfan",
+  "forumZh": "沈阳市浑南区人民法院 / 沈阳市中级人民法院 / 最高人民法院第二巡回法庭典型案例",
+  "forumEn": "Shenyang Hunnan District People's Court / Shenyang Intermediate People's Court / Typical case published by the SPC Second Circuit",
+  "citation": "（2012）东陵民三初字第266号；（2015）沈中民三终字第387号",
+  "year": 2015,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "损害公司利益责任纠纷",
+  "issuesZh": ["董事长与监事利用关联主体经营同类业务", "损害公司利益赔偿", "公司内部责任与外部主体责任区分"],
+  "issuesEn": [
+    "chairman and supervisor using affiliates to run competing business",
+    "compensation for harm to corporate interests",
+    "distinguishing insider liability from external-party liability"
+  ],
+  "holdingZh": "最高法第二巡回法庭发布的典型案例确认，公司的董事长、监事利用其控制的关联公司生产销售本应由公司经营的产品并攫取利润，属于利用关联关系和职务便利损害公司利益，应向公司赔偿相应损失。对于并非公司控股股东、实际控制人、董事、监事、高级管理人员的外部主体，若其责任基础另属不正当竞争等法律关系，则不当然与公司内部责任人按照公司法承担连带赔偿责任。",
+  "holdingEn": "A typical case published by the SPC Second Circuit held that where a company's chairman and supervisor use controlled affiliates to produce and sell products that should have been operated by the company and capture the profits, they harm the company through related-party control and abuse of office and must compensate the company. External parties that are not the company's controlling shareholders, actual controllers, directors, supervisors, or senior managers do not automatically bear joint and several liability under company law when their liability rests on a different legal basis such as unfair competition.",
+  "topics": [
+    "corporate-governance",
+    "director-abuse",
+    "director-liability-litigation",
+    "actual-controller-tunneling",
+    "related-transaction-harm",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2013",
+    "cn-company-law-2018",
+    "cn-company-law-2023",
+    "cn-civil-code-2020-legal-person"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/xunhui2/xiangqing/83142.html",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "最高人民法院第二巡回法庭发布的2017年东北老工业基地振兴典型案例之五，载明两审案号、裁判要旨和典型意义。",
+      "noteEn": "Typical Case No. 5 in the SPC Second Circuit's 2017 revitalization cases, with both case numbers, holding, and significance."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "titleZh": "韩国T某株式会社与天某文化用品有限公司、曹某铉股东知情权纠纷案",
+  "titleEn": "Typical Case: Korea T Co., Ltd. v. Tian Cultural Products Co., Ltd. and Cao Mouxuan",
+  "forumZh": "最高人民法院依法保护外商投资权益典型案例",
+  "forumEn": "Supreme People's Court Typical Cases on Protecting Foreign Investment Rights",
+  "citation": "最高法典型案例：外国投资者股东知情权",
+  "year": 2025,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股东知情权纠纷",
+  "issuesZh": ["外国法人的代表权", "股东知情权", "会计账簿与原始凭证查阅"],
+  "issuesEn": ["representation of a foreign corporate shareholder", "shareholder inspection rights", "inspection of accounting books and underlying vouchers"],
+  "holdingZh": "对于外国投资者作为中国公司股东行使知情权的案件，外国法人的诉讼代表权应适用其登记地法律判断，而股东知情权的内容和行使方式适用中国公司法。外国股东依法可请求查阅、复制公司决议和财务会计报告，并查阅会计账簿及原始凭证。",
+  "holdingEn": "In a shareholder-inspection action brought by a foreign investor as shareholder of a Chinese company, the authority of the foreign corporation's representative is governed by the law of its place of incorporation, while the content and exercise of the inspection right are governed by Chinese company law. The foreign shareholder may lawfully seek access to and copies of corporate resolutions and financial reports, as well as inspection of accounting books and underlying vouchers.",
+  "topics": ["shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017",
+    "cn-spc-foreign-invested-enterprise-disputes-1-2021"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/451771.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

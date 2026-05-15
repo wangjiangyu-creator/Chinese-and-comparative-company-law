@@ -1,0 +1,29 @@
+{
+  "titleZh": "王某诉枣庄市某酒店有限公司股东知情权纠纷案",
+  "titleEn": "Reference Case: Wang Mou v. a Zaozhuang Hotel Co., Ltd.",
+  "forumZh": "枣庄市中级人民法院",
+  "forumEn": "Zaozhuang Intermediate People's Court",
+  "citation": "枣庄法院中小投资者案例：王某诉酒店公司股东知情权",
+  "year": 2021,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股东知情权纠纷",
+  "issuesZh": ["大股东信息封锁", "会计账簿与会计凭证查阅", "知情权的基础性功能"],
+  "issuesEn": ["information blockage by controlling shareholders", "inspection of books and accounting vouchers", "inspection rights as a foundational shareholder right"],
+  "holdingZh": "中小股东为了解公司经营和长期未分红原因而提出书面申请后，公司拒不提供资料且不作答复的，人民法院可以判令公司提供章程、会议记录、财务会计报告、会计账簿和会计凭证，并明确查阅地点和合理期间，以兼顾股东监督与公司正常经营。",
+  "holdingEn": "After a minority shareholder submits a written demand to understand company operations and the reasons for prolonged non-distribution, a company that refuses access and gives no response may be ordered to provide the charter, meeting records, financial reports, accounting books, and accounting vouchers, with the court specifying a reasonable place and period for inspection to balance oversight and ordinary business operations.",
+  "topics": ["shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.sdcourt.gov.cn/zzzy/yhyshj74/8021873/index.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

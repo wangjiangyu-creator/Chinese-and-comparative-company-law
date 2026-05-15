@@ -1,0 +1,42 @@
+{
+  "titleZh": "中华人民共和国公司法（2005年修订）",
+  "titleEn": "Company Law of the People's Republic of China (2005 Revision)",
+  "shortTitle": "公司法（2005）",
+  "aliases": ["2005 Company Law", "2005修订公司法"],
+  "jurisdiction": "cn",
+  "documentType": "law",
+  "authorityLevel": "national-law",
+  "issuingBodyZh": "全国人民代表大会常务委员会",
+  "issuingBodyEn": "Standing Committee of the National People's Congress",
+  "promulgationDate": "2005-10-27",
+  "effectiveDate": "2006-01-01",
+  "status": "historical",
+  "languageStatus": "official-zh-plus-reference-en",
+  "languages": ["zh", "en"],
+  "textStatus": "metadata-only",
+  "topics": ["corporate-formation", "registered-capital", "corporate-governance", "shareholder-rights", "dissolution-liquidation"],
+  "summaryZh": "2005 年全面修订文本，是 2013 年、2018 年两次局部修正前的基础版本。",
+  "summaryEn": "The comprehensive 2005 revision that served as the base text before the 2013 and 2018 partial amendments.",
+  "versionGroup": "cn-company-law",
+  "versionLabel": "2005 revision",
+  "previousVersionId": "cn-company-law-2004",
+  "nextVersionId": "cn-company-law-2013",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official Chinese",
+      "url": "https://www.gov.cn/gongbao/content/2005/content_121466.htm",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Official English (reference)",
+      "url": "https://english.court.gov.cn/2015-08/17/c_761433.htm",
+      "noteZh": "最高人民法院英文站公开的 2005 年修订后公司法英文参考文本。",
+      "noteEn": "English reference text for the post-2005 revision Company Law published on the SPC English site.",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

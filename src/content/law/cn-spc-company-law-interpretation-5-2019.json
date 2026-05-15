@@ -1,0 +1,33 @@
+{
+  "titleZh": "最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（五）（2019年公布）",
+  "titleEn": "SPC Interpretation (V) on Several Issues Concerning the Application of the Company Law (2019)",
+  "shortTitle": "公司法司法解释（五）",
+  "aliases": ["法释〔2019〕7号", "2019原始文本"],
+  "jurisdiction": "cn",
+  "documentType": "judicial-interpretation",
+  "authorityLevel": "judicial-interpretation",
+  "issuingBodyZh": "最高人民法院",
+  "issuingBodyEn": "Supreme People's Court",
+  "promulgationDate": "2019-04-28",
+  "effectiveDate": "2019-04-29",
+  "status": "historical",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["shareholder-rights", "corporate-governance", "listed-companies"],
+  "summaryZh": "2019年原始文本聚焦关联交易损害、董事解任补偿、利润分配履行和股东重大分歧救济，是后续修正文的基础版本。",
+  "summaryEn": "The 2019 original text focused on harmful related-party transactions, compensation after director removal, implementation of profit distributions, and remedies for severe shareholder deadlock, and serves as the base version for the later revised text.",
+  "versionGroup": "cn-spc-company-law-interpretation-5",
+  "versionLabel": "2019 interpretation",
+  "nextVersionId": "cn-spc-company-law-interpretation-5-2021",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/fabu/xiangqing/155292.html",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "titleZh": "李某与某信息公司公司决议效力确认纠纷案",
+  "titleEn": "Reference Case: Li v. an Information Company on Resolution Validity",
+  "forumZh": "北京市海淀区人民法院",
+  "forumEn": "Haidian District People's Court, Beijing",
+  "citation": "海淀法院典型案例：章程约定的董事会邮件表决",
+  "year": 2024,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司决议效力确认纠纷",
+  "issuesZh": ["董事会召集方式", "电子邮件表决", "章程自治边界"],
+  "issuesEn": [
+    "board-convening procedure",
+    "email-based voting",
+    "limits of charter-based autonomy"
+  ],
+  "holdingZh": "公司法未强制限定有限责任公司董事会必须以线下实体会议方式表决时，公司章程可以就召集程序和表决方式作出安排。若章程明确允许通过电子邮件通知、以通讯方式表决，且全体董事均收到通知并实际回复意见，达到章程约定通过比例的，董事会决议即不因未举行线下会议或个别反对董事未签署纸质决议而不成立。",
+  "holdingEn": "Where the Company Law does not mandate an in-person board meeting for a limited liability company, the charter may define the convening procedure and voting method. If the charter expressly allows email notice and remote voting, and all directors receive notice and submit positions so that the required approval ratio is met, the board resolution is not invalid merely because no physical meeting occurred or dissenting directors refused to sign the paper resolution.",
+  "topics": ["shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://m.thepaper.cn/newsDetail_forward_29466862",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

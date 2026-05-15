@@ -1,0 +1,40 @@
+{
+  "titleZh": "淄博思创玻璃纤维有限公司与泰兴市格莱德特种纺织品有限公司、无锡市富仕德特种玻璃纤维有限公司、泰兴市贝斯达特种纺织品有限公司买卖合同纠纷案",
+  "titleEn": "Reference Case: Zibo Sichuang Glass Fiber Co., Ltd. v. Taixing Gelaide Specialty Textiles Co., Ltd., Wuxi Fushide Specialty Glass Fiber Co., Ltd., and Taixing Beisida Specialty Textiles Co., Ltd.",
+  "forumZh": "山东省沂源县人民法院 / 山东省淄博市中级人民法院（烟台中院转载裁判要旨）",
+  "forumEn": "Yiyuan County People's Court / Zibo Intermediate People's Court (reproduced by Yantai Intermediate People's Court)",
+  "citation": "山东法院裁判要旨：格莱德/富仕德/贝斯达人格混同",
+  "year": 2014,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "买卖合同纠纷",
+  "issuesZh": [
+    "关联公司业务、人事与财产混同",
+    "家庭控制关系下的公司主体借用",
+    "合同债权人面对多公司整体时的责任承担"
+  ],
+  "issuesEn": [
+    "commingling of business, personnel, and assets among affiliated companies",
+    "borrowing of corporate identities within a family-controlled group",
+    "allocation of liability where the creditor is in fact dealing with a multi-company whole"
+  ],
+  "holdingZh": "山东省沂源县人民法院在经二审维持的买卖合同纠纷中认定，格莱德公司、富仕德公司与贝斯达公司在签约、对账、收货、印章使用、经营宣传及人员安排上长期混用公司名义，三家公司实际控制人之间又具有夫妻、兄弟等近亲属关系，导致业务、人员和财产边界无法区分。法院据此认为合同相对方实质上并非三公司中的任一单独主体，而是三公司整体，并判令三公司对拖欠货款及利息共同承担清偿责任。",
+  "holdingEn": "In a sales-contract dispute affirmed on appeal, the Yiyuan County People's Court held that Gelaide, Fushide, and Beisida had become commingled because they repeatedly mixed company identities in contracting, account reconciliation, delivery, seal use, advertising, and personnel arrangements, while their controllers were closely related family members. The court concluded that the creditor had in substance dealt with the three-company whole rather than any one separate corporation, and ordered all three companies to satisfy the outstanding price and interest jointly.",
+  "topics": [
+    "corporate-veil-piercing",
+    "corporate-governance"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-civil-code-2020-legal-person"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.sdcourt.gov.cn/ytzy/spyw83/cpyz/618100/index.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

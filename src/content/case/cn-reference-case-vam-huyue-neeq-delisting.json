@@ -1,0 +1,45 @@
+{
+  "titleZh": "杭州虎跃悦夏投资管理合伙企业（有限合伙）与黄振武、黄振强合同纠纷案",
+  "titleEn": "Reference Case: Hangzhou Huyue Yuexia Investment Management Partnership v. Huang Zhenwu and Huang Zhenqiang",
+  "forumZh": "杭州市中级人民法院",
+  "forumEn": "Hangzhou Intermediate People's Court",
+  "citation": "（2020）浙01民终11166号",
+  "year": 2020,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "合同纠纷",
+  "issuesZh": [
+    "为配合新三板挂牌而暂缓或终止的回购权在终止挂牌后是否恢复",
+    "补充协议与承诺函应如何共同解释投资人退出路径",
+    "挂牌后又摘牌且业绩未达标时实际控制人是否应承担回购责任"
+  ],
+  "issuesEn": [
+    "whether a repurchase right suspended or terminated to facilitate NEEQ listing revives after delisting",
+    "how the supplemental agreement and the promise letter should be read together to define the investor's exit routes",
+    "whether the controllers must repurchase once the company is delisted and performance targets are missed"
+  ],
+  "holdingZh": "杭州中院强调，案涉安排为投资人预设了“市场退出”和“大股东保底回购”两条路径。目标公司挂牌后又被终止挂牌且业绩指标未达成，投资人无法通过交易市场退出，故其在挂牌阶段暂不主张的回购权应依承诺函和补充协议恢复，实际控制人应履行股权回购义务。",
+  "holdingEn": "The Hangzhou Intermediate People's Court stressed that the transaction created two exit paths for the investor: market exit and a fallback controller buyback. Once the company was later delisted and failed the agreed performance metrics, the investor could no longer exit through the market, so the repurchase right that had been set aside during the listing phase revived under the promise letter and supplemental agreement, and the controllers had to repurchase the shares.",
+  "topics": ["vam-disputes", "shareholder-rights", "disclosure"],
+  "relatedLawIds": [
+    "cn-company-law-2018",
+    "cn-company-law-2023",
+    "cn-national-civil-commercial-trial-minutes-2019",
+    "cn-nonlisted-public-company-supervision-measures-2021",
+    "cn-nonlisted-public-company-disclosure-measures-2021"
+  ],
+  "sources": [
+    {
+      "label": "Research platform",
+      "url": "https://lawbridge.org/legal-development-of-private-fund-industry-november-2020-issue-33/",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Research platform",
+      "url": "https://www.cicjc.com.cn/info/1041/16882.htm",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

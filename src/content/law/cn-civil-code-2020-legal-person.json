@@ -1,0 +1,51 @@
+{
+  "titleZh": "中华人民共和国民法典（法人编相关部分）",
+  "titleEn": "Civil Code of the People's Republic of China (Legal Person Provisions)",
+  "shortTitle": "民法典·法人",
+  "aliases": ["民法典法人编", "Civil Code legal person"],
+  "jurisdiction": "cn",
+  "documentType": "code",
+  "authorityLevel": "national-law",
+  "issuingBodyZh": "全国人民代表大会",
+  "issuingBodyEn": "National People's Congress",
+  "promulgationDate": "2020-05-28",
+  "effectiveDate": "2021-01-01",
+  "status": "effective",
+  "languageStatus": "official-zh-plus-reference-en",
+  "languages": ["zh", "en"],
+  "textStatus": "selected-excerpt",
+  "topics": ["corporate-formation", "corporate-governance", "dissolution-liquidation"],
+  "summaryZh": "作为公司法的上位私法框架，本条目聚焦法人、营利法人、法定代表人、住所、清算和终止规则。",
+  "summaryEn": "This entry isolates the Civil Code provisions on legal persons, profit-making legal persons, legal representatives, domicile, liquidation, and termination.",
+  "versionGroup": "cn-civil-code-legal-person",
+  "versionLabel": "2020 through-current text",
+  "relatedCaseIds": [
+    "cn-guiding-case-8-company-dissolution",
+    "cn-guiding-case-15-corporate-veil",
+    "cn-guiding-case-215-environmental-veil-piercing",
+    "cn-database-case-change-registration-chen-moufei",
+    "cn-reference-case-closure-operator-liquidation-liability"
+  ],
+  "relatedArticleIds": ["article-routledge-corporate-governance"],
+  "sources": [
+    {
+      "label": "Official Chinese",
+      "url": "https://wb.flk.npc.gov.cn/flfg/PDF/bd53dd912c1048f2aecbaa229238334b.pdf",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    },
+    {
+      "label": "Official English (reference)",
+      "url": "https://www.npc.gov.cn/npc/c2597/c5854/bfflywwb/202312/t20231219_433477.html",
+      "official": false,
+      "lastVerified": "2026-05-14"
+    }
+  ],
+  "texts": {
+    "zh": {
+      "path": "law/zh/cn-civil-code-2020-legal-person.json",
+      "label": "Official Chinese",
+      "official": true
+    }
+  }
+}

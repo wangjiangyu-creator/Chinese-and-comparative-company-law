@@ -1,0 +1,30 @@
+{
+  "titleZh": "员工离职被冒名登记为股东，被冒名登记人不享有股东资格",
+  "titleEn": "Reference Case: Former Employee Falsely Registered as Shareholder",
+  "forumZh": "天水市秦州区人民法院",
+  "forumEn": "Qinzhou District People's Court of Tianshui",
+  "citation": "秦州法院案例：离职员工被冒名登记为股东",
+  "year": 2020,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股东资格确认纠纷",
+  "issuesZh": ["冒名登记", "虚假股东", "意思表示缺失"],
+  "issuesEn": ["impersonated registration", "false shareholder", "absence of intent"],
+  "holdingZh": "被登记为公司股东，必须有真实的加入公司和承担出资义务的意思表示。离职员工既未在章程或出资文件上签字，也未授权他人签字、未认缴出资、未行使任何股东权利时，仅因被公司冒名登记，并不取得股东资格；相关法律后果应由冒名登记行为人承担。",
+  "holdingEn": "A person cannot become a shareholder without a genuine intention to join the company and assume the contribution arrangement. Where a former employee neither signed nor authorized company documents, never subscribed capital, and never exercised shareholder rights, false registration by the company does not create shareholder status; the legal consequences fall on the impersonating party.",
+  "topics": ["shareholder-rights", "corporate-governance", "business-environment"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-3-2021",
+    "cn-market-entity-registration-regulations-2021"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://tianshui.chinagscourt.gov.cn/Show/60522",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

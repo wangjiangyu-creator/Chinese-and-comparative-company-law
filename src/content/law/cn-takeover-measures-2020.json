@@ -1,0 +1,41 @@
+{
+  "titleZh": "上市公司收购管理办法（2020年修正）",
+  "titleEn": "Measures for the Administration of the Takeover of Listed Companies",
+  "shortTitle": "上市公司收购管理办法",
+  "aliases": ["证监会令第166号"],
+  "jurisdiction": "cn",
+  "documentType": "departmental-rule",
+  "authorityLevel": "departmental-rule",
+  "issuingBodyZh": "中国证券监督管理委员会",
+  "issuingBodyEn": "China Securities Regulatory Commission",
+  "promulgationDate": "2020-03-20",
+  "effectiveDate": "2020-03-20",
+  "status": "effective",
+  "languageStatus": "official-zh-plus-reference-en",
+  "languages": ["zh", "en"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "shareholder-rights", "disclosure"],
+  "summaryZh": "规范上市公司收购、权益变动、要约收购和管理层收购的基础规章，是控制权交易和持股披露制度的主干文本。",
+  "summaryEn": "The foundational CSRC rule on takeovers, stake-building, tender offers, and management buyouts of listed companies, forming the backbone of control-transaction and ownership-disclosure regulation.",
+  "versionGroup": "cn-takeover-measures",
+  "versionLabel": "2020 through-current text",
+  "previousVersionId": "cn-takeover-measures-2014",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official Chinese",
+      "url": "https://www.csrc.gov.cn/csrc/c106256/c1653983/content.shtml",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    },
+    {
+      "label": "Public English translation (reference)",
+      "url": "https://www.jdonline.com.hk/content_9321.html",
+      "noteZh": "公开英文译文对应的是该办法早期文本，用作现行 2020 年修正版本的参考英文入口。",
+      "noteEn": "This public English translation reflects an earlier text of the takeover measures and is provided here as a reference English entry point for the current 2020-amended version.",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

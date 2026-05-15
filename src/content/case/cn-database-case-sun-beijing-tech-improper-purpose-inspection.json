@@ -1,0 +1,33 @@
+{
+  "titleZh": "孙某某诉北京某科技有限公司股东知情权纠纷案",
+  "titleEn": "Database Case: Sun Moumou v. a Beijing Technology Company",
+  "forumZh": "人民法院案例库（最高人民法院审核入库）",
+  "forumEn": "People's Court Case Database (reviewed by the Supreme People's Court)",
+  "citation": "入库编号2023-08-2-267-002",
+  "year": 2024,
+  "jurisdiction": "cn",
+  "caseType": "database-case",
+  "decisionType": "股东知情权纠纷",
+  "issuesZh": ["绝对知情权与查账边界", "不正当目的抗辩", "近亲属同业竞争"],
+  "issuesEn": [
+    "scope of absolute inspection rights",
+    "improper-purpose defense",
+    "competition by close relatives"
+  ],
+  "holdingZh": "股东对公司章程、股东会会议记录、执行董事决定、监事决定和财务会计报告享有法定查阅复制权，无须说明目的；但对会计账簿、记账凭证和原始凭证的查阅仍受不正当目的限制。若股东本人或其配偶、近亲属控制的关联企业与目标公司在主营业务、客户群和技术服务上存在实质竞争关系，公司可以据此拒绝提供账簿和原始凭证；仅以经营地域不同进行抗辩，不足以排除竞争关系。",
+  "holdingEn": "A shareholder may inspect and copy the charter, meeting records, executive-director decisions, supervisor decisions, and financial reports without proving a purpose, but inspection of books, vouchers, and underlying documents remains subject to the improper-purpose limitation. Where the shareholder or close relatives control affiliated businesses that compete substantially with the target company in business scope, customers, and technical services, the company may refuse access to books and source vouchers, and geographic separation alone does not defeat a finding of competition.",
+  "topics": ["shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://rmfyalk.court.gov.cn/dist/view/content.html?id=QcDKFUb5C%252BzTqF3p7epfukkZCTbR0bZszEg7UuEN4aA%253D&lib=ck",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

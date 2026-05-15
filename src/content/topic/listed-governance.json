@@ -1,0 +1,103 @@
+{
+  "nameZh": "上市公司治理",
+  "nameEn": "Listed Company Governance",
+  "descriptionZh": "本专题集中整理上市公司治理及其特殊规则的核心裁判材料，重点覆盖关键少数责任追究、投保机构股东代位诉讼、公开发行与变相发行边界、股权分置改革中的定向转增、上市前应清理的回购条款、挂牌公司定向发行披露义务，以及上市公司股份归属、证券登记和资本运作中的特殊公示规则。页面优先放入最高人民法院指导案例、公报案例、人民法院案例库和监管或法院官方发布材料，便于将公司法、证券法、证监会规则和交易所规则放到同一研究路径下阅读。",
+  "descriptionEn": "This topic collects core Chinese authorities on listed-company governance and listed-company-specific rules, including insider accountability, investor-protection derivative suits, the line between lawful transfers and disguised public offerings, split-share-reform capitalization, pre-listing buyback clauses that must be cleared, NEEQ placement disclosure duties, and the special publicity and registration rules governing listed-company shares and capital-market transactions.",
+  "relatedLawIds": [
+    "cn-securities-law-2019",
+    "cn-csrc-listed-company-governance-code-2025",
+    "cn-csrc-articles-of-association-guidelines-2025",
+    "cn-listed-company-disclosure-measures-2021",
+    "cn-share-repurchase-rules-2023",
+    "cn-management-shareholding-rules-2024",
+    "cn-sse-stock-listing-rules-2025",
+    "cn-szse-stock-listing-rules-2025",
+    "cn-takeover-measures-2020",
+    "cn-nonlisted-public-company-supervision-measures-2021",
+    "cn-nonlisted-public-company-disclosure-measures-2021",
+    "hk-corporate-governance-code",
+    "sg-code-of-corporate-governance-2018",
+    "sg-mainboard-rules-governance"
+  ],
+  "relatedCaseIds": [
+    "cn-guiding-case-10-board-resolution-review",
+    "cn-gazette-case-anji-unauthorized-stock-issuance",
+    "cn-gazette-case-lanzhou-minbai-capital-reserve-shares",
+    "cn-gazette-case-listed-shareholding-shenyin",
+    "cn-reference-case-dazhihui-derivative-recovery",
+    "cn-reference-case-st-moden-fund-occupation-derivative",
+    "cn-reference-case-taian-ret-fund-occupation-derivative",
+    "cn-reference-case-st-lutong-fund-occupation-derivative",
+    "cn-database-case-listed-buyback-vam-nanjing",
+    "cn-reference-case-vam-gaoci-neeq-invalid",
+    "cn-reference-case-vam-huyue-neeq-delisting",
+    "cn-gazette-case-tianyuan-listing-debt-transfer"
+  ],
+  "relatedArticleIds": [
+    "article-hankun-foreign-investment-perspective",
+    "article-routledge-corporate-governance",
+    "article-china-briefing-revised-company-law"
+  ],
+  "caseGroups": [
+    {
+      "titleZh": "关键少数责任、投保机构诉讼与上市公司内部追责",
+      "titleEn": "Key-insider accountability, investor-protection suits, and internal listed-company recovery",
+      "descriptionZh": "这一组聚焦上市公司治理失灵后的司法应对：董事会、控股股东和高管在信息披露、资金占用和内部控制失效中的责任，以及投保机构如何以股东身份代公司追偿。",
+      "descriptionEn": "This group focuses on judicial responses to governance failures in listed companies, including board-level review, insider accountability for disclosure and fund-occupation problems, and derivative recovery pursued by investor-protection institutions.",
+      "caseIds": [
+        "cn-guiding-case-10-board-resolution-review",
+        "cn-reference-case-dazhihui-derivative-recovery",
+        "cn-reference-case-st-moden-fund-occupation-derivative",
+        "cn-reference-case-taian-ret-fund-occupation-derivative",
+        "cn-reference-case-st-lutong-fund-occupation-derivative"
+      ]
+    },
+    {
+      "titleZh": "公开发行边界、股改安排与市场秩序",
+      "titleEn": "Public-offering boundaries, split-share reform, and market order",
+      "descriptionZh": "这里集中看哪些安排会触发上市公司与证券市场的特殊监管逻辑，包括变相公开发行、股东人数门槛，以及股权分置改革中资本公积金定向转增与“发行新股”的界分。",
+      "descriptionEn": "This group covers when capital-market-specific rules are triggered, including disguised public offerings, shareholder-count thresholds, and the line between split-share-reform capitalization and issuing new shares.",
+      "caseIds": [
+        "cn-gazette-case-anji-unauthorized-stock-issuance",
+        "cn-gazette-case-lanzhou-minbai-capital-reserve-shares"
+      ]
+    },
+    {
+      "titleZh": "上市前后回购、挂牌定增与披露清理义务",
+      "titleEn": "Buybacks, NEEQ placements, and disclosure-clearing duties around listing",
+      "descriptionZh": "这一组反映上市公司和挂牌公司在进入公开市场前后面临的特殊约束：未披露回购条款、与市值挂钩的退出安排以及退市后回购权恢复等问题，均需在证券市场秩序框架下审查。",
+      "descriptionEn": "These cases show the special constraints surrounding listing and public trading, including undisclosed buyback clauses, market-value-linked exit arrangements, and the revival of repurchase rights after delisting.",
+      "caseIds": [
+        "cn-database-case-listed-buyback-vam-nanjing",
+        "cn-reference-case-vam-gaoci-neeq-invalid",
+        "cn-reference-case-vam-huyue-neeq-delisting"
+      ]
+    },
+    {
+      "titleZh": "上市公司股份归属、证券登记与资本运作规则",
+      "titleEn": "Share ownership, securities registration, and capital-operation rules",
+      "descriptionZh": "最后看上市公司股份这一特殊客体本身：股份代持与法人股转让如何受证券登记和公示规则约束，以及上市重组、债务转移等资本运作安排在公开公司场景中的特殊边界。",
+      "descriptionEn": "This group addresses listed-company shares as a special asset, focusing on registration and publicity effects in nominee-holding and legal-person-share disputes, and the special boundaries of capital operations in listed-company restructurings.",
+      "caseIds": [
+        "cn-gazette-case-listed-shareholding-shenyin",
+        "cn-gazette-case-tianyuan-listing-debt-transfer"
+      ]
+    }
+  ],
+  "comparisonRows": [
+    {
+      "labelZh": "治理代码定位",
+      "labelEn": "Status of governance codes",
+      "cn": "证监会治理准则、上市公司披露办法、回购规则和交易所上市规则共同构成上市公司治理与资本运作的综合框架，法院在裁判中也更强调公开市场秩序与中小投资者保护。",
+      "hk": "HKEX Appendix C1 以 comply-or-explain 结构组织治理要求。",
+      "sg": "SGX Rule 710 将 MAS/SGX Code of Corporate Governance 纳入年报治理披露。"
+    },
+    {
+      "labelZh": "股份流通与资本市场特殊规则",
+      "labelEn": "Special rules on tradability and capital-market conduct",
+      "cn": "中国裁判会将股份回购、股改、挂牌定增、上市前对赌清理、股份登记和控制权交易放入证券法和公开市场秩序中审查，而不是仅按一般公司合同逻辑处理。",
+      "hk": "香港同样更强调上市规则、收购守则、披露责任和股东平等待遇，并以公开公司秩序为核心约束控制权交易与资本运作。",
+      "sg": "新加坡则通过 SGX 规则、持续披露义务和 buy-back / take-over 规则，把公司内部安排与公开市场监管紧密连接。"
+    }
+  ]
+}

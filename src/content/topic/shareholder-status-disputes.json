@@ -1,0 +1,101 @@
+{
+  "nameZh": "股东资格纠纷",
+  "nameEn": "Shareholder Status Disputes",
+  "descriptionZh": "集中整理股东资格的取得、显名、丧失与否认问题，重点覆盖初始章程限制、虚假增资稀释、股东除名、隐名股东显名、股份代持、股权让与担保、股权赠与未完成、冒名登记，以及受让或继受取得股份后的资格确认。",
+  "descriptionEn": "Collects authorities on the acquisition, recognition, loss, and denial of shareholder status, with emphasis on charter-based restrictions, dilutive capital increases, shareholder expulsion, nominee arrangements, equity transfers by way of security, incomplete equity gifts, impersonated registration, and successor acquisition of shares.",
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-3-2021",
+    "cn-spc-company-law-interpretation-4-2017",
+    "cn-market-entity-registration-regulations-2021",
+    "hk-companies-ordinance-cap-622",
+    "sg-companies-act-1967"
+  ],
+  "relatedCaseIds": [
+    "cn-guiding-case-96-shareholder-status",
+    "cn-gazette-case-dilutive-capital-increase",
+    "cn-gazette-case-shareholder-expulsion-liu-meifang",
+    "cn-gazette-case-beneficial-owner-zhang-jianzhong",
+    "cn-gazette-case-cheng-junping-foreign-beneficial-owner-status",
+    "cn-database-case-lv-gansu-investment-shareholder-status",
+    "cn-gazette-case-kunming-oke-equity-security-status",
+    "cn-database-case-equity-security-nominee-vote",
+    "cn-database-case-transfer-agreement-shareholder-inspection",
+    "cn-reference-case-lei-zhaozhuang-gift-no-shareholder-status",
+    "cn-reference-case-qinzhou-impersonated-employee-no-status",
+    "cn-reference-case-wang-baohe-bank-shareholder-status",
+    "cn-reference-case-shanghai-unpaid-contribution-no-dividend-freeze"
+  ],
+  "relatedArticleIds": [],
+  "caseGroups": [
+    {
+      "titleZh": "原始取得、章程限制与股东资格丧失",
+      "titleEn": "Original acquisition, charter restrictions, and loss of status",
+      "descriptionZh": "先看谁在公司内部最初取得或失去股东资格：初始章程中的股权回购与“人走股留”安排、虚假增资稀释原股东、未履行或抽逃出资后的股东除名，以及未实缴出资时是否当然丧失股东身份。",
+      "descriptionEn": "These authorities address who acquires or loses shareholder status within the company at the outset, including charter-based buyback clauses, dilutive capital increases, expulsion for non-contribution or capital withdrawal, and whether unpaid contribution automatically strips shareholder status.",
+      "caseIds": [
+        "cn-guiding-case-96-shareholder-status",
+        "cn-gazette-case-dilutive-capital-increase",
+        "cn-gazette-case-shareholder-expulsion-liu-meifang",
+        "cn-reference-case-shanghai-unpaid-contribution-no-dividend-freeze"
+      ]
+    },
+    {
+      "titleZh": "隐名股东、代持与显名",
+      "titleEn": "Beneficial ownership, nominee holding, and re-registration",
+      "descriptionZh": "这一组聚焦法院何时承认实际出资人是“真正股东”：有限责任公司中的代持股显名、股份有限公司中的实际出资人显名，以及外籍实际出资人在负面清单外行业中请求显名变更登记。",
+      "descriptionEn": "This group asks when courts will treat the actual investor as the true shareholder, including nominee holdings in LLCs, registration of actual investors in joint-stock companies, and recognition of foreign beneficial investors outside negative-list sectors.",
+      "caseIds": [
+        "cn-gazette-case-beneficial-owner-zhang-jianzhong",
+        "cn-gazette-case-cheng-junping-foreign-beneficial-owner-status",
+        "cn-database-case-lv-gansu-investment-shareholder-status"
+      ]
+    },
+    {
+      "titleZh": "让与担保、转让瑕疵与登记外观",
+      "titleEn": "Security transfers, transfer defects, and registration appearance",
+      "descriptionZh": "再看登记在册的人是否真是股东：股权让与担保下的名义登记、签订股权转让协议后是否当然取得股东资格，以及股权赠与和变更登记存在重大瑕疵时的资格确认。",
+      "descriptionEn": "This group examines whether the person on record is really the shareholder, including equity transfers by way of security, whether a signed transfer agreement alone creates status, and how courts treat incomplete gifts or seriously defective registration changes.",
+      "caseIds": [
+        "cn-gazette-case-kunming-oke-equity-security-status",
+        "cn-database-case-equity-security-nominee-vote",
+        "cn-database-case-transfer-agreement-shareholder-inspection",
+        "cn-reference-case-lei-zhaozhuang-gift-no-shareholder-status"
+      ]
+    },
+    {
+      "titleZh": "冒名登记与继受取得股份",
+      "titleEn": "Impersonated registration and successor acquisition of shares",
+      "descriptionZh": "最后看两类边缘但高频争议：一类是被冒名登记为股东的人是否承担股东身份后果；另一类是通过清算分配、继承或其他继受方式取得股份后，能否请求确认股东资格。",
+      "descriptionEn": "The final group covers two recurring edge cases: whether a person falsely registered as a shareholder bears shareholder consequences, and whether a person who acquires shares by succession, liquidation distribution, or a similar route can demand shareholder recognition.",
+      "caseIds": [
+        "cn-reference-case-qinzhou-impersonated-employee-no-status",
+        "cn-reference-case-wang-baohe-bank-shareholder-status"
+      ]
+    }
+  ],
+  "comparisonRows": [
+    {
+      "labelZh": "资格认定的基本路径",
+      "labelEn": "Basic path to determine shareholder status",
+      "cn": "中国法院通常综合审查公司章程、股东名册、登记公示、实际出资、权利行使和当事人真实意思表示，不单纯拘泥于形式登记。",
+      "hk": "香港更强调成员登记册、章程和法定文件的公司法结构，但在不公平损害、信托或合同框架下仍可能穿透形式外观审查实益安排。",
+      "sg": "新加坡同样以法定成员登记和公司记录为起点，但在信托、代持或欺诈情形下会结合衡平法和公司治理事实作出实质判断。"
+    },
+    {
+      "labelZh": "隐名股东与显名变更",
+      "labelEn": "Beneficial owners and formal registration",
+      "cn": "中国法对隐名股东并非一概排斥，但是否支持显名，常取决于代持协议效力、其他股东同意、公司类型以及外资准入规则。",
+      "hk": "香港法更容易在成员登记与信托受益安排之间作出区分，实益权利和公司成员资格未必完全一致。",
+      "sg": "新加坡在名义持股与受益安排上也重视区分 legal title 与 beneficial ownership，成员资格与背后的受益权益可能分离。"
+    },
+    {
+      "labelZh": "冒名登记的处理",
+      "labelEn": "Treatment of impersonated registration",
+      "cn": "在中国，缺乏真实意思表示、签字授权、出资和权利行使时，被冒名登记人原则上不取得股东资格，责任回到冒名登记人或组织者一方。",
+      "hk": "香港通常也会把伪造、冒签和未经授权的成员登记作为公司记录失真问题处理，并通过更正登记册或信托救济恢复真实状态。",
+      "sg": "新加坡法下，未经授权的成员登记同样可能通过 rectification of register、信托或衡平救济纠正，不以错误登记当然创设真实股东地位。"
+    }
+  ]
+}

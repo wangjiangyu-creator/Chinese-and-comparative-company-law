@@ -1,0 +1,38 @@
+{
+  "titleZh": "招商银行股份有限公司大连东港支行与大连振邦氟涂料股份有限公司、大连振邦集团有限公司借款合同纠纷案",
+  "titleEn": "Gazette Case: China Merchants Bank Dalian Donggang Sub-branch v. Dalian Zhenbang Fluorocarbon Coatings Co., Ltd. and Dalian Zhenbang Group Co., Ltd.",
+  "forumZh": "最高人民法院公报 / 最高人民法院",
+  "forumEn": "Supreme People's Court Gazette / Supreme People's Court",
+  "citation": "公报案例：表见代表与公司担保",
+  "year": 2012,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司对外担保",
+  "issuesZh": ["法定代表人越权担保", "股东会决议形式审查", "表见代表"],
+  "issuesEn": [
+    "ultra vires guarantee by the legal representative",
+    "formal review of shareholder resolutions",
+    "apparent representation"
+  ],
+  "holdingZh": "公司法关于公司担保决议程序的规定主要属于公司内部控制规则，并不当然决定合同效力。公司以法定代表人越权设定抵押、签署担保文件为由对抗债权人时，如债权人已经对股东会决议等授权文件履行必要的形式审查义务并有理由相信其具有代表权，可以认定构成表见代表，公司应受担保合同约束。",
+  "holdingEn": "The Company Law's rules on internal approval for guarantees are primarily internal-control rules and do not automatically determine contract validity. Where a creditor has carried out the necessary formal review of shareholder resolutions and related authorization documents and has reason to believe the legal representative had authority, apparent representation may be found and the company remains bound by the guarantee.",
+  "topics": [
+    "legal-representative-and-seal-control",
+    "corporate-governance",
+    "shareholder-rights"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2005",
+    "cn-company-law-2023",
+    "cn-civil-code-2020-legal-person",
+    "cn-national-civil-commercial-trial-minutes-2019"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/b074b7e89d98ea5a25d89ed110d032.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

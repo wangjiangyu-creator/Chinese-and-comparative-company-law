@@ -1,0 +1,43 @@
+{
+  "titleZh": "上海某某公司诉上海某某股权投资中心等、第三人叶某某股权转让纠纷案",
+  "titleEn": "Database Case: Shanghai Company v. Shanghai Equity Investment Center et al., with Ye Moumou as Third Party",
+  "forumZh": "人民法院案例库（最高人民法院审核入库）",
+  "forumEn": "People's Court Case Database (reviewed by the Supreme People's Court)",
+  "citation": "入库编号2024-08-2-269-001",
+  "year": 2020,
+  "jurisdiction": "cn",
+  "caseType": "database-case",
+  "decisionType": "股权转让纠纷",
+  "issuesZh": [
+    "对赌失败后的股权回购是否适用股东优先购买权",
+    "股权代持、代签对回购协议效力的影响",
+    "全体原股东是否承担连带回购责任"
+  ],
+  "issuesEn": [
+    "whether a post-VAM-failure buyback is subject to shareholder pre-emption rights",
+    "the effect of nominee shareholding and delegated signatures on buyback validity",
+    "whether the original shareholders bear joint repurchase liability"
+  ],
+  "holdingZh": "法院将对赌失败后的股权回购理解为附条件的股权转让安排，而非通常意义上向股东以外第三人转让股权，因此不适用公司法上的股东优先购买权规则。对于全体原股东共同签署并约定承担不可撤销连带责任的情形，法院支持投资人主张连带回购责任。",
+  "holdingEn": "The court characterized the repurchase obligation arising after failure of the VAM arrangement as a conditional internal equity transfer rather than an ordinary transfer to an outside third party, and therefore held that statutory shareholder pre-emption rules did not apply. Where the original shareholders jointly undertook an irrevocable joint-liability obligation, the investor could enforce joint repurchase liability against them.",
+  "topics": ["vam-disputes", "shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2018",
+    "cn-company-law-2023",
+    "cn-national-civil-commercial-trial-minutes-2019"
+  ],
+  "sources": [
+    {
+      "label": "Research platform",
+      "url": "https://www.taxdy.cn/h-nd-296046.html",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Publisher page",
+      "url": "https://www.sohu.com/a/979803142_121123818",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

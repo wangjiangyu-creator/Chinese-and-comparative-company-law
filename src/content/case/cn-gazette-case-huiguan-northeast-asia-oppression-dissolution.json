@@ -1,0 +1,42 @@
+{
+  "titleZh": "吉林荟冠投资有限公司及第三人东证融成资本管理有限公司与长春东北亚物流有限公司、第三人董占琴公司解散纠纷案",
+  "titleEn": "Gazette Case: Jilin Huiguan Investment Co., Ltd., with Dongzheng Rongcheng Capital Management Co., Ltd. as Third Party, v. Changchun Northeast Asia Logistics Co., Ltd., with Dong Zhanqin as Third Party",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "（2017）最高法民申2148号",
+  "year": 2017,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司解散纠纷",
+  "issuesZh": [
+    "股东压制与公司解散",
+    "持续盈利公司能否司法解散",
+    "其他救济途径是否穷尽"
+  ],
+  "issuesEn": [
+    "shareholder oppression and dissolution",
+    "whether a profitable company may still be judicially dissolved",
+    "whether alternative remedies have been exhausted"
+  ],
+  "holdingZh": "公司是否仍有账面盈利，并不是判断是否应予司法解散的决定性标准。若持股较高股东长期无法行使参与经营、监督财务和分享公司治理收益等基本权利，且围绕估值退出、股权收购、协调经营等替代方案反复协商仍不能恢复正常治理秩序，人民法院可以认定公司经营管理已经发生严重困难，并依法支持解散请求。",
+  "holdingEn": "A company's continuing profitability is not decisive in deciding judicial dissolution. Where a substantial shareholder has long been unable to exercise basic rights of participation, oversight, and governance benefit-sharing, and repeated attempts at valuation exit, share acquisition, or negotiated management arrangements fail to restore normal governance, a court may find severe management difficulty and grant dissolution.",
+  "topics": [
+    "dissolution-liquidation",
+    "corporate-governance",
+    "shareholder-rights"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-2-2008",
+    "cn-spc-company-law-interpretation-2-2020"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/e8abb04a18101698618539c65320b1.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

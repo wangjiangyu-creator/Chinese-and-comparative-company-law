@@ -1,0 +1,36 @@
+{
+  "titleZh": "中华人民共和国市场主体登记管理条例实施细则",
+  "titleEn": "Detailed Implementing Rules for the Regulations on the Administration of Market Entity Registration of the People's Republic of China",
+  "shortTitle": "市场主体登记管理条例实施细则",
+  "aliases": ["市场监管总局令第52号"],
+  "jurisdiction": "cn",
+  "documentType": "departmental-rule",
+  "authorityLevel": "departmental-rule",
+  "issuingBodyZh": "国家市场监督管理总局",
+  "issuingBodyEn": "State Administration for Market Regulation",
+  "promulgationDate": "2022-03-01",
+  "effectiveDate": "2022-03-01",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["business-environment", "corporate-formation", "registered-capital"],
+  "summaryZh": "对市场主体登记申请、材料格式、电子化办理、备案和监督管理作出细化安排，是理解公司登记操作规则的核心部门规章。",
+  "summaryEn": "The main SAMR implementing rule detailing applications, documentation, electronic processing, filings, and supervision under the unified market-entity registration regime.",
+  "versionGroup": "cn-market-entity-registration-rules",
+  "versionLabel": "Order No. 52",
+  "relatedCaseIds": [
+    "cn-database-case-change-registration-chen-moufei",
+    "cn-reference-case-spring-auto-establishment-registration",
+    "cn-reference-case-limou-financing-lease-scope-registration"
+  ],
+  "relatedArticleIds": ["article-cms-company-law-2024"],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://www.gov.cn/zhengce/zhengceku/2022-03/02/content_5676403.htm",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

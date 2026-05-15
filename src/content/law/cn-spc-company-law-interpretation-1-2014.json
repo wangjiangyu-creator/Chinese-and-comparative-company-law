@@ -1,0 +1,36 @@
+{
+  "titleZh": "最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（一）（2014年修正）",
+  "titleEn": "SPC Interpretation (I) on Several Issues Concerning the Application of the Company Law (2014 Revision)",
+  "shortTitle": "公司法司法解释（一）",
+  "aliases": ["法释〔2006〕3号", "公司法司法解释一", "2014修正文本"],
+  "jurisdiction": "cn",
+  "documentType": "judicial-interpretation",
+  "authorityLevel": "judicial-interpretation",
+  "issuingBodyZh": "最高人民法院",
+  "issuingBodyEn": "Supreme People's Court",
+  "promulgationDate": "2014-02-20",
+  "effectiveDate": "2014-03-01",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["shareholder-rights", "corporate-governance"],
+  "summaryZh": "现行修正文主要处理2005年公司法施行后的新旧法衔接、决议撤销起诉期间以及股东代表诉讼连续持股期间等基础适用问题。",
+  "summaryEn": "Current revised text addressing transition from the 2005 Company Law, filing windows for resolution challenges, and the continuous-holding period for derivative suits.",
+  "versionGroup": "cn-spc-company-law-interpretation-1",
+  "versionLabel": "2014 revised interpretation",
+  "previousVersionId": "cn-spc-company-law-interpretation-1-2006",
+  "relatedCaseIds": [
+    "cn-guiding-case-10-board-resolution-review",
+    "cn-gazette-case-fabricated-shareholder-meeting-zhang-yanjuan"
+  ],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/shenpan/xiangqing/6180.html",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

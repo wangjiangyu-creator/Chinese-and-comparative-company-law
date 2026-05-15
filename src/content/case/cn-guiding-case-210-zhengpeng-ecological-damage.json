@@ -1,0 +1,25 @@
+{
+  "titleZh": "指导性案例210号：九江市人民政府诉江西正鹏环保科技有限公司、杭州连新建材有限公司、李德等生态环境损害赔偿诉讼案",
+  "titleEn": "Guiding Case No. 210: Jiujiang Municipal People's Government v. Jiangxi Zhengpeng Environmental Protection Technology Co., Ltd., Hangzhou Lianxin Building Materials Co., Ltd., Li De et al.",
+  "forumZh": "最高人民法院",
+  "forumEn": "Supreme People's Court",
+  "citation": "指导性案例210号",
+  "year": 2023,
+  "jurisdiction": "cn",
+  "caseType": "guiding-case",
+  "decisionType": "生态环境损害赔偿诉讼",
+  "issuesZh": ["部分诉前磋商", "刑民并行审理", "实际控制人与公司共同责任"],
+  "issuesEn": ["partial pre-suit consultation", "civil adjudication alongside criminal proceedings", "joint responsibility of actual controller and company"],
+  "holdingZh": "国家规定的机关就同一生态环境损害仅与部分赔偿义务人达成诉前磋商协议的，仍可对其他义务人提起损害赔偿诉讼；相关污染行为事实在民事案件中证据充分的，不以刑事案件审理结果为前提。实际控制人借公司名义参与违法处置污染物的，应与公司共同承担修复和赔偿责任。",
+  "holdingEn": "A competent authority may sue remaining obligors after reaching a pre-suit ecological-damage settlement with only some parties, and the civil case need not await the outcome of parallel criminal proceedings if the facts are sufficiently proved. An actual controller who uses the company as the vehicle for illegal pollution disposal may be held jointly responsible with the company.",
+  "topics": ["corporate-social-responsibility", "corporate-governance"],
+  "relatedLawIds": ["cn-civil-code-2020-legal-person", "cn-company-law-2023"],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/shenpan/xiangqing/386211.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

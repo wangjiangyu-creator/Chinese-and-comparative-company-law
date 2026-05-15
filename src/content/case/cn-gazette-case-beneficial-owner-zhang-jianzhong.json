@@ -1,0 +1,29 @@
+{
+  "titleZh": "张建中诉杨照春股权确认纠纷案",
+  "titleEn": "Gazette Case: Zhang Jianzhong v. Yang Zhaochun",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "公报案例：代持股权显名",
+  "year": 2010,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股权确认纠纷",
+  "issuesZh": ["实际出资人与名义股东", "股权代持合同效力", "其他股东过半数同意"],
+  "issuesEn": ["beneficial investor and nominee shareholder", "validity of nominee-shareholding agreement", "majority consent of other shareholders"],
+  "holdingZh": "实际出资人与名义出资人之间的代持安排，如无法定无效事由，应认定有效；实际出资人请求办理显名变更的，仍应符合有限责任公司股权转让和其他股东同意的规则。",
+  "holdingEn": "A nominee-shareholding arrangement between a beneficial investor and a nominee shareholder is valid absent statutory invalidity, but a request to register the beneficial investor as shareholder must still satisfy the transfer and other-shareholder-consent rules for a limited liability company.",
+  "topics": ["shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-3-2021"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/54e8c6c47bc94164987ea642b94292.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

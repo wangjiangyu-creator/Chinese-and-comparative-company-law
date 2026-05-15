@@ -1,0 +1,34 @@
+{
+  "titleZh": "中国工商银行股份有限公司三门峡车站支行与三门峡天元铝业股份有限公司、三门峡天元铝业集团有限公司借款担保合同纠纷案",
+  "titleEn": "Gazette Case: Industrial and Commercial Bank of China, Sanmenxia Station Sub-branch v. Sanmenxia Tianyuan Aluminum Co., Ltd. and Sanmenxia Tianyuan Aluminum Group Co., Ltd.",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "公报案例：上市重组中的债务转移承诺",
+  "year": 2008,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "借款担保合同纠纷",
+  "issuesZh": ["上市重组", "资产收购", "债务转移承诺", "集团公司与股份公司责任分配"],
+  "issuesEn": [
+    "listing reorganization",
+    "asset acquisition",
+    "debt-transfer undertakings",
+    "allocation of liability between the group company and the share company"
+  ],
+  "holdingZh": "企业为上市而进行资产重组并由集团公司、股份公司作出补充承诺时，人民法院应结合资产是否已实际进入股份公司、收购安排是否已经完成以及承诺条件是否成就，审查相关债务是否应随资产一并转移。股份公司已经承接相关资产并在承诺条件成就后接受债务安排的，应对相应债务承担责任。",
+  "holdingEn": "Where a group and its share company issue supplemental undertakings during a listing reorganization, courts should examine whether the relevant assets actually entered the share company, whether the acquisition steps were completed, and whether the stated conditions were satisfied before deciding whether liabilities moved with the assets. If the share company accepted the assets and the undertaking conditions were fulfilled, it should bear the corresponding debt.",
+  "topics": ["corporate-reorganization", "listed-companies"],
+  "relatedLawIds": [
+    "cn-company-law-2005",
+    "cn-major-asset-reorganization-measures-2008",
+    "cn-takeover-measures-2006"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/details/d54c367abc088f180da5b9a2e11bd6.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

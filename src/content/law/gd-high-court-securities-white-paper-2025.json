@@ -1,0 +1,36 @@
+{
+  "titleZh": "广东法院证券虚假陈述侵权案件审判白皮书（2022－2024年）",
+  "titleEn": "White Paper on Adjudication of Securities Misrepresentation Tort Cases in Guangdong Courts (2022-2024)",
+  "shortTitle": "广东证券虚假陈述审判白皮书",
+  "aliases": ["广东证券虚假陈述白皮书"],
+  "jurisdiction": "cn",
+  "documentType": "judicial-policy",
+  "authorityLevel": "judicial-policy",
+  "issuingBodyZh": "广东省高级人民法院",
+  "issuingBodyEn": "Guangdong High People's Court",
+  "promulgationDate": "2025-07-22",
+  "effectiveDate": "2025-07-22",
+  "status": "reference",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "disclosure", "shareholder-rights"],
+  "summaryZh": "聚焦证券虚假陈述侵权案件的集中管辖、示范判决、调解衔接和上市公司信息披露治理，是广东地区证券类公司纠纷研究的重要白皮书材料。",
+  "summaryEn": "An official Guangdong High Court white paper on securities misrepresentation litigation, covering centralized jurisdiction, model-judgment practice, mediation, and listed-company disclosure governance.",
+  "versionGroup": "gd-high-court-securities-white-paper",
+  "versionLabel": "2025 text",
+  "judicialMaterialClass": "local-high-court-report",
+  "relatedCaseIds": [
+    "cn-database-case-listed-buyback-vam-nanjing",
+    "cn-gazette-case-listed-shareholding-shenyin"
+  ],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.gdcourts.gov.cn/xwzx/gdxwfb/content/mpost_1843404.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

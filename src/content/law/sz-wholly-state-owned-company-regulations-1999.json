@@ -1,0 +1,34 @@
+{
+  "titleZh": "深圳经济特区国有独资有限公司条例（1999）",
+  "titleEn": "Regulations of Shenzhen Special Economic Zone on Wholly State-Owned Limited Companies",
+  "shortTitle": "深圳国有独资公司条例（1999）",
+  "aliases": ["1999 Shenzhen Wholly State-Owned Company Regulations"],
+  "jurisdiction": "cn",
+  "documentType": "law",
+  "authorityLevel": "local-regulation",
+  "issuingBodyZh": "深圳市人民代表大会常务委员会",
+  "issuingBodyEn": "Standing Committee of the Shenzhen Municipal People's Congress",
+  "promulgationDate": "1999-05-06",
+  "effectiveDate": "1999-05-06",
+  "status": "historical",
+  "languageStatus": "official-en",
+  "languages": ["en"],
+  "textStatus": "metadata-only",
+  "topics": ["corporate-formation", "corporate-governance", "registered-capital"],
+  "summaryZh": "1999年深圳特区国有独资有限公司条例是地方层面对国有独资公司设立条件、董事会结构、股东权力和资本标准的专项规范，可作为研究地方国企公司化设计的历史材料。",
+  "summaryEn": "The 1999 Shenzhen special-zone regulation on wholly state-owned limited companies provided local rules on formation requirements, board structure, shareholder powers, and capital standards. It serves as a historical source for studying local corporatization design for state-owned enterprises.",
+  "versionGroup": "sz-wholly-state-owned-company-regulations",
+  "versionLabel": "1999 text",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official English",
+      "url": "https://sf.sz.gov.cn/fggzywyb/content/post_2977205.html",
+      "noteZh": "深圳市司法局法规规章英文译本归档页，收录1999年国有独资有限公司条例。",
+      "noteEn": "Archived English page in the Shenzhen Municipal Bureau of Justice database containing the 1999 wholly state-owned company regulation.",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

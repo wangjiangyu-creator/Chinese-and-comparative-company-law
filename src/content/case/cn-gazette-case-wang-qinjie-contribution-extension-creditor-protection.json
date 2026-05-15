@@ -1,0 +1,35 @@
+{
+  "titleZh": "王钦杰与上海力澄投资管理有限公司、郭睿星等民间借贷纠纷案",
+  "titleEn": "Gazette Case: Wang Qinjie v. Shanghai Licheng Investment Management Co., Ltd. et al.",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "公报案例：延长出资期限不得对抗债权人",
+  "year": 2019,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "民间借贷纠纷",
+  "issuesZh": ["债务形成后延长出资期限", "债权人保护", "出资加速到期"],
+  "issuesEn": [
+    "extension of contribution deadlines after company debts arose",
+    "creditor protection",
+    "accelerated contribution"
+  ],
+  "holdingZh": "公司债务形成后，股东或者公司通过章程修正、股东会决议等方式延长认缴出资期限的，不得据此对抗既有债权人。公司不能清偿到期债务时，未足额出资的股东仍应在未出资范围内对公司债务承担相应补充责任。",
+  "holdingEn": "Once company debts have already arisen, shareholders cannot rely on later charter amendments or resolutions extending contribution deadlines against existing creditors. If the company cannot pay due debts, under-contributing shareholders remain liable within the scope of their unpaid contributions.",
+  "topics": ["registered-capital", "shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-3-2021",
+    "cn-national-civil-commercial-trial-minutes-2019",
+    "cn-spc-company-law-time-effect-2024"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/16314764714e0899eefeddb4fd4af5.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

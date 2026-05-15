@@ -1,0 +1,40 @@
+{
+  "titleZh": "上市公司独立董事管理办法",
+  "titleEn": "Measures for the Administration of Independent Directors of Listed Companies",
+  "shortTitle": "独立董事管理办法",
+  "aliases": ["证监会令第220号"],
+  "jurisdiction": "cn",
+  "documentType": "departmental-rule",
+  "authorityLevel": "departmental-rule",
+  "issuingBodyZh": "中国证券监督管理委员会",
+  "issuingBodyEn": "China Securities Regulatory Commission",
+  "promulgationDate": "2023-08-01",
+  "effectiveDate": "2023-09-04",
+  "status": "effective",
+  "languageStatus": "official-zh-plus-reference-en",
+  "languages": ["zh", "en"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "corporate-governance", "shareholder-rights"],
+  "summaryZh": "围绕独立董事的任职资格、提名选任、履职方式、履职保障和责任配置建立上市公司独立董事制度的专门规章。",
+  "summaryEn": "The CSRC's dedicated rule on listed-company independent directors, covering qualifications, nomination, performance, protections, and liability design.",
+  "versionGroup": "cn-listed-company-independent-director-measures",
+  "versionLabel": "Order No. 220",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://www.csrc.gov.cn/csrc/c101953/c7424110/content.shtml",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    },
+    {
+      "label": "Public English translation",
+      "url": "https://lawtranslate.com/%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E7%8B%AC%E7%AB%8B%E8%91%A3%E4%BA%8B%E7%AE%A1%E7%90%86%E5%8A%9E%E6%B3%95-measures-for-the-administration-of-independent-directors-of-listed-companies/",
+      "noteZh": "公开英文翻译稿，站点自述为参考译文，并非证监会官方英文版。",
+      "noteEn": "Public translation draft identified by the host site as reference-only, not an official CSRC English version.",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

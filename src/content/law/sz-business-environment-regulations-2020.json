@@ -1,0 +1,40 @@
+{
+  "titleZh": "深圳经济特区优化营商环境条例",
+  "titleEn": "Regulations of Shenzhen Special Economic Zone on Improving Business Environment",
+  "shortTitle": "深圳优化营商环境条例",
+  "aliases": ["深圳营商环境条例", "2020 Shenzhen Business Environment Regulations"],
+  "jurisdiction": "cn",
+  "documentType": "law",
+  "authorityLevel": "local-regulation",
+  "issuingBodyZh": "深圳市人民代表大会常务委员会",
+  "issuingBodyEn": "Standing Committee of the Shenzhen Municipal People's Congress",
+  "promulgationDate": "2020-11-05",
+  "effectiveDate": "2021-01-01",
+  "status": "effective",
+  "languageStatus": "official-zh-plus-reference-en",
+  "languages": ["zh", "en"],
+  "textStatus": "metadata-only",
+  "topics": ["business-environment", "corporate-formation", "dissolution-liquidation"],
+  "summaryZh": "深圳关于营商环境的综合性特区法规，现行文本自2021年1月1日起施行。其公司法关联价值在于同时覆盖商事登记改革、企业注销与除名、重整与个人破产衔接、融资便利和涉企权益保障。",
+  "summaryEn": "Shenzhen's comprehensive special-zone regulation on business environment, effective from January 1, 2021. Its company-law relevance lies in its combined coverage of commercial-registration reform, deregistration and removal of market entities, reorganization and personal-bankruptcy interfaces, financing facilitation, and protection of enterprise rights.",
+  "versionGroup": "sz-business-environment-regulations",
+  "versionLabel": "2020 text",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official Chinese",
+      "url": "https://www.sz.gov.cn/zfgb/2021/gb1181/content/post_8394326.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Official English (reference)",
+      "url": "https://sf.sz.gov.cn/fggzywyb/content/post_9907366.html",
+      "noteZh": "深圳市司法局发布的英文译本，可用于英文对照；解释与适用仍以中文法定文本为准。",
+      "noteEn": "English translation published by the Shenzhen Municipal Bureau of Justice for comparison; the Chinese statutory text remains controlling.",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

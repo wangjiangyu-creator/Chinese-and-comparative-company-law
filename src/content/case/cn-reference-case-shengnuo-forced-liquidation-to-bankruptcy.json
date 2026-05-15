@@ -1,0 +1,46 @@
+{
+  "titleZh": "太仓市圣诺合金铸造有限公司破产清算案",
+  "titleEn": "Reference Case: Taicang Shengnuo Alloy Casting Co., Ltd. Bankruptcy Liquidation",
+  "forumZh": "全国企业破产重整案件信息网 / 江苏省高级人民法院",
+  "forumEn": "National Enterprise Bankruptcy and Restructuring Case Information Platform / Jiangsu Higher People's Court",
+  "citation": "江苏法院2011-2015年破产审判十大案例（三）",
+  "year": 2016,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "强制清算转破产清算",
+  "issuesZh": [
+    "司法解散后的强制清算",
+    "资不抵债认定",
+    "强制清算转破产清算的程序衔接"
+  ],
+  "issuesEn": [
+    "compulsory liquidation after judicial dissolution",
+    "finding insolvency",
+    "procedural coordination in conversion from compulsory liquidation to bankruptcy"
+  ],
+  "holdingZh": "公司经司法解散进入强制清算程序后，如在资产接管、债权申报和财务审查过程中查明已具备破产原因，人民法院可以依法将强制清算程序转入破产清算程序，并延续前期清算成果，避免重复处置、节省程序成本、提高债权人受偿效率。",
+  "holdingEn": "Where a company enters compulsory liquidation after judicial dissolution and the liquidation process establishes that bankruptcy grounds are present, the court may convert the matter into bankruptcy liquidation and carry forward the work already completed in the compulsory liquidation, thereby avoiding duplication and improving creditor recoveries.",
+  "topics": [
+    "dissolution-liquidation",
+    "business-environment"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-compulsory-liquidation-minutes-2009",
+    "cn-spc-enterprise-bankruptcy-interpretation-1-2011",
+    "cn-spc-enterprise-bankruptcy-interpretation-2-2013",
+    "cn-spc-enterprise-bankruptcy-interpretation-3-2019",
+    "cn-national-bankruptcy-trial-minutes-2018"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://pccz.court.gov.cn/pcajxxw/pcdxal/dxalxq?id=EAAA609DE625FAB7036309B837628ED7",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "全国企业破产重整案件信息网转载江苏法院典型案例，概述强制清算转破产清算的衔接做法。",
+      "noteEn": "Official bankruptcy-platform publication summarizing the conversion from compulsory liquidation to bankruptcy liquidation."
+    }
+  ]
+}

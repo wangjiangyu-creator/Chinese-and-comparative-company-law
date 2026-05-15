@@ -1,0 +1,32 @@
+{
+  "titleZh": "上市公司监管指引第3号——上市公司现金分红（2023年修订）",
+  "titleEn": "Regulatory Guideline No. 3 for Listed Companies: Cash Dividends (2023 Revision)",
+  "shortTitle": "现金分红指引",
+  "aliases": ["证监会公告〔2023〕61号", "上市公司监管指引第3号"],
+  "jurisdiction": "cn",
+  "documentType": "regulatory-code",
+  "authorityLevel": "regulatory-code",
+  "issuingBodyZh": "中国证券监督管理委员会",
+  "issuingBodyEn": "China Securities Regulatory Commission",
+  "promulgationDate": "2023-12-15",
+  "effectiveDate": "2023-12-15",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "shareholder-rights", "corporate-governance"],
+  "summaryZh": "对上市公司分红政策、现金分红程序、中期分红安排和异常高比例分红监管作出细化，是股东回报规则层的重要指引。",
+  "summaryEn": "Refines the rule layer on dividend policy, cash-dividend procedures, interim dividends, and scrutiny of abnormally high payouts, making it a key investor-return guideline for listed companies.",
+  "versionGroup": "cn-csrc-cash-dividend-guideline",
+  "versionLabel": "2023 revision",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://www.csrc.gov.cn/csrc/c101954/c7449656/content.shtml",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

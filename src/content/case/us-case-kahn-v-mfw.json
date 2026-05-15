@@ -1,0 +1,25 @@
+{
+  "titleZh": "Kahn 诉 M&F Worldwide",
+  "titleEn": "Kahn v. M&F Worldwide Corp.",
+  "forumZh": "特拉华州最高法院",
+  "forumEn": "Supreme Court of Delaware",
+  "citation": "88 A.3d 635 (Del. 2014)",
+  "year": 2014,
+  "jurisdiction": "us",
+  "caseType": "comparative-case",
+  "decisionType": "控制股东私有化与双重保护",
+  "issuesZh": ["控制股东私有化", "少数股东表决", "特别委员会独立性"],
+  "issuesEn": ["controller freeze-out", "majority-of-the-minority vote", "special-committee independence"],
+  "holdingZh": "MFW 确立了控制股东私有化交易在自始同时满足独立特别委员会批准和多数少数股东同意两项程序保护时，可适用商业判断规则而非全体公平审查。",
+  "holdingEn": "MFW held that a controller freeze-out can receive business-judgment review instead of entire-fairness review when, from the outset, it is conditioned on both approval by an independent special committee and an informed majority-of-the-minority vote.",
+  "topics": ["listed-companies", "corporate-governance", "shareholder-rights", "comparative-governance"],
+  "relatedLawIds": ["us-delaware-general-corporation-law"],
+  "sources": [
+    {
+      "label": "Research platform",
+      "url": "https://law.justia.com/cases/delaware/supreme-court/2014/334-2013.html",
+      "official": false,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

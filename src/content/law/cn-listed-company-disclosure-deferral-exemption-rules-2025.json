@@ -1,0 +1,32 @@
+{
+  "titleZh": "上市公司信息披露暂缓与豁免管理规定",
+  "titleEn": "Provisions on Deferred and Exempted Information Disclosure by Listed Companies",
+  "shortTitle": "暂缓与豁免管理规定",
+  "aliases": ["证监会公告〔2025〕8号"],
+  "jurisdiction": "cn",
+  "documentType": "regulatory-code",
+  "authorityLevel": "regulatory-code",
+  "issuingBodyZh": "中国证券监督管理委员会",
+  "issuingBodyEn": "China Securities Regulatory Commission",
+  "promulgationDate": "2025-04-07",
+  "effectiveDate": "2025-07-01",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "disclosure", "corporate-governance"],
+  "summaryZh": "就国家秘密、商业秘密等情形下的信息披露暂缓与豁免建立统一监管框架，并压实上市公司内部决策、登记和后续核查义务。",
+  "summaryEn": "Creates a unified framework for deferred and exempted disclosure where state-secret, commercial-secret, and similar concerns arise, while imposing internal approval, registration, and follow-up control duties.",
+  "versionGroup": "cn-listed-company-disclosure-deferral-exemption-rules",
+  "versionLabel": "Announcement No. 8",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://www.csrc.gov.cn/csrc/c101954/c7553570/content.shtml",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

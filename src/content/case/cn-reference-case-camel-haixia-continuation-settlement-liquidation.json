@@ -1,0 +1,53 @@
+{
+  "titleZh": "骆驼集团股份有限公司申请湖北骆驼海峡新型蓄电池有限公司强制清算案",
+  "titleEn": "Reference Case: Camel Group Co., Ltd.'s Application for Compulsory Liquidation of Hubei Camel Haixia New-Type Battery Co., Ltd.",
+  "forumZh": "最高人民法院 / 湖北省高级人民法院 / 谷城县人民法院",
+  "forumEn": "Supreme People's Court / Hubei Higher People's Court / Gucheng County People's Court",
+  "citation": "湖北法院案例：以“存续式和解”化解强制清算僵局",
+  "year": 2025,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "申请公司清算",
+  "issuesZh": [
+    "营业期限届满后的僵局",
+    "强制清算申请",
+    "存续式和解与继续经营"
+  ],
+  "issuesEn": [
+    "deadlock after expiry of the business term",
+    "application for compulsory liquidation",
+    "continuation-oriented settlement and going-concern preservation"
+  ],
+  "holdingZh": "在公司营业期限届满、股东围绕继续经营还是进入清算程序形成僵局时，人民法院并不必然直接推进终局清算。若案件显示公司仍具备持续经营价值，且通过释明、听证、章程修订、股权退出等安排能够恢复治理秩序并兼顾债权人、股东和职工利益，法院可以促成“存续式和解”，以继续经营替代强制清算。",
+  "holdingEn": "When a company's business term has expired and shareholders are deadlocked over continuation versus liquidation, a court need not move immediately to terminal liquidation. If the company still has going-concern value and governance can be restored through clarification, hearings, charter amendments, and shareholder exit arrangements while protecting creditors, shareholders, and employees, the court may facilitate a continuation-oriented settlement in lieu of compulsory liquidation.",
+  "topics": [
+    "dissolution-liquidation",
+    "business-environment",
+    "shareholder-rights",
+    "corporate-governance"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-civil-code-2020-legal-person",
+    "cn-spc-company-law-interpretation-2-2020",
+    "cn-spc-compulsory-liquidation-minutes-2009"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.hbfy.gov.cn/DocManage/ViewDoc?docId=75371ba2-6d23-44e4-b237-b869028914b4",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "湖北高院发布的案例介绍，完整展示营业期限届满、股东僵局和法院促成“存续式和解”的处理路径。",
+      "noteEn": "Case note released by the Hubei Higher Court describing the deadlock, expiry-of-term dispute, and continuation-oriented settlement."
+    },
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/489741.html",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "最高人民法院在年度典型案例发布中再次介绍该案，强调以调促和、以和促营商环境修复。",
+      "noteEn": "The Supreme People's Court later highlighted the matter in its annual typical-case release."
+    }
+  ]
+}

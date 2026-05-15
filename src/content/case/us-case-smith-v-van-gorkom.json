@@ -1,0 +1,25 @@
+{
+  "titleZh": "Smith 诉 Van Gorkom",
+  "titleEn": "Smith v Van Gorkom",
+  "forumZh": "特拉华州最高法院",
+  "forumEn": "Supreme Court of Delaware",
+  "citation": "488 A.2d 858 (Del. 1985)",
+  "year": 1985,
+  "jurisdiction": "us",
+  "caseType": "comparative-case",
+  "decisionType": "董事注意义务",
+  "issuesZh": ["董事注意义务", "并购决策程序", "商业判断规则"],
+  "issuesEn": ["duty of care", "merger approval process", "business judgment rule"],
+  "holdingZh": "该案认定董事会在缺乏充分信息、未取得公平意见且审议时间极短的情况下批准现金并购，构成严重程序失当，成为美国董事注意义务判例史上的里程碑。",
+  "holdingEn": "The court held that approving a cash-out merger without adequate information, a fairness opinion, or a meaningful deliberative process amounted to grossly deficient board decision-making and became a landmark duty-of-care case.",
+  "topics": ["corporate-governance", "corporate-reorganization", "comparative-governance", "directors-officer-loyalty-and-duties"],
+  "relatedLawIds": ["us-delaware-general-corporation-law"],
+  "sources": [
+    {
+      "label": "Research platform",
+      "url": "https://law.justia.com/cases/delaware/supreme-court/1985/488-a-2d-858-4.html",
+      "official": false,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

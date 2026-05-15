@@ -1,0 +1,29 @@
+{
+  "titleZh": "韩德泉、关松雪与沈阳致美科技有限公司股东知情权纠纷案",
+  "titleEn": "Reference Case: Han Dequan and Guan Songxue v. Shenyang Zhimei Technology Co., Ltd.",
+  "forumZh": "最高人民法院第二巡回法庭",
+  "forumEn": "Second Circuit Court of the Supreme People's Court",
+  "citation": "最高法二巡典型案例：股东知情权与原始凭证查阅",
+  "year": 2018,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股东知情权纠纷",
+  "issuesZh": ["股东资格确认", "原始凭证查阅", "不正当目的抗辩"],
+  "issuesEn": ["shareholder status", "inspection of underlying vouchers", "improper-purpose defense"],
+  "holdingZh": "股东出资存在瑕疵，并不当然否定其股东资格。股东知情权的行使范围不仅应结合公司法，也应结合会计法理解；在公司未提出合理拒绝理由时，股东为了解公司真实经营情况，有权查阅会计账簿及原始凭证。",
+  "holdingEn": "A defect in capital contribution does not automatically negate shareholder status. The scope of inspection rights should be understood in light of both the Company Law and the Accounting Law; absent a reasonable basis for refusal, a shareholder may inspect accounting books and underlying vouchers to verify the company's actual operations.",
+  "topics": ["shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/xunhui2/xiangqing/83142.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "titleZh": "上海瑞沨股权投资合伙企业（有限合伙）与连云港鼎发投资有限公司、朱立起股权转让纠纷案",
+  "titleEn": "Reference Case: Shanghai Ruifeng Equity Investment Partnership (Limited Partnership) v. Lianyungang Dingfa Investment Co., Ltd. and Zhu Liqi",
+  "forumZh": "上海市第一中级人民法院",
+  "forumEn": "Shanghai No. 1 Intermediate People's Court",
+  "citation": "（2014）沪一中民四（商）终字第730号",
+  "year": 2014,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股权转让纠纷",
+  "issuesZh": [
+    "股东回购型对赌条款的效力认定",
+    "单独签署的补充协议是否能提高回购价格",
+    "审查对赌条款的四项商事原则"
+  ],
+  "issuesEn": [
+    "validity of shareholder repurchase VAM clauses",
+    "whether a separately signed supplemental agreement may raise the buyback price",
+    "the four commercial-law principles used to review VAM clauses"
+  ],
+  "holdingZh": "上海一中院明确提出审查对赌回购条款应兼顾鼓励交易、尊重意思自治、维护公共利益和保障商事交易过程正义。法院支持原始多方投资文件中的股东回购安排，但不支持仅由部分主体私下签署、且会损害其他投资人利益的更高回购价格补充约定。",
+  "holdingEn": "The Shanghai First Intermediate Court articulated four principles for reviewing VAM repurchase clauses: encouraging transactions, respecting party autonomy, protecting the public interest, and safeguarding procedural fairness in commercial dealing. It upheld the shareholder buyback arrangement contained in the original multi-party investment documents but refused to enforce a later side agreement that raised the repurchase price without all parties' participation and to the detriment of other investors.",
+  "topics": ["vam-disputes", "shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2013",
+    "cn-company-law-2023"
+  ],
+  "sources": [
+    {
+      "label": "Publisher page",
+      "url": "https://www.lawyers.org.cn/info/a00d73d2029c4afcb0cfd3992a3d8da0",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Research platform",
+      "url": "https://www.cicjc.com.cn/info/1040/4882.htm",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

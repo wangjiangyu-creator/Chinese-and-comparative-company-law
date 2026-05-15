@@ -1,0 +1,33 @@
+{
+  "titleZh": "Unocal 诉 Mesa Petroleum",
+  "titleEn": "Unocal Corp. v. Mesa Petroleum Co.",
+  "forumZh": "特拉华州最高法院",
+  "forumEn": "Supreme Court of Delaware",
+  "citation": "493 A.2d 946 (Del. 1985)",
+  "year": 1985,
+  "jurisdiction": "us",
+  "caseType": "comparative-case",
+  "decisionType": "收购防御审查",
+  "issuesZh": ["敌意收购防御", "加强审查标准", "董事会利益冲突"],
+  "issuesEn": ["hostile-takeover defenses", "enhanced scrutiny", "board conflict of interest"],
+  "holdingZh": "Unocal 奠定了特拉华法院对收购防御措施进行加强审查的基本框架：董事会必须先证明其有合理根据认定公司政策与经营受到威胁，再证明防御措施与威胁相称。",
+  "holdingEn": "Unocal established Delaware's enhanced-scrutiny framework for takeover defenses: the board must first show reasonable grounds for perceiving a threat to corporate policy and effectiveness, and then show that the response was proportionate to that threat.",
+  "topics": ["listed-companies", "corporate-governance", "corporate-reorganization", "comparative-governance", "directors-officer-loyalty-and-duties"],
+  "relatedLawIds": ["us-delaware-general-corporation-law"],
+  "sources": [
+    {
+      "label": "Research platform",
+      "url": "https://law.justia.com/cases/delaware/supreme-court/1985/493-a-2d-946-9.html",
+      "official": false,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Research platform",
+      "url": "https://opencasebook.org/casebooks/422-corporate-finance/resources/6-unocal-corp-v-mesa-petroleum-co/",
+      "official": false,
+      "lastVerified": "2026-05-16",
+      "noteZh": "开放式案例教材页面，便于快速定位重点段落。",
+      "noteEn": "Open casebook version for easier passage-level reference."
+    }
+  ]
+}

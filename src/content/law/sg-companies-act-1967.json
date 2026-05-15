@@ -1,0 +1,43 @@
+{
+  "titleZh": "新加坡《公司法》（1967）",
+  "titleEn": "Singapore Companies Act 1967",
+  "shortTitle": "新加坡公司法",
+  "aliases": ["Companies Act (Cap. 50)"],
+  "jurisdiction": "sg",
+  "documentType": "statute",
+  "authorityLevel": "comparative-statute",
+  "issuingBodyZh": "新加坡总检察署立法数据库",
+  "issuingBodyEn": "Singapore Statutes Online",
+  "promulgationDate": "1967-12-29",
+  "effectiveDate": "1967-12-29",
+  "status": "reference",
+  "languageStatus": "official-en",
+  "languages": ["en"],
+  "textStatus": "metadata-only",
+  "topics": ["corporate-formation", "shareholder-rights", "corporate-governance"],
+  "summaryZh": "新加坡公司法是比较普通法公司法与董事责任的重要基准法。",
+  "summaryEn": "Singapore's Companies Act is a key comparison statute for common-law company formation and director duties.",
+  "versionGroup": "sg-companies-act",
+  "versionLabel": "current statute",
+  "relatedCaseIds": [
+    "sg-case-ho-yew-kong-sakae",
+    "sg-case-goh-jin-hian-directors-duties",
+    "sg-case-ting-shwu-ping-scanone",
+    "sg-case-over-and-over-bonvests",
+    "sg-case-miao-weiguo-reflective-loss",
+    "sg-case-ang-thiam-swee-v-low-hian-chor"
+  ],
+  "relatedArticleIds": [
+    "article-pbook-walter-woon-company-law",
+    "article-pbook-annotated-singapore-companies-act",
+    "article-pbook-guide-to-company-law-singapore"
+  ],
+  "sources": [
+    {
+      "label": "Official English",
+      "url": "https://sso.agc.gov.sg/Act/CoA1967",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "titleZh": "中华人民共和国合伙企业登记管理办法（1997年制定）",
+  "titleEn": "Measures of the People's Republic of China for the Registration of Partnership Enterprises (1997 Original Enactment)",
+  "shortTitle": "合伙企业登记管理办法（1997）",
+  "aliases": ["国务院令第236号"],
+  "jurisdiction": "cn",
+  "documentType": "administrative-regulation",
+  "authorityLevel": "administrative-regulation",
+  "issuingBodyZh": "国务院",
+  "issuingBodyEn": "State Council",
+  "promulgationDate": "1997-11-19",
+  "effectiveDate": "1997-11-19",
+  "status": "historical",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["partnership-enterprises", "corporate-formation"],
+  "summaryZh": "1997年国务院令第236号发布的原始登记办法，确立合伙企业设立、变更、注销和分支机构登记的基础行政框架。",
+  "summaryEn": "The original 1997 State Council registration measure establishing the administrative framework for partnership establishment, change, cancellation, and branch registration.",
+  "versionGroup": "cn-partnership-registration-measures",
+  "versionLabel": "1997 original enactment",
+  "nextVersionId": "cn-partnership-registration-measures-2007",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://www.gd.gov.cn/zwgk/gongbao/1997/36/content/post_3358926.html",
+      "noteZh": "广东省政府公报转载1997年国务院令原始文本，可用于回溯历史版本。",
+      "noteEn": "Official provincial government gazette republication of the original 1997 State Council text, used here as a historical source.",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

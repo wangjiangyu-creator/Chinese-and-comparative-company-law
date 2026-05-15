@@ -1,0 +1,63 @@
+---
+import { pickLocalized, type Locale } from "@/lib/i18n";
+import { getTextPresentationMode } from "@/lib/presentation";
+import type { ResolvedLaw } from "@/lib/portal-data";
+
+type Props = {
+  law: ResolvedLaw;
+  locale: Locale;
+};
+
+const { law, locale } = Astro.props;
+const mode = getTextPresentationMode(law);
+const heading = pickLocalized(locale, "正文与摘录", "Text and Excerpts");
+---
+
+<section class="reading-panel">
+  <div class="section-head">
+    <div>
+      <span class="eyebrow">
+        {mode === "parallel"
+          ? pickLocalized(locale, "中英对照", "Bilingual")
+          : pickLocalized(locale, "正文阅读", "Reader")}
+      </span>
+      <h2>{heading}</h2>
+      <p>
+        {mode === "metadata-only"
+          ? pickLocalized(locale, "该条目当前仅提供元数据与权威来源链接。", "This record currently provides metadata and source links only.")
+          : pickLocalized(locale, "正文状态会在页面中明确标注为全文或精选摘录。", "The page clearly marks whether the text is full or a curated excerpt.")}
+      </p>
+    </div>
+  </div>
+
+  {mode === "metadata-only" ? null : (
+    <div class={`reading-grid ${mode === "source-only" ? "single" : ""}`}>
+      {law.resolvedTexts.zh && (
+        <div class="text-column">
+          <h3>{law.resolvedTexts.zh.title}</h3>
+          {law.resolvedTexts.zh.sections.map((section) => (
+            <div class="text-section">
+              <h4>{section.heading}</h4>
+              {section.paragraphs.map((paragraph) => (
+                <p>{paragraph}</p>
+              ))}
+            </div>
+          ))}
+        </div>
+      )}
+      {law.resolvedTexts.en && (
+        <div class="text-column">
+          <h3>{law.resolvedTexts.en.title}</h3>
+          {law.resolvedTexts.en.sections.map((section) => (
+            <div class="text-section">
+              <h4>{section.heading}</h4>
+              {section.paragraphs.map((paragraph) => (
+                <p>{paragraph}</p>
+              ))}
+            </div>
+          ))}
+        </div>
+      )}
+    </div>
+  )}
+</section>

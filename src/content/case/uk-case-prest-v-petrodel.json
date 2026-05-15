@@ -1,0 +1,33 @@
+{
+  "titleZh": "Prest 诉 Petrodel Resources",
+  "titleEn": "Prest v Petrodel Resources Ltd",
+  "forumZh": "英国最高法院",
+  "forumEn": "Supreme Court of the United Kingdom",
+  "citation": "[2013] UKSC 34, [2013] 2 AC 415",
+  "year": 2013,
+  "jurisdiction": "uk",
+  "caseType": "comparative-case",
+  "decisionType": "揭开公司面纱",
+  "issuesZh": ["揭开公司面纱", "公司独立人格", "股东与公司财产区分"],
+  "issuesEn": ["piercing the corporate veil", "separate corporate personality", "distinction between shareholder and company assets"],
+  "holdingZh": "Prest 通过区分“隐匿原则”和“规避原则”重新收束英国揭开公司面纱 doctrine，强调真正刺破公司面纱的情形极为例外，不能以一般公平考虑取代公司独立人格规则。",
+  "holdingEn": "Prest narrowed U.K. veil-piercing doctrine by distinguishing concealment from evasion, emphasizing that true veil piercing is exceptional and cannot displace ordinary rules of separate corporate personality on general fairness grounds.",
+  "topics": ["corporate-veil-piercing", "corporate-governance", "comparative-governance"],
+  "relatedLawIds": ["uk-companies-act-2006"],
+  "sources": [
+    {
+      "label": "Research platform",
+      "url": "https://www.bailii.org/uk/cases/UKSC/2013/34.html",
+      "official": false,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Research platform",
+      "url": "https://www.bailii.org/openlaw/company.html",
+      "official": false,
+      "lastVerified": "2026-05-16",
+      "noteZh": "BAILII OpenLaw 公司法清单收录该案为公司人格核心判例。",
+      "noteEn": "BAILII OpenLaw lists this as a core corporate-personality case."
+    }
+  ]
+}

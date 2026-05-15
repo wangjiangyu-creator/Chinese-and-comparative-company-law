@@ -1,0 +1,34 @@
+{
+  "titleZh": "深圳经济特区有限责任公司条例",
+  "titleEn": "Regulations of Shenzhen Special Economic Zone on Limited Liability Companies",
+  "shortTitle": "深圳有限公司条例（1997）",
+  "aliases": ["1997 Shenzhen Limited Liability Company Regulations"],
+  "jurisdiction": "cn",
+  "documentType": "law",
+  "authorityLevel": "local-regulation",
+  "issuingBodyZh": "深圳市人民代表大会常务委员会",
+  "issuingBodyEn": "Standing Committee of the Shenzhen Municipal People's Congress",
+  "promulgationDate": "1997-12-17",
+  "effectiveDate": "1997-12-17",
+  "status": "historical",
+  "languageStatus": "official-en",
+  "languages": ["en"],
+  "textStatus": "metadata-only",
+  "topics": ["corporate-formation", "corporate-governance", "shareholder-rights", "registered-capital"],
+  "summaryZh": "深圳特区关于有限责任公司的早期地方性法规，集中体现当时对股东出资、公司机关、董事经理义务和监督机制的地方规范设计，可用于与国家公司法文本对读。",
+  "summaryEn": "An early Shenzhen local regulation on limited liability companies, reflecting the city's own design on shareholder contributions, corporate organs, directors' and managers' duties, and supervisory mechanisms. It is especially useful when read against the national Company Law text.",
+  "versionGroup": "sz-limited-liability-company-regulations",
+  "versionLabel": "1997 text",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official English",
+      "url": "https://sf.sz.gov.cn/fggzywyb/content/post_2973973.html",
+      "noteZh": "深圳市司法局法规规章英文译本归档页，便于检索早期特区有限责任公司制度。",
+      "noteEn": "Archived English page in the Shenzhen Municipal Bureau of Justice database for early special-zone limited liability company rules.",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

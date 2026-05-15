@@ -1,0 +1,32 @@
+{
+  "titleZh": "新加坡《2018年破产、重组与解散法》",
+  "titleEn": "Insolvency, Restructuring and Dissolution Act 2018",
+  "shortTitle": "新加坡破产、重组与解散法",
+  "aliases": ["IRDA 2018"],
+  "jurisdiction": "sg",
+  "documentType": "statute",
+  "authorityLevel": "comparative-statute",
+  "issuingBodyZh": "新加坡总检察署立法数据库",
+  "issuingBodyEn": "Singapore Statutes Online",
+  "promulgationDate": "2018-08-01",
+  "effectiveDate": "2020-07-30",
+  "status": "reference",
+  "languageStatus": "official-en",
+  "languages": ["en"],
+  "textStatus": "metadata-only",
+  "topics": ["dissolution-liquidation", "corporate-reorganization", "comparative-governance"],
+  "summaryZh": "IRDA 统一了新加坡公司与个人破产、重组和解散制度，是比较公司清算、司法管理、重整与债权人保护的核心法源。",
+  "summaryEn": "IRDA consolidates Singapore's company and personal insolvency, restructuring, and dissolution framework, making it a core comparison statute for liquidation, judicial management, restructuring, and creditor protection.",
+  "versionGroup": "sg-irda",
+  "versionLabel": "current act",
+  "relatedCaseIds": [],
+  "relatedArticleIds": ["article-pbook-annotated-singapore-companies-act"],
+  "sources": [
+    {
+      "label": "Official English",
+      "url": "https://sso.agc.gov.sg/Act/IRDA2018",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

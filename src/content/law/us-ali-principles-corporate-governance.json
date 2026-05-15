@@ -1,0 +1,42 @@
+{
+  "titleZh": "ALI《公司治理原则：分析与建议》",
+  "titleEn": "ALI Principles of Corporate Governance: Analysis and Recommendations",
+  "shortTitle": "ALI公司治理原则",
+  "aliases": ["ALI Principles of Corporate Governance"],
+  "jurisdiction": "us",
+  "documentType": "regulatory-code",
+  "authorityLevel": "comparative-statute",
+  "issuingBodyZh": "美国法律学会",
+  "issuingBodyEn": "American Law Institute",
+  "promulgationDate": "1994-01-01",
+  "effectiveDate": "1994-01-01",
+  "status": "reference",
+  "languageStatus": "official-en",
+  "languages": ["en"],
+  "textStatus": "metadata-only",
+  "topics": ["corporate-governance", "shareholder-rights", "comparative-governance", "directors-officer-loyalty-and-duties"],
+  "summaryZh": "ALI《公司治理原则》并非制定法，但长期影响美国公司治理、董事义务、控制股东交易与派生诉讼的讨论，是比较法研究中的高频参照物。",
+  "summaryEn": "Although not a statute, the ALI Principles have long shaped discussion of governance, fiduciary duties, controlling-shareholder transactions, and derivative suits in U.S. corporate law.",
+  "versionGroup": "us-ali-corporate-governance",
+  "versionLabel": "1994 text",
+  "relatedCaseIds": ["us-case-in-re-caremark"],
+  "relatedArticleIds": ["article-oup-anatomy-of-corporate-law"],
+  "sources": [
+    {
+      "label": "Publisher page",
+      "url": "https://www.ali.org/project/corporate-governance",
+      "official": false,
+      "lastVerified": "2026-05-16",
+      "noteZh": "ALI 项目页为机构入口，非全文开放版本。",
+      "noteEn": "The ALI project page is an institutional entry point rather than an open full-text edition."
+    },
+    {
+      "label": "Research platform",
+      "url": "https://books.google.com/books/about/Principles_of_Corporate_Governance.html?id=UY42AQAAIAAJ",
+      "official": false,
+      "lastVerified": "2026-05-16",
+      "noteZh": "Google Books 可用于查看书目信息和部分预览。",
+      "noteEn": "Google Books provides bibliographic information and limited preview access."
+    }
+  ]
+}

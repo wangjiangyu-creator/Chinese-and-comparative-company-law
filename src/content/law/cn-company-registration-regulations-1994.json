@@ -1,0 +1,35 @@
+{
+  "titleZh": "中华人民共和国公司登记管理条例",
+  "titleEn": "Regulations of the People's Republic of China on the Administration of Company Registration",
+  "shortTitle": "公司登记管理条例（1994）",
+  "aliases": ["国务院令第156号"],
+  "jurisdiction": "cn",
+  "documentType": "administrative-regulation",
+  "authorityLevel": "administrative-regulation",
+  "issuingBodyZh": "国务院",
+  "issuingBodyEn": "State Council",
+  "promulgationDate": "1994-06-24",
+  "effectiveDate": "1994-07-01",
+  "status": "historical",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["business-environment", "corporate-formation", "registered-capital"],
+  "summaryZh": "公司登记管理条例的初始文本，建立公司设立、变更、注销与登记机关管辖的国务院层级基础框架。",
+  "summaryEn": "The original Company Registration Regulation, establishing the State Council-level framework for company incorporation, alteration, deregistration, and registration authority.",
+  "versionGroup": "cn-company-registration-regulations",
+  "versionLabel": "1994 text",
+  "nextVersionId": "cn-company-registration-regulations-2014",
+  "applicablePeriodZh": "1994年7月1日起施行，后续经多次修订形成 2014 年和 2016 年整理文本。",
+  "applicablePeriodEn": "Effective from July 1, 1994, and later revised multiple times before the consolidated 2014 and 2016 texts.",
+  "relatedCaseIds": ["cn-database-case-change-registration-chen-moufei"],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official Chinese",
+      "url": "https://www.gd.gov.cn/zwgk/gongbao/1994/15/content/post_3357236.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

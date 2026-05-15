@@ -1,0 +1,33 @@
+{
+  "titleZh": "吴某诉北京某某公司等公司决议纠纷案",
+  "titleEn": "Database Case: Wu Mou v. Beijing Company et al.",
+  "forumZh": "人民法院案例库（最高人民法院审核入库）",
+  "forumEn": "People's Court Case Database (reviewed by the Supreme People's Court)",
+  "citation": "入库编号2024-08-2-270-001",
+  "year": 2024,
+  "jurisdiction": "cn",
+  "caseType": "database-case",
+  "decisionType": "公司决议纠纷",
+  "issuesZh": ["股权让与担保", "名义股东表决权", "股东会决议不成立"],
+  "issuesEn": [
+    "equity transfer by way of security",
+    "nominee shareholder voting rights",
+    "non-establishment of shareholder resolution"
+  ],
+  "holdingZh": "判断股权转让条款性质，应以当事人的真实意思表示为准。若让渡股权的根本目的在于担保债权实现，该安排属于股权让与担保；受让股权的名义股东原则上仅在担保范围内享有优先受偿利益，不享有参与决策、选任管理者、分取红利等实质性股东权利，据此作出的表决不足以支持股东会决议成立。",
+  "holdingEn": "The nature of a share-transfer clause turns on the parties' true intent. Where the transfer is fundamentally meant to secure a debt, it constitutes an equity transfer by way of security. The nominal transferee shareholder generally enjoys only a priority security interest within the secured scope, not substantive shareholder powers such as participating in decisions, appointing managers, or receiving dividends, and its vote cannot support the formation of a shareholders' resolution.",
+  "topics": ["shareholder-rights", "corporate-governance", "directors-officer-loyalty-and-duties"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://rmfyalk.court.gov.cn/dist/view/content.html?id=b1S5YiemF1wGdKH10KF3mkRnaAnk2eg5WoThJJSkg6w%253D&lib=ck",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

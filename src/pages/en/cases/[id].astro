@@ -1,0 +1,15 @@
+---
+import CaseDetailView from "@/components/views/CaseDetailView.astro";
+import { getPortalSnapshot } from "@/lib/portal-data";
+
+export async function getStaticPaths() {
+  const snapshot = await getPortalSnapshot();
+  return snapshot.cases.map((record) => ({
+    params: { id: record.id }
+  }));
+}
+
+const { id } = Astro.params;
+---
+
+<CaseDetailView locale="en" path={`/en/cases/${id}/`} id={id!} />

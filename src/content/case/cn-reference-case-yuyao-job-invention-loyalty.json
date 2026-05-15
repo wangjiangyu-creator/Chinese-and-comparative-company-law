@@ -1,0 +1,50 @@
+{
+  "titleZh": "余姚某公司诉宁波某公司等专利权权属纠纷案",
+  "titleEn": "Yuyao Company v. Ningbo Company and Others: Patent Ownership and Senior-Management Loyalty",
+  "forumZh": "最高人民法院知识产权法庭",
+  "forumEn": "Supreme People's Court Intellectual Property Tribunal",
+  "citation": "（2023）最高法知民终2444号",
+  "year": 2026,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "专利权权属纠纷（高管忠实义务与职务发明）",
+  "issuesZh": ["高级管理人员忠实义务", "竞业禁止与商业机会侵夺", "职务发明归属", "关联公司无偿受让专利"],
+  "issuesEn": [
+    "senior-management duty of loyalty",
+    "non-compete and diversion of corporate opportunity",
+    "ownership of service inventions",
+    "gratuitous patent transfer to affiliate companies"
+  ],
+  "holdingZh": "最高法知产法庭明确，公司高级管理人员在任职期间自营或者联动关联公司经营同类业务，并利用公司技术、人员和市场资源为自己或关联方申请专利、抢占本应属于公司的商业机会的，属于严重违反忠实义务和竞业限制义务。由此形成的专利权不具有合法性基础；与任职公司业务高度关联且主要利用公司资源完成的专利，可以认定为该高管的职务发明创造，专利权应归公司所有。",
+  "holdingEn": "The SPC IP Tribunal clarified that where a senior manager operates competing affiliate businesses during tenure and uses the company's technology, personnel, and market resources to apply for patents for himself or related parties, thereby seizing business opportunities that should belong to the company, he seriously breaches both loyalty and non-compete duties. Patent rights obtained in this way lack a lawful foundation; where the patent is highly connected to the company's business and mainly developed with company resources, it may be treated as the manager's service invention and belong to the company.",
+  "topics": [
+    "corporate-governance",
+    "director-abuse",
+    "director-liability-litigation",
+    "related-transaction-harm",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2018",
+    "cn-company-law-2023",
+    "cn-civil-code-2020-legal-person"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://ipc.court.gov.cn/zh-cn/news/view-5409.html",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "最高人民法院知识产权法庭案例分析稿，概述基本案情、二审理由及裁判意义。",
+      "noteEn": "Case note from the SPC IP Tribunal summarizing the facts, appellate reasoning, and significance."
+    },
+    {
+      "label": "Official court release",
+      "url": "https://ipc.court.gov.cn/zh-cn/news/view-5255.html",
+      "official": true,
+      "lastVerified": "2026-05-15",
+      "noteZh": "最高人民法院知识产权法庭公开的裁判要旨页面，详细载明忠实义务、竞业禁止与职务发明认定理由。",
+      "noteEn": "SPC IP Tribunal holding page with fuller reasoning on loyalty, non-compete, and service-invention attribution."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "titleZh": "北京证券交易所股票上市规则（2025年修订）",
+  "titleEn": "Beijing Stock Exchange Stock Listing Rules (2025 Revision)",
+  "shortTitle": "北交所股票上市规则",
+  "aliases": ["BSE Listing Rules 2025"],
+  "jurisdiction": "cn",
+  "documentType": "exchange-rule",
+  "authorityLevel": "exchange-rule",
+  "issuingBodyZh": "北京证券交易所",
+  "issuingBodyEn": "Beijing Stock Exchange",
+  "promulgationDate": "2025-04-25",
+  "effectiveDate": "2025-04-25",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "disclosure", "corporate-governance"],
+  "summaryZh": "北交所 2025 年修订规则使首批比较和中国主库能够覆盖三大内地交易所与北交所四层上市规则结构。",
+  "summaryEn": "The BSE's 2025 rules help the China corpus cover the mainland's major exchange governance architecture.",
+  "versionGroup": "cn-bse-stock-listing-rules",
+  "versionLabel": "2025 revision",
+  "relatedCaseIds": [],
+  "relatedArticleIds": ["article-china-briefing-revised-company-law"],
+  "sources": [
+    {
+      "label": "Official exchange rule",
+      "url": "https://www.bse.cn/uploads/6/file/public/202504/20250426142216_hffiigd428.pdf",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

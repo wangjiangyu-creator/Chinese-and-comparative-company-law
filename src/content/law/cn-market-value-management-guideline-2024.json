@@ -1,0 +1,32 @@
+{
+  "titleZh": "上市公司监管指引第10号——市值管理",
+  "titleEn": "Regulatory Guideline No. 10 for Listed Companies: Market Value Management",
+  "shortTitle": "市值管理指引",
+  "aliases": ["证监会公告〔2024〕14号", "上市公司监管指引第10号"],
+  "jurisdiction": "cn",
+  "documentType": "regulatory-code",
+  "authorityLevel": "regulatory-code",
+  "issuingBodyZh": "中国证券监督管理委员会",
+  "issuingBodyEn": "China Securities Regulatory Commission",
+  "promulgationDate": "2024-11-06",
+  "effectiveDate": "2024-11-06",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "corporate-governance", "disclosure"],
+  "summaryZh": "围绕上市公司市值管理的职责分工、工具使用、信息披露和负面约束建立专门监管要求，尤其针对重要指数成份股公司设定更明确义务。",
+  "summaryEn": "Sets dedicated requirements on internal responsibility, tools, disclosure, and negative constraints for market-value management, with more explicit duties for companies in major indices.",
+  "versionGroup": "cn-market-value-management-guideline",
+  "versionLabel": "2024 initial text",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://www.csrc.gov.cn/csrc/c101954/c7519046/content.shtml",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

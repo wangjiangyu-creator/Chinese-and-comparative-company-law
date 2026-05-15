@@ -1,0 +1,29 @@
+{
+  "titleZh": "绵阳市红日实业有限公司、蒋洋诉绵阳高新区科创实业有限公司股东会决议效力及公司增资纠纷案",
+  "titleEn": "Gazette Case: Mianyang Hongri Industrial Co., Ltd. and Jiang Yang v. Mianyang High-Tech Zone Kechuang Industrial Co., Ltd.",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "公报案例：新增资本优先认缴",
+  "year": 2010,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "增资纠纷",
+  "issuesZh": ["新增资本优先认缴权", "股东会增资决议", "入股协议效力"],
+  "issuesEn": ["pre-emptive subscription right for new capital", "capital increase resolution", "validity of the share-subscription agreement"],
+  "holdingZh": "有限责任公司增资时，现有股东依法享有就新增资本按出资比例优先认缴的权利。即使股东会就增资本身形成了有效决议，若公司在未依法保障原股东优先认缴权的情况下，直接安排第三人认缴新增资本并成为新股东，则该部分决议内容及相应入股协议无效，原股东可以主张恢复其优先认购地位。",
+  "holdingEn": "When a limited liability company increases capital, existing shareholders enjoy a statutory pre-emptive right to subscribe for the new capital in proportion to their interests. Even if the capital increase itself is validly approved, the portion of the resolution and the related subscription agreement that directly installs a third party as subscriber without honoring that pre-emptive right are invalid, and the original shareholders may seek restoration of their subscription priority.",
+  "topics": ["shareholder-rights", "corporate-governance", "registered-capital"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/591757092787c769201ff4110ee35a.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

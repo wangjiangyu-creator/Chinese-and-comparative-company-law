@@ -1,0 +1,33 @@
+{
+  "titleZh": "Revlon 诉 MacAndrews & Forbes Holdings",
+  "titleEn": "Revlon, Inc. v. MacAndrews & Forbes Holdings, Inc.",
+  "forumZh": "特拉华州最高法院",
+  "forumEn": "Supreme Court of Delaware",
+  "citation": "506 A.2d 173 (Del. 1986)",
+  "year": 1986,
+  "jurisdiction": "us",
+  "caseType": "comparative-case",
+  "decisionType": "控制权出售义务",
+  "issuesZh": ["控制权出售", "董事会出售义务", "竞购程序公平"],
+  "issuesEn": ["sale of control", "board duties in sale transactions", "fairness of auction process"],
+  "holdingZh": "Revlon 明确指出，当公司出售已不可避免时，董事会职责从保卫公司转为为股东争取可合理获得的最佳价格，由此形成美国并购法上著名的 Revlon duties。",
+  "holdingEn": "Revlon held that once the sale or breakup of the company becomes inevitable, the board's role shifts from defenders of the corporate bastion to auctioneers charged with obtaining the best price reasonably available for shareholders.",
+  "topics": ["listed-companies", "corporate-reorganization", "corporate-governance", "comparative-governance", "directors-officer-loyalty-and-duties"],
+  "relatedLawIds": ["us-delaware-general-corporation-law"],
+  "sources": [
+    {
+      "label": "Research platform",
+      "url": "https://law.justia.com/cases/delaware/supreme-court/1986/506-a-2d-173-1.html",
+      "official": false,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Research platform",
+      "url": "https://www.law.upenn.edu/live/news/7004-revlon-inc-v-macandrews-forbes-holdings-inc/1000",
+      "official": false,
+      "lastVerified": "2026-05-16",
+      "noteZh": "宾夕法尼亚大学特拉华公司法资源中心条目。",
+      "noteEn": "University of Pennsylvania Delaware corporate law resource-center entry."
+    }
+  ]
+}

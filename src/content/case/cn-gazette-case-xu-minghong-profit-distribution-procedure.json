@@ -1,0 +1,29 @@
+{
+  "titleZh": "许明宏诉泉州南明置业有限公司、林树哲与公司有关的纠纷案",
+  "titleEn": "Gazette Case: Xu Minghong v. Quanzhou Nanming Real Estate Co., Ltd. and Lin Shuzhe",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "公报案例：股东分红诉请的主体与程序",
+  "year": 2017,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "与公司有关的纠纷",
+  "issuesZh": ["实际投资人主张股东权利", "公司盈余分配诉请", "诉的合并与主体资格"],
+  "issuesEn": ["actual investor claiming shareholder rights", "profit-distribution claim", "joinder and standing"],
+  "holdingZh": "在与公司有关的纠纷中，请求确认董事会或者公司决议效力与请求公司盈余分配，分别属于确认之诉和给付之诉，通常不宜在同一案件中混合主张。对公司盈余分配或者其他股东权利主张，原告原则上应证明其具有股东身份或者其他直接利害关系；仅以实际投资安排主张分红而不能证明相应主体资格的，法院可以不予支持。",
+  "holdingEn": "In company-related litigation, a claim challenging the validity of a board or company resolution and a claim for profit distribution are ordinarily distinct types of action and should not casually be bundled together. A plaintiff seeking dividends or other shareholder rights must generally prove shareholder status or another direct legal interest; where the plaintiff relies only on an investment arrangement without proving that status, the claim may be rejected.",
+  "topics": ["shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-foreign-invested-enterprise-disputes-1-2021"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/9d09b46af8aab27bfdcf69bc7075d7.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "titleZh": "香港《公司条例》（第622章）",
+  "titleEn": "Hong Kong Companies Ordinance (Cap. 622)",
+  "shortTitle": "香港公司条例",
+  "aliases": ["Cap. 622"],
+  "jurisdiction": "hk",
+  "documentType": "statute",
+  "authorityLevel": "comparative-statute",
+  "issuingBodyZh": "香港特别行政区立法机关",
+  "issuingBodyEn": "Hong Kong e-Legislation",
+  "promulgationDate": "2012-08-10",
+  "effectiveDate": "2014-03-03",
+  "status": "reference",
+  "languageStatus": "comparative-bilingual",
+  "languages": ["zh", "en"],
+  "textStatus": "metadata-only",
+  "topics": ["corporate-formation", "shareholder-rights", "corporate-governance"],
+  "summaryZh": "比较法首批核心法条之一，作为普通法公司法的基础对照对象。",
+  "summaryEn": "A foundational comparison statute for common-law company law and governance structure.",
+  "versionGroup": "hk-companies-ordinance",
+  "versionLabel": "current chapter",
+  "relatedCaseIds": ["hk-case-yung-kee-holdings", "hk-case-waddington-v-chan", "hk-case-re-chime-corp"],
+  "relatedArticleIds": [
+    "article-pbook-hong-kong-company-law",
+    "article-hk-lawyer-new-companies-ordinance-highlights",
+    "article-pbook-hk-company-law-cases-materials-comments"
+  ],
+  "sources": [
+    {
+      "label": "Official English",
+      "url": "https://www.elegislation.gov.hk/hk/cap622",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

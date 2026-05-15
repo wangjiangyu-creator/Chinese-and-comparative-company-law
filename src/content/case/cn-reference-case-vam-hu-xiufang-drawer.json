@@ -1,0 +1,43 @@
+{
+  "titleZh": "胡秀芳等与成都中铁高端交通装备产业创业投资合伙企业（有限合伙）股权转让纠纷案",
+  "titleEn": "Reference Case: Hu Xiufang et al. v. Chengdu Zhongtie Venture Capital Partnership",
+  "forumZh": "最高人民法院",
+  "forumEn": "Supreme People's Court",
+  "citation": "（2019）最高法民申1982号",
+  "year": 2019,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股权转让纠纷",
+  "issuesZh": [
+    "已声明终止的回购条款能否通过未公开的补充协议恢复",
+    "目标公司未在恢复协议上签章是否影响投资人与原股东之间回购约定的成立",
+    "IPO未能完成后投资人能否依恢复条款请求原股东赎回股权"
+  ],
+  "issuesEn": [
+    "whether a redemption clause that was nominally terminated may be revived through an undisclosed supplemental agreement",
+    "whether the absence of the target company's seal affects a repurchase undertaking between the investor and the original shareholders",
+    "whether the investor may invoke the restored clause once the IPO target fails"
+  ],
+  "holdingZh": "最高人民法院在再审审查中维持前案思路，认为补充协议三调整的是投资人与原股东之间的赎回安排，并未直接设定目标公司的合同义务，因此未由目标公司签章不影响协议成立。公司未完成约定上市目标后，投资人可以按照恢复后的回购条款向原股东主张退出。",
+  "holdingEn": "In the retrial-review stage, the Supreme People's Court adhered to the earlier reasoning that Supplemental Agreement III governed redemption rights between the investor and the original shareholders and did not itself impose contractual obligations on the target company. The absence of the target company's seal therefore did not defeat formation, and once the contemplated listing failed the investor could enforce the restored repurchase clause against the original shareholders.",
+  "topics": ["vam-disputes", "shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2013",
+    "cn-company-law-2023",
+    "cn-national-civil-commercial-trial-minutes-2019"
+  ],
+  "sources": [
+    {
+      "label": "Law firm analysis",
+      "url": "https://www.foridom.com/index.php/Index/article/id/1483",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Research platform",
+      "url": "https://www.10100.com/article/39983474",
+      "official": false,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

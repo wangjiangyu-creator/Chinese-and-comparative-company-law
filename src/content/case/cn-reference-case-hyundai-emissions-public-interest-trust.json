@@ -1,0 +1,29 @@
+{
+  "titleZh": "北京市朝阳区自然之友环境研究所诉现代汽车（中国）投资有限公司大气污染责任纠纷案",
+  "titleEn": "Reference Case: Friends of Nature v. Hyundai Motor (China) Investment Co., Ltd.",
+  "forumZh": "北京市第四中级人民法院（地方法院公开案例）",
+  "forumEn": "Beijing Fourth Intermediate People's Court (local-court published case)",
+  "citation": "地方参考案例：现代汽车尾气超标公益诉讼",
+  "year": 2020,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "大气污染责任纠纷",
+  "issuesZh": ["机动车尾气超标排放", "环境民事公益诉讼调解", "替代性修复与公益信托"],
+  "issuesEn": [
+    "excess vehicle emissions",
+    "settlement in environmental public-interest litigation",
+    "alternative remediation through a charitable trust"
+  ],
+  "holdingZh": "企业销售不符合排放标准的车辆造成环境公共利益风险的，可以在环境民事公益诉讼中通过经法院审查确认的调解协议承担停止销售、技术整改、公开致歉和专项公益资金支付等责任。以公益信托方式管理修复资金，属于可被确认的替代性修复路径。",
+  "holdingEn": "An enterprise that sells vehicles exceeding emissions standards may, through a court-approved settlement in environmental public-interest litigation, be required to stop sales, remediate the vehicles, apologize publicly, and fund environmental protection. A charitable trust can serve as a valid mechanism for managing alternative-remediation funds.",
+  "topics": ["corporate-social-responsibility", "corporate-governance"],
+  "relatedLawIds": ["cn-company-law-2023", "cn-company-law-2018", "cn-civil-code-2020-legal-person"],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://sdcourt.gov.cn/dyzy/372897/372898/6096148/index.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

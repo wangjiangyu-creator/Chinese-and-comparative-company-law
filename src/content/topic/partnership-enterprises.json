@@ -1,0 +1,38 @@
+{
+  "nameZh": "合伙企业",
+  "nameEn": "Partnership enterprises",
+  "descriptionZh": "聚焦《合伙企业法》、合伙登记规则、涉外合伙准入规则，以及最高人民法院围绕财产份额转让、有限合伙人代位诉讼和对外债务责任形成的裁判规则。",
+  "descriptionEn": "Tracks the Partnership Enterprise Law, partnership registration rules, foreign-invested partnership entry rules, and Supreme People's Court case law on share transfers, limited-partner derivative standing, and external liability for partnership debts.",
+  "relatedLawIds": [
+    "cn-partnership-enterprise-law-2006",
+    "cn-partnership-enterprise-law-1997",
+    "cn-partnership-registration-measures-2019",
+    "cn-partnership-registration-measures-2014",
+    "cn-partnership-registration-measures-2007",
+    "cn-partnership-registration-measures-1997",
+    "cn-foreign-partnership-establishment-measures-2009",
+    "cn-foreign-invested-partnership-registration-provisions-2019"
+  ],
+  "relatedCaseIds": [
+    "cn-gazette-case-partnership-share-transfer-xing-furong",
+    "cn-gazette-case-limited-partner-derivative-shixin-ronghe",
+    "cn-gazette-case-partnership-external-liability-nantong-shuangying"
+  ],
+  "relatedArticleIds": [],
+  "comparisonRows": [
+    {
+      "labelZh": "组织形态",
+      "labelEn": "Forms of organization",
+      "cn": "中国《合伙企业法》在 2006 年修订后同时规范普通合伙、特殊普通合伙和有限合伙，形成与公司法并列的企业组织法支柱。",
+      "hk": "香港合伙法更分散于《合伙条例》《有限责任合伙制度》缺位及基金监管框架之中，不以统一企业组织法方式呈现。",
+      "sg": "新加坡在《Partnership Act》《Limited Partnerships Act》《Limited Liability Partnerships Act》之间分层规范不同合伙形态。"
+    },
+    {
+      "labelZh": "诉讼与责任",
+      "labelEn": "Litigation and liability",
+      "cn": "最高法院公报案例已明确：合伙协议可以强化财产份额转让条件；有限合伙人在执行事务合伙人怠于维权时可为合伙企业利益提起诉讼；实际合伙经营者对外债务承担责任。",
+      "hk": "香港更强调合伙共同责任与合同安排，对有限责任屏障的识别依赖具体法定载体。",
+      "sg": "新加坡制度在保留普通合伙无限责任的同时，另以 LLP 和 LP 架构分化管理责任与管理权。"
+    }
+  ]
+}

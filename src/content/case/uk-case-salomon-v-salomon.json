@@ -1,0 +1,25 @@
+{
+  "titleZh": "Salomon 诉 A Salomon & Co Ltd",
+  "titleEn": "Salomon v A Salomon & Co Ltd",
+  "forumZh": "英国上议院",
+  "forumEn": "House of Lords",
+  "citation": "[1897] AC 22",
+  "year": 1897,
+  "jurisdiction": "uk",
+  "caseType": "comparative-case",
+  "decisionType": "公司独立人格",
+  "issuesZh": ["公司独立人格", "有限责任", "公司与股东分离"],
+  "issuesEn": ["separate corporate personality", "limited liability", "separation between company and shareholder"],
+  "holdingZh": "Salomon 奠定了公司独立人格和有限责任的经典命题，确认依法设立的公司与创办人、控制股东在法律上相互分离。",
+  "holdingEn": "Salomon is the classic authority for separate corporate personality and limited liability, confirming that a duly incorporated company is legally distinct from its founder and controlling shareholder.",
+  "topics": ["corporate-formation", "corporate-governance", "comparative-governance"],
+  "relatedLawIds": ["uk-companies-act-2006"],
+  "sources": [
+    {
+      "label": "Research platform",
+      "url": "https://www.bailii.org/uk/cases/UKHL/1896/1.html",
+      "official": false,
+      "lastVerified": "2026-05-16"
+    }
+  ]
+}

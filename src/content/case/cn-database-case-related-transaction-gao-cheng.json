@@ -1,0 +1,37 @@
+{
+  "titleZh": "某甲公司诉高某某、程某公司关联交易损害公司利益纠纷案",
+  "titleEn": "Database Case: Company A v. Gao Moumou and Cheng Mou",
+  "forumZh": "人民法院案例库（最高人民法院审核入库）",
+  "forumEn": "People's Court Case Database (reviewed by the Supreme People's Court)",
+  "citation": "入库编号2023-16-2-276-002",
+  "year": 2024,
+  "jurisdiction": "cn",
+  "caseType": "database-case",
+  "decisionType": "公司关联交易损害责任纠纷",
+  "issuesZh": ["关联交易披露义务", "交易公允性", "公司损失计算"],
+  "issuesEn": ["disclosure duty for related-party transactions", "transaction fairness", "calculation of company loss"],
+  "holdingZh": "公司法并不禁止关联交易，但董事、高管负有忠实勤勉与披露报告义务。关联交易是否侵害公司利益，应当结合交易结构、商业必要性和对价是否公允进行实质审查；关联公司通过不必要中间环节攫取的利润，可以作为公司损失并由责任人赔偿。",
+  "holdingEn": "The Company Law does not prohibit related-party transactions as such, but directors and senior managers owe duties of loyalty, diligence, and disclosure. Whether a related-party transaction harmed the company requires substantive review of the transaction structure, commercial necessity, and price fairness; profits siphoned through unnecessary intermediary arrangements may be treated as company loss recoverable from the responsible persons.",
+  "topics": [
+    "corporate-governance",
+    "director-abuse",
+    "director-liability-litigation",
+    "actual-controller-tunneling",
+    "related-transaction-harm",
+    "shareholder-rights",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-5-2021"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://rmfyalk.court.gov.cn/dist/view/content.html?id=iFqVRXXtL2D%252BoJpmiU6KZ4U93WAlxnZY2vF6OMKXmX8%253D&lib=ck",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "titleZh": "中静实业（集团）有限公司诉上海电力实业有限公司等股权转让纠纷案",
+  "titleEn": "Gazette Case: Zhongjing Industrial (Group) Co., Ltd. v. Shanghai Electric Power Industrial Co., Ltd. et al.",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "公报案例：股东优先购买权",
+  "year": 2014,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "股权转让纠纷",
+  "issuesZh": ["股东优先购买权", "国有产权场内交易", "同等条件的程序判断"],
+  "issuesEn": ["shareholder pre-emption rights", "state-owned equity exchange procedure", "procedural equality within 'same terms'"],
+  "holdingZh": "在国有产权通过产权交易场所公开转让的情形下，股东优先购买权中的“同等条件”既包括价格等实体条件，也包括进场摘牌、缴纳保证金等程序条件。老股东如拒绝依交易规则参与场内交易，人民法院不支持其绕开交易程序直接主张受让股权。",
+  "holdingEn": "Where state-owned equity is publicly transferred through an exchange venue, the \"same terms\" requirement for shareholder pre-emption includes both substantive conditions such as price and procedural conditions such as entering the exchange process and posting the required deposit. A shareholder who refuses to participate under the exchange rules cannot bypass that process and compel a direct transfer through litigation.",
+  "topics": ["shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/e73087b7f28120f8387def1ce505c2.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

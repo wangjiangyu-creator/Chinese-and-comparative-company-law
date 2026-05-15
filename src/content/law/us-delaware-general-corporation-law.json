@@ -1,0 +1,54 @@
+{
+  "titleZh": "特拉华州《总公司法》",
+  "titleEn": "Delaware General Corporation Law",
+  "shortTitle": "特拉华总公司法",
+  "aliases": ["DGCL", "Delaware Code Title 8, Chapter 1"],
+  "jurisdiction": "us",
+  "documentType": "statute",
+  "authorityLevel": "comparative-statute",
+  "issuingBodyZh": "特拉华州议会 / 特拉华州法典",
+  "issuingBodyEn": "Delaware General Assembly / Delaware Code",
+  "promulgationDate": "1967-01-01",
+  "effectiveDate": "1967-01-01",
+  "status": "reference",
+  "languageStatus": "official-en",
+  "languages": ["en"],
+  "textStatus": "metadata-only",
+  "topics": ["corporate-formation", "corporate-governance", "shareholder-rights", "comparative-governance"],
+  "summaryZh": "DGCL 是美国公司法最重要的州法文本之一，围绕董事会主导、并购交易、忠实义务与股东诉权形成了高度发达的判例体系。",
+  "summaryEn": "The DGCL is the most influential state corporate statute in the United States, anchoring a dense case law on board primacy, M&A, fiduciary duties, and shareholder litigation.",
+  "versionGroup": "us-dgcl",
+  "versionLabel": "current act",
+  "relatedCaseIds": [
+    "us-case-smith-v-van-gorkom",
+    "us-case-unocal-v-mesa",
+    "us-case-revlon-v-macandrews",
+    "us-case-in-re-caremark",
+    "us-case-weinberger-v-uop",
+    "us-case-kahn-v-mfw",
+    "us-case-sinclair-oil-v-levien"
+  ],
+  "relatedArticleIds": [
+    "article-pbook-folk-delaware-general-corporation-law",
+    "article-aba-mbca-at-75",
+    "article-oup-anatomy-of-corporate-law",
+    "article-pbook-comparative-company-law",
+    "article-pbook-genius-american-corporate-law"
+  ],
+  "sources": [
+    {
+      "label": "Official English",
+      "url": "https://delcode.delaware.gov/title8/c001/",
+      "official": true,
+      "lastVerified": "2026-05-16"
+    },
+    {
+      "label": "Official release",
+      "url": "https://corplaw.delaware.gov/delaware-corporation-entity-laws/",
+      "official": true,
+      "lastVerified": "2026-05-16",
+      "noteZh": "Delaware Corporate Law 网站提供实体法目录入口。",
+      "noteEn": "The Delaware corporate law portal provides a directory-level entry to the entity-law materials."
+    }
+  ]
+}

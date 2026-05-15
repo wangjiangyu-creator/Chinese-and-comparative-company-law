@@ -1,0 +1,35 @@
+{
+  "titleZh": "赵某、钱某诉枣庄某公司公司决议效力确认纠纷案",
+  "titleEn": "Reference Case: Zhao Mou and Qian Mou v. a Zaozhuang Company",
+  "forumZh": "枣庄市中级人民法院",
+  "forumEn": "Zaozhuang Intermediate People's Court",
+  "citation": "枣庄法院中小投资者案例：赵某、钱某诉枣庄某公司决议不成立",
+  "year": 2021,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司决议效力确认纠纷",
+  "issuesZh": ["股东会召集程序", "书面签字替代会议", "董事会决议附随不成立"],
+  "issuesEn": ["shareholders' meeting convening procedure", "attempted substitution of signatures for a meeting", "consequential non-establishment of board resolutions"],
+  "holdingZh": "未经合法召集程序召开股东会，而是先写好决议结果再要求股东书面签字确认的，不构成依法形成的股东会决议。股东收到材料但未表决、未回寄，不能当然推定其同意；依赖该股东会改选董事和法定代表人的同日董事会决议亦随之不成立。",
+  "holdingEn": "A shareholders' resolution is not validly established where the company bypasses lawful convening procedures and instead drafts the outcome first and then seeks written signature confirmation. A shareholder's receipt of materials without voting or returning them cannot be deemed consent, and a same-day board resolution dependent on that defective shareholder vote also fails.",
+  "topics": ["shareholder-rights", "corporate-governance", "legal-representative-and-seal-control"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.sdcourt.gov.cn/zzzy/yhyshj74/8021873/index.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    },
+    {
+      "label": "Official court release",
+      "url": "https://www.sdcourt.gov.cn/zzzy/yhyshj74/7938827/index.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

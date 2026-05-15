@@ -1,0 +1,37 @@
+{
+  "titleZh": "广东省高级人民法院关于“僵尸企业”司法处置工作指引",
+  "titleEn": "Guangdong High Court Guidelines on Judicial Disposal of Zombie Enterprises",
+  "shortTitle": "广东高院僵尸企业处置指引",
+  "aliases": ["僵尸企业司法处置工作指引"],
+  "jurisdiction": "cn",
+  "documentType": "judicial-policy",
+  "authorityLevel": "judicial-policy",
+  "issuingBodyZh": "广东省高级人民法院",
+  "issuingBodyEn": "Guangdong High People's Court",
+  "promulgationDate": "2019-05-29",
+  "effectiveDate": "2019-05-29",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["dissolution-liquidation", "business-environment"],
+  "summaryZh": "针对“僵尸企业”的破产、强制清算、快速审理和风险防范建立专门规则，是广东法院处置公司退出和市场出清问题的代表性地方审判指引。",
+  "summaryEn": "A Guangdong High Court guideline establishing specialized rules for bankruptcy, compulsory liquidation, fast-track adjudication, and risk control in zombie-enterprise cases.",
+  "versionGroup": "gd-high-court-zombie-enterprise-guideline",
+  "versionLabel": "2019 text",
+  "judicialMaterialClass": "local-high-court-guidance",
+  "relatedCaseIds": [
+    "cn-guiding-case-8-company-dissolution",
+    "cn-guiding-case-9-liquidation-liability",
+    "cn-reference-case-closure-operator-liquidation-liability"
+  ],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.gdcourts.gov.cn/sfgk/splcgk/pochanzhongzheng/content/mpost_1045305.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "titleZh": "刘美芳诉常州凯瑞化学科技有限公司等公司决议效力确认纠纷案",
+  "titleEn": "Miaofang Liu v. Changzhou Kairei Chemical Technology Co., Ltd. and Related Defendants: Company Resolution Validity",
+  "forumZh": "最高人民法院公报",
+  "forumEn": "Supreme People's Court Gazette",
+  "citation": "（2017）最高法民初相关案号",
+  "year": 2017,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司决议效力与代表权争议",
+  "issuesZh": [
+    "公司决议效力审查",
+    "公司治理程序瑕疵",
+    "董监高责任边界",
+    "股东代表权确认"
+  ],
+  "issuesEn": [
+    "review of validity of corporate resolutions",
+    "corporate-governance procedural defects",
+    "scope of directors' management obligations",
+    "confirmation of shareholder representational standing"
+  ],
+  "holdingZh": "案件围绕外商投资公司关键经营决议的效力与表决程序展开，重申董事、监事及高管相关决议若未经法定程序形成或未能保护公司与股东的实质利益，应在股东代表诉讼中受到实质审查。该裁判强调，程序性瑕疵与损害结果需一并考虑后再确定是否支持赔偿与效力否定请求。",
+  "holdingEn": "The case reviews core corporate resolutions in a foreign-funded company context and reiterates that resolutions influenced by procedural defects affecting lawful governance should be subject to substantive judicial review in shareholder derivative-type actions. Procedural irregularities must be assessed together with actual company harm when deciding on nullification or liability claims.",
+  "topics": [
+    "corporate-governance",
+    "director-abuse",
+    "director-liability-litigation",
+    "actual-controller-tunneling",
+    "related-transaction-harm",
+    "shareholder-rights",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-5-2021",
+    "cn-spc-foreign-invested-enterprise-disputes-1-2021"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://gongbao.court.gov.cn/Details/64f3fab544d8d5fe0164ed38a39c94.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

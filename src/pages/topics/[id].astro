@@ -1,0 +1,15 @@
+---
+import TopicDetailView from "@/components/views/TopicDetailView.astro";
+import { getPortalSnapshot } from "@/lib/portal-data";
+
+export async function getStaticPaths() {
+  const snapshot = await getPortalSnapshot();
+  return snapshot.topics.map((topic) => ({
+    params: { id: topic.id }
+  }));
+}
+
+const { id } = Astro.params;
+---
+
+<TopicDetailView locale="zh" path={`/topics/${id}/`} id={id!} />

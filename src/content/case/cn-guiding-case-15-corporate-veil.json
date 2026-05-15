@@ -1,0 +1,34 @@
+{
+  "titleZh": "指导案例15号：徐工集团工程机械股份有限公司诉成都川交工贸有限责任公司等买卖合同纠纷案",
+  "titleEn": "Guiding Case No. 15: XCMG Construction Machinery Co., Ltd. v. Chengdu Chuanjiao Industry & Trade Co., Ltd. et al.",
+  "forumZh": "最高人民法院",
+  "forumEn": "Supreme People's Court",
+  "citation": "指导案例15号",
+  "year": 2013,
+  "jurisdiction": "cn",
+  "caseType": "guiding-case",
+  "decisionType": "公司法人人格否认",
+  "issuesZh": ["关联公司人格混同", "公司独立人格", "连带清偿责任"],
+  "issuesEn": ["commingling among affiliated companies", "separate corporate personality", "joint liability"],
+  "holdingZh": "关联公司的人员、业务、财务等高度交叉混同，导致财产无法区分并严重损害债权人利益时，构成人格混同，相关公司应对外部债务承担连带责任。",
+  "holdingEn": "Where affiliated companies so heavily intermingle personnel, business, and finances that assets cannot be distinguished and creditors are seriously harmed, corporate personalities are deemed commingled and the affiliated companies bear joint liability for external debts.",
+  "topics": [
+    "corporate-veil-piercing",
+    "corporate-governance",
+    "shareholder-rights",
+    "directors-officer-loyalty-and-duties"
+  ],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-civil-code-2020-legal-person"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/shenpan/xiangqing/13321.html",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

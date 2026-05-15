@@ -1,0 +1,32 @@
+{
+  "titleZh": "深圳经济特区商事登记若干规定（2020年修订）",
+  "titleEn": "Several Provisions of Shenzhen Special Economic Zone on Commercial Registration (2020 Revision)",
+  "shortTitle": "深圳商事登记规定",
+  "aliases": ["深圳经济特区商事登记若干规定", "2020 Shenzhen Commercial Registration Rules"],
+  "jurisdiction": "cn",
+  "documentType": "law",
+  "authorityLevel": "local-regulation",
+  "issuingBodyZh": "深圳市人民代表大会常务委员会",
+  "issuingBodyEn": "Standing Committee of the Shenzhen Municipal People's Congress",
+  "promulgationDate": "2020-11-05",
+  "effectiveDate": "2021-03-01",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["business-environment", "corporate-formation"],
+  "summaryZh": "深圳现行商事登记核心特区法规。2020年修订后继续作为市场主体设立、变更、注销、分支机构登记、信息公示和经营异常名录制度的地方基础规则，并直接服务于公司登记便利化研究。",
+  "summaryEn": "Shenzhen's current core special-zone regulation on commercial registration. After the 2020 revision, it continues to serve as the local foundation for establishment, change, deregistration, branch registration, public disclosure, and abnormal-operation listing of market entities, making it especially useful for research on company-registration facilitation.",
+  "versionGroup": "sz-commercial-registration-rules",
+  "versionLabel": "2020 revision",
+  "relatedCaseIds": ["cn-database-case-change-registration-chen-moufei"],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official Chinese",
+      "url": "https://sf.sz.gov.cn/fggzsjcx/content/post_8571001.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

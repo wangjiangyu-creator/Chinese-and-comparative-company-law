@@ -1,0 +1,33 @@
+{
+  "titleZh": "贾某与某科技公司、费某、王某公司决议效力确认纠纷案",
+  "titleEn": "Reference Case: Jia v. a Technology Company, Fei Mou, and Wang Mou",
+  "forumZh": "北京市海淀区人民法院",
+  "forumEn": "Haidian District People's Court, Beijing",
+  "citation": "海淀法院典型案例：修改出资期限不得简单适用资本多数决",
+  "year": 2024,
+  "jurisdiction": "cn",
+  "caseType": "reference-case",
+  "decisionType": "公司决议效力确认纠纷",
+  "issuesZh": ["出资期限利益", "资本多数决边界", "章程修改与股东一致决"],
+  "issuesEn": [
+    "benefit of the contribution deadline",
+    "limits of capital-majority rule",
+    "charter amendment and unanimous shareholder consent"
+  ],
+  "holdingZh": "缩短股东认缴出资期限虽然通常以章程修改为表现形式，但其直接影响各股东的期限利益和固有股东权，并非单纯的日常经营管理事项。控股股东以资本多数决方式在未通知、未征得少数股东同意的情况下提前其他股东出资期限，属于滥用股东权利，法院可以确认该部分股东会决议无效。",
+  "holdingEn": "A decision to shorten shareholders' subscribed capital deadlines, even when framed as a charter amendment, directly affects each shareholder's deadline benefit and core shareholder rights rather than ordinary management matters. If controlling shareholders use a capital-majority vote to accelerate another shareholder's contribution deadline without notice or consent, that vote can amount to abuse of shareholder rights and the resolution may be declared invalid.",
+  "topics": ["shareholder-rights", "corporate-governance"],
+  "relatedLawIds": [
+    "cn-company-law-2023",
+    "cn-company-law-2018",
+    "cn-spc-company-law-interpretation-4-2017"
+  ],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://m.thepaper.cn/baijiahao_29688904",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}

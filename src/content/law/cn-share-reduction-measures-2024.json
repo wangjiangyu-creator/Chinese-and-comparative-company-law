@@ -1,0 +1,32 @@
+{
+  "titleZh": "上市公司股东减持股份管理暂行办法",
+  "titleEn": "Interim Measures for the Administration of Share Reductions by Shareholders of Listed Companies",
+  "shortTitle": "减持管理办法",
+  "aliases": ["证监会令第224号"],
+  "jurisdiction": "cn",
+  "documentType": "departmental-rule",
+  "authorityLevel": "departmental-rule",
+  "issuingBodyZh": "中国证券监督管理委员会",
+  "issuingBodyEn": "China Securities Regulatory Commission",
+  "promulgationDate": "2024-05-24",
+  "effectiveDate": "2024-05-24",
+  "status": "effective",
+  "languageStatus": "official-zh",
+  "languages": ["zh"],
+  "textStatus": "metadata-only",
+  "topics": ["listed-companies", "shareholder-rights", "disclosure"],
+  "summaryZh": "以规章形式重构上市公司减持规则体系，严格规范控股股东、实际控制人和董监高减持，并强化预披露、窗口限制和违规责任。",
+  "summaryEn": "Recasts the listed-company share-reduction regime at the rule level, tightening controls on controlling shareholders, actual controllers, and senior management while strengthening pre-disclosure, timing restrictions, and liability.",
+  "versionGroup": "cn-share-reduction-measures",
+  "versionLabel": "Order No. 224",
+  "relatedCaseIds": [],
+  "relatedArticleIds": [],
+  "sources": [
+    {
+      "label": "Official release",
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c7483136/content.shtml",
+      "official": true,
+      "lastVerified": "2026-05-14"
+    }
+  ]
+}

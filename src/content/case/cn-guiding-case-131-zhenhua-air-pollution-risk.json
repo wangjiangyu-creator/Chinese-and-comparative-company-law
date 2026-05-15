@@ -1,0 +1,25 @@
+{
+  "titleZh": "指导案例131号：中华环保联合会诉德州晶华集团振华有限公司大气污染责任民事公益诉讼案",
+  "titleEn": "Guiding Case No. 131: All-China Environment Federation v. Dezhou Jinghua Group Zhenhua Co., Ltd.",
+  "forumZh": "最高人民法院",
+  "forumEn": "Supreme People's Court",
+  "citation": "指导案例131号",
+  "year": 2020,
+  "jurisdiction": "cn",
+  "caseType": "guiding-case",
+  "decisionType": "环境污染民事公益诉讼",
+  "issuesZh": ["大气污染重大风险", "多次超标排放", "环境民事公益诉讼受理"],
+  "issuesEn": ["major public-interest risk from air pollution", "repeated excessive emissions", "admissibility of environmental public-interest litigation"],
+  "holdingZh": "企业多次超排并在行政处罚后仍不改正的，即使尚未完成全部现实损害证明，也可被认定为具有损害社会公共利益的重大风险，环境民事公益诉讼应予受理。",
+  "holdingEn": "Where a company repeatedly exceeds emission standards and remains uncorrected after administrative penalties, courts may treat the conduct as posing a major risk to the public interest and accept environmental public-interest litigation.",
+  "topics": ["corporate-social-responsibility", "corporate-governance"],
+  "relatedLawIds": [],
+  "sources": [
+    {
+      "label": "Official court release",
+      "url": "https://www.court.gov.cn/fabu/xiangqing/216931.html",
+      "official": true,
+      "lastVerified": "2026-05-15"
+    }
+  ]
+}
